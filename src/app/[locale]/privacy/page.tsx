@@ -31,13 +31,14 @@ export default async function PrivacyPage({ params }: Props) {
   const sections: Section[] = [];
   for (let i = 1; i <= sectionCount; i++) {
     const heading = privacy(`sections.${i}.heading`);
-    const paraCount = privacy.has(`sections.${i}.paragraphs.0`)
-      ? privacy.raw(`sections.${i}.paragraphs`).length
-      : 0;
+    const rawParas = privacy.has(`sections.${i}.paragraphs.0`)
+      ? privacy.raw(`sections.${i}.paragraphs`)
+      : {};
+    const paraKeys = Object.keys(rawParas);
     const paragraphs: string[] = [];
-    for (let j = 0; j < paraCount; j++) {
-      paragraphs.push(privacy(`sections.${i}.paragraphs.${j}`));
-    }
+    paraKeys.forEach((key) => {
+      paragraphs.push(privacy(`sections.${i}.paragraphs.${key}`));
+    });
     sections.push({ heading, paragraphs });
   }
 
