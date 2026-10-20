@@ -1,0 +1,278 @@
+{
+  "cummins-100-silent": {
+    "description": "Compact 100kW soundproof Cummins diesel generator for offices, small factories and sites near residential areas where noise must be controlled.",
+    "features": [
+      "Cummins 4- or 6-cylinder diesel engine with proven global support",
+      "Acoustic canopy reduces noise for sites near people",
+      "Baseframe integrated fuel tank for longer running",
+      "Digital control panel with automatic start option",
+      "Weather-protected enclosure for outdoor installation"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "doosan-500-silent": {
+    "description": "Heavy-duty 500kW Doosan soundproof diesel generator for industrial plants, hospitals and commercial buildings requiring large standby power with low noise.",
+    "features": [
+      "Doosan heavy-duty 6-cylinder engine for continuous and standby use",
+      "Large acoustic canopy for urban and industrial sites",
+      "High-capacity radiator designed for high ambient temperatures",
+      "Synchronous brushless alternator with AVR",
+      "Automatic mains failure transfer ready"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-100-open": {
+    "description": "Reliable 100kVA open-type diesel generator set for construction sites, workshops and rural power supply.",
+    "features": [
+      "Open skid-mounted unit with heavy-duty steel baseframe",
+      "Yuchai 6-cylinder engine, proven durability",
+      "Full protection system: low oil, high water temp, overload",
+      "Digital control panel with remote monitoring option",
+      "Easy maintenance access"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-1000-container": {
+    "description": "1000kVA containerized power plant module, ideal for large-scale rental fleets, mining and grid support projects.",
+    "features": [
+      "40ft container module with full acoustic and thermal insulation",
+      "High power density Cummins engine",
+      "Multi-unit parallel and synchronization capability",
+      "Built-in day tank, fuel polishing and fire suppression",
+      "Low maintenance operation for continuous duty"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-150-perkins": {
+    "description": "Reliable 150kVA open type diesel generator set powered by a Perkins engine, ideal for industrial and construction backup power.",
+    "features": [
+      "Perkins 1106 series engine with proven reliability",
+      "Open type robust steel frame with anti-vibration mounts",
+      "Deep sea or equivalent digital control panel",
+      "Low fuel consumption and low maintenance cost",
+      "CE and ISO9001 certified"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-200-silent": {
+    "description": "Mid-range 200kVA silenced diesel generator for commercial buildings, banks and industrial standby power.",
+    "features": [
+      "Weatherproof soundproof canopy for outdoor installation",
+      "Weichai engine with electronic governor",
+      "Parallel operation capability (optional)",
+      "Full digital control with LCD display",
+      "Cold start and auto transfer switch support"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-2000-mobile": {
+    "description": "2000kVA mobile trailer-mounted diesel generator set for emergency power, events and field operations requiring rapid deployment.",
+    "features": [
+      "Trailer-mounted with highway-speed towing capability",
+      "Perkins heavy-duty engine for reliable prime power",
+      "Hydraulic lifting legs and vibration isolation",
+      "Quick-connect power and fuel fittings",
+      "Full lighting, fire suppression and control cabin"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-250-doosan": {
+    "description": "Quiet and compact 250kVA silent type diesel generator set powered by a Doosan engine for commercial and community standby power.",
+    "features": [
+      "Doosan engine with low noise and low fuel consumption",
+      "Soundproof canopy reducing noise to below 72 dB(A) at 7m",
+      "Automatic voltage regulation and remote monitoring ready",
+      "Integrated fuel tank for 8+ hours continuous running",
+      "CE and ISO9001 certified"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-300-container": {
+    "description": "300kVA containerized diesel generator set, fully equipped and ready for deployment in remote and harsh environments.",
+    "features": [
+      "20ft container housing with full acoustic treatment",
+      "Designed for parallel operation and load sharing",
+      "Integrated day tank, fire suppression and exhaust system",
+      "External maintenance access and control room option",
+      "Suitable for rental and temporary power projects"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-40-silent": {
+    "description": "Compact and quiet 40kVA diesel generator set, ideal for small businesses, villas and light commercial standby applications.",
+    "features": [
+      "Soundproof canopy reducing noise to below 70 dB(A) at 7m",
+      "Weichai 4-cylinder engine with low fuel consumption",
+      "Automatic voltage regulation and digital control panel",
+      "Integrated fuel tank for 8+ hours continuous running",
+      "CE and ISO9001 certified"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-4000-container": {
+    "description": "4000kVA containerized power plant module with MTU engine, designed for large-scale industrial and utility power projects.",
+    "features": [
+      "High-capacity MTU engine with exceptional reliability",
+      "Multi-module parallel operation for MW-scale power",
+      "Fully integrated fuel, cooling and control systems",
+      "Suitable for base load, peak shaving and grid support",
+      "Long maintenance intervals reduce running cost"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-500-open": {
+    "description": "Heavy-duty 500kVA open-type diesel generator set with Cummins engine, built for continuous industrial and commercial power.",
+    "features": [
+      "Cummins NT-series engine, globally recognized reliability",
+      "Suitable for prime and standby duty cycles",
+      "Parallel operation and remote monitoring ready",
+      "Heavy-duty baseframe with anti-vibration mounts",
+      "Low fuel consumption and long service life"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-600-mitsubishi": {
+    "description": "High-performance 600kVA open type diesel generator set powered by a Mitsubishi engine, suited for data centers, mining and heavy industry.",
+    "features": [
+      "Mitsubishi engine with high power density and low emissions",
+      "Open type rugged construction for demanding environments",
+      "Parallel operation capable for N+1 redundancy",
+      "Digital control with remote monitoring interface",
+      "CE and ISO9001 certified"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-800-silent": {
+    "description": "High-capacity 800kVA silenced diesel generator with Volvo Penta engine for data centers, hospitals and large facilities.",
+    "features": [
+      "Volvo Penta engine with excellent fuel efficiency",
+      "High-grade soundproof canopy, suitable for urban areas",
+      "N+1 parallel operation and load management support",
+      "Advanced digital controller with remote monitoring",
+      "Emission-compliant engine package"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "kc-900-scania": {
+    "description": "Powerful yet quiet 900kVA silent type diesel generator set powered by a Scania engine for critical facilities and large commercial projects.",
+    "features": [
+      "Scania 16-litre industrial engine with excellent fuel economy",
+      "Soundproof canopy reducing noise to below 75 dB(A) at 7m",
+      "Automatic ATS and remote monitoring ready",
+      "Suitable for parallel and peak-shaving operation",
+      "CE and ISO9001 certified"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "mitsubishi-100-open": {
+    "description": "Open-frame 100kW Mitsubishi diesel generator for plant rooms, workshops and industrial sites where a dedicated machine room already provides weather and noise protection.",
+    "features": [
+      "Mitsubishi industrial engine with durable performance",
+      "Open skid design for easy maintenance access",
+      "Baseframe fuel tank with day-tank connection",
+      "Brushless alternator with automatic voltage regulation",
+      "Suitable for installation in an existing generator room"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "perkins-400-silent": {
+    "description": "400kW Perkins soundproof diesel generator for commercial buildings, factories and data facilities needing reliable standby power with controlled noise.",
+    "features": [
+      "Perkins 6-cylinder engine with strong transient response",
+      "Acoustic canopy for indoor plant rooms or outdoor near offices",
+      "Heavy-duty baseframe with integrated fuel tank",
+      "Digital control panel with remote communication port",
+      "Suitable for frequent standby and prime power use"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "scania-250-open": {
+    "description": "Open-frame 250kW Scania diesel generator for industrial plants and sites with motor-heavy loads, where strong engine transient response is required.",
+    "features": [
+      "Scania industrial engine with excellent step-load acceptance",
+      "Open skid layout for full service access",
+      "Suitable for compressors, pumps and motor start-up loads",
+      "Brushless alternator with AVR for stable voltage",
+      "Mounted on a heavy steel baseframe"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "shangchai-300-silent": {
+    "description": "Cost-effective 300kW Shangchai soundproof diesel generator for factories, commercial buildings and rural sites needing reliable standby power at a practical price.",
+    "features": [
+      "Shangchai 6-cylinder diesel engine, widely supported",
+      "Soundproof canopy for outdoor installation near people",
+      "Integrated baseframe fuel tank",
+      "Digital control panel with automatic start option",
+      "Good balance of performance and running cost"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "volvo-400-silent": {
+    "description": "400kW Volvo Penta soundproof diesel generator for office complexes, hotels and industrial sites where low noise, fuel economy and clean running are priorities.",
+    "features": [
+      "Volvo Penta 6-cylinder engine, fuel-efficient at partial load",
+      "Acoustic canopy for siting near offices and residences",
+      "High-strength baseframe with anti-vibration mounts",
+      "Digital control panel with remote monitoring option",
+      "Low-emission engine suitable for sensitive environments"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "weichai-400-silent": {
+    "description": "400kW Weichai soundproof diesel generator for factories, commercial complexes and construction sites, offering dependable standby power with accessible local support.",
+    "features": [
+      "Weichai WP12 / WP13 series 6-cylinder engine",
+      "Soundproof canopy for outdoor installation",
+      "Integrated fuel tank on heavy baseframe",
+      "Digital control panel with automatic mains failure start",
+      "Good parts availability for regional service"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "yuchai-100-mobile": {
+    "description": "Trailer-mounted 100kW Yuchai mobile diesel generator for construction sites, outdoor events, disaster relief and sites where power must move between locations.",
+    "features": [
+      "Road-legal trailer with tow bar and wheels",
+      "Yuchai diesel engine for mobile duty",
+      "Canopy protects the set during transport and operation",
+      "Adjustable support legs for quick setup",
+      "Suitable for sites that change location frequently"
+    ],
+    "applications": [],
+    "problems": []
+  },
+  "yuchai-300-silent": {
+    "description": "300kW Yuchai soundproof diesel generator for factories, commercial buildings and agricultural sites, providing reliable standby power with a practical total cost.",
+    "features": [
+      "Yuchai 6-cylinder diesel engine with proven durability",
+      "Acoustic canopy protects against weather and reduces noise",
+      "Baseframe fuel tank with service access",
+      "Digital control panel with automatic start option",
+      "Suitable for standby and frequent duty"
+    ],
+    "applications": [],
+    "problems": []
+  }
+}

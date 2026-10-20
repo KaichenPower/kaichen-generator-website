@@ -1,0 +1,4 @@
+weichai-silent.png 500x300 aspect=1.67
+yuchai-open.png 500x300 aspect=1.67
+doosan-silent.png 500x300 aspect=1.67
+perkins-open.png 500x300 aspect=1.67

@@ -1,0 +1,21 @@
+name: Perkins 400kW Silent Diesel Generator
+image: /images/products/perkins-400kw-silent.jpg
+brand: Perkins
+powerKVA: 500
+type: silent
+description: 400kW Perkins soundproof diesel generator for commercial buildings, factories and data facilities needing reliable standby power with controlled noise.
+features:
+  - Perkins 6-cylinder engine with strong transient response
+  - Acoustic canopy for indoor plant rooms or outdoor near offices
+  - Heavy-duty baseframe with integrated fuel tank
+  - Digital control panel with remote communication port
+  - Suitable for frequent standby and prime power use
+specs:
+  Prime power: 360 kW / 450 kVA
+  Standby power: 400 kW / 500 kVA
+  Engine: Perkins 2506 / 2806 series
+  Alternator: Brushless, self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital AMF controller
+  Starting: Electric start, 24V
+  Noise level: 70–76 dB(A) at 7m

@@ -1,0 +1,21 @@
+name: Cummins 1000kVA Containerized Power Plant
+image: /images/products/container-1000.png
+brand: Cummins
+powerKVA: 1000
+type: container
+description: 1000kVA containerized power plant module, ideal for large-scale rental fleets, mining and grid support projects.
+features:
+  - 40ft container module with full acoustic and thermal insulation
+  - High power density Cummins engine
+  - Multi-unit parallel and synchronization capability
+  - Built-in day tank, fuel polishing and fire suppression
+  - Low maintenance operation for continuous duty
+specs:
+  Prime power: 720 kW / 900 kVA
+  Standby power: 800 kW / 1000 kVA
+  Engine: Cummins KTA38
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Container: 40ft ISO container
+  Control: Advanced parallel-capable controller
+  Cooling: Radiator, container optimized

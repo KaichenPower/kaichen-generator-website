@@ -1,0 +1,21 @@
+name: Scania 500kW Silent Diesel Generator
+image: /images/products/scania-500kw-silent.jpg
+brand: Scania
+powerKVA: 625
+type: silent
+description: Powerful yet quiet 900kVA silent type diesel generator set powered by a Scania engine for critical facilities and large commercial projects.
+features:
+  - Scania 16-litre industrial engine with excellent fuel economy
+  - Soundproof canopy reducing noise to below 75 dB(A) at 7m
+  - Automatic ATS and remote monitoring ready
+  - Suitable for parallel and peak-shaving operation
+  - CE and ISO9001 certified
+specs:
+  Prime power: 450 kW / 562 kVA
+  Standby power: 500 kW / 625 kVA
+  Engine: Scania DC16
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Automatic ATS-ready controller
+  Noise level: ≤75 dB(A) @ 7m
+  Fuel tank: 900L built-in

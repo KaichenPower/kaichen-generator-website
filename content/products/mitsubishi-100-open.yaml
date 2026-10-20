@@ -1,0 +1,21 @@
+name: Mitsubishi 100kW Open Diesel Generator
+image: /images/products/mitsubishi-100kw-open.jpg
+brand: Mitsubishi
+powerKVA: 125
+type: open
+description: Open-frame 100kW Mitsubishi diesel generator for plant rooms, workshops and industrial sites where a dedicated machine room already provides weather and noise protection.
+features:
+  - Mitsubishi industrial engine with durable performance
+  - Open skid design for easy maintenance access
+  - Baseframe fuel tank with day-tank connection
+  - Brushless alternator with automatic voltage regulation
+  - Suitable for installation in an existing generator room
+specs:
+  Prime power: 90 kW / 112 kVA
+  Standby power: 100 kW / 125 kVA
+  Engine: Mitsubishi S6S / S4S series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital control panel
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator

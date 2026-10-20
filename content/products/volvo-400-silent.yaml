@@ -1,0 +1,21 @@
+name: Volvo 400kW Silent Diesel Generator
+image: /images/products/volvo-400kw-silent.png
+brand: Volvo
+powerKVA: 500
+type: silent
+description: 400kW Volvo Penta soundproof diesel generator for office complexes, hotels and industrial sites where low noise, fuel economy and clean running are priorities.
+features:
+  - Volvo Penta 6-cylinder engine, fuel-efficient at partial load
+  - Acoustic canopy for siting near offices and residences
+  - High-strength baseframe with anti-vibration mounts
+  - Digital control panel with remote monitoring option
+  - Low-emission engine suitable for sensitive environments
+specs:
+  Prime power: 360 kW / 450 kVA
+  Standby power: 400 kW / 500 kVA
+  Engine: Volvo TAD1343 / TAD1641 series
+  Alternator: Brushless, self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital AMF controller
+  Starting: Electric start, 24V
+  Noise level: 69–75 dB(A) at 7m

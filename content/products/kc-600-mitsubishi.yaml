@@ -1,0 +1,20 @@
+name: Mitsubishi 400kW Open Diesel Generator
+image: /images/products/mitsubishi-400kw-open.jpg
+brand: Mitsubishi
+powerKVA: 500
+type: open
+description: High-performance 600kVA open type diesel generator set powered by a Mitsubishi engine, suited for data centers, mining and heavy industry.
+features:
+  - Mitsubishi engine with high power density and low emissions
+  - Open type rugged construction for demanding environments
+  - Parallel operation capable for N+1 redundancy
+  - Digital control with remote monitoring interface
+  - CE and ISO9001 certified
+specs:
+  Prime power: 360 kW / 450 kVA
+  Standby power: 400 kW / 500 kVA
+  Engine: Mitsubishi S6R2
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller with parallel capability
+  Frame: Heavy-duty skid with anti-vibration mounts

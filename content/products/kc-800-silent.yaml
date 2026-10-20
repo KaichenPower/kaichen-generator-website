@@ -1,0 +1,21 @@
+name: Volvo 300kW Silent Diesel Generator
+image: /images/products/volvo-300kw-silent.jpg
+brand: Volvo
+powerKVA: 375
+type: silent
+description: High-capacity 800kVA silenced diesel generator with Volvo Penta engine for data centers, hospitals and large facilities.
+features:
+  - Volvo Penta engine with excellent fuel efficiency
+  - High-grade soundproof canopy, suitable for urban areas
+  - N+1 parallel operation and load management support
+  - Advanced digital controller with remote monitoring
+  - Emission-compliant engine package
+specs:
+  Prime power: 270 kW / 338 kVA
+  Standby power: 300 kW / 375 kVA
+  Engine: Volvo Penta TAD1641
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Deep Sea / KCP controller
+  Noise level: ≤75 dB(A) @ 7m
+  Fuel tank: 600L built-in

@@ -1,0 +1,21 @@
+name: Mitsubishi 4000kVA Containerized Power Plant
+image: /images/products/container-4000.png
+brand: Mitsubishi
+powerKVA: 4000
+type: container
+description: 4000kVA containerized power plant module with MTU engine, designed for large-scale industrial and utility power projects.
+features:
+  - High-capacity MTU engine with exceptional reliability
+  - Multi-module parallel operation for MW-scale power
+  - Fully integrated fuel, cooling and control systems
+  - Suitable for base load, peak shaving and grid support
+  - Long maintenance intervals reduce running cost
+specs:
+  Prime power: 2880 kW / 3600 kVA
+  Standby power: 3200 kW / 4000 kVA
+  Engine: MTU 16V4000
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz (custom voltages available)
+  Container: 40ft high-cube module
+  Control: Advanced paralleling controller
+  Fuel consumption: approx. 640 L/h at 100% load

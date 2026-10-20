@@ -1,0 +1,139 @@
+{
+  "description": "记录已用于博客文章的知识库产品图片源文件名，避免下次重复发布。下次任务读取本文件，跳过已列出的源图片。",
+  "source_dir": "飞书知识库 - 文章图片节点 (space_id=7697144426451177878, parent_node_token=J4UdwWsj1itnJ9kNcxNcWCPQ6wi)",
+  "published": [
+    {
+      "source": "Cummins 200kW silent.jpg",
+      "copied_to": "public/images/blog/cummins-200kw-silent.jpg",
+      "post": "content/blog/cummins-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Cummins"
+    },
+    {
+      "source": "DOOSAN 200kW silent.jpg",
+      "copied_to": "public/images/blog/doosan-200kw-silent.jpg",
+      "post": "content/blog/doosan-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "DOOSAN"
+    },
+    {
+      "source": "Mitsubishi 800kW silent.jpg",
+      "copied_to": "public/images/blog/mitsubishi-800kw-silent.jpg",
+      "post": "content/blog/mitsubishi-800kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Mitsubishi"
+    },
+    {
+      "source": "Perkins 200kW silent.jpg",
+      "copied_to": "public/images/blog/perkins-200kw-silent.jpg",
+      "post": "content/blog/perkins-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Perkins"
+    },
+    {
+      "source": "Scania 400kW silent.jpg",
+      "copied_to": "public/images/blog/scania-400kw-silent.jpg",
+      "post": "content/blog/scania-400kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Scania"
+    },
+    {
+      "source": "Shangchai 200kW silent.jpg",
+      "copied_to": "public/images/blog/shangchai-200kw-silent.jpg",
+      "post": "content/blog/shangchai-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Shangchai"
+    },
+    {
+      "source": "Volvo 300kW silent.jpg",
+      "copied_to": "public/images/blog/volvo-300kw-silent.jpg",
+      "post": "content/blog/volvo-300kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Volvo"
+    },
+    {
+      "source": "Weichai 200kW silent.jpg",
+      "copied_to": "public/images/blog/weichai-200kw-silent.jpg",
+      "post": "content/blog/weichai-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Weichai"
+    },
+    {
+      "source": "Yuchai 200kW silent.jpg",
+      "copied_to": "public/images/blog/yuchai-200kw-silent.jpg",
+      "post": "content/blog/yuchai-200kw-silent-generator.md",
+      "published_on": "2026-10-12",
+      "brand": "Yuchai"
+    },
+    {
+      "source": "Cummins 30kW silent.jpg",
+      "copied_to": "public/images/blog/blog-cummins-30kw-silent.jpg",
+      "post": "content/blog/is-30kw-silent-generator-enough.md",
+      "published_on": "2026-10-16",
+      "brand": "Cummins"
+    },
+    {
+      "source": "DOOSAN 300kW silent.jpg",
+      "copied_to": "public/images/blog/blog-doosan-300kw-silent.jpg",
+      "post": "content/blog/what-300kw-generator-runs-in-factory.md",
+      "published_on": "2026-10-16",
+      "brand": "DOOSAN"
+    },
+    {
+      "source": "Mitsubishi 50kW silent.jpg",
+      "copied_to": "public/images/blog/blog-mitsubishi-50kw-silent.jpg",
+      "post": "content/blog/50kw-generator-for-clinic-or-farm.md",
+      "published_on": "2026-10-16",
+      "brand": "Mitsubishi"
+    },
+    {
+      "source": "Perkins 280kW silent.jpg",
+      "copied_to": "public/images/blog/blog-perkins-280kw-silent.jpg",
+      "post": "content/blog/perkins-280kw-when-engine-brand-matters.md",
+      "published_on": "2026-10-16",
+      "brand": "Perkins"
+    },
+    {
+      "source": "Scania 500kW silent.jpg",
+      "copied_to": "public/images/blog/blog-scania-500kw-silent.jpg",
+      "post": "content/blog/why-data-centers-choose-500kw.md",
+      "published_on": "2026-10-16",
+      "brand": "Scania"
+    },
+    {
+      "source": "Shangchai 120kW silent.jpg",
+      "copied_to": "public/images/blog/blog-shangchai-120kw-silent.jpg",
+      "post": "content/blog/120kw-backup-set-on-tight-budget.md",
+      "published_on": "2026-10-16",
+      "brand": "Shangchai"
+    },
+    {
+      "source": "Volvo 320kW silent.jpg",
+      "copied_to": "public/images/blog/blog-volvo-320kw-silent.jpg",
+      "post": "content/blog/cold-climate-320kw-volvo-generator.md",
+      "published_on": "2026-10-16",
+      "brand": "Volvo"
+    },
+    {
+      "source": "Weichai 500kW silent.jpg",
+      "copied_to": "public/images/blog/blog-weichai-500kw-silent.jpg",
+      "post": "content/blog/whole-factory-500kw-prime-power.md",
+      "published_on": "2026-10-16",
+      "brand": "Weichai"
+    },
+    {
+      "source": "Yuchai 550kW silent.jpg",
+      "copied_to": "public/images/blog/blog-yuchai-550kw-silent.jpg",
+      "post": "content/blog/standby-vs-prime-550kw-generator.md",
+      "published_on": "2026-10-16",
+      "brand": "Yuchai"
+    },
+    {
+      "source": "Yuchai 100kW power car.jpg",
+      "copied_to": "public/images/blog/blog-yuchai-100kw-powercar.jpg",
+      "post": "content/blog/mobile-power-car-vs-fixed-generator.md",
+      "published_on": "2026-10-16",
+      "brand": "Yuchai"
+    }
+  ]
+}

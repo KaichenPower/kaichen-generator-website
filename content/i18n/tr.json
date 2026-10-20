@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Dizel Jeneratör Üreticisi",
+    "description": "Küresel sanayi ve ticaret projeleri için 20‑4000 kVA açık, sessiz, konteyner ve mobil tip dizel jeneratör OEM tedarikçisi."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "solutions": "Sektör Çözümleri",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "getQuote": "Teklif Al"
+  },
+  "common": {
+    "requestQuote": "Teklif Al",
+    "learnMore": "Daha Fazla",
+    "viewAll": "Tümünü Gör",
+    "backToTop": "Yukarı Çık",
+    "language": "Dil",
+    "allProducts": "Tüm Ürünler",
+    "relatedProducts": "İlgili Ürünler",
+    "relatedPosts": "İlgili Yazılar",
+    "backToProducts": "Ürünlere Dön",
+    "notFoundTitle": "Sayfa Bulunamadı",
+    "notFoundText": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "backToHome": "Ana Sayfaya Dön"
+  },
+  "home": {
+    "heroBadge": "2013'ten Beri OEM Üreticisi",
+    "heroTitle": "Çin Dizel Jeneratör Üreticisi | Kaichen Power",
+    "heroSubtitle": "Jiangsu Kaichen Power Equipment Co., Ltd., 2013 yılında Çin’in Yangzhou şehrinde kuruldu. Profesyonel bir dizel jeneratör üreticisi olarak, dünya genelindeki endüstriyel ve ticari projeler için 20–4000 kVA açık, sessiz, konteyner ve seyyar jeneratörler üretiyoruz.",
+    "cta": "Jeneratörlerimizi İncele",
+    "secondaryCta": "Teklif Al",
+    "featureTitle": "Neden Kaichen Power",
+    "features": [
+      {
+        "title": "ISO ve CE Sertifikalı Kalite",
+        "text": "ISO9001, ISO14001 ve GB/T28001 sertifikalı üretim; her sevkiyattan önce sıkı 12 aşamalı kalite kontrol."
+      },
+      {
+        "title": "Küresel OEM İş Ortaklıkları",
+        "text": "Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi ve Scania’nın resmî OEM/ODM ortağı."
+      },
+      {
+        "title": "Tam Güç Yelpazesi 20–4000 kVA",
+        "text": "Her uygulama için 20 ila 4000 kVA açık, sessiz, konteyner ve seyyar üniteler."
+      },
+      {
+        "title": "Fabrika Direkt & Hızlı Teslimat",
+        "text": "Yangzhou fabrikamızdan doğrudan: yıllık 8000 ünite kapasite, rekabetçi fiyat ve kısa teslim süresi."
+      }
+    ],
+    "productsTitle": "Ürünlerimiz",
+    "productsSubtitle": "Her uygulama için güvenilir dizel jeneratörler",
+    "viewAllProducts": "Tüm Ürünleri Gör",
+    "solutionsTitle": "Sektör Çözümleri",
+    "solutionsSubtitle": "Farklı sektörler için özel güç çözümleri",
+    "aboutPreviewTitle": "Kaichen Power Hakkında",
+    "aboutPreviewText": "2013'te Yangzhou'da kurulan Kaichen Power, tüm Çin'deki müşterilere hizmet veren ve dünya pazarlarına ihracat yapan profesyonel bir dizel jeneratör üreticisi ve ihracatçısıdır.",
+    "statsTitle": "Kaichen Power Rakamlarla",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Kuruluş"
+      },
+      {
+        "value": "60+",
+        "label": "İhracat Ülkesi"
+      },
+      {
+        "value": "1200+",
+        "label": "Tamamlanan Proje"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Maks. Kapasite"
+      }
+    ],
+    "blogTitle": "Blogdan Son Yazılar",
+    "readMore": "Devamını Oku",
+    "statsFounded": "Kuruluş",
+    "statsCapacity": "Yıllık Üretim Kapasitesi",
+    "statsEmployees": "Çalışan",
+    "statsArea": "Fabrika Alanı",
+    "brandsTitle": "Motor İş Ortakları",
+    "brandsSubtitle": "Önde gelen küresel motor üreticilerinin resmî OEM yetkisi",
+    "slides": [
+      {
+        "title": "Çin Dizel Jeneratör Seti Üreticisi",
+        "subtitle": "2013 yılında Jiangsu, Yangzhou'da kuruldu — 20–4000 kVA dizel jeneratör setlerinde profesyonel OEM üreticisi."
+      },
+      {
+        "title": "Gelişmiş Jeneratör Üretim Atölyesi",
+        "subtitle": "Açık, sessiz, konteyner ve treyler jeneratörlerin her biri için modern hatlar ve sıkı kalite kontrol."
+      },
+      {
+        "title": "Konteyner ve Sessiz Jeneratör Setleri",
+        "subtitle": "Kentsel, denizcilik ve dış mekan uygulamaları için ses yalıtımlı ve konteynerli güç çözümleri."
+      },
+      {
+        "title": "Açık Dizel Jeneratörler 20–4000 kVA",
+        "subtitle": "Dünya genelinde endüstriyel, ticari ve inşaat projeleri için güvenilir ana ve yedek güç."
+      },
+      {
+        "title": "Mobil Treyler Jeneratörler",
+        "subtitle": "Geçici sahalar, etkinlikler ve acil durum yedeği için hazır mobil güç."
+      }
+    ],
+    "trustTitle": "Sertifikalı ve Yetkili OEM Üreticisi",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "OEM Yetkili",
+      "Yılda 8.000 Adet"
+    ],
+    "factoryTitle": "Fabrikamız ve Atölyelerimiz",
+    "factorySubtitle": "Yangzhou'daki dizel jeneratör üretim tesisimize göz atın",
+    "factoryCaptions": [
+      "Montaj ve Üretim Hatları",
+      "Kalite Kontrol ve Yük Testi",
+      "Mobil Güç Ünitesi Atölyesi",
+      "Sac Metal ve İmalat"
+    ],
+    "workshopTitle": "Üretim Sahasında",
+    "workshopText": "Sac metal işlemeden son montaja ve yük testine kadar, her Kaichen jeneratörü Yangzhou’daki kendi atölyemizde üretilir ve doğrulanır."
+  },
+  "aboutPage": {
+    "title": "Kaichen Power Hakkında",
+    "lead": "2013’te kurulan, Çin Yangzhou merkezli profesyonel dizel jeneratör üreticisi ve ihracatçısı.",
+    "body1": "Jiangsu Kaichen Power Equipment Co., Ltd., 2013 yılında Çin’in Jiangsu eyaletine bağlı Yangzhou’da kuruldu. Dizel jeneratörlerin Ar-Ge, üretim ve satışını bir araya getiren kapsamlı bir güç ekipmanı üreticisiyiz; yıllık kapasitemiz 8000 ünite, fabrika alanımız 36.000 m². Ürünlerimiz 20–4000 kVA aralığında açık, sessiz, konteyner ve seyyar tipleri kapsar; veri merkezleri, hastaneler, telekomünikasyon, madencilik, petrol ve gaz, ulaşım, inşaat ve konut sektörlerinde kullanılır.",
+    "body2": "Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi ve Scania ile resmî OEM iş ortaklıklarımız vardır ve ISO9001, ISO14001 ve GB/T28001 sertifikalarına sahibiz. 2020’den bu yana Ulusal Yüksek Teknoloji Kuruluşu olarak 10’dan fazla faydalı model patentine sahibiz ve tasarımdan kuruluma, satış sonrası desteğe kadar anahtar teslim özel çözümler sunuyoruz.",
+    "companyIntro": "Şirket Hakkında",
+    "factoryVideo": "Fabrika Videosu",
+    "productionLine": "Üretim Hattı",
+    "customerVisit": "Müşteri Ziyaretleri",
+    "certPatent": "Sertifikalar ve Patentler",
+    "missionTitle": "Misyonumuz",
+    "missionText": "Profesyonel OEM üretimi ve hızlı satış sonrası destek ile her sektöre güvenilir ve uygun fiyatlı enerji sağlamak.",
+    "qualityTitle": "Kalite Kontrol",
+    "qualityText": "Her jeneratör, sevkiyattan önce yük testi, izolasyon testi ve fonksiyonel inceleme dahil sıkı 12 adımlı kalite kontrol sürecinden geçer.",
+    "expertiseTitle": "Uzmanlığımız",
+    "expertise1": "Açık Tip Jeneratörler",
+    "expertise2": "Sessiz Jeneratörler",
+    "expertise3": "Konteyner Tip Jeneratörler",
+    "expertise4": "Mobil Römork Jeneratörler",
+    "factoryTitle": "Fabrikamız",
+    "customersTitle": "Müşteri Ziyaretleri",
+    "certTitle": "Sertifikalar ve Yetkiler",
+    "certSubtitle": "Sistem sertifikaları, OEM yetkileri ve faydalı model patentleri",
+    "showMoreCerts": "Tüm Sertifikaları Göster",
+    "showLessCerts": "Daha Az Göster",
+    "certCats": {
+      "system": "Sistem Sertifikaları",
+      "oem": "OEM ve Yetkilendirmeler",
+      "patents": "Faydalı Model Patentleri"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Kalite Yönetim Sertifikası",
+      "cert-06": "ISO 14001 (GB/T 24001) Çevre Yönetimi",
+      "cert-07": "ISO 45001 (GB/T 45001) İş Sağlığı ve Güvenliği",
+      "cert-02": "CE Makine Direktifi",
+      "cert-01": "Cummins GOEM Yetkilendirme",
+      "cert-03": "Yuchai Distribütör Sertifikası",
+      "cert-04": "SDEC Power Yetkilendirme",
+      "cert-09": "Weichai Power Yetkilendirme",
+      "cert-05": "EvoTec Alternatör OEM Yetkilendirme",
+      "cert-11": "Shanghai Shendong (SWG) OEM Sertifikası",
+      "cert-10": "FORTRUST OEM Yetkilendirme",
+      "cert-12": "Yuchai Deniz & Jeneratör OEM Yetkilendirme",
+      "cert-21": "Patent – Düşük Gürültülü Jeneratör",
+      "cert-23": "Patent – Ultra Sessiz Jeneratör",
+      "cert-22": "Patent – Mobil Santral",
+      "cert-13": "Patent – Jeneratör Taban Şasisi",
+      "cert-14": "Patent – Dizel Motor Hız Regülatörü",
+      "cert-15": "Patent – Dizel Motor Marş Motoru",
+      "cert-16": "Patent – Gürültü Azaltma Cihazı",
+      "cert-17": "Patent – Enerji Tasarruflu Jeneratör",
+      "cert-18": "Patent – Yakıt Tasarruflu Regülatörlü Jeneratör",
+      "cert-19": "Patent – Isı Geri Kazanım Cihazı",
+      "cert-20": "Patent – Yüksek Hızlı İkiği Jeneratör"
+    },
+    "certAllLabel": "Tümü"
+  },
+  "productsPage": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Dizel jeneratörlerimizi motor markası, güç aralığı ve ürün tipine göre inceleyin",
+    "filterByBrand": "Markaya Göre Filtrele",
+    "filterByPower": "Güç Değerine Göre Filtrele",
+    "filterByType": "Ürün Tipine Göre Filtrele",
+    "brand": "Motor Markası",
+    "power": "Güç",
+    "unitType": "Ürün Tipi",
+    "all": "Tümü",
+    "noResults": "Filtrelerinize uyan ürün bulunamadı.",
+    "specsTitle": "Ana Özellikler",
+    "brandLabel": "Motor Markası",
+    "powerLabel": "Güç",
+    "typeLabel": "Ürün Tipi",
+    "enquiryTitle": "Bu Jeneratör Hakkında Bilgi Alın",
+    "enquiryName": "Ad",
+    "enquiryEmail": "E-posta",
+    "enquiryPhone": "Telefon / WhatsApp",
+    "enquiryMessage": "Mesajınız",
+    "enquirySend": "Teklif Gönder",
+    "enquiryNote": "Ekibimiz 24 saat içinde yanıt verecektir.",
+    "featuresTitle": "Özellikler",
+    "applicationsTitle": "Uygulama Alanları",
+    "problemsTitle": "Çözdüğü Sorunlar",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa",
+    "detailTag": "Ürün Detayı"
+  },
+  "solutions": {
+    "title": "Sektörel Güç Çözümleri",
+    "subtitle": "Sanayi ve ticaret uygulamaları için özel dizel jeneratörler",
+    "commercial-community": {
+      "name": "Ticaret ve Konut Siteleri",
+      "desc": "Alışveriş merkezleri, konut ve ofis binaları için güvenilir yedek güç kaynağı."
+    },
+    "data-center": {
+      "name": "Veri Merkezleri",
+      "desc": "Veri merkezi acil güç için kararlı jeneratörler, N+1 paralel çalışma desteği."
+    },
+    "medical": {
+      "name": "Sağlık ve Hastaneler",
+      "desc": "Hastane, klinik ve sağlık kuruluşları için kesintisiz güç temini."
+    },
+    "factory": {
+      "name": "Fabrikalar ve Üretim",
+      "desc": "Üretim tesisleri için ana veya yedek güç kaynağı."
+    },
+    "mining-oil": {
+      "name": "Madencilik ve Petrol Sahaları",
+      "desc": "Zor çalışma koşullarında madencilik ve petrol‑gaz projeleri için kararlı dizel jeneratörler."
+    },
+    "transportation": {
+      "name": "Ulaşım Altyapısı",
+      "desc": "Liman, demiryolu ve ulaşım merkezleri için güç çözümleri."
+    },
+    "agriculture": {
+      "name": "Tarım",
+      "desc": "Sulama, tahıl işleme ve kırsal alan yedek güç için jeneratörler."
+    },
+    "construction-site": {
+      "name": "Şantiyeler",
+      "desc": "Şantiye geçici güç ihtiyacı için mobil ve sabit jeneratörler."
+    },
+    "home-backup-power": {
+      "name": "Ev İçin Yedek Güç",
+      "desc": "Konut acil durumları için sessiz dizel jeneratörler."
+    }
+  },
+  "contactPage": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Enerji ihtiyaçlarınızı anlatın, 24 saat içinde teklif alın",
+    "email": "E-posta",
+    "whatsapp": "WhatsApp",
+    "address": "Adres",
+    "formTitle": "Bize Mesaj Gönderin",
+    "name": "Adınız",
+    "emailInput": "E-postanız",
+    "phone": "Telefon / WhatsApp",
+    "country": "Ülke",
+    "product": "Ürün / Gerekli Güç",
+    "submit": "Mesaj Gönder",
+    "success": "Teşekkürler! Mesajınız gönderildi. Kısa süre içinde yanıtlayacağız.",
+    "formNote": "* ile işaretli alanlar zorunludur.",
+    "formError": "Üzgünüz, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan yazın.",
+    "message": "İhtiyacınız",
+    "phName": "Adınızı girin",
+    "phEmail": "E-posta adresinizi girin",
+    "phPhone": "Telefon / WhatsApp numaranızı girin",
+    "phCountry": "Ülkenizi girin",
+    "phProduct": "örn. 200 kVA sessiz jeneratör",
+    "phMessage": "İhtiyacınızı açıklayın: kapasite, motor markası, adet, teslim süresi vb.",
+    "sending": "Gönderiliyor…",
+    "productUrlLabel": "Ürün Sayfası URL",
+    "phProductUrl": "Ürün sayfası bağlantısı",
+    "productNamePrefix": "Ürün adı:",
+    "productLinkPrefix": "Ürün bağlantısı:",
+    "tooFrequent": "Yeniden göndermeden önce lütfen biraz bekleyin.",
+    "quoteHeading": "Ücretsiz çözüm ve teklif için bilgilerinizi doldurun",
+    "reqError": "Bu alan zorunludur",
+    "emailInvalid": "Geçerli bir e-posta girin"
+  },
+  "footerMobile": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "inquiry": "Soru Gönder",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "2013'ten beri dizel jeneratör (20‑4000 kVA) üreticisi ve ihracatçısı.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "productsTitle": "Ürünler",
+    "contactTitle": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "whatsapp": "WhatsApp",
+    "address": "Adres",
+    "email": "E-posta"
+  },
+  "blogPage": {
+    "title": "Haberler ve Blog",
+    "subtitle": "Dizel jeneratörler hakkında bilgiler, rehberler ve şirket güncellemeleri",
+    "readMore": "Devamını Oku",
+    "backToBlog": "Blog'a Dön",
+    "empty": "Henüz yazı yok. Kısa süre sonra tekrar bakın.",
+    "posted": "Yayınlanma tarihi",
+    "readTime": "dk okuma"
+  },
+  "legal": {
+    "updatedLabel": "Son güncelleme: Ekim 2026",
+    "privacyTitle": "Gizlilik Politikası",
+    "privacyBody": [
+      "Jiangsu Kaichen Power Equipment Co., Ltd. («biz», «bizim»), web sitemizi ziyaret edenlerin gizliliğini korumaya kararlıdır. Bu politika, hangi bilgileri topladığımızı ve nasıl kullandığımızı açıklar.",
+      "İletişim veya ürün sorgulama formlarımız aracılığıyla bir talep gönderdiğinizde, sağladığınız bilgileri toplarız: ad, e-posta, telefon numarası ve mesaj içeriği. Bu bilgileri yalnızca talebinize yanıt vermek ve ürünlerimiz hakkında bilgi sağlamak için kullanırız.",
+      "Kişisel bilgilerinizi üçüncü taraflara satmaz veya paylaşmayız (yasal zorunluluklar hariç). Sorularınız için lütfen resmî e-posta adresimizden bize ulaşın."
+    ],
+    "termsTitle": "Hizmet Şartları",
+    "termsBody": [
+      "Bu web sitesini kullanarak bu şartları kabul etmiş olursunuz. Aksi belirtilmedikçe, sitedeki tüm içerik, görseller ve ürün bilgileri Jiangsu Kaichen Power Equipment Co., Ltd.’ye aittir.",
+      "Gösterilen ürün özellikleri bilgilendiricidir ve gereksinimlerinize göre ayarlanabilir. Sipariş vermeden önce lütfen satış ekibimizle nihai özellikleri teyit edin.",
+      "Bu sitedeki hiçbir içerik bağlayıcı bir teklif değildir. Siparişler yazılı teklifimiz ve satış sözleşmemize tabidir."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Ana güç",
+    "standbyPower": "Yedek güç",
+    "engine": "Motor",
+    "alternator": "Alternatör",
+    "voltage": "Gerilim",
+    "control": "Kontrol",
+    "starting": "Çalıştırma",
+    "cooling": "Soğutma",
+    "noiseLevel": "Gürültü seviyesi",
+    "fuelTank": "Yakıt tankı",
+    "container": "Konteyner",
+    "fuelSystem": "Yakıt sistemi",
+    "trailer": "Römork",
+    "frame": "Şasi",
+    "fuelConsumption": "Yakıt tüketimi",
+    "mobility": "Mobilite"
+  },
+  "aboutExtended": {
+    "statsFounded": "Kuruluş",
+    "statsCapacity": "Adet / Yıllık kapasite",
+    "statsDelivered": "3 yılda teslim edilen adet",
+    "statsStaff": "Çalışan (30 servis mühendisi)",
+    "statsArea": "Yangzhou fabrikası",
+    "statsService": "Yetkili servis noktası",
+    "inhouseTitle": "Şirk içi üretim, sadece montaj değil",
+    "inhouseText": "Motor, alternatör ve kabinleri ayrı ayrı satın alıp sahada birleştiren çoğu satıcının aksine, Kaichen üç temel katma değerli adımı kendi Yangzhou fabrikasında yürütür. Bu yüzden maliyet düşer ve kalite sabit kalır.",
+    "inhouse1Title": "Bakır alternatörler kendi tesisimizde sarılır.",
+    "inhouse1Text": "Yüksek dereceli silis çelik ve %100 bakır emaye tel kullanıyoruz, kendi hattımızda sargı ve vakum emdirme yapıyoruz, izolasyon sınıfı H.",
+    "inhouse2Title": "Sessiz kabinler otomatik saç hattında.",
+    "inhouse2Text": "Lazer kesim, pres, dayanıklı toz boya, alev geciktirici akustik sünger ve labirent kanallar gürültüyü 65–75 dB(A)'ye düşürür.",
+    "inhouse3Title": "Kontrol panoları ve ATS dolapları kendi üretimimiz.",
+    "inhouse3Text": "Otomatik çalıştırma panoları, ATS çift transfer dolapları ve paralel şalt, genel katalog yerine motor ve alternatör verilerine göre kablolanır.",
+    "loadbankTitle": "Her jeneratör için 4 aşamalı yük testi",
+    "loadbankText": "Çoğu fabrika boştayken çalıştırıp teslim eder. Her Kaichen seti, 2 MW dijital yük bankamızdan kademeli olarak geçer. Test videosu kaydedilir, arşivlenir ve sevkiyattan önce alıcıya verilir.",
+    "benchmarkTitle": "Referans projeler",
+    "benchmarkText": "Kamu ihale verilerine göre Kaichen, 20'den fazla ilde 73 ulusal ve yerel kamu projesini kazanmıştır. Örnek referanslar:",
+    "benchmark1": "China UnionPay Huangshan veri merkezi — finans seviyesi veri merkezi için çok MW paralel sistem.",
+    "benchmark2": "China Mobile omurga merkezleri — il ve ulusal telekom odaları için yedek güç.",
+    "benchmark3": "PetroChina petrol sahaları — çöl, toz ve geniş sıcaklık aralığında sürekli çalışma.",
+    "benchmark4": "Üst düzey hastaneler — saniyeler içinde otomatik transfer ile sessiz yedek.",
+    "benchmark5": "Taiyuan kömür madeni, 1200 kW — ağır sanayi tesisi için ana güç.",
+    "manufacturingTitle": "Üretim ve kalite kontrol",
+    "lbRow1Title": "%20 hafif yük",
+    "lbRow1Desc": "Soğuk çalıştırma, rölanti düzgünlüğü, 3 faz dengesi, titreşim kontrolü",
+    "lbRow2Title": "%50 yarım yük, 30 dk",
+    "lbRow2Desc": "Stabilite, soğutucu ve yağ basıncı, soğutma dengesi",
+    "lbRow3Title": "%75 ağır yük, 60 dk",
+    "lbRow3Desc": "Güç marjı, sıcaklık artışı, frekans ve gerilim düşüşü",
+    "lbRow4Title": "%100 anma yükü, 60 dk",
+    "lbRow4Desc": "Anma gücü doğrulama, geçici kurtarma, aşırı yük rölesi",
+    "mfgIntro": "Her Kaichen dizel jeneratör seti, Jiangsu'daki fabrikamızdan ayrılmadan önce aynı üretim hattından ve test rutinden geçer. Süreç tek amaç üzerine kuruludur: set, ilk gerçek kesintide yük çekmeye hazır olarak tesiste olur, bir ay süren ayarlamalardan sonra değil.",
+    "mfgBuiltTitle": "Her set nasıl üretilir",
+    "mfgBuilt1Title": "Motor ve alternatör eşleşmesi.",
+    "mfgBuilt1Text": "Motor gücünü alternatöre sitenizin ihtiyaç duyduğu güç faktöründe eşliyoruz, sadece etiket gücünde değil.",
+    "mfgBuilt2Title": "Taban şase ve depo.",
+    "mfgBuilt2Text": "Şase çelik sacdan kaynaklanır; motor montajından önce entegre yakıt deposu, titreşim önleyiciler ve forklift yuvaları takılır.",
+    "mfgBuilt3Title": "Kablolama ve kontrol panosu.",
+    "mfgBuilt3Text": "Güç ve kontrol kabloları ayrı kanallardan geçer, terminal blokları numaralandırılır ve dijital kontrolcü gerilim, frekans ve ATS mantığınıza göre önceden programlanır.",
+    "mfgBuilt4Title": "Kabin veya konteyner.",
+    "mfgBuilt4Text": "Sessiz setler akustik sünger, havalandırmalı panel ve erişim kapıları ile kaplanır; konteyner setler hava geçirmez kapı, iç aydınlatma ve harici priz ile teslim edilir.",
+    "mfgLoadTestTitle": "Sevkiyat öncesi yük testi",
+    "mfgLoadTestIntro": "Hiçbir set sadece görsel kontrolle sevk edilmez. Her ünite elektronik yük bankamızdan yapılandırılmış sırayla geçer ve test raporu set ile birlikte gider:",
+    "mfgRow1Title": "Yüksüz çalışma",
+    "mfgRow1Desc": "Isınma, yağ basıncı ve şarj gerilimi kontrolü",
+    "mfgRow2Title": "%25 yük, 30 dk",
+    "mfgRow2Desc": "Gerilim ve frekans stabilitesi, egzoz sıcaklığı",
+    "mfgRow3Title": "%50 yük, 30 dk",
+    "mfgRow3Desc": "Regülatör tepkisi, yakıt tüketimi, gürültü seviyesi",
+    "mfgRow4Title": "%75 yük, 60 dk",
+    "mfgRow4Desc": "Soğutma sistemi, soğutucu sıcaklığı, kayış gerginliği",
+    "mfgRow5Title": "%100 yük, 60 dk",
+    "mfgRow5Desc": "Tam anma gücü, gerilim regülasyonu ±%1.5",
+    "mfgRow6Title": "Aşırı yük %110, 1 dk",
+    "mfgRow6Desc": "Korumalı durdurma ve alarm doğrulaması",
+    "mfgFinalTitle": "Son kontrol",
+    "mfgFinal1": "Yalıtım direnci ve toprak sürekliliği nemli-sıcak bekletme sonrası test edilir.",
+    "mfgFinal2": "Tüm koruma fonksiyonları doğrulanır: aşırı hız, yüksek su sıcaklığı, düşük yağ basıncı, aşırı akım, acil durdurma.",
+    "mfgFinal3": "ATS sırası tezgahta baştan sona test edilir.",
+    "mfgFinal4": "Boya rötuşu, temizlik ve tam yedek parça listesi alet çantasında paketlenir.",
+    "mfgClosing": "CE ve ISO 9001 sertifikaları her sevkiyata eşlik eder. Tanıklı test, üçüncü taraf muayene raporu (BV, SGS, TUV) veya siteye özel FAT protokolü gerekiyorsa, üretime girmeden önce bize bildirin — hazırlarız."
+  },
+  "productType": {
+    "silent": "Sessiz",
+    "open": "Açık",
+    "container": "Konteyner",
+    "mobileTrailer": "Mobil Römork",
+    "dieselGenerator": "Dizel jeneratör",
+    "powerPlant": "Konteyner Santrali"
+  },
+  "products": {
+    "cummins-100-silent": {
+      "description": "Ofisler, küçük fabrikalar ve gürültünün kontrol edilmesi gereken yerleşim alanlarına yakın bölgeler için kompakt, ses geçirmez Cummins 100 kW dizel jeneratör.",
+      "features": [
+        "Küresel servis ağı kanıtlanmış Cummins 4 veya 6 silindirli dizel motor",
+        "İnsanlara yakın tesisler için ses azaltan akustik kaporta",
+        "Daha uzun çalışma için şaseye entegre yakıt deposu",
+        "Opsiyonel otomatik çalıştırmalı dijital kontrol paneli",
+        "Dış mekan montajı için hava koşullarına dayanıklı kaporta"
+      ]
+    },
+    "doosan-500-silent": {
+      "description": "Düşük gürültü ile büyük yedek güç gerektiren sanayi tesisleri, hastaneler ve ticari binalar için ağır hizmet tipi Doosan 500 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Sürekli ve yedek çalışma için ağır hizmet tipi Doosan 6 silindirli motor",
+        "Şehir ve sanayi bölgeleri için büyük akustik kaporta",
+        "Yüksek ortam sıcaklıkları için tasarlanmış yüksek kapasiteli radyatör",
+        "AVR ile senkron fırçasız alternatör",
+        "Otomatik şebeke kesinti transferine hazır"
+      ]
+    },
+    "kc-100-open": {
+      "description": "Şantiyeler, atölyeler ve kırsal elektrik temini için güvenilir 100 kVA açık tip dizel jeneratör.",
+      "features": [
+        "Ağır çelik şase üzerinde açık kayar ünite",
+        "Kanıtlanmış dayanıklılığa sahip Yuchai 6 silindirli motor",
+        "Tam koruma: düşük yağ, yüksek su sıcaklığı, aşırı yük",
+        "Opsiyonel uzaktan izlemeli dijital panel",
+        "Kolay bakım erişimi"
+      ]
+    },
+    "kc-1000-container": {
+      "description": "Büyük kiralama filoları, madencilik ve şebeke destek projeleri için ideal 1000 kVA konteyner santrali.",
+      "features": [
+        "Tam akustik ve ısı yalıtımlı 40 ft konteyner modülü",
+        "Yüksek güç yoğunluklu Cummins motoru",
+        "Çoklu ünite paralel çalışma ve senkronizasyon yeteneği",
+        "Entegre günlük depo, yakıt temizleme ve yangın söndürme",
+        "Sürekli çalışma için düşük bakım"
+      ]
+    },
+    "kc-150-perkins": {
+      "description": "Sanayi ve inşaat yedek gücü için ideal Perkins motorlu güvenilir 150 kVA açık dizel jeneratör.",
+      "features": [
+        "Kanıtlanmış güvenilirliğe sahip Perkins 1106 serisi motor",
+        "Titreşim takozları ile sağlam açık çelik şase",
+        "Deep Sea veya eşdeğeri dijital kontrol paneli",
+        "Düşük yakıt tüketimi ve düşük bakım maliyeti",
+        "CE ve ISO9001 sertifikalı"
+      ]
+    },
+    "kc-200-silent": {
+      "description": "Ticari binalar, bankalar ve sanayi yedek gücü için orta güçte 200 kVA sessiz dizel jeneratör.",
+      "features": [
+        "Dış mekan montajı için hava koşullarına dayanıklı ses geçirmez kaporta",
+        "Elektronik regülatörlü Weichai motoru",
+        "Paralel çalışma yeteneği (opsiyonel)",
+        "LCD ekranlı tam dijital kontrol",
+        "Soğuk çalıştırma ve otomatik transfer anahtarı desteği"
+      ]
+    },
+    "kc-2000-mobile": {
+      "description": "Acil güç, etkinlikler ve hızlı konuşlandırma gerektiren saha operasyonları için 2000 kVA römorklu dizel jeneratör.",
+      "features": [
+        "Karayolu hızında çekilebilir römork üzerine monte",
+        "Güvenilir ana güç için Perkins ağır hizmet motoru",
+        "Hidrolik destek ayakları ve titreşim izolasyonu",
+        "Hızlı bağlantılı güç ve yakıt fittings",
+        "Tam aydınlatma, yangın söndürme ve kontrol kabini"
+      ]
+    },
+    "kc-250-doosan": {
+      "description": "Ticari ve topluluk yedek gücü için Doosan motorlu sessiz ve kompakt 250 kVA dizel jeneratör.",
+      "features": [
+        "Düşük gürültü ve yakıt tüketimine sahip Doosan motoru",
+        "7 m'de 72 dB(A) altına düşüren ses geçirmez kaporta",
+        "Otomatik voltaj regülasyonu ve uzaktan izlemeye hazır",
+        "8+ saat sürekli çalışma için entegre yakıt deposu",
+        "CE ve ISO9001 sertifikalı"
+      ]
+    },
+    "kc-300-container": {
+      "description": "Uzak ve zorlu ortamlarda konuşlandırılmaya hazır tam donanımlı 300 kVA konteyner dizel jeneratör.",
+      "features": [
+        "Tam akustik işlemeye sahip 20 ft konteyner",
+        "Paralel çalışma ve yük paylaşımı için tasarlanmış",
+        "Entegre günlük depo, yangın söndürme ve egzoz sistemi",
+        "Dahili bakım erişimi ve opsiyonel kontrol odası",
+        "Kiralama ve geçici güç projeleri için uygun"
+      ]
+    },
+    "kc-40-silent": {
+      "description": "Küçük işletmeler, villalar ve hafif ticari yedek güç için ideal kompakt ve sessiz 40 kVA dizel jeneratör.",
+      "features": [
+        "7 m'de 70 dB(A) altına düşüren ses geçirmez kaporta",
+        "Düşük yakıt tüketimli Weichai 4 silindirli motor",
+        "Otomatik voltaj regülasyonu ve dijital kontrol paneli",
+        "8+ saat çalışma için entegre yakıt deposu",
+        "CE ve ISO9001 sertifikalı"
+      ]
+    },
+    "kc-4000-container": {
+      "description": "Büyük ölçekli sanayi ve kamu elektrik projeleri için tasarlanmış MTU motorlu 4000 kVA konteyner santrali.",
+      "features": [
+        "Olağanüstü güvenilirliğe sahip yüksek kapasiteli MTU motoru",
+        "MW ölçekli güç için çok modüllü paralel çalışma",
+        "Tam entegre yakıt, soğutma ve kontrol sistemleri",
+        "Ana yük, tepe kesme ve şebeke desteği için uygun",
+        "Uzun bakım aralıkları işletme maliyetini düşürür"
+      ]
+    },
+    "kc-500-open": {
+      "description": "Sürekli sanayi ve ticari güç için Cummins motorlu ağır hizmet tipi 500 kVA açık dizel jeneratör.",
+      "features": [
+        "Küresel çapta tanınan güvenilirlik: Cummins NT serisi motor",
+        "Ana ve yedek çalışma döngüleri için uygun",
+        "Paralel çalışma ve uzaktan izlemeye hazır",
+        "Titreşim takozlu ağır hizmet şasesi",
+        "Düşük yakıt tüketimi ve uzun servis ömrü"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "description": "Veri merkezleri, madencilik ve ağır sanayi için uygun Mitsubishi motorlu yüksek performanslı 600 kVA açık dizel jeneratör.",
+      "features": [
+        "Yüksek güç yoğunluğu ve düşük emisyonlu Mitsubishi motoru",
+        "Zorlu ortamlar için sağlam açık yapı",
+        "N+1 yedeklilik için paralel çalışma yeteneği",
+        "Uzaktan izleme arayüzlü dijital kontrol",
+        "CE ve ISO9001 sertifikalı"
+      ]
+    },
+    "kc-800-silent": {
+      "description": "Veri merkezleri, hastaneler ve büyük tesisler için Volvo Penta motorlu yüksek kapasiteli 800 kVA sessiz dizel jeneratör.",
+      "features": [
+        "Mükemmel yakıt verimliliğine sahip Volvo Penta motoru",
+        "Şehir bölgeleri için yüksek kalite ses geçirmez kaporta",
+        "N+1 paralel çalışma ve yük yönetimi desteği",
+        "Uzaktan izlemeli gelişmiş dijital kontrolör",
+        "Emisyon uyumlu motor paketi"
+      ]
+    },
+    "kc-900-scania": {
+      "description": "Kritik tesisler ve büyük ticari projeler için Scania motorlu güçlü ama sessiz 900 kVA sessiz dizel jeneratör.",
+      "features": [
+        "Mükemmel yakıt ekonomisine sahip Scania 16 litrelik endüstriyel motor",
+        "7 m'de 75 dB(A) altına düşüren ses geçirmez kaporta",
+        "Otomatik ATS ve uzaktan izlemeye hazır",
+        "Paralel ve tepe kesme çalışması için uygun",
+        "CE ve ISO9001 sertifikalı"
+      ]
+    },
+    "mitsubishi-100-open": {
+      "description": "Hava ve gürültü koruması sağlayan ayrı bir makine dairesi bulunan tesisler için açık şaseli Mitsubishi 100 kW dizel jeneratör.",
+      "features": [
+        "Dayanıklı performanslı Mitsubishi endüstriyel motor",
+        "Kolay bakım erişimi için açık şasi tasarımı",
+        "Günlük depo bağlantılı şase yakıt deposu",
+        "Otomatik voltaj regülasyonlu fırçasız alternatör",
+        "Mevcut jeneratör odasına montaj için uygun"
+      ]
+    },
+    "perkins-400-silent": {
+      "description": "Kontrollü gürültü ile güvenilir yedek güç gerektiren ticari binalar, fabrikalar ve veri tesisleri için Perkins 400 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Güçlü geçici tepkili Perkins 6 silindirli motor",
+        "Kapalı makine daireleri veya ofis yakınında dış mekan için akustik kaporta",
+        "Entegre yakıt deposlu ağır hizmet şasesi",
+        "Uzaktan iletişim portlu dijital kontrol paneli",
+        "Sık yedek ve ana güç kullanımı için uygun"
+      ]
+    },
+    "scania-250-open": {
+      "description": "Güçlü motor geçici tepkisi gerektiren motor ağırlıklı yükleri olan sanayi tesisleri için açık şaseli Scania 250 kW dizel jeneratör.",
+      "features": [
+        "Mükemmel kademeli yük kabulü olan Scania endüstriyel motoru",
+        "Tam servis erişimi için açık şasi düzeni",
+        "Kompresörler, pompalar ve motor kalkış yükleri için uygun",
+        "Stabil voltaj için AVR'li fırçasız alternatör",
+        "Ağır çelik şase üzerine monte"
+      ]
+    },
+    "shangchai-300-silent": {
+      "description": "Pratik fiyata güvenilir yedek güce ihtiyaç duyan fabrikalar, ticari binalar ve kırsal tesisler için ekonomik Shangchai 300 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Geniş destek ağına sahip Shangchai 6 silindirli dizel motoru",
+        "İnsanlara yakın dış mekan montajı için ses geçirmez kaporta",
+        "Şaseye entegre yakıt deposu",
+        "Opsiyonel otomatik çalıştırmalı dijital kontrol paneli",
+        "Performans ve işletme maliyeti arasında iyi denge"
+      ]
+    },
+    "volvo-400-silent": {
+      "description": "Düşük gürültü, yakıt ekonomisi ve temiz çalışmanın öncelikli olduğu ofis kompleksleri, oteller ve sanayi tesisleri için Volvo Penta 400 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Kısmi yükte ekonomik Volvo Penta 6 silindirli motor",
+        "Ofis ve konut yakınına yerleştirmek için akustik kaporta",
+        "Titreşim takozlu yüksek mukavemetli şase",
+        "Opsiyonel uzaktan izlemeli dijital kontrol paneli",
+        "Hassas ortamlar için düşük emisyonlu motor"
+      ]
+    },
+    "weichai-400-silent": {
+      "description": "Güvenilir yedek güç ve erişilebilir yerel servis sunan fabrikalar, ticari kompleksler ve şantiyeler için Weichai 400 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Weichai WP12 / WP13 serisi 6 silindirli motor",
+        "Dış mekan montajı için ses geçirmez kaporta",
+        "Ağır şaseye entegre yakıt deposu",
+        "Otomatik şebeke kesinti çalıştırmalı dijital panel",
+        "Bölgesel servis için iyi parça temini"
+      ]
+    },
+    "yuchai-100-mobile": {
+      "description": "Elektriğin lokasyon değiştirmesi gereken şantiyeler, açık hava etkinlikleri, afet müdahalesi için römorklu Yuchai 100 kW mobil dizel jeneratör.",
+      "features": [
+        "Çeki demirli ve tekerlekli karayolu yasal römork",
+        "Mobil hizmet için Yuchai dizel motoru",
+        "Kaporta, ünitesi nakliye ve çalışma sırasında korur",
+        "Hızlı kurulum için ayarlanabilir destek ayakları",
+        "Sık yer değiştiren tesisler için uygun"
+      ]
+    },
+    "yuchai-300-silent": {
+      "description": "Güvenilir yedek güç ve pratik toplam maliyet sunan fabrikalar, ticari binalar ve tarımsal tesisler için Yuchai 300 kW ses geçirmez dizel jeneratör.",
+      "features": [
+        "Kanıtlanmış dayanıklılığa sahip Yuchai 6 silindirli dizel motoru",
+        "Akustik kaporta hava koşullarından korur ve gürültüyü azaltır",
+        "Servis erişimli şase yakıt deposu",
+        "Opsiyonel otomatik çalıştırmalı dijital kontrol paneli",
+        "Yedek ve sık çalışma için uygun"
+      ]
+    }
+  },
+  "cookie": {
+    "title": "Gizliliğinize değer veriyoruz",
+    "body": "Bu siteyi çalıştırmak, trafiği analiz etmek ve içeriği kişiselleştirmek için çerezler ve benzer teknolojiler kullanıyoruz. AB ve Birleşik Krallık GDPR kapsamında, zorunlu olmayan çerezleri yüklemeden önce izniniz gereklidir. Tercihinizi istediğiniz zaman şuradan değiştirebilirsiniz:",
+    "privacyLink": "Gizlilik Politikası",
+    "reject": "Zorunlu Olmayanı Reddet",
+    "accept": "Tümünü Kabul Et"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Fırçasız, kendi kendine uyartımlı",
+    "digitalControlPanel": "Dijital kontrol paneli",
+    "digitalController": "Dijital kontrolcü",
+    "digitalControllerAuto": "Otomatik çalıştırmalı dijital kontrolcü",
+    "digitalControllerParallel": "Paralel çalışma özellikli dijital kontrolcü",
+    "digitalControllerRemote": "Uzaktan izlemeli dijital kontrolcü",
+    "digitalAmfController": "Dijital AMF kontrolcüsü",
+    "atsController": "Otomatik ATS kontrolcüsü",
+    "advancedParallel": "Gelişmiş paralel kontrolcü",
+    "electricStart24": "Elektrikli çalıştırma, 24V",
+    "electricStart1224": "Elektrikli çalıştırma, 12/24V",
+    "waterCooled": "Su soğutmalı radyatör",
+    "waterCooledContainer": "Su soğutmalı, konteyner optimize",
+    "radiatorContainer": "Radyatör, konteyner optimize",
+    "skidAntiVib": "Ağır şasi, titreşim önleyici desteklerle",
+    "skidForklift": "Ağır şasi, forklift yuvalı",
+    "singleAxleTrailer": "Tek akslı römork, karayoluna uygun",
+    "twoAxleTrailer": "Çift akslı karayolu römorku",
+    "iso20ft": "20ft ISO konteyner",
+    "iso40ft": "40ft ISO konteyner",
+    "hc40ft": "40ft high-cube modülü",
+    "tank180": "Entegre, 180 L",
+    "tank300": "Entegre, 300 L",
+    "tank600": "Entegre, 600 L",
+    "tank900": "Entegre, 900 L",
+    "tank75": "Entegre, 75 L",
+    "noise6872": "7 m'de 68–72 dB(A)",
+    "noise6975": "7 m'de 69–75 dB(A)",
+    "noise7075": "7 m'de 70–75 dB(A)",
+    "noise7076": "7 m'de 70–76 dB(A)",
+    "noise7278": "7 m'de 72–78 dB(A)",
+    "noiseLe78": "7 m'de ≤ 78 dB(A)",
+    "noiseLe70": "7 m'de ≤ 70 dB(A)",
+    "noiseLe72": "7 m'de ≤ 72 dB(A)",
+    "noiseLe75": "7 m'de ≤ 75 dB(A)",
+    "fuel640": "%100 yükte yaklaşık 640 L/s",
+    "fuel91": "%100 yükte yaklaşık 91 L/s",
+    "dayTank": "Günlük depo + harici bağlantı",
+    "voltageCustom": "400/230V, 50Hz (özel voltajlar mevcut)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

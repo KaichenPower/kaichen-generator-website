@@ -1,0 +1,21 @@
+name: SDEC 300kVA Containerized Diesel Generator
+image: /images/products/container-sdec.png
+brand: SDEC
+powerKVA: 300
+type: container
+description: 300kVA containerized diesel generator set, fully equipped and ready for deployment in remote and harsh environments.
+features:
+  - 20ft container housing with full acoustic treatment
+  - Designed for parallel operation and load sharing
+  - Integrated day tank, fire suppression and exhaust system
+  - External maintenance access and control room option
+  - Suitable for rental and temporary power projects
+specs:
+  Prime power: 216 kW / 270 kVA
+  Standby power: 240 kW / 300 kVA
+  Engine: SDEC SC12E
+  Alternator: Stamford
+  Voltage: 400/230V, 50Hz
+  Container: 20ft ISO container
+  Fuel system: Day tank + external connection
+  Cooling: Water-cooled, container optimized

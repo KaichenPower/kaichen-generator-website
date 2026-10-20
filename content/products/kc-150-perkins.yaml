@@ -1,0 +1,20 @@
+name: Perkins 150kW Open Diesel Generator
+image: /images/products/perkins-150kw-open.jpg
+brand: Perkins
+powerKVA: 188
+type: open
+description: Reliable 150kVA open type diesel generator set powered by a Perkins engine, ideal for industrial and construction backup power.
+features:
+  - Perkins 1106 series engine with proven reliability
+  - Open type robust steel frame with anti-vibration mounts
+  - Deep sea or equivalent digital control panel
+  - Low fuel consumption and low maintenance cost
+  - CE and ISO9001 certified
+specs:
+  Prime power: 135 kW / 169 kVA
+  Standby power: 150 kW / 188 kVA
+  Engine: Perkins 1106A
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller with auto start
+  Frame: Heavy-duty skid with forklift slots

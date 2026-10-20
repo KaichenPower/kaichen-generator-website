@@ -1,0 +1,21 @@
+name: Scania 250kW Open Diesel Generator
+image: /images/products/scania-250kw-open.png
+brand: Scania
+powerKVA: 312
+type: open
+description: Open-frame 250kW Scania diesel generator for industrial plants and sites with motor-heavy loads, where strong engine transient response is required.
+features:
+  - Scania industrial engine with excellent step-load acceptance
+  - Open skid layout for full service access
+  - Suitable for compressors, pumps and motor start-up loads
+  - Brushless alternator with AVR for stable voltage
+  - Mounted on a heavy steel baseframe
+specs:
+  Prime power: 225 kW / 281 kVA
+  Standby power: 250 kW / 312 kVA
+  Engine: Scania DC9 / DC13 series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital control panel
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator

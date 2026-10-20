@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Nhà sản xuất máy phát điện diesel",
+    "description": "Nhà cung cấp OEM máy phát điện diesel 20‑4000kVA kiểu mở, chống ồn, container và di động cho các dự án công nghiệp và thương mại toàn cầu."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "products": "Sản phẩm",
+    "solutions": "Giải pháp theo ngành",
+    "blog": "Blog",
+    "contact": "Liên hệ",
+    "getQuote": "Yêu cầu báo giá"
+  },
+  "common": {
+    "requestQuote": "Yêu cầu báo giá",
+    "learnMore": "Tìm hiểu thêm",
+    "viewAll": "Xem tất cả",
+    "backToTop": "Lên đầu trang",
+    "language": "Ngôn ngữ",
+    "allProducts": "Tất cả sản phẩm",
+    "relatedProducts": "Sản phẩm liên quan",
+    "relatedPosts": "Bài viết liên quan",
+    "backToProducts": "Quay lại sản phẩm",
+    "notFoundTitle": "Không tìm thấy trang",
+    "notFoundText": "Trang bạn đang tìm không tồn tại hoặc đã được di chuyển.",
+    "backToHome": "Về trang chủ"
+  },
+  "home": {
+    "heroBadge": "Nhà sản xuất OEM từ 2013",
+    "heroTitle": "Nhà sản xuất máy phát điện diesel Trung Quốc | Kaichen Power",
+    "heroSubtitle": "Công ty Jiangsu Kaichen Power Equipment Co., Ltd. được thành lập năm 2013 tại Dương Châu, Trung Quốc. Là nhà sản xuất máy phát điện diesel chuyên nghiệp, chúng tôi sản xuất máy mở, cách âm, container và kéo xe công suất 20–4000 kVA cho các dự án công nghiệp và thương mại trên toàn thế giới.",
+    "cta": "Xem sản phẩm máy phát",
+    "secondaryCta": "Nhận báo giá",
+    "featureTitle": "Vì sao chọn Kaichen Power",
+    "features": [
+      {
+        "title": "Chất lượng chứng nhận ISO và CE",
+        "text": "Sản xuất đạt chứng nhận ISO9001, ISO14001 và GB/T28001 với kiểm soát chất lượng nghiêm ngặt 12 bước trước mỗi lô hàng."
+      },
+      {
+        "title": "Hợp tác OEM toàn cầu",
+        "text": "Đối tác OEM/ODM chính thức của Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi và Scania."
+      },
+      {
+        "title": "Dải công suất đầy đủ 20–4000 kVA",
+        "text": "Máy mở, cách âm, container và kéo xe từ 20 đến 4000 kVA cho mọi ứng dụng."
+      },
+      {
+        "title": "Giá trực tiếp từ nhà máy",
+        "text": "Trực tiếp từ nhà máy Dương Châu: công suất 8000 máy/năm, giá cạnh tranh và giao hàng nhanh."
+      }
+    ],
+    "productsTitle": "Sản phẩm của chúng tôi",
+    "productsSubtitle": "Máy phát điện diesel đáng tin cậy cho mọi ứng dụng",
+    "viewAllProducts": "Xem tất cả sản phẩm",
+    "solutionsTitle": "Giải pháp theo ngành",
+    "solutionsSubtitle": "Giải pháp năng lượng tùy chỉnh cho các ngành khác nhau",
+    "aboutPreviewTitle": "Về Kaichen Power",
+    "aboutPreviewText": "Thành lập năm 2013 tại Dương Châu, Kaichen Power là nhà sản xuất và xuất khẩu máy phát điện diesel chuyên nghiệp, phục vụ khách hàng trên khắp Trung Quốc và xuất khẩu ra thị trường toàn cầu.",
+    "statsTitle": "Kaichen Power qua con số",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Năm thành lập"
+      },
+      {
+        "value": "60+",
+        "label": "Quốc gia xuất khẩu"
+      },
+      {
+        "value": "1200+",
+        "label": "Dự án đã bàn giao"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Công suất tối đa"
+      }
+    ],
+    "blogTitle": "Tin mới nhất từ blog",
+    "readMore": "Đọc thêm",
+    "statsFounded": "Năm thành lập",
+    "statsCapacity": "Công suất sản xuất / năm",
+    "statsEmployees": "Nhân viên",
+    "statsArea": "Diện tích nhà máy",
+    "brandsTitle": "Đối tác động cơ",
+    "brandsSubtitle": "Ủy quyền OEM chính thức từ các nhà sản xuất động cơ hàng đầu thế giới",
+    "slides": [
+      {
+        "title": "Nhà sản xuất tổ máy phát điện diesel Trung Quốc",
+        "subtitle": "Thành lập năm 2013 tại Dương Châu, Giang Tô — nhà sản xuất OEM chuyên nghiệp tổ máy phát điện diesel 20–4000 kVA."
+      },
+      {
+        "title": "Xưởng sản xuất máy phát điện tiên tiến",
+        "subtitle": "Dây chuyền hiện đại và kiểm soát chất lượng nghiêm ngặt cho mọi tổ máy hở, êm, container và trailer."
+      },
+      {
+        "title": "Tổ máy phát điện container và êm",
+        "subtitle": "Giải pháp điện cách âm và dạng container cho ứng dụng đô thị, hàng hải và ngoài trời."
+      },
+      {
+        "title": "Máy phát điện diesel hở 20–4000 kVA",
+        "subtitle": "Nguồn chính và dự phòng đáng tin cậy cho các dự án công nghiệp, thương mại và xây dựng trên toàn thế giới."
+      },
+      {
+        "title": "Máy phát điện di động trên trailer",
+        "subtitle": "Nguồn điện di động sẵn sàng cho công trường tạm, sự kiện và dự phòng khẩn cấp."
+      }
+    ],
+    "trustTitle": "Nhà sản xuất OEM được chứng nhận",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "OEM Được ủy quyền",
+      "8.000 máy/năm"
+    ],
+    "factoryTitle": "Nhà máy và xưởng của chúng tôi",
+    "factorySubtitle": "Xem bên trong nhà máy sản xuất máy phát điện diesel tại Yangzhou",
+    "factoryCaptions": [
+      "Dây chuyền lắp ráp và sản xuất",
+      "Kiểm soát chất lượng và thử tải",
+      "Xưởng tổ máy điện di động",
+      "Kim loại tấm và gia công"
+    ],
+    "workshopTitle": "Sản xuất thực tế",
+    "workshopText": "Từ gia công kim loại tấm đến lắp ráp cuối cùng và thử tải, mỗi máy phát Kaichen đều được chế tạo và kiểm định tại xưởng của chúng tôi ở Yangzhou."
+  },
+  "aboutPage": {
+    "title": "Về Kaichen Power",
+    "lead": "Nhà sản xuất và xuất khẩu máy phát điện diesel chuyên nghiệp từ Dương Châu, Trung Quốc, thành lập năm 2013.",
+    "body1": "Công ty Jiangsu Kaichen Power Equipment Co., Ltd. được thành lập năm 2013 tại Dương Châu, tỉnh Giang Tô, Trung Quốc. Chúng tôi là nhà sản xuất thiết bị điện tổng hợp tích hợp nghiên cứu, sản xuất và bán máy phát điện diesel, với công suất 8000 máy/năm và diện tích nhà máy 36.000 m². Sản phẩm của chúng tôi bao gồm các loại mở, cách âm, container và kéo xe từ 20 đến 4000 kVA, dùng trong trung tâm dữ liệu, bệnh viện, viễn thông, khai khoáng, dầu khí, giao thông, xây dựng và khu dân cư.",
+    "body2": "Chúng tôi có quan hệ hợp tác OEM chính thức với Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi và Scania, và đạt chứng nhận ISO9001, ISO14001 và GB/T28001. Là doanh nghiệp công nghệ cao quốc gia từ năm 2020, chúng tôi sở hữu hơn 10 bằng độc quyền giải pháp hữu ích và cung cấp giải pháp tùy chỉnh trọn gói từ thiết kế, lựa chọn đến lắp đặt và bảo hành sau bán hàng.",
+    "companyIntro": "Giới thiệu công ty",
+    "factoryVideo": "Video nhà máy",
+    "productionLine": "Dây chuyền sản xuất",
+    "customerVisit": "Khách tham quan nhà máy",
+    "certPatent": "Chứng chỉ và bằng sáng chế",
+    "missionTitle": "Sứ mệnh của chúng tôi",
+    "missionText": "Cung cấp năng lượng đáng tin cậy và hợp túi tiền cho mọi ngành nghề thông qua sản xuất OEM chuyên nghiệp và hỗ trợ sau bán hàng nhanh chóng.",
+    "qualityTitle": "Kiểm soát chất lượng",
+    "qualityText": "Mỗi máy phát đều trải qua quy trình kiểm soát chất lượng 12 bước nghiêm ngặt, bao gồm thử tải, thử cách điện và kiểm tra chức năng trước khi xuất xưởng.",
+    "expertiseTitle": "Thế mạnh của chúng tôi",
+    "expertise1": "Máy phát kiểu mở",
+    "expertise2": "Máy phát chống ồn",
+    "expertise3": "Máy phát kiểu container",
+    "expertise4": "Máy phát di động trên rơ moóc",
+    "factoryTitle": "Nhà máy của chúng tôi",
+    "customersTitle": "Khách thăm nhà máy",
+    "certTitle": "Chứng chỉ và ủy quyền",
+    "certSubtitle": "Chứng nhận hệ thống, ủy quyền OEM và bằng độc quyền giải pháp hữu ích",
+    "showMoreCerts": "Xem tất cả chứng chỉ",
+    "showLessCerts": "Thu gọn",
+    "certCats": {
+      "system": "Chứng nhận hệ thống",
+      "oem": "OEM & Ủy quyền",
+      "patents": "Bằng cấp kiểu hữu ích"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Chứng nhận Quản lý Chất lượng",
+      "cert-06": "ISO 14001 (GB/T 24001) Quản lý Môi trường",
+      "cert-07": "ISO 45001 (GB/T 45001) Sức khỏe & An nghề nghiệp",
+      "cert-02": "CE Chỉ thị Máy móc",
+      "cert-01": "Cummins GOEM Ủy quyền",
+      "cert-03": "Yuchai Chứng nhận Nhà phân phối",
+      "cert-04": "SDEC Power Ủy quyền",
+      "cert-09": "Weichai Power Ủy quyền",
+      "cert-05": "EvoTec Máy phát OEM Ủy quyền",
+      "cert-11": "Shanghai Shendong (SWG) Chứng nhận OEM",
+      "cert-10": "FORTRUST OEM Ủy quyền",
+      "cert-12": "Yuchai Hàng hải & Tổ máy phát OEM Ủy quyền",
+      "cert-21": "Bằng sáng chế – Tổ máy phát điện tiếng ồn thấp",
+      "cert-23": "Bằng sáng chế – Tổ máy phát điện siêu êm",
+      "cert-22": "Bằng sáng chế – Trạm điện di động",
+      "cert-13": "Bằng sáng chế – Khung gầm cơ sở cho tổ máy phát",
+      "cert-14": "Bằng sáng chế – Bộ điều tốc động cơ diesel",
+      "cert-15": "Bằng sáng chế – Đề nổ động cơ diesel",
+      "cert-16": "Bằng sáng chế – Thiết bị giảm tiếng ồn",
+      "cert-17": "Bằng sáng chế – Tổ máy phát tiết kiệm năng lượng",
+      "cert-18": "Bằng sáng chế – Tổ máy phát tiết kiệm nhiên liệu",
+      "cert-19": "Bằng sáng chế – Thiết bị thu hồi nhiệt năng",
+      "cert-20": "Bằng sáng chế – Máy phát kích từ tốc độ cao"
+    },
+    "certAllLabel": "Tất cả"
+  },
+  "productsPage": {
+    "title": "Sản phẩm của chúng tôi",
+    "subtitle": "Khám phá máy phát điện diesel theo thương hiệu động cơ, dải công suất và kiểu máy",
+    "filterByBrand": "Lọc theo thương hiệu động cơ",
+    "filterByPower": "Lọc theo công suất",
+    "filterByType": "Lọc theo kiểu máy",
+    "brand": "Thương hiệu động cơ",
+    "power": "Công suất",
+    "unitType": "Kiểu máy",
+    "all": "Tất cả",
+    "noResults": "Không có sản phẩm phù hợp với bộ lọc của bạn.",
+    "specsTitle": "Thông số kỹ thuật chính",
+    "brandLabel": "Thương hiệu động cơ",
+    "powerLabel": "Công suất",
+    "typeLabel": "Kiểu máy",
+    "enquiryTitle": "Yêu cầu thông tin máy phát này",
+    "enquiryName": "Tên",
+    "enquiryEmail": "Email",
+    "enquiryPhone": "Điện thoại / WhatsApp",
+    "enquiryMessage": "Tin nhắn của bạn",
+    "enquirySend": "Gửi yêu cầu",
+    "enquiryNote": "Đội ngũ của chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+    "featuresTitle": "Tính năng",
+    "applicationsTitle": "Phạm vi ứng dụng",
+    "problemsTitle": "Vấn đề nó giải quyết",
+    "prev": "Trước",
+    "next": "Tiếp",
+    "page": "Trang",
+    "detailTag": "Chi tiết sản phẩm"
+  },
+  "solutions": {
+    "title": "Giải pháp năng lượng theo ngành nghề",
+    "subtitle": "Máy phát diesel tùy chỉnh cho các tình huống công nghiệp và thương mại",
+    "commercial-community": {
+      "name": "Thương mại và Khu dân cư",
+      "desc": "Nguồn điện dự phòng đáng tin cậy cho trung tâm thương mại, khu dân cư và văn phòng."
+    },
+    "data-center": {
+      "name": "Trung tâm dữ liệu",
+      "desc": "Máy phát ổn định cấp điện khẩn cấp trung tâm dữ liệu, hỗ trợ vận hành song song N+1."
+    },
+    "medical": {
+      "name": "Y tế & Bệnh viện",
+      "desc": "Cung cấp điện liên tục cho bệnh viện, phòng khám và cơ sở y tế."
+    },
+    "factory": {
+      "name": "Nhà máy & Sản xuất",
+      "desc": "Nguồn điện chính hoặc dự phòng cho xưởng sản xuất và nhà máy."
+    },
+    "mining-oil": {
+      "name": "Khai thác mỏ & Dầu khí",
+      "desc": "Máy phát diesel ổn định phục vụ mỏ và dự án dầu‑khí trong điều kiện làm việc phức tạp."
+    },
+    "transportation": {
+      "name": "Giao thông vận tải",
+      "desc": "Giải pháp năng lượng cho cảng, đường sắt và trung tâm giao thông."
+    },
+    "agriculture": {
+      "name": "Nông nghiệp",
+      "desc": "Máy phát cho tưới tiêu, chế biến ngũ cốc và nguồn điện dự phòng nông thôn."
+    },
+    "construction-site": {
+      "name": "Công trường xây dựng",
+      "desc": "Máy phát di động và cố định cấp điện tạm thời cho công trường."
+    },
+    "home-backup-power": {
+      "name": "Điện dự phòng gia đình",
+      "desc": "Máy phát diesel êm ái cho nhu cầu cấp điện khẩn cấp gia đình."
+    }
+  },
+  "contactPage": {
+    "title": "Liên hệ với chúng tôi",
+    "subtitle": "Cho chúng tôi biết nhu cầu năng lượng của bạn và nhận báo giá trong vòng 24 giờ",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Địa chỉ",
+    "formTitle": "Gửi tin nhắn cho chúng tôi",
+    "name": "Tên của bạn",
+    "emailInput": "Email của bạn",
+    "phone": "Điện thoại / WhatsApp",
+    "country": "Quốc gia",
+    "product": "Sản phẩm / Công suất cần thiết",
+    "submit": "Gửi tin nhắn",
+    "success": "Cảm ơn bạn! Tin nhắn của bạn đã được gửi. Chúng tôi sẽ phản hồi sớm.",
+    "formNote": "Các trường có dấu * là bắt buộc.",
+    "formError": "Xin lỗi, đã xảy ra lỗi. Vui lòng thử lại hoặc viết thư trực tiếp cho chúng tôi.",
+    "message": "Nhu cầu của bạn",
+    "phName": "Nhập tên của bạn",
+    "phEmail": "Nhập email của bạn",
+    "phPhone": "Nhập số điện thoại / WhatsApp",
+    "phCountry": "Nhập quốc gia của bạn",
+    "phProduct": "vd: máy phát điện êm 200 kVA",
+    "phMessage": "Mô tả nhu cầu: công suất, hãng động cơ, số lượng, thời gian giao hàng, v.v.",
+    "sending": "Đang gửi…",
+    "productUrlLabel": "URL trang sản phẩm",
+    "phProductUrl": "Liên kết trang sản phẩm",
+    "productNamePrefix": "Tên sản phẩm:",
+    "productLinkPrefix": "Liên kết sản phẩm:",
+    "tooFrequent": "Vui lòng đợi một lát trước khi gửi lại.",
+    "quoteHeading": "Điền thông tin của bạn để nhận giải pháp và báo giá miễn phí",
+    "reqError": "Trường này là bắt buộc",
+    "emailInvalid": "Vui lòng nhập email hợp lệ"
+  },
+  "footerMobile": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "inquiry": "Gửi yêu cầu",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "Nhà sản xuất và xuất khẩu máy phát điện diesel chuyên nghiệp (20‑4000kVA) từ năm 2013.",
+    "quickLinks": "Liên kết nhanh",
+    "productsTitle": "Sản phẩm",
+    "contactTitle": "Liên hệ",
+    "rights": "Bảo lưu mọi quyền.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ",
+    "whatsapp": "WhatsApp",
+    "address": "Địa chỉ",
+    "email": "Email"
+  },
+  "blogPage": {
+    "title": "Tin tức & Blog",
+    "subtitle": "Góc nhìn, hướng dẫn và tin tức công ty về máy phát điện diesel",
+    "readMore": "Đọc thêm",
+    "backToBlog": "Quay lại Blog",
+    "empty": "Chưa có bài viết. Quay lại sớm nhé.",
+    "posted": "Đăng vào",
+    "readTime": "phút đọc"
+  },
+  "legal": {
+    "updatedLabel": "Cập nhật lần cuối: tháng 10 năm 2026",
+    "privacyTitle": "Chính sách bảo mật",
+    "privacyBody": [
+      "Công ty Jiangsu Kaichen Power Equipment Co., Ltd. («chúng tôi», «của chúng tôi») cam kết bảo vệ quyền riêng tư của khách truy cập trang web. Chính sách này giải thích thông tin chúng tôi thu thập và cách chúng tôi sử dụng.",
+      "Khi bạn gửi yêu cầu qua biểu mẫu liên hệ hoặc yêu cầu sản phẩm, chúng tôi thu thập dữ liệu bạn cung cấp: tên, email, số điện thoại và nội dung tin nhắn. Chúng tôi chỉ dùng thông tin này để trả lời yêu cầu của bạn và cung cấp thông tin về sản phẩm và dịch vụ.",
+      "Chúng tôi không bán hoặc chia sẻ thông tin cá nhân của bạn với bên thứ ba, trừ khi pháp luật yêu cầu. Nếu có thắc mắc, vui lòng liên hệ qua email chính thức của chúng tôi."
+    ],
+    "termsTitle": "Điều khoản dịch vụ",
+    "termsBody": [
+      "Khi sử dụng trang web này, bạn đồng ý với các điều khoản này. Trừ khi được nêu rõ, mọi nội dung, hình ảnh và thông tin sản phẩm trên trang web đều thuộc sở hữu của Công ty Jiangsu Kaichen Power Equipment Co., Ltd.",
+      "Thông số kỹ thuật hiển thị mang tính tham khảo và có thể điều chỉnh theo yêu cầu của bạn. Vui lòng xác nhận thông số cuối cùng với đội ngũ bán hàng của chúng tôi trước khi đặt hàng.",
+      "Không có gì trên trang web này tạo thành lời chào hàng ràng buộc. Đơn hàng tuân theo báo giá bằng văn bản và hợp đồng bán hàng của chúng tôi."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Công suất chính",
+    "standbyPower": "Công suất dự phòng",
+    "engine": "Động cơ",
+    "alternator": "Máy phát",
+    "voltage": "Điện áp",
+    "control": "Điều khiển",
+    "starting": "Khởi động",
+    "cooling": "Làm mát",
+    "noiseLevel": "Mức ồn",
+    "fuelTank": "Bình nhiên liệu",
+    "container": "Container",
+    "fuelSystem": "Hệ thống nhiên liệu",
+    "trailer": "Rơ moóc",
+    "frame": "Khung",
+    "fuelConsumption": "Tiêu thụ nhiên liệu",
+    "mobility": "Di động"
+  },
+  "aboutExtended": {
+    "statsFounded": "Thành lập",
+    "statsCapacity": "Bộ / Công suất năm",
+    "statsDelivered": "Bộ giao trong 3 năm",
+    "statsStaff": "Nhân viên (30 kỹ thuật viên dịch vụ)",
+    "statsArea": "Nhà máy tại Dương Châu",
+    "statsService": "Điểm dịch vụ ủy quyền",
+    "inhouseTitle": "Sản xuất nội bộ, không chỉ lắp ráp",
+    "inhouseText": "Khác với hầu hết nhà mua bán mua động cơ, máy phát và vỏ riêng rồi lắp tại chỗ, Kaichen giữ ba bước giá trị gia tăng cốt lõi tại nhà máy Dương Châu của mình. Vì vậy chi phí giảm và chất lượng ổn định.",
+    "inhouse1Title": "Máy phát đồng cuộn tại xưởng.",
+    "inhouse1Text": "Chúng tôi dùng thép silic cao cấp và dây men đồng 100%, cuộn và ngâm chân không trên dây chuyền riêng, cách điện cấp H.",
+    "inhouse2Title": "Vỏ cách âm trên dây chuyền tôn tự động.",
+    "inhouse2Text": "Cắt laser, dập, sơn bột chống thời tiết, bọt cách âm chống cháy và kênh hình mê cung giảm tiếng ồn xuống 65–75 dB(A).",
+    "inhouse3Title": "Tủ điều khiển và ATS lắp ráp tại xưởng.",
+    "inhouse3Text": "Tủ tự khởi động, tủ ATS chuyển nguồn và tủ song song đi dây theo dữ liệu động cơ và máy phát cụ thể, không theo catalogue chung.",
+    "loadbankTitle": "Kiểm tra tải 4 cấp cho mỗi tổ máy",
+    "loadbankText": "Hầu hết nhà máy giao máy sau khi chạy không tải. Mỗi tổ máy Kaichen chạy trên băng tải kiểm tra số 2 MW theo bậc thang. Video kiểm tra được ghi lại, lưu trữ và giao cho khách trước khi xuất xưởng.",
+    "benchmarkTitle": "Dự án tiêu biểu",
+    "benchmarkText": "Theo dữ liệu đấu thầu công khai, Kaichen đã thắng 73 dự án công quốc gia và địa phương tại hơn 20 tỉnh. Các dự án tiêu biểu:",
+    "benchmark1": "Trung tâm dữ liệu China UnionPay Hoàng Sơn — hệ thống song song nhiều MW cho trung tâm dữ liệu tài chính.",
+    "benchmark2": "Trục China Mobile — nguồn dự phòng cho phòng viễn thông cấp tỉnh và quốc gia.",
+    "benchmark3": "Mỏ dầu PetroChina — chạy liên tục trong sa mạc, bụi và nhiệt độ dao động rộng.",
+    "benchmark4": "Bệnh viện hạng nhất — dự phòng yên tĩnh với chuyển mạch tự động cấp giây.",
+    "benchmark5": "Mỏ than Thái Nguyên, 1200 kW — nguồn chính cho khu công nghiệp nặng.",
+    "manufacturingTitle": "Sản xuất và kiểm tra chất lượng",
+    "lbRow1Title": "20% tải nhẹ",
+    "lbRow1Desc": "Khởi động nguội, êm lúc chạy không tải, cân bằng 3 pha, kiểm tra rung",
+    "lbRow2Title": "50% tải nửa, 30 phút",
+    "lbRow2Desc": "Ổn định, dung dịch làm mát và áp dầu, cân bằng nhiệt",
+    "lbRow3Title": "75% tải nặng, 60 phút",
+    "lbRow3Desc": "Dự trữ công suất, nhiệt độ tăng, tần số và điện áp sụt",
+    "lbRow4Title": "100% tải định mức, 60 phút",
+    "lbRow4Desc": "Xác minh công suất định mức, phục hồi quá độ, cắt khi quá tải",
+    "mfgIntro": "Mỗi tổ máy Kaichen đều đi qua cùng dây chuyền sản xuất và quy trình kiểm tra trước khi rời nhà máy ở Giang Tô. Quy trình xây dựng quanh một mục tiêu: tổ máy đến site của bạn sẵn sàng tải ngay khi mất điện đầu tiên, không phải sau một tháng debug.",
+    "mfgBuiltTitle": "Mỗi tổ máy được lắp ráp thế nào",
+    "mfgBuilt1Title": "Phối hợp động cơ và máy phát.",
+    "mfgBuilt1Text": "Chúng tôi phối công suất động cơ với máy phát đúng hệ số công suất site bạn cần, không chỉ theo số trên nhãn.",
+    "mfgBuilt2Title": "Bệ và thùng nhiên liệu.",
+    "mfgBuilt2Text": "Bệ hàn từ tôn thép, lắp thùng nhiên liệu tích hợp, đế giảm chấn và khe nâng forklift trước khi lắp động cơ.",
+    "mfgBuilt3Title": "Đi dây và tủ điều khiển.",
+    "mfgBuilt3Text": "Dây lực và dây tín hiệu đi riêng kênh, đầu cos đánh số, bộ điều khiển số được lập trình sẵn theo điện áp, tần số và logic ATS của bạn.",
+    "mfgBuilt4Title": "Cách âm hoặc container.",
+    "mfgBuilt4Text": "Máy yên trang bị bọt cách âm, panel thông gió và cửa truy cập; máy container trang bị cửa kín thời tiết, đèn nội bộ và ổ cắm nguồn ngoài.",
+    "mfgLoadTestTitle": "Kiểm tra tải trước xuất xưởng",
+    "mfgLoadTestIntro": "Không tổ máy nào xuất xưởng chỉ bằng kiểm tra mắt. Mỗi đơn vị chạy trên bộ tải điện tử theo trình tự bậc thang, và báo cáo kiểm tra đi kèm:",
+    "mfgRow1Title": "Chạy không tải",
+    "mfgRow1Desc": "Khởi động ấm, kiểm tra áp dầu và điện áp sạc",
+    "mfgRow2Title": "25% tải, 30 phút",
+    "mfgRow2Desc": "Ổn định điện áp và tần số, nhiệt độ xả",
+    "mfgRow3Title": "50% tải, 30 phút",
+    "mfgRow3Desc": "Phản hồi governor, tiêu thụ nhiên liệu, mức ồn",
+    "mfgRow4Title": "75% tải, 60 phút",
+    "mfgRow4Desc": "Hệ thống làm mát, nhiệt độ nước giải nhiệt, độ căng dây Curoa",
+    "mfgRow5Title": "100% tải, 60 phút",
+    "mfgRow5Desc": "Công suất định mức đầy đủ, điều chỉnh điện áp ±1.5%",
+    "mfgRow6Title": "Quá tải 110%, 1 phút",
+    "mfgRow6Desc": "Cắt bảo vệ và xác minh báo động",
+    "mfgFinalTitle": "Kiểm tra cuối cùng",
+    "mfgFinal1": "Điện trở cách điện và thông địa kiểm tra sau ngâm ẩm-nhiệt.",
+    "mfgFinal2": "Tất cả chức năng bảo vệ được xác minh: quá tốc, nhiệt độ nước cao, áp dầu thấp, quá dòng, dừng khẩn cấp.",
+    "mfgFinal3": "Trình tự ATS được kiểm tra end-to-end trên bàn thử.",
+    "mfgFinal4": "Sơn vá, vệ sinh và danh mục phụ tùng đầy đủ trong hộp dụng cụ.",
+    "mfgClosing": "Chứng chỉ CE và ISO 9001 đi kèm mỗi lô. Nếu cần chứng nhận quan sát, báo cáo giám định bên thứ ba (BV, SGS, TUV), hoặc giao thức FAT theo site, báo trước khi vào sản xuất để chúng tôi chuẩn bị."
+  },
+  "productType": {
+    "silent": "Cách âm",
+    "open": "Kháu mở",
+    "container": "Container",
+    "mobileTrailer": "Rơ moóc di động",
+    "dieselGenerator": "Máy phát điện diesel",
+    "powerPlant": "Nhà máy điện container"
+  },
+  "products": {
+    "cummins-100-silent": {
+      "description": "Máy phát điện diesel Cummins 100 kW cách âm gọn gàng cho văn phòng, nhà máy nhỏ và khu vực gần dân cư cần kiểm soát tiếng ồn.",
+      "features": [
+        "Động cơ diesel Cummins 4 hoặc 6 xi-lanh có dịch vụ toàn cầu",
+        "Buồng cách âm giảm tiếng ồn cho khu vực gần người",
+        "Bể nhiên liệu tích hợp trên đế để chạy lâu hơn",
+        "Bảng điều khiển số với khởi động tự động tùy chọn",
+        "Vỏ bảo vệ thời tiết cho lắp đặt ngoài trời"
+      ]
+    },
+    "doosan-500-silent": {
+      "description": "Máy phát diesel Doosan 500 kW công nghiệp cách âm nặng cho nhà máy, bệnh viện và tòa nhà thương mại cần công suất dự phòng lớn với tiếng ồn thấp.",
+      "features": [
+        "Động cơ Doosan nặng 6 xi-lanh cho chạy liên tục và dự phòng",
+        "Buồng cách âm lớn cho khu đô thị và công nghiệp",
+        "Bình tản nhiệt cao cấp cho nhiệt độ môi trường cao",
+        "Máy phát đồng bộ không chổi than với AVR",
+        "Sẵn sàng chuyển nguồn tự động"
+      ]
+    },
+    "kc-100-open": {
+      "description": "Máy phát diesel mở 100 kVA đáng tin cậy cho công trường, xưởng và cấp điện nông thôn.",
+      "features": [
+        "Máy mở trên trượt với khung thép nặng",
+        "Động cơ Yuchai 6 xi-lanh, bền bỉ đã kiểm chứng",
+        "Bảo vệ đầy đủ: dầu thấp, nước nóng, quá tải",
+        "Bảng số với giám sát từ xa tùy chọn",
+        "Bảo trì dễ dàng"
+      ]
+    },
+    "kc-1000-container": {
+      "description": "Nhà máy điện container 1000 kVA, lý tưởng cho đội cho thuê lớn, khai khoáng và hỗ trợ lưới điện.",
+      "features": [
+        "Khối container 40 feet cách âm và nhiệt đầy đủ",
+        "Động cơ Cummins mật độ công suất cao",
+        "Chạy song song nhiều máy",
+        "Bể ngày, lọc nhiên liệu và chữa cháy tích hợp",
+        "Bảo trì thấp cho chạy liên tục"
+      ]
+    },
+    "kc-150-perkins": {
+      "description": "Máy phát diesel mở 150 kVA với động cơ Perkins, lý tưởng cho dự phòng công nghiệp và xây dựng.",
+      "features": [
+        "Động cơ Perkins 1106 đáng tin cậy đã kiểm chứng",
+        "Khung thép mở vững chắc với chống rung",
+        "Bảng số Deep Sea hoặc tương đương",
+        "Tiêu thụ nhiên liệu thấp và bảo trì rẻ",
+        "Chứng nhận CE và ISO9001"
+      ]
+    },
+    "kc-200-silent": {
+      "description": "Máy phát diesel cách âm 200 kVA tầm trung cho tòa nhà thương mại, ngân hàng và dự phòng công nghiệp.",
+      "features": [
+        "Buồng cách âm chống thời tiết cho ngoài trời",
+        "Động cơ Weichai với bộ điều tốc điện tử",
+        "Chạy song song được (tùy chọn)",
+        "Điều khiển số đầy đủ màn hình LCD",
+        "Hỗ trợ khởi động lạnh và ATS"
+      ]
+    },
+    "kc-2000-mobile": {
+      "description": "Máy phát diesel di động rơ moóc 2000 kVA cho cứu hộ, sự kiện và hoạt động thực địa cần triển khai nhanh.",
+      "features": [
+        "Gắn trên rơ moóc kéo được tốc độ đường bộ",
+        "Động cơ Perkins nặng cho công suất chính",
+        "Chân thủy lực và cách ly rung",
+        "Nối nhanh điện và nhiên liệu",
+        "Chiếu sáng, chữa cháy và buồng điều khiển"
+      ]
+    },
+    "kc-250-doosan": {
+      "description": "Máy phát diesel cách âm gọn 250 kVA với động cơ Doosan cho dự phòng thương mại và cộng đồng.",
+      "features": [
+        "Động cơ Doosan ồn thấp và tiết kiệm nhiên liệu",
+        "Buồng cách âm: ồn dưới 72 dB(A) tại 7 m",
+        "Tự động điều áp, sẵn sàng giám sát từ xa",
+        "Bể tích hợp chạy 8+ giờ liên tục",
+        "Chứng nhận CE và ISO9001"
+      ]
+    },
+    "kc-300-container": {
+      "description": "Máy phát diesel container 300 kVA, đầy đủ trang bị sẵn sàng triển khai nơi xa và khắc nghiệt.",
+      "features": [
+        "Container 20 feet xử lý âm đầy đủ",
+        "Thiết kế chạy song song và chia tải",
+        "Bể ngày, chữa cháy và ống xả tích hợp",
+        "Truy cập bảo dưỡng ngoài và phòng điều khiển tùy chọn",
+        "Phù hợp cho thuê và điện tạm thời"
+      ]
+    },
+    "kc-40-silent": {
+      "description": "Máy phát diesel cách âm gọn 40 kVA, lý tưởng cho doanh nghiệp nhỏ, biệt thự và dự phòng thương mại nhẹ.",
+      "features": [
+        "Buồng cách âm: ồn dưới 70 dB(A) tại 7 m",
+        "Động cơ Weichai 4 xi-lanh tiết kiệm nhiên liệu",
+        "Tự động điều áp và bảng số",
+        "Bể tích hợp chạy 8+ giờ",
+        "Chứng nhận CE và ISO9001"
+      ]
+    },
+    "kc-4000-container": {
+      "description": "Nhà máy điện container 4000 kVA với động cơ MTU, thiết kế cho dự án công nghiệp và tiện ích lớn.",
+      "features": [
+        "Động cơ MTU cao cấp đáng tin cậy đặc biệt",
+        "Chạy song song đa mô-đun cho công suất MW",
+        "Hệ thống nhiên liệu, làm mát và điều khiển tích hợp hoàn chỉnh",
+        "Phù hợp tải nền, đỉnh và hỗ trợ lưới",
+        "Chu kỳ bảo dưỡng dài giảm chi phí"
+      ]
+    },
+    "kc-500-open": {
+      "description": "Máy phát diesel mở nặng 500 kVA với động cơ Cummins, cho điện công nghiệp và thương mại liên tục.",
+      "features": [
+        "Động cơ Cummins NT, đáng tin cậy toàn cầu",
+        "Phù hợp chế độ chính và dự phòng",
+        "Sẵn sàng chạy song song và giám sát từ xa",
+        "Đế nặng với chống rung",
+        "Tiêu thụ thấp và tuổi thọ dài"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "description": "Máy phát diesel mở hiệu suất cao 600 kVA với động cơ Mitsubishi, cho trung tâm dữ liệu, khai khoáng và công nghiệp nặng.",
+      "features": [
+        "Động cơ Mitsubishi mật độ cao và phát thải thấp",
+        "Kết cấu mở bền cho môi trường khắc nghiệt",
+        "Chạy song song cho dự phòng N+1",
+        "Điều khiển số với giao diện giám sát từ xa",
+        "Chứng nhận CE và ISO9001"
+      ]
+    },
+    "kc-800-silent": {
+      "description": "Máy phát diesel cách âm cao cấp 800 kVA với động cơ Volvo Penta, cho trung tâm dữ liệu, bệnh viện và cơ sở lớn.",
+      "features": [
+        "Động cơ Volvo Penta tiết kiệm nhiên liệu xuất sắc",
+        "Buồng cách âm cao cấp cho đô thị",
+        "Chạy song song N+1 và quản lý tải",
+        "Bộ điều khiển số tiên tiến giám sát từ xa",
+        "Động cơ tuân thủ phát thải"
+      ]
+    },
+    "kc-900-scania": {
+      "description": "Máy phát diesel cách âm mạnh 900 kVA với động cơ Scania, cho cơ sở quan trọng và dự án thương mại lớn.",
+      "features": [
+        "Động cơ công nghiệp Scania 16 lít tiết kiệm nhiên liệu",
+        "Buồng cách âm: ồn dưới 75 dB(A) tại 7 m",
+        "ATS tự động và giám sát từ xa sẵn sàng",
+        "Phù hợp chạy song song và cắt đỉnh",
+        "Chứng nhận CE và ISO9001"
+      ]
+    },
+    "mitsubishi-100-open": {
+      "description": "Máy phát diesel Mitsubishi mở khung 100 kW cho phòng máy, xưởng và khu công nghiệp đã có phòng riêng bảo vệ thời tiết và tiếng ồn.",
+      "features": [
+        "Động cơ công nghiệp Mitsubishi bền bỉ",
+        "Thiết kế mở trượt dễ bảo dưỡng",
+        "Bể nhiên liệu trên đế nối bể ngày",
+        "Máy phát không chổi than tự động điều áp",
+        "Phù hợp lắp trong phòng máy hiện có"
+      ]
+    },
+    "perkins-400-silent": {
+      "description": "Máy phát diesel Perkins 400 kW cách âm cho tòa nhà thương mại, nhà máy và trung tâm dữ liệu cần dự phòng đáng tin cậy với ồn kiểm soát.",
+      "features": [
+        "Động cơ Perkins 6 xi-lanh phản ứng tức thời mạnh",
+        "Buồng âm cho phòng máy trong nhà hoặc ngoài gần văn phòng",
+        "Đế nặng với bể tích hợp",
+        "Bảng số cổng truyền thông từ xa",
+        "Phù hợp dự phòng thường xuyên và công suất chính"
+      ]
+    },
+    "scania-250-open": {
+      "description": "Máy phát diesel Scania mở khung 250 kW cho nhà máy và nơi có tải động cơ nặng cần phản ứng tức thời mạnh.",
+      "features": [
+        "Động cơ công nghiệp Scania nhận tải bậc thang xuất sắc",
+        "Bố cục mở tiếp cận bảo dưỡng đầy đủ",
+        "Phù hợp máy nén, bơm và khởi động động cơ",
+        "Máy phát không chổi than AVR điện áp ổn định",
+        "Lắp trên đế thép nặng"
+      ]
+    },
+    "shangchai-300-silent": {
+      "description": "Máy phát diesel Shangchai 300 kW cách âm kinh tế cho nhà máy, tòa nhà thương mại và vùng nông thôn cần dự phòng rẻ đáng tin cậy.",
+      "features": [
+        "Động cơ Shangchai 6 xi-lanh mạng lưới dịch vụ rộng",
+        "Buồng cách âm ngoài trời gần người",
+        "Bể nhiên liệu tích hợp trên đế",
+        "Bảng số khởi động tự động tùy chọn",
+        "Cân bằng tốt hiệu suất và chi phí"
+      ]
+    },
+    "volvo-400-silent": {
+      "description": "Máy phát diesel Volvo Penta 400 kW cách âm cho văn phòng, khách sạn và khu công nghiệp nơi ồn thấp, tiết kiệm và sạch là ưu tiên.",
+      "features": [
+        "Động cơ Volvo Penta 6 xi-lanh tiết kiệm ở tải nhẹ",
+        "Buồng âm đặt gần văn phòng và cư trú",
+        "Đế bền với chống rung",
+        "Bảng số giám sát từ xa tùy chọn",
+        "Động cơ phát thải thấp môi trường nhạy cảm"
+      ]
+    },
+    "weichai-400-silent": {
+      "description": "Máy phát diesel Weichai 400 kW cách âm cho nhà máy, khu thương mại và công trường, dự phòng đáng tin cậy với dịch vụ địa phương.",
+      "features": [
+        "Động cơ Weichai WP12/WP13 6 xi-lanh",
+        "Buồng cách âm ngoài trời",
+        "Bể tích hợp trên đế nặng",
+        "Bảng số tự động khởi động khi mất lưới",
+        "Phụ tùng sẵn có cho dịch vụ vùng"
+      ]
+    },
+    "yuchai-100-mobile": {
+      "description": "Máy phát diesel di động Yuchai 100 kW rơ moóc cho công trường, sự kiện ngoài trời, cứu hộ và nơi điện phải di chuyển.",
+      "features": [
+        "Rơ moóc hợp pháp với thanh kéo và bánh xe",
+        "Động cơ Yuchai cho dịch vụ di động",
+        "Buồng bảo vệ máy khi vận chuyển và chạy",
+        "Chân chống điều chỉnh lắp đặt nhanh",
+        "Phù hợp nơi thường xuyên đổi vị trí"
+      ]
+    },
+    "yuchai-300-silent": {
+      "description": "Máy phát diesel Yuchai 300 kW cách âm cho nhà máy, tòa nhà thương mại và nông nghiệp, dự phòng đáng tin cậy với chi phí tổng hợp hợp lý.",
+      "features": [
+        "Động cơ Yuchai 6 xi-lanh bền bỉ đã kiểm chứng",
+        "Buồng âm bảo vệ thời tiết và giảm ồn",
+        "Bể trên đế có lỗ bảo dưỡng",
+        "Bảng số khởi động tự động tùy chọn",
+        "Phù hợp dự phòng và chạy thường xuyên"
+      ]
+    }
+  },
+  "cookie": {
+    "title": "Chúng tôi tôn trọng quyền riêng tư của bạn",
+    "body": "Chúng tôi sử dụng cookie và công nghệ tương tự để vận hành trang web, phân tích lưu lượng và cá nhân hóa nội dung. Theo GDPR của EU và Vương quốc Anh, chúng tôi cần sự đồng ý của bạn trước khi tải cookie không thiết yếu. Bạn có thể thay đổi lựa chọn bất cứ lúc nào tại",
+    "privacyLink": "Chính sách bảo mật",
+    "reject": "Từ chối không thiết yếu",
+    "accept": "Chấp nhận tất cả"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Không chổi than, tự kích từ",
+    "digitalControlPanel": "Bảng điều khiển kỹ thuật số",
+    "digitalController": "Bộ điều khiển kỹ thuật số",
+    "digitalControllerAuto": "Bộ điều khiển kỹ thuật số tự khởi động",
+    "digitalControllerParallel": "Bộ điều khiển kỹ thuật số có chức năng song song",
+    "digitalControllerRemote": "Bộ điều khiển kỹ thuật số giám sát từ xa",
+    "digitalAmfController": "Bộ điều khiển AMF kỹ thuật số",
+    "atsController": "Bộ điều khiển ATS tự động",
+    "advancedParallel": "Bộ điều khiển song song nâng cao",
+    "electricStart24": "Điện khởi động, 24V",
+    "electricStart1224": "Điện khởi động, 12/24V",
+    "waterCooled": "Làm mát bằng nước (bộ tản nhiệt)",
+    "waterCooledContainer": "Làm mát bằng nước, tối ưu cho container",
+    "radiatorContainer": "Bộ tản nhiệt, tối ưu cho container",
+    "skidAntiVib": "Khung chịu lực với giá đỡ chống rung",
+    "skidForklift": "Khung chịu lực với khe nâng bằng xe nâng",
+    "singleAxleTrailer": "Rơ-le một trục, sẵn sàng đường trường",
+    "twoAxleTrailer": "Rơ-le đường trường hai trục",
+    "iso20ft": "Container ISO 20 foot",
+    "iso40ft": "Container ISO 40 foot",
+    "hc40ft": "Mô-đun high cube 40 foot",
+    "tank180": "Tích hợp, 180 L",
+    "tank300": "Tích hợp, 300 L",
+    "tank600": "Tích hợp, 600 L",
+    "tank900": "Tích hợp, 900 L",
+    "tank75": "Tích hợp, 75 L",
+    "noise6872": "68–72 dB(A) ở khoảng cách 7m",
+    "noise6975": "69–75 dB(A) ở khoảng cách 7m",
+    "noise7075": "70–75 dB(A) ở khoảng cách 7m",
+    "noise7076": "70–76 dB(A) ở khoảng cách 7m",
+    "noise7278": "72–78 dB(A) ở khoảng cách 7m",
+    "noiseLe78": "≤ 78 dB(A) ở khoảng cách 7m",
+    "noiseLe70": "≤ 70 dB(A) ở khoảng cách 7m",
+    "noiseLe72": "≤ 72 dB(A) ở khoảng cách 7m",
+    "noiseLe75": "≤ 75 dB(A) ở khoảng cách 7m",
+    "fuel640": "khoảng 640 L/h ở tải 100%",
+    "fuel91": "khoảng 91 L/h ở tải 100%",
+    "dayTank": "Bồn ngày + kết nối ngoài",
+    "voltageCustom": "400/230V, 50Hz (có thể tùy chỉnh điện áp)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

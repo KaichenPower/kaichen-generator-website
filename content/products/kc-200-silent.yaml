@@ -1,0 +1,21 @@
+name: Weichai 200kW Silent Diesel Generator
+image: /images/products/weichai-200kw-silent.jpg
+brand: Weichai
+powerKVA: 250
+type: silent
+description: Mid-range 200kVA silenced diesel generator for commercial buildings, banks and industrial standby power.
+features:
+  - Weatherproof soundproof canopy for outdoor installation
+  - Weichai engine with electronic governor
+  - Parallel operation capability (optional)
+  - Full digital control with LCD display
+  - Cold start and auto transfer switch support
+specs:
+  Prime power: 180 kW / 225 kVA
+  Standby power: 200 kW / 250 kVA
+  Engine: Weichai WP6D
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: KCP LCD controller
+  Noise level: ≤72 dB(A) @ 7m
+  Fuel tank: 180L built-in

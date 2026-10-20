@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Fabricante de geradores a diesel",
+    "description": "Fornecedor OEM de geradores a diesel de 20‑4000 kVA abertos, silenciosos, containerizados e móveis para projetos industriais e comerciais globais."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "products": "Produtos",
+    "solutions": "Soluções por setor",
+    "blog": "Blog",
+    "contact": "Contato",
+    "getQuote": "Solicitar orçamento"
+  },
+  "common": {
+    "requestQuote": "Solicitar orçamento",
+    "learnMore": "Saiba mais",
+    "viewAll": "Ver tudo",
+    "backToTop": "Voltar ao topo",
+    "language": "Idioma",
+    "allProducts": "Todos os produtos",
+    "relatedProducts": "Produtos relacionados",
+    "relatedPosts": "Artigos relacionados",
+    "backToProducts": "Voltar aos produtos",
+    "notFoundTitle": "Página não encontrada",
+    "notFoundText": "A página que você procura não existe ou foi movida.",
+    "backToHome": "Voltar ao início"
+  },
+  "home": {
+    "heroBadge": "Fabricante OEM desde 2013",
+    "heroTitle": "Fabricante chinês de geradores a diesel | Kaichen Power",
+    "heroSubtitle": "A Jiangsu Kaichen Power Equipment Co., Ltd. foi fundada em 2013 em Yangzhou, China. Como fabricante profissional de geradores a diesel, produzimos unidades abertas, silenciosas, conteinerizadas e reboque de 20–4000 kVA para projetos industriais e comerciais em todo o mundo.",
+    "cta": "Conheça nossos geradores",
+    "secondaryCta": "Solicitar orçamento",
+    "featureTitle": "Por que escolher a Kaichen Power",
+    "features": [
+      {
+        "title": "Qualidade certificada ISO e CE",
+        "text": "Produção certificada ISO9001, ISO14001 e GB/T28001 com controle rigoroso de qualidade em 12 etapas antes de cada envio."
+      },
+      {
+        "title": "Parcerias OEM globais",
+        "text": "Parceiro OEM/ODM oficial da Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi e Scania."
+      },
+      {
+        "title": "Gama completa 20–4000 kVA",
+        "text": "Unidades abertas, silenciosas, conteinerizadas e reboque de 20 a 4000 kVA para cada aplicação."
+      },
+      {
+        "title": "Preço direto de fábrica",
+        "text": "Diretamente da nossa fábrica em Yangzhou, com capacidade de 8000 unidades/ano, preços competitivos e entrega rápida."
+      }
+    ],
+    "productsTitle": "Nossos produtos",
+    "productsSubtitle": "Geradores a diesel confiáveis para cada aplicação",
+    "viewAllProducts": "Ver todos os produtos",
+    "solutionsTitle": "Soluções por setor",
+    "solutionsSubtitle": "Soluções energéticas personalizadas para diferentes setores",
+    "aboutPreviewTitle": "Sobre a Kaichen Power",
+    "aboutPreviewText": "Fundada em 2013 em Yangzhou, a Kaichen Power é fabricante e exportadora profissional de geradores a diesel, atendendo clientes em toda a China e exportando para mercados mundiais.",
+    "statsTitle": "Kaichen Power em números",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Fundação"
+      },
+      {
+        "value": "60+",
+        "label": "Países de exportação"
+      },
+      {
+        "value": "1200+",
+        "label": "Projetos entregues"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Capacidade máx."
+      }
+    ],
+    "blogTitle": "Novidades do nosso blog",
+    "readMore": "Ler mais",
+    "statsFounded": "Ano de fundação",
+    "statsCapacity": "Capacidade de produção / ano",
+    "statsEmployees": "Funcionários",
+    "statsArea": "Área da fábrica",
+    "brandsTitle": "Parceiros de motores",
+    "brandsSubtitle": "Autorização OEM oficial dos principais fabricantes mundiais de motores",
+    "slides": [
+      {
+        "title": "Fabricante chinês de grupos geradores a diesel",
+        "subtitle": "Fundada em 2013 em Yangzhou, Jiangsu — fabricante OEM profissional de grupos geradores a diesel de 20–4000 kVA."
+      },
+      {
+        "title": "Oficina avançada de produção de geradores",
+        "subtitle": "Linhas modernas e rígido controle de qualidade para cada grupo gerador aberto, silencioso, conteinerizado e sobre reboque."
+      },
+      {
+        "title": "Grupos geradores conteinerizados e silenciosos",
+        "subtitle": "Soluções de energia isoladas acusticamente e contenerizadas para aplicações urbanas, marítimas e externas."
+      },
+      {
+        "title": "Grupos geradores a diesel abertos 20–4000 kVA",
+        "subtitle": "Energia primária e de reserva confiável para projetos industriais, comerciais e de construção em todo o mundo."
+      },
+      {
+        "title": "Geradores móveis sobre reboque",
+        "subtitle": "Energia móvel pronta para locais temporários, eventos e reserva de emergência."
+      }
+    ],
+    "trustTitle": "Fabricante OEM certificado e autorizado",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "OEM Autorizado",
+      "8000 unidades/ano"
+    ],
+    "factoryTitle": "Nossa fábrica e oficina",
+    "factorySubtitle": "Veja o interior da nossa fábrica de grupos geradores a diesel em Yangzhou",
+    "factoryCaptions": [
+      "Linhas de montagem e produção",
+      "Controle de qualidade e teste de carga",
+      "Oficina de unidades móveis",
+      "Chaparia e fabricação"
+    ],
+    "workshopTitle": "Fabricação em ação",
+    "workshopText": "Da chaparia à montagem final e teste de carga, cada gerador Kaichen é fabricado e verificado na nossa própria oficina em Yangzhou."
+  },
+  "aboutPage": {
+    "title": "Sobre a Kaichen Power",
+    "lead": "Fabricante e exportador profissional de geradores a diesel de Yangzhou, China, fundado em 2013.",
+    "body1": "A Jiangsu Kaichen Power Equipment Co., Ltd. foi fundada em 2013 em Yangzhou, província de Jiangsu, China. Somos um fabricante completo de equipamentos de energia que integra P&D, produção e venda de geradores a diesel, com capacidade anual de 8000 unidades e 36 000 m² de fábrica. Nossos produtos abrangem tipos abertos, silenciosos, conteinerizados e reboque de 20 a 4000 kVA, usados em centros de dados, hospitais, telecomunicações, mineração, petróleo e gás, transporte, construção e residências.",
+    "body2": "Mantemos parcerias OEM oficiais com Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi e Scania, e somos certificados ISO9001, ISO14001 e GB/T28001. Como Empresa Nacional de Alta Tecnologia desde 2020, possuímos mais de 10 patentes de modelo de utilidade e oferecemos soluções personalizadas de ponta a ponta, do design à instalação e assistência técnica.",
+    "companyIntro": "Sobre a empresa",
+    "factoryVideo": "Vídeo da fábrica",
+    "productionLine": "Linha de produção",
+    "customerVisit": "Visitas de clientes",
+    "certPatent": "Certificados e patentes",
+    "missionTitle": "Nossa missão",
+    "missionText": "Oferecer energia confiável e acessível a cada setor por meio de fabricação OEM profissional e suporte pós-venda ágil.",
+    "qualityTitle": "Controle de qualidade",
+    "qualityText": "Cada gerador passa por um rigoroso processo de controle de qualidade em 12 etapas, incluindo teste de carga, teste de isolamento e inspeção funcional antes do embarque.",
+    "expertiseTitle": "Nossa especialidade",
+    "expertise1": "Geradores abertos",
+    "expertise2": "Geradores silenciosos",
+    "expertise3": "Geradores containerizados",
+    "expertise4": "Geradores móveis sobre reboque",
+    "factoryTitle": "Nossa fábrica",
+    "customersTitle": "Visitas de clientes",
+    "certTitle": "Certificados e autorizações",
+    "certSubtitle": "Certificações de sistemas, autorizações OEM e patentes de modelo de utilidade",
+    "showMoreCerts": "Ver todos os certificados",
+    "showLessCerts": "Mostrar menos",
+    "certCats": {
+      "system": "Certificações do sistema",
+      "oem": "OEM e autorizações",
+      "patents": "Patentes de modelo de utilidade"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Certificação de Gestão da Qualidade",
+      "cert-06": "ISO 14001 (GB/T 24001) Gestão Ambiental",
+      "cert-07": "ISO 45001 (GB/T 45001) Saúde e Segurança Ocupacional",
+      "cert-02": "CE Diretriz de Máquinas",
+      "cert-01": "Cummins GOEM Autorização",
+      "cert-03": "Yuchai Certificado de Distribuidor",
+      "cert-04": "SDEC Power Autorização",
+      "cert-09": "Weichai Power Autorização",
+      "cert-05": "EvoTec Alternador OEM Autorização",
+      "cert-11": "Shanghai Shendong (SWG) OEM Certificado",
+      "cert-10": "FORTRUST OEM Autorização",
+      "cert-12": "Yuchai Marítimo e Grupo Gerador OEM Autorização",
+      "cert-21": "Patente – Grupo Gerador Baixo Ruído",
+      "cert-23": "Patente – Grupo Gerador Ultra-Silencioso",
+      "cert-22": "Patente – Estação de Energia Móvel",
+      "cert-13": "Patente – Chassi Base para Grupos Geradores",
+      "cert-14": "Patente – Regulador de Velocidade Motor a Diesel",
+      "cert-15": "Patente – Motor de Partida Diesel",
+      "cert-16": "Patente – Dispositivo de Redução de Ruído",
+      "cert-17": "Patente – Grupo Gerador Economizador",
+      "cert-18": "Patente – Grupo Gerador Regulador Economizador",
+      "cert-19": "Patente – Dispositivo de Recuperação de Calor",
+      "cert-20": "Patente – Gerador de Excitação de Alta Velocidade"
+    },
+    "certAllLabel": "Todos"
+  },
+  "productsPage": {
+    "title": "Nossos produtos",
+    "subtitle": "Explore nossos geradores a diesel por marca do motor, faixa de potência e tipo de equipamento",
+    "filterByBrand": "Filtrar por marca do motor",
+    "filterByPower": "Filtrar por potência",
+    "filterByType": "Filtrar por tipo de equipamento",
+    "brand": "Marca do motor",
+    "power": "Potência",
+    "unitType": "Tipo de equipamento",
+    "all": "Todos",
+    "noResults": "Nenhum produto corresponde aos seus filtros.",
+    "specsTitle": "Especificações principais",
+    "brandLabel": "Marca do motor",
+    "powerLabel": "Potência",
+    "typeLabel": "Tipo de equipamento",
+    "enquiryTitle": "Consultar sobre este gerador",
+    "enquiryName": "Nome",
+    "enquiryEmail": "E-mail",
+    "enquiryPhone": "Telefone / WhatsApp",
+    "enquiryMessage": "Sua mensagem",
+    "enquirySend": "Enviar consulta",
+    "enquiryNote": "Nossa equipe responderá em até 24 horas.",
+    "featuresTitle": "Características",
+    "applicationsTitle": "Âmbito de aplicação",
+    "problemsTitle": "Problemas que resolve",
+    "prev": "Anterior",
+    "next": "Próximo",
+    "page": "Página",
+    "detailTag": "Detalhe do produto"
+  },
+  "solutions": {
+    "title": "Soluções de energia por setor",
+    "subtitle": "Geradores a diesel personalizados para cenários industriais e comerciais",
+    "commercial-community": {
+      "name": "Comércio e condomínios",
+      "desc": "Energia de reserva confiável para shoppings, residências e escritórios."
+    },
+    "data-center": {
+      "name": "Centros de dados",
+      "desc": "Geradores estáveis para emergência de data centers, suporte a operação paralela N+1."
+    },
+    "medical": {
+      "name": "Saúde e hospitais",
+      "desc": "Fornecimento contínuo para hospitais, clínicas e unidades médicas."
+    },
+    "factory": {
+      "name": "Fábricas e indústria",
+      "desc": "Energia principal ou reserva para plantas industriais."
+    },
+    "mining-oil": {
+      "name": "Mineração e campos de petróleo",
+      "desc": "Geradores estáveis para projetos de mineração e petróleo‑gás em condições operacionais complexas."
+    },
+    "transportation": {
+      "name": "Infraestrutura de transporte",
+      "desc": "Soluções energéticas para portos, ferrovias e terminais."
+    },
+    "agriculture": {
+      "name": "Agricultura",
+      "desc": "Geradores para irrigação, processamento de grãos e energia rural reserva."
+    },
+    "construction-site": {
+      "name": "Obras civis",
+      "desc": "Geradores móveis e fixos para energia temporária em canteiros."
+    },
+    "home-backup-power": {
+      "name": "Energia reserva residencial",
+      "desc": "Geradores silenciosos a diesel para emergência em residências."
+    }
+  },
+  "contactPage": {
+    "title": "Fale conosco",
+    "subtitle": "Conte-nos suas necessidades de energia e receba um orçamento em até 24 horas",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp",
+    "address": "Endereço",
+    "formTitle": "Envie-nos uma mensagem",
+    "name": "Seu nome",
+    "emailInput": "Seu e-mail",
+    "phone": "Telefone / WhatsApp",
+    "country": "País",
+    "product": "Produto / Potência necessária",
+    "submit": "Enviar mensagem",
+    "success": "Obrigado! Sua mensagem foi enviada. Responderemos em breve.",
+    "formNote": "Os campos marcados com * são obrigatórios.",
+    "formError": "Desculpe, algo deu errado. Tente novamente ou escreva-nos diretamente.",
+    "message": "Sua necessidade",
+    "phName": "Digite seu nome",
+    "phEmail": "Digite seu e-mail",
+    "phPhone": "Digite telefone / WhatsApp",
+    "phCountry": "Digite seu país",
+    "phProduct": "ex.: gerador silencioso 200 kVA",
+    "phMessage": "Descreva sua necessidade: capacidade, marca do motor, quantidade, prazo, etc.",
+    "sending": "Enviando…",
+    "productUrlLabel": "URL da página do produto",
+    "phProductUrl": "Link para a página do produto",
+    "productNamePrefix": "Nome do produto:",
+    "productLinkPrefix": "Link do produto:",
+    "tooFrequent": "Aguarde um momento antes de enviar novamente.",
+    "quoteHeading": "Preencha seus dados para obter uma solução e orçamento gratuitos",
+    "reqError": "Este campo é obrigatório",
+    "emailInvalid": "Digite um e-mail válido"
+  },
+  "footerMobile": {
+    "home": "Início",
+    "products": "Produtos",
+    "inquiry": "Enviar consulta",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "Fabricante e exportador profissional de geradores a diesel (20‑4000 kVA) desde 2013.",
+    "quickLinks": "Links rápidos",
+    "productsTitle": "Produtos",
+    "contactTitle": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "whatsapp": "WhatsApp",
+    "address": "Endereço",
+    "email": "E-mail"
+  },
+  "blogPage": {
+    "title": "Notícias e blog",
+    "subtitle": "Insights, guias e novidades da empresa sobre geradores a diesel",
+    "readMore": "Ler mais",
+    "backToBlog": "Voltar ao blog",
+    "empty": "Ainda não há posts. Volte em breve.",
+    "posted": "Publicado em",
+    "readTime": "min de leitura"
+  },
+  "legal": {
+    "updatedLabel": "Última atualização: outubro de 2026",
+    "privacyTitle": "Política de privacidade",
+    "privacyBody": [
+      "A Jiangsu Kaichen Power Equipment Co., Ltd. («nós», «nosso») está empenhada em proteger a privacidade dos visitantes do nosso site. Esta política explica que informações coletamos e como as utilizamos.",
+      "Ao enviar uma consulta pelos nossos formulários de contato ou de produto, coletamos os dados fornecidos: nome, e-mail, telefone e conteúdo da mensagem. Usamos exclusivamente para responder à sua consulta e fornecer informações sobre nossos produtos e serviços.",
+      "Não vendemos nem compartilhamos suas informações pessoais com terceiros, exceto quando exigido por lei. Para dúvidas, contate-nos pelo nosso e-mail oficial."
+    ],
+    "termsTitle": "Termos de serviço",
+    "termsBody": [
+      "Ao usar este site, você concorda com estes termos. Todos os conteúdos, imagens e informações de produto pertencem à Jiangsu Kaichen Power Equipment Co., Ltd., salvo indicação em contrário.",
+      "As especificações exibidas são indicativas e podem ser ajustadas conforme suas necessidades. Confirme as especificações finais com nossa equipe de vendas antes de fazer um pedido.",
+      "Nada neste site constitui uma oferta vinculante. Os pedidos estão sujeitos à nossa cotação escrita e ao contrato de venda."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Potência principal",
+    "standbyPower": "Potência de reserva",
+    "engine": "Motor",
+    "alternator": "Alternador",
+    "voltage": "Tensão",
+    "control": "Controlo",
+    "starting": "Arranque",
+    "cooling": "Arrefecimento",
+    "noiseLevel": "Nível de ruído",
+    "fuelTank": "Depósito de combustível",
+    "container": "Contentor",
+    "fuelSystem": "Sistema de combustível",
+    "trailer": "Reboque",
+    "frame": "Chassis",
+    "fuelConsumption": "Consumo de combustível",
+    "mobility": "Mobilidade"
+  },
+  "aboutExtended": {
+    "statsFounded": "Fundada",
+    "statsCapacity": "Unidades / Capacidade anual",
+    "statsDelivered": "Unidades entregues em 3 anos",
+    "statsStaff": "Funcionários (30 engenheiros de serviço)",
+    "statsArea": "Fábrica em Yangzhou",
+    "statsService": "Pontos de serviço autorizados",
+    "inhouseTitle": "Fabricação própria, não só montagem",
+    "inhouseText": "Diferente da maioria dos comerciantes que compram motores, alternadores e carrocerias separadamente e montam no local, a Kaichen mantém as três etapas-chave de valor agregado em nossa própria fábrica em Yangzhou. Por isso o custo cai e a qualidade se mantém.",
+    "inhouse1Title": "Alternadores de cobre enrolados na fábrica.",
+    "inhouse1Text": "Usamos aço silício de alta qualidade e fio esmaltado 100% cobre, enrolado e impregnado a vácuo em nossa linha, isolamento classe H.",
+    "inhouse2Title": "Carenagens silenciosas em linha automática de chapa.",
+    "inhouse2Text": "Corte a laser, estampagem, pintura em pó, espuma acústica anti chamas e canais labirinto reduzem o ruído para 65–75 dB(A).",
+    "inhouse3Title": "Painéis de controle e quadros ATS próprios.",
+    "inhouse3Text": "Painéis de partida automática, quadros ATS e paralelismo cabeados conforme dados exatos do motor e alternador, não catálogo genérico.",
+    "loadbankTitle": "Teste de carga de 4 estágios em cada conjunto",
+    "loadbankText": "A maioria das fábricas entrega após marcha lenta. Cada conjunto Kaichen passa pelo nosso banco de carga digital de 2 MW em sequência escalonada. O vídeo é gravado, arquivado e entregue ao cliente antes do envio.",
+    "benchmarkTitle": "Projetos de referência",
+    "benchmarkText": "Segundo dados de licitações públicas, a Kaichen venceu 73 projetos públicos nacionais e locais em mais de 20 províncias. Referências representativas:",
+    "benchmark1": "Data center China UnionPay Huangshan — sistema paralelo multi-MW para data center financeiro.",
+    "benchmark2": "Nós backbone China Mobile — reserva para salas de telecomunicações provinciais e nacionais.",
+    "benchmark3": "Campos petrolíferos PetroChina — operação contínua em deserto, poeira e ampla variação de temperatura.",
+    "benchmark4": "Hospitais de ponta — reserva silenciosa com transferência automática em segundos.",
+    "benchmark5": "Mina de carvão Taiyuan, 1200 kW — força principal para instalação industrial pesada.",
+    "manufacturingTitle": "Fabricação e controle de qualidade",
+    "lbRow1Title": "20% carga leve",
+    "lbRow1Desc": "Partida a frio, estabilidade em marcha lenta, equilíbrio trifásico, vibração",
+    "lbRow2Title": "50% meia carga, 30 min",
+    "lbRow2Desc": "Estabilidade, líquido refrigerante e pressão do óleo, balanço térmico",
+    "lbRow3Title": "75% carga pesada, 60 min",
+    "lbRow3Desc": "Margem de potência, elevação de temperatura, queda de frequência e tensão",
+    "lbRow4Title": "100% carga nominal, 60 min",
+    "lbRow4Desc": "Verificação de potência nominal, recuperação transitória, disparo por sobrecarga",
+    "mfgIntro": "Cada grupo gerador Kaichen passa pela mesma linha de produção e rotina de teste antes de sair de nossa fábrica em Jiangsu. O processo visa um objetivo: o grupo chega ao seu local pronto para carregar na primeira queda real, não após um mês de depuração.",
+    "mfgBuiltTitle": "Como cada grupo é construído",
+    "mfgBuilt1Title": "Casamento motor-alternador.",
+    "mfgBuilt1Text": "Combinamos a potência do motor com o alternador no fator de potência exato que seu local precisa, não apenas na placa de identificação.",
+    "mfgBuilt2Title": "Base e tanque.",
+    "mfgBuilt2Text": "O skid é soldado em chapa de aço, equipado com tanque integrado, amortecedores e entradas para empilhadeira antes de montar o motor.",
+    "mfgBuilt3Title": "Fiação e painel de controle.",
+    "mfgBuilt3Text": "Cabos de força e controle em canais separados, blocos terminais numerados, controlador digital pré-programado para sua tensão, frequência e lógica ATS.",
+    "mfgBuilt4Title": "Carenagem ou contêiner.",
+    "mfgBuilt4Text": "Grupos silenciosos com espuma acústica, painéis ventilados e portas de acesso; contêinerizados com portas vedadas, iluminação interna e tomada externa.",
+    "mfgLoadTestTitle": "Teste de carga antes do envio",
+    "mfgLoadTestIntro": "Nenhum grupo é enviado após inspeção visual. Cada unidade passa pelo nosso banco de carga eletrônico em sequência estruturada, e o relatório acompanha o grupo:",
+    "mfgRow1Title": "Marcha lenta",
+    "mfgRow1Desc": "Aquecimento, pressão do óleo e tensão de carga",
+    "mfgRow2Title": "25% carga, 30 min",
+    "mfgRow2Desc": "Estabilidade de tensão e frequência, temp. de exaustão",
+    "mfgRow3Title": "50% carga, 30 min",
+    "mfgRow3Desc": "Resposta do regulador, consumo, nível de ruído",
+    "mfgRow4Title": "75% carga, 60 min",
+    "mfgRow4Desc": "Sistema de resfriamento, temp. do líquido, tensão da correia",
+    "mfgRow5Title": "100% carga, 60 min",
+    "mfgRow5Desc": "Potência nominal completa, regulação ±1.5%",
+    "mfgRow6Title": "Sobrecarga 110%, 1 min",
+    "mfgRow6Desc": "Desligamento de proteção e verificação de alarme",
+    "mfgFinalTitle": "Inspeção final",
+    "mfgFinal1": "Resistência de isolamento e continuidade de terra testadas após imersão úmido-térmica.",
+    "mfgFinal2": "Todas as proteções verificadas: sobre-rotação, alta temp. da água, baixa pressão do óleo, sobrecorrente, parada de emergência.",
+    "mfgFinal3": "Sequência ATS testada de ponta a ponta em banco.",
+    "mfgFinal4": "Retoque de pintura, limpeza e lista completa de peças sobressalentes na caixa de ferramentas.",
+    "mfgClosing": "Os certificados CE e ISO 9001 acompanham cada envio. Se precisar de teste acompanhado, relatório de inspeção terceirizada (BV, SGS, TUV) ou protocolo FAT específico, avise-nos antes da produção que preparamos."
+  },
+  "productType": {
+    "silent": "Silencioso",
+    "open": "Aberto",
+    "container": "Contêiner",
+    "mobileTrailer": "Reboque móvel",
+    "dieselGenerator": "Gerador diesel",
+    "powerPlant": "Usina em contêiner"
+  },
+  "products": {
+    "cummins-100-silent": {
+      "description": "Gerador a diesel Cummins 100 kW compacto e insonorizado para escritórios, pequenas fábricas e zonas próximas a residências onde o ruído deve ser controlado.",
+      "features": [
+        "Motor a diesel Cummins de 4 ou 6 cilindros com suporte global comprovado",
+        "Cabine insonorizada reduz o ruído para locais próximos a pessoas",
+        "Tanque integrado na base para maior autonomia",
+        "Painel de controlo digital com arranque automático opcional",
+        "Carcaça protegida contra intempéries para instalação externa"
+      ]
+    },
+    "doosan-500-silent": {
+      "description": "Gerador a diesel Doosan 500 kW robusto e insonorizado para fábricas, hospitais e edifícios comerciais que necessitam de grande potência de emergência com baixo ruído.",
+      "features": [
+        "Motor Doosan robusto de 6 cilindros para serviço contínuo e emergência",
+        "Grande cabine insonorizada para zonas urbanas e industriais",
+        "Radiador de alta capacidade para altas temperaturas ambiente",
+        "Alternador síncrono sem escovas com AVR",
+        "Pronto para transferência automática de rede"
+      ]
+    },
+    "kc-100-open": {
+      "description": "Grupo gerador a diesel aberto de 100 kVA fiável para obras, oficinas e alimentação elétrica rural.",
+      "features": [
+        "Unidade aberta skid com base de aço reforçado",
+        "Motor Yuchai de 6 cilindros, durabilidade comprovada",
+        "Proteção completa: óleo baixo, sobreaquecimento, sobrecarga",
+        "Painel digital com monitorização remota opcional",
+        "Acesso fácil para manutenção"
+      ]
+    },
+    "kc-1000-container": {
+      "description": "Usina containerizada de 1000 kVA, ideal para frotas de aluguer, mineração e apoio à rede elétrica.",
+      "features": [
+        "Módulo contentor de 40 pés com isolamento acústico e térmico completo",
+        "Motor Cummins de alta densidade de potência",
+        "Capacidade de paralelismo de múltiplas unidades",
+        "Tanque diário, polimento de combustível e supressão de incêndios integrados",
+        "Baixa manutenção para serviço contínuo"
+      ]
+    },
+    "kc-150-perkins": {
+      "description": "Grupo gerador a diesel aberto de 150 kVA com motor Perkins, ideal para emergência industrial e de construção.",
+      "features": [
+        "Motor Perkins série 1106 com fiabilidade comprovada",
+        "Estrutura aberta robusta com suportes antivibração",
+        "Painel digital Deep Sea ou equivalente",
+        "Baixo consumo de combustível e baixo custo de manutenção",
+        "Certificado CE e ISO9001"
+      ]
+    },
+    "kc-200-silent": {
+      "description": "Gerador a diesel silenciado de 200 kVA para edifícios comerciais, bancos e emergência industrial.",
+      "features": [
+        "Cabine insonorizada resistente às intempéries para exterior",
+        "Motor Weichai com regulador eletrónico",
+        "Capacidade de paralelismo (opcional)",
+        "Controlo digital completo com ecrã LCD",
+        "Arranque a frio e suporte a comutação automática"
+      ]
+    },
+    "kc-2000-mobile": {
+      "description": "Gerador a diesel móvel em reboque de 2000 kVA para emergência, eventos e operações de campo que necessitam de implantação rápida.",
+      "features": [
+        "Montado em reboque com velocidade de estrada",
+        "Motor Perkins robusto para potência primária fiável",
+        "Pernas hidráulicas e isolamento de vibrações",
+        "Ligações rápidas de energia e combustível",
+        "Iluminação completa, supressão de incêndios e cabine de controlo"
+      ]
+    },
+    "kc-250-doosan": {
+      "description": "Gerador a diesel silencioso compacto de 250 kVA com motor Doosan para emergência comercial e comunitária.",
+      "features": [
+        "Motor Doosan com baixo ruído e baixo consumo",
+        "Cabine insonorizada: ruído abaixo de 72 dB(A) a 7 m",
+        "Regulação automática de tensão, pronto para monitorização remota",
+        "Tanque integrado para 8+ horas de funcionamento contínuo",
+        "Certificado CE e ISO9001"
+      ]
+    },
+    "kc-300-container": {
+      "description": "Gerador a diesel containerizado de 300 kVA, totalmente equipado e pronto para implantação em ambientes remotos e hostis.",
+      "features": [
+        "Contentor de 20 pés com tratamento acústico completo",
+        "Projetado para paralelismo e partilha de carga",
+        "Tanque diário, supressão de incêndios e exaustão integrados",
+        "Acesso externo de manutenção e sala de controlo opcional",
+        "Adequado para aluguer e projetos de energia temporária"
+      ]
+    },
+    "kc-40-silent": {
+      "description": "Gerador a diesel compacto e silencioso de 40 kVA, ideal para pequenas empresas, moradias e emergência comercial ligeira.",
+      "features": [
+        "Cabine insonorizada: ruído abaixo de 70 dB(A) a 7 m",
+        "Motor Weichai de 4 cilindros com baixo consumo",
+        "Regulação automática de tensão e painel digital",
+        "Tanque integrado para 8+ horas de funcionamento",
+        "Certificado CE e ISO9001"
+      ]
+    },
+    "kc-4000-container": {
+      "description": "Usina containerizada de 4000 kVA com motor MTU, projetada para projetos industriais e de serviços públicos de grande escala.",
+      "features": [
+        "Motor MTU de alta capacidade com fiabilidade excecional",
+        "Operação paralela modular para potência de escala MW",
+        "Sistemas integrados de combustível, arrefecimento e controlo",
+        "Adequado para carga base, pico e apoio à rede",
+        "Longos intervalos de manutenção reduzem custos"
+      ]
+    },
+    "kc-500-open": {
+      "description": "Gerador a diesel aberto robusto de 500 kVA com motor Cummins, para alimentação industrial e comercial contínua.",
+      "features": [
+        "Motor Cummins série NT, fiabilidade reconhecida mundialmente",
+        "Adequado para ciclos primário e de emergência",
+        "Pronto para paralelismo e monitorização remota",
+        "Base robusta com suportes antivibração",
+        "Baixo consumo e longa vida útil"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "description": "Gerador a diesel aberto de alta performance de 600 kVA com motor Mitsubishi, para centros de dados, mineração e indústria pesada.",
+      "features": [
+        "Motor Mitsubishi com alta densidade de potência e baixas emissões",
+        "Construção aberta robusta para ambientes exigentes",
+        "Paralelismo para redundância N+1",
+        "Controlo digital com interface de monitorização remota",
+        "Certificado CE e ISO9001"
+      ]
+    },
+    "kc-800-silent": {
+      "description": "Gerador a diesel silenciado de alta capacidade de 800 kVA com motor Volvo Penta, para centros de dados, hospitais e grandes instalações.",
+      "features": [
+        "Motor Volvo Penta com excelente eficiência de combustível",
+        "Cabine insonorizada premium para zonas urbanas",
+        "Paralelismo N+1 e gestão de carga",
+        "Controlador digital avançado com monitorização remota",
+        "Pacote motor compatível com emissões"
+      ]
+    },
+    "kc-900-scania": {
+      "description": "Gerador a diesel potente e silencioso de 900 kVA com motor Scania, para instalações críticas e grandes projetos comerciais.",
+      "features": [
+        "Motor industrial Scania 16 L com excelente economia",
+        "Cabine insonorizada: ruído abaixo de 75 dB(A) a 7 m",
+        "ATS automático e monitorização remota prontos",
+        "Adequado para paralelismo e pico",
+        "Certificado CE e ISO9001"
+      ]
+    },
+    "mitsubishi-100-open": {
+      "description": "Gerador a diesel Mitsubishi aberto de 100 kW para salas de máquinas, oficinas e instalações industriais com sala já protegida contra intempéries e ruído.",
+      "features": [
+        "Motor industrial Mitsubishi com desempenho duradouro",
+        "Design aberto skid para manutenção fácil",
+        "Tanque na base com ligação a tanque diário",
+        "Alternador sem escovas com regulação automática",
+        "Adequado para instalação em sala de geradores existente"
+      ]
+    },
+    "perkins-400-silent": {
+      "description": "Gerador a diesel Perkins 400 kW insonorizado para edifícios comerciais, fábricas e centros de dados que necessitam de emergência fiável com ruído controlado.",
+      "features": [
+        "Motor Perkins de 6 cilindros com forte resposta transitória",
+        "Cabine acústica para salas interiores ou exterior junto a escritórios",
+        "Base robusta com tanque integrado",
+        "Painel digital com porta de comunicação remota",
+        "Adequado para emergência frequente e potência primária"
+      ]
+    },
+    "scania-250-open": {
+      "description": "Gerador a diesel Scania aberto de 250 kW para fábricas e locais com cargas motorizadas pesadas onde se exige forte resposta transitória.",
+      "features": [
+        "Motor industrial Scania com excelente aceitação de carga",
+        "Design aberto para acesso total de serviço",
+        "Adequado para compressores, bombas e arranque de motores",
+        "Alternador sem escovas com AVR para tensão estável",
+        "Montado em base de aço robusta"
+      ]
+    },
+    "shangchai-300-silent": {
+      "description": "Gerador a diesel Shangchai económico de 300 kW insonorizado para fábricas, edifícios comerciais e zonas rurais com emergência fiável a preço prático.",
+      "features": [
+        "Motor Shangchai de 6 cilindros, ampla rede de serviço",
+        "Cabine insonorizada para exterior perto de pessoas",
+        "Tanque integrado na base",
+        "Painel digital com arranque automático opcional",
+        "Bom equilíbrio entre desempenho e custo operacional"
+      ]
+    },
+    "volvo-400-silent": {
+      "description": "Gerador a diesel Volvo Penta 400 kW insonorizado para complexos de escritórios, hotéis e locais industriais onde baixo ruído, economia e limpeza são prioridades.",
+      "features": [
+        "Motor Volvo Penta de 6 cilindros, económico a carga parcial",
+        "Cabine acústica para instalação perto de escritórios e residências",
+        "Base de alta resistência com suportes antivibração",
+        "Painel digital com monitorização remota opcional",
+        "Motor de baixas emissões para ambientes sensíveis"
+      ]
+    },
+    "weichai-400-silent": {
+      "description": "Gerador a diesel Weichai 400 kW insonorizado para fábricas, complexos comerciais e obras, com emergência fiável e serviço local acessível.",
+      "features": [
+        "Motor Weichai WP12/WP13 de 6 cilindros",
+        "Cabine insonorizada para instalação externa",
+        "Tanque integrado em base robusta",
+        "Painel digital com arranque automático por falha de rede",
+        "Boa disponibilidade de peças para serviço regional"
+      ]
+    },
+    "yuchai-100-mobile": {
+      "description": "Gerador a diesel móvel Yuchai 100 kW em reboque para obras, eventos ao ar livre, socorro a catástrofes e locais onde a energia tem de se deslocar.",
+      "features": [
+        "Reboque legal com timão e rodas",
+        "Motor a diesel Yuchai para serviço móvel",
+        "Cabine protege o conjunto durante transporte e operação",
+        "Pernas ajustáveis para instalação rápida",
+        "Adequado para locais que mudam de posição com frequência"
+      ]
+    },
+    "yuchai-300-silent": {
+      "description": "Gerador a diesel Yuchai 300 kW insonorizado para fábricas, edifícios comerciais e zonas agrícolas, com emergência fiável e custo total prático.",
+      "features": [
+        "Motor Yuchai de 6 cilindros com durabilidade comprovada",
+        "Cabine acústica protege contra intempéries e reduz ruído",
+        "Tanque na base com acesso de serviço",
+        "Painel digital com arranque automático opcional",
+        "Adequado para emergência e serviço frequente"
+      ]
+    }
+  },
+  "cookie": {
+    "title": "Valorizamos a sua privacidade",
+    "body": "Utilizamos cookies e tecnologias semelhantes para operar este site, analisar o tráfego e personalizar o conteúdo. Sob o RGPD da UE e do Reino Unido, precisamos do seu consentimento antes de carregar cookies não essenciais. Pode alterar a sua escolha a qualquer momento na nossa",
+    "privacyLink": "Política de Privacidade",
+    "reject": "Rejeitar não essenciais",
+    "accept": "Aceitar todos"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Sem escovas, autoexcitado",
+    "digitalControlPanel": "Painel de controle digital",
+    "digitalController": "Controlador digital",
+    "digitalControllerAuto": "Controlador digital com partida automática",
+    "digitalControllerParallel": "Controlador digital com capacidade de paralelismo",
+    "digitalControllerRemote": "Controlador digital com monitoramento remoto",
+    "digitalAmfController": "Controlador AMF digital",
+    "atsController": "Controlador ATS automático",
+    "advancedParallel": "Controlador avançado de paralelismo",
+    "electricStart24": "Partida elétrica, 24V",
+    "electricStart1224": "Partida elétrica, 12/24V",
+    "waterCooled": "Radiador refrigerado a água",
+    "waterCooledContainer": "Refrigerado a água, otimizado para contêiner",
+    "radiatorContainer": "Radiador, otimizado para contêiner",
+    "skidAntiVib": "Base reforçada com suportes antivibração",
+    "skidForklift": "Base reforçada com ranhuras para empilhadeira",
+    "singleAxleTrailer": "Reboque de um eixo, pronto para estrada",
+    "twoAxleTrailer": "Reboque rodoviário de dois eixos",
+    "iso20ft": "Contêiner ISO de 20 pés",
+    "iso40ft": "Contêiner ISO de 40 pés",
+    "hc40ft": "Módulo high cube de 40 pés",
+    "tank180": "Integrado, 180 L",
+    "tank300": "Integrado, 300 L",
+    "tank600": "Integrado, 600 L",
+    "tank900": "Integrado, 900 L",
+    "tank75": "Integrado, 75 L",
+    "noise6872": "68–72 dB(A) a 7 m",
+    "noise6975": "69–75 dB(A) a 7 m",
+    "noise7075": "70–75 dB(A) a 7 m",
+    "noise7076": "70–76 dB(A) a 7 m",
+    "noise7278": "72–78 dB(A) a 7 m",
+    "noiseLe78": "≤ 78 dB(A) a 7 m",
+    "noiseLe70": "≤ 70 dB(A) a 7 m",
+    "noiseLe72": "≤ 72 dB(A) a 7 m",
+    "noiseLe75": "≤ 75 dB(A) a 7 m",
+    "fuel640": "aprox. 640 L/h a 100% de carga",
+    "fuel91": "aprox. 91 L/h a 100% de carga",
+    "dayTank": "Tanque diário + conexão externa",
+    "voltageCustom": "400/230V, 50Hz (tensões personalizadas disponíveis)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

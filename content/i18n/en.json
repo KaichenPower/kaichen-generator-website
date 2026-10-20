@@ -1,0 +1,807 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Diesel Generator Set Manufacturer",
+    "description": "OEM supplier of 20–4000kVA open, silent, container and mobile diesel generator sets for global industrial and commercial projects."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "products": "Products",
+    "solutions": "Solutions",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "common": {
+    "requestQuote": "Request Quote",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "backToTop": "Back to top",
+    "language": "Language",
+    "allProducts": "All Products",
+    "relatedProducts": "Related Products",
+    "relatedPosts": "Related Posts",
+    "backToProducts": "Back to Products",
+    "notFoundTitle": "Page Not Found",
+    "notFoundText": "The page you are looking for does not exist or has been moved.",
+    "backToHome": "Back to Home"
+  },
+  "home": {
+    "heroBadge": "OEM Manufacturer Since 2013",
+    "heroTitle": "China Diesel Generator Set Manufacturer | Kaichen Power",
+    "heroSubtitle": "Jiangsu Kaichen Power Equipment Co., Ltd. was founded in 2013 in Yangzhou, China. As a professional diesel generator set manufacturer, we produce 20–4000kVA open, silent, container and mobile trailer gensets for industrial and commercial projects worldwide.",
+    "cta": "Browse Our Generators",
+    "secondaryCta": "Get a Quote",
+    "featureTitle": "Why Choose Kaichen Power",
+    "features": [
+      {
+        "title": "ISO & CE Certified Quality",
+        "text": "ISO9001, ISO14001 and GB/T28001 certified production with strict 12-step quality control before every shipment."
+      },
+      {
+        "title": "Global OEM Partnerships",
+        "text": "Official OEM/ODM partner of Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi and Scania."
+      },
+      {
+        "title": "Full Power Range 20–4000kVA",
+        "text": "Open, silent, container and mobile trailer units covering 20kVA to 4000kVA for every application."
+      },
+      {
+        "title": "Factory-Direct & Fast Delivery",
+        "text": "Direct from our Yangzhou factory with 8,000 units annual capacity, competitive pricing and shorter lead time."
+      }
+    ],
+    "productsTitle": "Our Products",
+    "productsSubtitle": "Reliable diesel generator sets for every application",
+    "viewAllProducts": "View All Products",
+    "solutionsTitle": "Industry Solutions",
+    "solutionsSubtitle": "Custom power solutions for different industries",
+    "aboutPreviewTitle": "About Kaichen Power",
+    "aboutPreviewText": "Founded in 2013 in Yangzhou, Kaichen Power is a professional manufacturer and exporter of diesel generator sets, serving customers across China and exporting to markets worldwide.",
+    "statsTitle": "Kaichen Power in Numbers",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Founded"
+      },
+      {
+        "value": "60+",
+        "label": "Export Countries"
+      },
+      {
+        "value": "1200+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Max Capacity"
+      }
+    ],
+    "blogTitle": "Latest from Our Blog",
+    "readMore": "Read More",
+    "statsFounded": "Founded",
+    "statsCapacity": "Units / Year Capacity",
+    "statsEmployees": "Employees",
+    "statsArea": "Factory Area",
+    "brandsTitle": "Engine Brand Partners",
+    "brandsSubtitle": "Official OEM authorization from leading global engine manufacturers",
+    "slides": [
+      {
+        "title": "China Diesel Generator Set Manufacturer",
+        "subtitle": "Founded in 2013 in Yangzhou, Jiangsu — professional OEM diesel generator set manufacturer for 20–4000kVA."
+      },
+      {
+        "title": "Advanced Genset Production Workshop",
+        "subtitle": "Modern production lines and strict quality control for every open, silent, container and trailer generator set."
+      },
+      {
+        "title": "Container & Silent Generator Sets",
+        "subtitle": "Soundproof and containerized power solutions for urban, marine and outdoor applications."
+      },
+      {
+        "title": "Open Diesel Generators 20–4000kVA",
+        "subtitle": "Reliable prime and standby power for industrial, commercial and construction projects worldwide."
+      },
+      {
+        "title": "Mobile Trailer Generators",
+        "subtitle": "Ready-to-move mobile power for temporary sites, events and emergency backup."
+      }
+    ],
+    "trustTitle": "Certified & Authorized OEM Manufacturer",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "OEM Authorized",
+      "8,000 Units / Year"
+    ],
+    "factoryTitle": "Our Factory & Workshop",
+    "factorySubtitle": "Take a look inside our diesel generator manufacturing plant in Yangzhou",
+    "factoryCaptions": [
+      "Assembly & Production Lines",
+      "Quality Control & Load Testing",
+      "Mobile Power Unit Workshop",
+      "Sheet Metal & Fabrication"
+    ],
+    "workshopTitle": "Manufacturing in Action",
+    "workshopText": "From sheet-metal fabrication to final assembly and load testing, every Kaichen generator set is built and verified in our own Yangzhou workshop."
+  },
+  "aboutPage": {
+    "title": "About Kaichen Power",
+    "lead": "A professional diesel generator set manufacturer and exporter from Yangzhou, China, founded in 2013.",
+    "body1": "Jiangsu Kaichen Power Equipment Co., Ltd. was founded in 2013 in Yangzhou, Jiangsu, China. We are a comprehensive power equipment manufacturer integrating the R&D, production and sales of diesel generator sets, with an annual capacity of 8,000 units and a factory area of 36,000 square metres. Our products cover open, silent, container and mobile trailer types from 20kVA to 4000kVA, widely used in data centres, hospitals, telecom, mining, oil & gas, transportation, construction and residential sectors.",
+    "body2": "We hold official OEM partnerships with Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi and Scania, and are certified with ISO9001, ISO14001 and GB/T28001. As a National High-Tech Enterprise since 2020, we own more than 10 utility-model patents and deliver one-stop customised solutions from design and selection to installation and after-sales support.",
+    "companyIntro": "Company Introduction",
+    "factoryVideo": "Factory Video",
+    "productionLine": "Production Line",
+    "customerVisit": "Customer Visit",
+    "certPatent": "Certificates & Patents",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide reliable and affordable power to every industry through professional OEM manufacturing and responsive after-sales support.",
+    "qualityTitle": "Quality Control",
+    "qualityText": "Every generator set undergoes a strict 12-step quality control process, including load test, insulation test and functional inspection before shipment.",
+    "expertiseTitle": "Our Expertise",
+    "expertise1": "Open Type Gensets",
+    "expertise2": "Silent & Canopied Gensets",
+    "expertise3": "Container Type Gensets",
+    "expertise4": "Mobile Trailer Gensets",
+    "factoryTitle": "Our Factory",
+    "customersTitle": "Customer Visits",
+    "certTitle": "Certificates & Authorizations",
+    "certSubtitle": "System certifications, OEM authorizations and utility-model patents",
+    "showMoreCerts": "View All Certificates",
+    "showLessCerts": "Show Less",
+    "certCats": {
+      "system": "System Certifications",
+      "oem": "OEM & Authorizations",
+      "patents": "Utility Model Patents"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Quality Management Certification",
+      "cert-06": "ISO 14001 (GB/T 24001) Environmental Management",
+      "cert-07": "ISO 45001 (GB/T 45001) Occupational Health & Safety",
+      "cert-02": "CE Machinery Directive",
+      "cert-01": "Cummins GOEM Authorization",
+      "cert-03": "Yuchai Distributor Certificate",
+      "cert-04": "SDEC Power Authorization",
+      "cert-09": "Weichai Power Authorization",
+      "cert-05": "EvoTec Alternator OEM Authorization",
+      "cert-11": "Shanghai Shendong (SWG) OEM Certificate",
+      "cert-10": "FORTRUST OEM Authorization",
+      "cert-12": "Yuchai Marine & Genset OEM Authorization",
+      "cert-21": "Utility Model Patent – Low-Noise Generator Set",
+      "cert-23": "Utility Model Patent – Ultra-Silent Generator Set",
+      "cert-22": "Utility Model Patent – Mobile Power Station",
+      "cert-13": "Utility Model Patent – Base Chassis for Generator Sets",
+      "cert-14": "Utility Model Patent – Diesel Engine Speed Governor",
+      "cert-15": "Utility Model Patent – Diesel Engine Starter",
+      "cert-16": "Utility Model Patent – Noise Reduction Device",
+      "cert-17": "Utility Model Patent – Energy-Saving & Emission-Reducing Genset",
+      "cert-18": "Utility Model Patent – Fuel-Saving Speed-Regulating Genset",
+      "cert-19": "Utility Model Patent – Heat Energy Recovery Device",
+      "cert-20": "Utility Model Patent – High-Speed Excitation Generator"
+    },
+    "certAllLabel": "All"
+  },
+  "productsPage": {
+    "title": "Our Products",
+    "subtitle": "Browse our diesel generator sets by engine brand, power range and unit type",
+    "filterByBrand": "Filter by Engine Brand",
+    "filterByPower": "Filter by Power Range",
+    "filterByType": "Filter by Unit Type",
+    "brand": "Engine Brand",
+    "power": "Power",
+    "unitType": "Unit Type",
+    "all": "All",
+    "noResults": "No products match your filters.",
+    "specsTitle": "Key Specifications",
+    "brandLabel": "Engine Brand",
+    "powerLabel": "Power",
+    "typeLabel": "Unit Type",
+    "enquiryTitle": "Enquire About This Generator",
+    "enquiryName": "Name",
+    "enquiryEmail": "Email",
+    "enquiryPhone": "Phone / WhatsApp",
+    "enquiryMessage": "Your Message",
+    "enquirySend": "Send Enquiry",
+    "enquiryNote": "Our team will reply within 24 hours.",
+    "featuresTitle": "Features",
+    "applicationsTitle": "Application Scope",
+    "problemsTitle": "Problems It Solves",
+    "prev": "Prev",
+    "next": "Next",
+    "page": "Page",
+    "detailTag": "Product Detail"
+  },
+  "solutions": {
+    "title": "Industry Power Solutions",
+    "subtitle": "Custom diesel generator sets for different industrial and commercial scenarios",
+    "commercial-community": {
+      "name": "Commercial & Community",
+      "desc": "Reliable backup power supply for shopping malls, residential communities and office buildings."
+    },
+    "data-center": {
+      "name": "Data Center",
+      "desc": "Stable diesel gensets for data center emergency power, support N+1 parallel operation."
+    },
+    "medical": {
+      "name": "Medical & Healthcare",
+      "desc": "Continuous power guarantee for hospitals, clinics and medical facilities."
+    },
+    "factory": {
+      "name": "Factory & Manufacturing",
+      "desc": "Main power or standby power for manufacturing plants and workshops."
+    },
+    "mining-oil": {
+      "name": "Mining & Oilfield",
+      "desc": "Stable diesel generators for mining sites and oil & gas projects under complex working conditions."
+    },
+    "transportation": {
+      "name": "Transportation",
+      "desc": "Power solutions for ports, railways and transportation hubs."
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "desc": "Generators for farm irrigation, grain processing and rural power backup."
+    },
+    "construction-site": {
+      "name": "Construction Site",
+      "desc": "Mobile and stationary gensets for temporary construction power."
+    },
+    "home-backup-power": {
+      "name": "Home Backup Power",
+      "desc": "Silent diesel generators for residential emergency power supply."
+    }
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "Tell us about your power requirements and get a quote within 24 hours",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "formTitle": "Send Us a Message",
+    "name": "Your Name",
+    "emailInput": "Your Email",
+    "phone": "Phone / WhatsApp",
+    "country": "Country",
+    "product": "Product / Power Required",
+    "submit": "Send Message",
+    "success": "Thank you! Your message has been sent. We will reply shortly.",
+    "formNote": "Fields marked with * are required.",
+    "formError": "Sorry, something went wrong. Please try again or email us directly.",
+    "message": "Your Requirement",
+    "phName": "Enter your full name",
+    "phEmail": "Enter your email address",
+    "phPhone": "Enter your phone / WhatsApp number",
+    "phCountry": "Enter your country",
+    "phProduct": "e.g. 200 kVA silent generator",
+    "phMessage": "Describe your requirement: capacity, engine brand, quantity, delivery time, etc.",
+    "sending": "Sending…",
+    "productUrlLabel": "Product Page URL",
+    "phProductUrl": "Link to the product page",
+    "productNamePrefix": "Product name:",
+    "productLinkPrefix": "Product link:",
+    "tooFrequent": "Please wait a moment before sending again.",
+    "quoteHeading": "Fill in your details to get a free solution & quote",
+    "reqError": "This field is required",
+    "emailInvalid": "Please enter a valid email address"
+  },
+  "footerMobile": {
+    "home": "Home",
+    "products": "Products",
+    "inquiry": "Send Inquiry",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "Professional manufacturer and exporter of diesel generator sets (20–4000kVA) since 2013.",
+    "quickLinks": "Quick Links",
+    "productsTitle": "Products",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "email": "Email"
+  },
+  "blogPage": {
+    "title": "News & Blog",
+    "subtitle": "Insights, guides and company updates about diesel generator sets",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog",
+    "empty": "No posts yet. Check back soon.",
+    "posted": "Posted on",
+    "readTime": "min read"
+  },
+  "legal": {
+    "updatedLabel": "Last updated: October 2026",
+    "privacyTitle": "Privacy Policy",
+    "privacyBody": [
+      "Jiangsu Kaichen Power Equipment Co., Ltd. (\"we\", \"our\") is committed to protecting the privacy of visitors to our website. This policy explains what information we collect and how we use it.",
+      "When you submit an enquiry via our contact or product enquiry forms, we collect the details you provide, such as your name, email address, phone number and the content of your message. We use this information solely to respond to your enquiry and to provide you with information about our products and services.",
+      "We do not sell or share your personal information with third parties except where required by law. If you have any questions about this policy, please contact us at our official email address."
+    ],
+    "termsTitle": "Terms of Service",
+    "termsBody": [
+      "By using this website you agree to these terms. All content, images and product information on this site belong to Jiangsu Kaichen Power Equipment Co., Ltd. unless stated otherwise.",
+      "Product specifications shown are indicative and may be adjusted according to your requirements. Please confirm final specifications with our sales team before placing an order.",
+      "Nothing on this website constitutes a binding offer. Orders are subject to our written quotation and sales agreement."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Prime power",
+    "standbyPower": "Standby power",
+    "engine": "Engine",
+    "alternator": "Alternator",
+    "voltage": "Voltage",
+    "control": "Control",
+    "starting": "Starting",
+    "cooling": "Cooling",
+    "noiseLevel": "Noise level",
+    "fuelTank": "Fuel tank",
+    "container": "Container",
+    "fuelSystem": "Fuel system",
+    "trailer": "Trailer",
+    "frame": "Frame",
+    "fuelConsumption": "Fuel consumption",
+    "mobility": "Mobility"
+  },
+  "products": {
+    "kc-100-open": {
+      "name": "Yuchai 150kW Open Diesel Generator",
+      "description": "Reliable 100kVA open-type diesel generator set for construction sites, workshops and rural power supply.",
+      "features": [
+        "Open skid-mounted unit with heavy-duty steel baseframe",
+        "Yuchai 6-cylinder engine, proven durability",
+        "Full protection system: low oil, high water temp, overload",
+        "Digital control panel with remote monitoring option",
+        "Easy maintenance access"
+      ],
+      "applications": [
+        "Construction sites",
+        "Workshops & small plants",
+        "Rural / remote power"
+      ],
+      "problems": [
+        "Reliable power where the grid is weak or absent",
+        "Temporary power for construction",
+        "Standby for small manufacturing"
+      ]
+    },
+    "kc-150-perkins": {
+      "name": "Perkins 150kW Open Diesel Generator",
+      "description": "Reliable 150kVA open type diesel generator set powered by a Perkins engine, ideal for industrial and construction backup power.",
+      "features": [
+        "Perkins 1106 series engine with proven reliability",
+        "Open type robust steel frame with anti-vibration mounts",
+        "Deep sea or equivalent digital control panel",
+        "Low fuel consumption and low maintenance cost",
+        "CE and ISO9001 certified"
+      ],
+      "applications": [
+        "Industrial plants",
+        "Commercial buildings",
+        "Construction & events"
+      ],
+      "problems": [
+        "Prevents factory downtime during outages",
+        "Low running cost for long hours",
+        "Covers load growth beyond small gensets"
+      ]
+    },
+    "kc-200-silent": {
+      "name": "Weichai 200kW Silent Diesel Generator",
+      "description": "Mid-range 200kVA silenced diesel generator for commercial buildings, banks and industrial standby power.",
+      "features": [
+        "Weatherproof soundproof canopy for outdoor installation",
+        "Weichai engine with electronic governor",
+        "Parallel operation capability (optional)",
+        "Full digital control with LCD display",
+        "Cold start and auto transfer switch support"
+      ],
+      "applications": [
+        "Commercial buildings & banks",
+        "Offices and retail",
+        "Industrial standby"
+      ],
+      "problems": [
+        "Quiet operation in urban locations",
+        "Business continuity during power cuts",
+        "Compact high-output standby"
+      ]
+    },
+    "kc-250-doosan": {
+      "name": "Doosan 200kW Silent Diesel Generator",
+      "description": "Quiet and compact 250kVA silent type diesel generator set powered by a Doosan engine for commercial and community standby power.",
+      "features": [
+        "Doosan engine with low noise and low fuel consumption",
+        "Soundproof canopy reducing noise to below 72 dB(A) at 7m",
+        "Automatic voltage regulation and remote monitoring ready",
+        "Integrated fuel tank for 8+ hours continuous running",
+        "CE and ISO9001 certified"
+      ],
+      "applications": [
+        "Commercial & community projects",
+        "Schools and clinics",
+        "Retail centers"
+      ],
+      "problems": [
+        "Low-noise standby for populated areas",
+        "Reliable backup for critical small facilities",
+        "Good fuel economy"
+      ]
+    },
+    "kc-300-container": {
+      "name": "SDEC 300kVA Containerized Diesel Generator",
+      "description": "300kVA containerized diesel generator set, fully equipped and ready for deployment in remote and harsh environments.",
+      "features": [
+        "20ft container housing with full acoustic treatment",
+        "Designed for parallel operation and load sharing",
+        "Integrated day tank, fire suppression and exhaust system",
+        "External maintenance access and control room option",
+        "Suitable for rental and temporary power projects"
+      ],
+      "applications": [
+        "Remote / off-grid projects",
+        "Rental fleets",
+        "Temporary power plants"
+      ],
+      "problems": [
+        "Easy deployment in harsh environments",
+        "Protects the genset during transport",
+        "Quick setup for temporary power"
+      ]
+    },
+    "kc-40-silent": {
+      "name": "Weichai 30kW Silent Diesel Generator",
+      "description": "Compact and quiet 40kVA diesel generator set, ideal for small businesses, villas and light commercial standby applications.",
+      "features": [
+        "Soundproof canopy reducing noise to below 70 dB(A) at 7m",
+        "Weichai 4-cylinder engine with low fuel consumption",
+        "Automatic voltage regulation and digital control panel",
+        "Integrated fuel tank for 8+ hours continuous running",
+        "CE and ISO9001 certified"
+      ],
+      "applications": [
+        "Small shops & offices",
+        "Villas and homes",
+        "Light commercial standby"
+      ],
+      "problems": [
+        "Covers daytime/peak grid dips and outages",
+        "Quiet backup for noise-sensitive areas",
+        "Compact standby for small premises"
+      ]
+    },
+    "kc-500-open": {
+      "name": "Cummins 400kW Open Diesel Generator",
+      "description": "Heavy-duty 500kVA open-type diesel generator set with Cummins engine, built for continuous industrial and commercial power.",
+      "features": [
+        "Cummins NT-series engine, globally recognized reliability",
+        "Suitable for prime and standby duty cycles",
+        "Parallel operation and remote monitoring ready",
+        "Heavy-duty baseframe with anti-vibration mounts",
+        "Low fuel consumption and long service life"
+      ],
+      "applications": [
+        "Factories & heavy industry",
+        "Data-center standby",
+        "Mining & construction"
+      ],
+      "problems": [
+        "Continuous prime power for production lines",
+        "Handles high load fluctuations",
+        "Cost-effective industrial power"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "name": "Mitsubishi 400kW Open Diesel Generator",
+      "description": "High-performance 600kVA open type diesel generator set powered by a Mitsubishi engine, suited for data centers, mining and heavy industry.",
+      "features": [
+        "Mitsubishi engine with high power density and low emissions",
+        "Open type rugged construction for demanding environments",
+        "Parallel operation capable for N+1 redundancy",
+        "Digital control with remote monitoring interface",
+        "CE and ISO9001 certified"
+      ],
+      "applications": [
+        "Data centers",
+        "Mining & oil fields",
+        "Heavy industry"
+      ],
+      "problems": [
+        "N+1 redundancy for critical facilities",
+        "High power density in limited space",
+        "Stable output under heavy load"
+      ]
+    },
+    "kc-800-silent": {
+      "name": "Volvo 300kW Silent Diesel Generator",
+      "description": "High-capacity 800kVA silenced diesel generator with Volvo Penta engine for data centers, hospitals and large facilities.",
+      "features": [
+        "Volvo Penta engine with excellent fuel efficiency",
+        "High-grade soundproof canopy, suitable for urban areas",
+        "N+1 parallel operation and load management support",
+        "Advanced digital controller with remote monitoring",
+        "Emission-compliant engine package"
+      ],
+      "applications": [
+        "Data centers",
+        "Hospitals & healthcare",
+        "Large campus facilities"
+      ],
+      "problems": [
+        "Ultra-reliable standby for life-critical loads",
+        "Noise control on urban campuses",
+        "Parallel operation for large loads"
+      ]
+    },
+    "kc-900-scania": {
+      "name": "Scania 500kW Silent Diesel Generator",
+      "description": "Powerful yet quiet 900kVA silent type diesel generator set powered by a Scania engine for critical facilities and large commercial projects.",
+      "features": [
+        "Scania 16-litre industrial engine with excellent fuel economy",
+        "Soundproof canopy reducing noise to below 75 dB(A) at 7m",
+        "Automatic ATS and remote monitoring ready",
+        "Suitable for parallel and peak-shaving operation",
+        "CE and ISO9001 certified"
+      ],
+      "applications": [
+        "Large commercial projects",
+        "Critical facilities",
+        "Peak shaving"
+      ],
+      "problems": [
+        "High-capacity standby and prime power",
+        "Fuel economy at high output",
+        "Parallel & load-sharing operation"
+      ]
+    },
+    "kc-1000-container": {
+      "name": "Cummins 1000kVA Containerized Power Plant",
+      "description": "1000kVA containerized power plant module, ideal for large-scale rental fleets, mining and grid support projects.",
+      "features": [
+        "40ft container module with full acoustic and thermal insulation",
+        "High power density Cummins engine",
+        "Multi-unit parallel and synchronization capability",
+        "Built-in day tank, fuel polishing and fire suppression",
+        "Low maintenance operation for continuous duty"
+      ],
+      "applications": [
+        "Rental fleets & grid support",
+        "Mining operations",
+        "Large-scale projects"
+      ],
+      "problems": [
+        "MW-scale temporary power",
+        "Multi-unit synchronization",
+        "Rapid deployment and relocation"
+      ]
+    },
+    "kc-2000-mobile": {
+      "name": "Perkins 2000kVA Mobile Trailer Power Station",
+      "description": "2000kVA mobile trailer-mounted diesel generator set for emergency power, events and field operations requiring rapid deployment.",
+      "features": [
+        "Trailer-mounted with highway-speed towing capability",
+        "Perkins heavy-duty engine for reliable prime power",
+        "Hydraulic lifting legs and vibration isolation",
+        "Quick-connect power and fuel fittings",
+        "Full lighting, fire suppression and control cabin"
+      ],
+      "applications": [
+        "Emergency response",
+        "Events & field operations",
+        "Grid-outage backup"
+      ],
+      "problems": [
+        "Rapid deployment to outage sites",
+        "Mobile power for events and remote work",
+        "Temporary high-capacity power"
+      ]
+    },
+    "kc-4000-container": {
+      "name": "Mitsubishi 4000kVA Containerized Power Plant",
+      "description": "4000kVA containerized power plant module with MTU engine, designed for large-scale industrial and utility power projects.",
+      "features": [
+        "High-capacity MTU engine with exceptional reliability",
+        "Multi-module parallel operation for MW-scale power",
+        "Fully integrated fuel, cooling and control systems",
+        "Suitable for base load, peak shaving and grid support",
+        "Long maintenance intervals reduce running cost"
+      ],
+      "applications": [
+        "Utility & grid support",
+        "Large industrial plants",
+        "Base load / peak shaving"
+      ],
+      "problems": [
+        "MW-scale base load supply",
+        "Multi-module parallel operation",
+        "Long-run continuous duty"
+      ]
+    }
+  },
+  "aboutExtended": {
+    "statsFounded": "Founded",
+    "statsCapacity": "Sets / Year Capacity",
+    "statsDelivered": "Sets Delivered in 3 Years",
+    "statsStaff": "Staff (30 after-sales engineers)",
+    "statsArea": "Factory Area in Yangzhou",
+    "statsService": "Authorized Service Points Nationwide",
+    "inhouseTitle": "In-house Manufacturing, Not Just Assembly",
+    "inhouseText": "Unlike most traders who buy engines, alternators and canopies separately and bolt them together on site, Kaichen keeps the three core value-added steps in our own Yangzhou factory. This is why the cost comes down and the quality stays consistent.",
+    "inhouse1Title": "Pure-copper alternators wound in-house.",
+    "inhouse1Text": "We use high-grade silicon steel and 100% copper enameled wire, wound and vacuum-impregnated on our own line at insulation class H.",
+    "inhouse2Title": "Silent canopies on an automated sheet-metal line.",
+    "inhouse2Text": "Laser cutting, pressed on tooling, coated with weather-resistant powder, lined with flame-retardant acoustic foam and labyrinth intake/exhaust channels that cut noise to 65–75 dB(A).",
+    "inhouse3Title": "Control panels and ATS cabinets built in-house.",
+    "inhouse3Text": "Auto-start panels, ATS dual-transfer cabinets and parallel-switchgear are wired to match the exact engine and alternator data, not a generic catalogue.",
+    "loadbankTitle": "Four-Stage Load Bank Test on Every Set",
+    "loadbankText": "Most factories hand a set over after a no-idle run. Every Kaichen set runs on our 2MW digital load bank through a stepped sequence. The test video is recorded, archived one-file-per-set and shared with the buyer before shipment.",
+    "benchmarkTitle": "Benchmark Projects",
+    "benchmarkText": "According to public tender data, Kaichen has won 73 national and local public projects across more than 20 provinces. Representative references include:",
+    "benchmark1": "China UnionPay Huangshan Data Center — multi-MW high/low-voltage parallel system for a financial-grade data center.",
+    "benchmark2": "China Mobile backbone hubs — standby power for provincial and national core telecom rooms.",
+    "benchmark3": "PetroChina oilfield sites — continuous duty in desert, dust and wide temperature swings.",
+    "benchmark4": "Top-tier hospitals — silent standby with second-level auto transfer.",
+    "benchmark5": "Taiyuan coal mine, 1,200 kW — prime power for a heavy industrial site.",
+    "manufacturingTitle": "Manufacturing & Quality Testing",
+    "lbRow1Title": "20% light load",
+    "lbRow1Desc": "Cold start, idle smoothness, 3-phase balance, vibration check",
+    "lbRow2Title": "50% half load, 30 min",
+    "lbRow2Desc": "Stability, coolant and oil pressure, cooling balance",
+    "lbRow3Title": "75% heavy load, 60 min",
+    "lbRow3Desc": "Power margin, temperature rise, frequency and voltage dip",
+    "lbRow4Title": "100% rated load, 60 min",
+    "lbRow4Desc": "Rated output verification, transient recovery, overload trip",
+    "mfgIntro": "Every Kaichen diesel generator set passes through the same production line and test routine before it leaves our factory in Jiangsu. The process is built around one goal: the set arrives at your site ready to carry load on the first real outage, not after a month of debugging.",
+    "mfgBuiltTitle": "How each set is built",
+    "mfgBuilt1Title": "Engine and alternator matching.",
+    "mfgBuilt1Text": "We match the engine rating to the alternator at the exact power factor your site needs, not just at the nameplate number.",
+    "mfgBuilt2Title": "Baseframe and tank.",
+    "mfgBuilt2Text": "The skid is welded from steel plate, fitted with an integrated fuel tank, vibration isolators, and forklift slots before the engine is mounted.",
+    "mfgBuilt3Title": "Wiring and control panel.",
+    "mfgBuilt3Text": "Power and control wiring are routed in separate channels, terminal blocks are numbered, and the digital controller is pre-programmed for your voltage, frequency and ATS logic.",
+    "mfgBuilt4Title": "Canopy or container.",
+    "mfgBuilt4Text": "Silent sets are dressed with acoustic foam, vented panels and access doors; containerized sets receive weather-sealed doors, internal lighting and a socket for external power.",
+    "mfgLoadTestTitle": "Load test before shipment",
+    "mfgLoadTestIntro": "No set ships on a visual check. Each unit runs on our electronic load bank for a structured sequence, and the test report travels with the set:",
+    "mfgRow1Title": "No-load run",
+    "mfgRow1Desc": "Warm-up, oil pressure and charging voltage check",
+    "mfgRow2Title": "25% load, 30 min",
+    "mfgRow2Desc": "Stability of voltage and frequency, exhaust temperature",
+    "mfgRow3Title": "50% load, 30 min",
+    "mfgRow3Desc": "Governor response, fuel consumption, noise level",
+    "mfgRow4Title": "75% load, 60 min",
+    "mfgRow4Desc": "Cooling system, coolant temperature, belt tension",
+    "mfgRow5Title": "100% load, 60 min",
+    "mfgRow5Desc": "Full rated output, voltage regulation within ±1.5%",
+    "mfgRow6Title": "Overload 110%, 1 min",
+    "mfgRow6Desc": "Protective shutdown and alarm verification",
+    "mfgFinalTitle": "Final inspection",
+    "mfgFinal1": "Insulation resistance and earth continuity tested after a damp-heat soak.",
+    "mfgFinal2": "All protective functions verified: over-speed, high water temperature, low oil pressure, over-current, emergency stop.",
+    "mfgFinal3": "Automatic transfer switch sequence tested end-to-end on a bench.",
+    "mfgFinal4": "Paint touch-up, cleaning, and a full spare-parts list packed in the toolbox.",
+    "mfgClosing": "CE and ISO 9001 certificates accompany each shipment. If you need a witness test, a third-party inspection (BV, SGS, TUV) report, or a site-specific FAT protocol, tell us before the set enters production and we will prepare it accordingly."
+  },
+  "productType": {
+    "silent": "Silent",
+    "open": "Open",
+    "container": "Container",
+    "mobileTrailer": "Mobile Trailer",
+    "dieselGenerator": "Diesel Generator",
+    "powerPlant": "Containerized Power Plant"
+  },
+  "cookie": {
+    "title": "We value your privacy",
+    "body": "We use cookies and similar technologies to operate this website, analyze traffic, and personalize content. Under the EU GDPR and UK GDPR, we need your consent before loading non-essential cookies. You can change your choice at any time in our",
+    "privacyLink": "Privacy Policy",
+    "reject": "Reject Non-Essential",
+    "accept": "Accept All"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Brushless, self-excited",
+    "digitalControlPanel": "Digital control panel",
+    "digitalController": "Digital controller",
+    "digitalControllerAuto": "Digital controller with auto start",
+    "digitalControllerParallel": "Digital controller with parallel capability",
+    "digitalControllerRemote": "Digital controller with remote monitoring",
+    "digitalAmfController": "Digital AMF controller",
+    "atsController": "Automatic ATS-ready controller",
+    "advancedParallel": "Advanced paralleling controller",
+    "electricStart24": "Electric start, 24V",
+    "electricStart1224": "Electric start, 12/24V",
+    "waterCooled": "Water-cooled radiator",
+    "waterCooledContainer": "Water-cooled, container optimized",
+    "radiatorContainer": "Radiator, container optimized",
+    "skidAntiVib": "Heavy-duty skid with anti-vibration mounts",
+    "skidForklift": "Heavy-duty skid with forklift slots",
+    "singleAxleTrailer": "Single-axle trailer, road-ready",
+    "twoAxleTrailer": "Two-axle highway trailer",
+    "iso20ft": "20ft ISO container",
+    "iso40ft": "40ft ISO container",
+    "hc40ft": "40ft high-cube module",
+    "tank180": "180L built-in",
+    "tank300": "300L built-in",
+    "tank600": "600L built-in",
+    "tank900": "900L built-in",
+    "tank75": "75L built-in",
+    "noise6872": "68–72 dB(A) at 7m",
+    "noise6975": "69–75 dB(A) at 7m",
+    "noise7075": "70–75 dB(A) at 7m",
+    "noise7076": "70–76 dB(A) at 7m",
+    "noise7278": "72–78 dB(A) at 7m",
+    "noiseLe78": "≤ 78 dB(A) @ 7m",
+    "noiseLe70": "≤70 dB(A) @ 7m",
+    "noiseLe72": "≤72 dB(A) @ 7m",
+    "noiseLe75": "≤75 dB(A) @ 7m",
+    "fuel640": "approx. 640 L/h at 100% load",
+    "fuel91": "approx. 91 L/h at 100% load",
+    "dayTank": "Day tank + external connection",
+    "voltageCustom": "400/230V, 50Hz (custom voltages available)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

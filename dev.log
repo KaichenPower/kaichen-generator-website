@@ -1,0 +1,34 @@
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.153:3000
+✓ Ready in 1006ms
+✓ Running next.config.ts took 128ms
+
+ GET /en 200 in 1555ms (next.js: 241ms, generate-params: 892ms, application-code: 423ms)
+ GET /ar 200 in 224ms (next.js: 1.8ms, generate-params: 27ms, application-code: 195ms)
+ GET /th 200 in 196ms (next.js: 1.8ms, generate-params: 0.0ms, application-code: 195ms)
+ GET /ar 200 in 190ms (next.js: 1.2ms, generate-params: 18ms, application-code: 171ms)
+✓ Compiled in 11ms
+[i18n] resolved locale= en raw requestLocale= undefined
+ GET /en 200 in 121ms (next.js: 6ms, generate-params: 26ms, application-code: 89ms)
+[i18n] resolved locale= en raw requestLocale= undefined
+ GET /ar 200 in 228ms (next.js: 1.2ms, generate-params: 26ms, application-code: 200ms)
+✓ Compiled in 11ms
+[i18n] resolved locale= en raw requestLocale= en
+[i18n] resolved locale= en raw requestLocale= undefined
+ GET /en 200 in 124ms (next.js: 3ms, generate-params: 24ms, application-code: 96ms)
+✓ Compiled in 18ms
+[i18n] resolved locale= en raw requestLocale= en
+[i18n] resolved locale= en raw requestLocale= en
+ GET /en 200 in 105ms (next.js: 3ms, generate-params: 25ms, application-code: 77ms)
+[i18n] resolved locale= ar raw requestLocale= ar
+[i18n] resolved locale= ar raw requestLocale= ar
+ GET /ar 200 in 178ms (next.js: 1.9ms, generate-params: 26ms, application-code: 151ms)
+[i18n] resolved locale= th raw requestLocale= th
+[i18n] resolved locale= th raw requestLocale= th
+ GET /th 200 in 102ms (next.js: 1.5ms, generate-params: 0.0ms, application-code: 101ms)
+[i18n] resolved locale= ru raw requestLocale= ru
+[i18n] resolved locale= ru raw requestLocale= ru
+ GET /ru 200 in 99ms (next.js: 1.1ms, generate-params: 0.0ms, application-code: 98ms)
+✓ Compiled in 6ms
+ GET /en 200 in 99ms (next.js: 2ms, generate-params: 26ms, application-code: 71ms)

@@ -1,0 +1,21 @@
+name: Cummins 400kW Open Diesel Generator
+image: /images/products/cummins-400kw-open.jpg
+brand: Cummins
+powerKVA: 500
+type: open
+description: Heavy-duty 500kVA open-type diesel generator set with Cummins engine, built for continuous industrial and commercial power.
+features:
+  - Cummins NT-series engine, globally recognized reliability
+  - Suitable for prime and standby duty cycles
+  - Parallel operation and remote monitoring ready
+  - Heavy-duty baseframe with anti-vibration mounts
+  - Low fuel consumption and long service life
+specs:
+  Prime power: 360 kW / 450 kVA
+  Standby power: 400 kW / 500 kVA
+  Engine: Cummins NT855
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Cummins / Deep Sea controller
+  Fuel consumption: approx. 91 L/h at 100% load
+  Starting: Electric start, 24V

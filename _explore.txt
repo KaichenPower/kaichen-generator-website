@@ -1,0 +1,4 @@
+--- LocaleSwitcher files ---
+--- where locales defined ---
+--- flags ---
+--- blog locale dirs ---

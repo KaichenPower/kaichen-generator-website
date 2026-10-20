@@ -1,0 +1,76 @@
+=== 120kW-backup-set-on-tight-budget ===
+title: Building a 120kW Backup Set on a Tight Budget: What to Trade and What Not To
+excerpt: A 120kW silent set is where budget buyers make their hardest choices. What you can save on, what you cannot, and how a Shangchai-based set finds its place in small workshops and commercial buildings.
+
+=== 50kw-generator-for-clinic-or-farm ===
+title: 50kW Generator for a Clinic or Farm: Is This the Right Size?
+excerpt: A 50kW silent set is often the answer for a rural clinic, a family farm, or a warehouse office. A buyer's guide to sizing it honestly — and the loads that quietly exceed it.
+
+=== cold-climate-320kw-volvo-generator ===
+title: Cold-Climate Backup: Why a 320kW Volvo Set Handles Winter Better
+excerpt: Generators in cold climates fail for predictable reasons. What changes when the temperature drops below zero — and why buyers in northern sites look at a Volvo-based 320kW set.
+
+=== cummins-200kw-silent-generator ===
+title: How to Choose the Right 200kW Silent Diesel Generator: What Buyers Actually Need to Know
+excerpt: Sizing a backup generator is where most buyers go wrong. A buyer-focused guide to choosing a 200kW silent diesel set without overspending or undersizing.
+
+=== doosan-200kw-silent-generator ===
+title: Where Can You Put a Diesel Generator in a City? Siting and Noise Questions Answered
+excerpt: The hardest question in urban generator buying is not power, it's 'where does it go, and will the neighbours complain?' A buyer's guide to siting a silent set.
+
+=== is-30kw-silent-generator-enough ===
+title: Is a 30kW Silent Generator Enough for a Small Shop or Office?
+excerpt: A small shop, a dental clinic, or a rural office does not need a factory-sized set. How buyers decide whether 30kW is enough — and when it quietly is not.
+
+=== mitsubishi-800kw-silent-generator ===
+title: When Do You Need a Large Diesel Generator, or Several Running in Parallel?
+excerpt: Is one big generator enough for your facility, or do you need parallel redundancy? A decision guide for data centres, hospitals and large plants.
+
+=== mobile-power-car-vs-fixed-generator ===
+title: Do You Need a Mobile Power Car Instead of a Fixed Generator?
+excerpt: Some sites do not need a generator bolted to a concrete pad. They need one that drives to the job. A look at when a 100kW mobile power car beats a fixed set — and what you should check before renting or buying.
+
+=== perkins-200kw-silent-generator ===
+title: Which Generator Engine Is Easiest to Maintain and Repair Abroad?
+excerpt: A generator is a ten-year relationship. If your project is overseas, the engine you choose decides how fast it gets fixed when something breaks. A buyer's guide.
+
+=== perkins-280kw-when-engine-brand-matters ===
+title: Perkins 280kW vs Other Engines: When the Brand Inside the Canopy Matters
+excerpt: Two silent sets can look identical from the outside and cost the same. What changes is the engine block. A buyer's look at when the Perkins choice earns its keep — and when a more local engine makes more sense.
+
+=== scania-400kw-silent-generator ===
+title: How Much Fuel Does a Diesel Generator Use? Running Cost Explained for Buyers
+excerpt: The invoice is the smallest cost a generator carries. Here's how to work out real fuel and running costs — and when an efficient engine pays for itself.
+
+=== shangchai-200kw-silent-generator ===
+title: How to Buy a Backup Generator on a Tight Budget Without Regretting It
+excerpt: A low budget does not mean a bad generator. Here's where to spend, where to save, and how to buy reliable backup power without overpaying.
+
+=== standby-vs-prime-550kw-generator ===
+title: Standby vs Prime at 550kW: Choosing the Duty That Matches
+excerpt: Two quotes for the same 550kW set can differ by a third, and the difference is the duty rating. What standby and prime actually mean — and how choosing wrong shortens the life of an expensive machine.
+
+=== volvo-300kw-silent-generator ===
+title: How to Choose a Quiet, Space-Saving Generator for a Modern Building
+excerpt: Rooftops, courtyards, offices and hospitals have three quiet demands: small, quiet, clean. How to choose a generator that fits a modern building.
+
+=== weichai-200kw-silent-generator ===
+title: How Can You Be Sure Your Backup Generator Will Actually Start in an Outage?
+excerpt: A generator is only useful if it starts when you need it. What buyers should check for reliability, self-testing and local service before they commit.
+
+=== what-300kw-generator-runs-in-factory ===
+title: What Does a 300kW Backup Generator Actually Run in a Factory?
+excerpt: A 300kW silent set sits in a busy middle ground between small offices and industrial plants. A practical look at which factories, workshops and buildings it fits — and where it runs out of breath.
+
+=== whole-factory-500kw-prime-power ===
+title: Running a Whole Factory on One 500kW Set: How Buyers Plan It
+excerpt: A single 500kW set carrying an entire plant is a different planning problem from a backup set. Load sequencing, fuel, and redundancy decide whether the plan survives contact with the floor.
+
+=== why-data-centers-choose-500kw ===
+title: Why Data Centers and Hospitals Move Up to a 500kW Backup Set
+excerpt: There is a step change between a 300kW plant set and a 500kW mission-critical unit. A look at the loads that push buyers over that line — and the design differences that follow.
+
+=== yuchai-200kw-silent-generator ===
+title: What Size Generator Does a Small Factory, Workshop or Farm Need? A Simple Guide
+excerpt: Too big and you waste money; too small and it trips. A plain-English guide to sizing a diesel generator for a small business.
+

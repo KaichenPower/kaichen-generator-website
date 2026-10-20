@@ -1,0 +1,21 @@
+name: Doosan 500kW Silent Diesel Generator
+image: /images/products/doosan-500kw-silent.jpg
+brand: Doosan
+powerKVA: 625
+type: silent
+description: Heavy-duty 500kW Doosan soundproof diesel generator for industrial plants, hospitals and commercial buildings requiring large standby power with low noise.
+features:
+  - Doosan heavy-duty 6-cylinder engine for continuous and standby use
+  - Large acoustic canopy for urban and industrial sites
+  - High-capacity radiator designed for high ambient temperatures
+  - Synchronous brushless alternator with AVR
+  - Automatic mains failure transfer ready
+specs:
+  Prime power: 450 kW / 562 kVA
+  Standby power: 500 kW / 625 kVA
+  Engine: Doosan DP158 / DV11 series
+  Alternator: Brushless, self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital AMF controller
+  Starting: Electric start, 24V
+  Noise level: 72–78 dB(A) at 7m

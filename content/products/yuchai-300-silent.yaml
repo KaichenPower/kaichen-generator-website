@@ -1,0 +1,21 @@
+name: Yuchai 300kW Silent Diesel Generator
+image: /images/products/yuchai-300kw-silent.jpg
+brand: Yuchai
+powerKVA: 375
+type: silent
+description: 300kW Yuchai soundproof diesel generator for factories, commercial buildings and agricultural sites, providing reliable standby power with a practical total cost.
+features:
+  - Yuchai 6-cylinder diesel engine with proven durability
+  - Acoustic canopy protects against weather and reduces noise
+  - Baseframe fuel tank with service access
+  - Digital control panel with automatic start option
+  - Suitable for standby and frequent duty
+specs:
+  Prime power: 270 kW / 338 kVA
+  Standby power: 300 kW / 375 kVA
+  Engine: Yuchai YC6K / YC6MK series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Noise level: 70–75 dB(A) at 7m

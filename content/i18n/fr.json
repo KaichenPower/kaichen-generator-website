@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Fabricant de groupes électrogènes diesel",
+    "description": "Fournisseur OEM de groupes électrogènes diesel de 20‑4000 kVA ouverts, insonorisés, conteneurisés et mobiles pour des projets industriels et commerciaux dans le monde."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "solutions": "Solutions sectorielles",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Demander un devis"
+  },
+  "common": {
+    "requestQuote": "Demander un devis",
+    "learnMore": "En savoir plus",
+    "viewAll": "Voir tout",
+    "backToTop": "Retour en haut",
+    "language": "Langue",
+    "allProducts": "Tous les produits",
+    "relatedProducts": "Produits associés",
+    "relatedPosts": "Articles associés",
+    "backToProducts": "Retour aux produits",
+    "notFoundTitle": "Page introuvable",
+    "notFoundText": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "backToHome": "Retour à l'accueil"
+  },
+  "home": {
+    "heroBadge": "Fabricant OEM depuis 2013",
+    "heroTitle": "Fabricant chinois de groupes électrogènes diesel | Kaichen Power",
+    "heroSubtitle": "Jiangsu Kaichen Power Equipment Co., Ltd. a été fondée en 2013 à Yangzhou, en Chine. Fabricant professionnel de groupes électrogènes diesel, nous produisons des unités ouvertes, insonorisées, conteneurisées et remorquées de 20 à 4000 kVA pour des projets industriels et commerciaux dans le monde entier.",
+    "cta": "Voir nos générateurs",
+    "secondaryCta": "Obtenir un devis",
+    "featureTitle": "Pourquoi choisir Kaichen Power",
+    "features": [
+      {
+        "title": "Qualité certifiée ISO et CE",
+        "text": "Production certifiée ISO9001, ISO14001 et GB/T28001 avec un contrôle qualité strict en 12 étapes avant chaque expédition."
+      },
+      {
+        "title": "Partenariats OEM mondiaux",
+        "text": "Partenaire OEM/ODM officiel de Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi et Scania."
+      },
+      {
+        "title": "Gamme complète 20–4000 kVA",
+        "text": "Unités ouvertes, insonorisées, conteneurisées et remorquées de 20 à 4000 kVA pour chaque application."
+      },
+      {
+        "title": "Prix direct usine",
+        "text": "Directement depuis notre usine de Yangzhou : capacité de 8000 unités/an, prix compétitifs et délais réduits."
+      }
+    ],
+    "productsTitle": "Nos produits",
+    "productsSubtitle": "Des groupes électrogènes diesel fiables pour chaque application",
+    "viewAllProducts": "Voir tous les produits",
+    "solutionsTitle": "Solutions sectorielles",
+    "solutionsSubtitle": "Solutions énergétiques personnalisées pour différentes industries",
+    "aboutPreviewTitle": "À propos de Kaichen Power",
+    "aboutPreviewText": "Fondée en 2013 à Yangzhou, Kaichen Power est un fabricant et exportateur professionnel de groupes électrogènes diesel, au service de clients dans toute la Chine et exportant vers des marchés mondiaux.",
+    "statsTitle": "Kaichen Power en chiffres",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Création"
+      },
+      {
+        "value": "60+",
+        "label": "Pays d'exportation"
+      },
+      {
+        "value": "1200+",
+        "label": "Projets livrés"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Capacité max."
+      }
+    ],
+    "blogTitle": "Le plus récent de notre blog",
+    "readMore": "Lire la suite",
+    "statsFounded": "Année de fondation",
+    "statsCapacity": "Capacité de production / an",
+    "statsEmployees": "Employés",
+    "statsArea": "Surface d’usine",
+    "brandsTitle": "Partenaires moteurs",
+    "brandsSubtitle": "Autorisation OEM officielle des principaux fabricants mondiaux de moteurs",
+    "slides": [
+      {
+        "title": "Fabricant chinois de groupes électrogènes diesel",
+        "subtitle": "Fondée en 2013 à Yangzhou, Jiangsu — fabricant OEM professionnel de groupes électrogènes diesel de 20 à 4000 kVA."
+      },
+      {
+        "title": "Atelier de production avancé de groupes électrogènes",
+        "subtitle": "Lignes modernes et contrôle qualité strict pour chaque groupe électrogène ouvert, silencieux, conteneurisé et sur remorque."
+      },
+      {
+        "title": "Groupes électrogènes conteneurisés et silencieux",
+        "subtitle": "Solutions d'alimentation insonorisées et conteneurisées pour applications urbaines, marines et extérieures."
+      },
+      {
+        "title": "Groupes électrogènes diesel ouverts 20–4000 kVA",
+        "subtitle": "Alimentation principale et de secours fiable pour projets industriels, commerciaux et de construction dans le monde."
+      },
+      {
+        "title": "Groupes électrogènes mobiles sur remorque",
+        "subtitle": "Alimentation mobile prête à l'emploi pour sites temporaires, événements et secours d'urgence."
+      }
+    ],
+    "trustTitle": "Fabricant OEM certifié et autorisé",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "Autorisé OEM",
+      "8000 unités/an"
+    ],
+    "factoryTitle": "Notre usine et nos ateliers",
+    "factorySubtitle": "Découvrez l'intérieur de notre usine de groupes électrogènes à Yangzhou",
+    "factoryCaptions": [
+      "Lignes d'assemblage et de production",
+      "Contrôle qualité et essais de charge",
+      "Atelier d'unités mobiles",
+      "Tôlerie et fabrication"
+    ],
+    "workshopTitle": "La fabrication en action",
+    "workshopText": "De la fabrication de tôlerie à l'assemblage final et aux essais de charge, chaque groupe Kaichen est construit et vérifié dans notre propre atelier de Yangzhou."
+  },
+  "aboutPage": {
+    "title": "À propos de Kaichen Power",
+    "lead": "Fabricant et exportateur professionnel de groupes électrogènes diesel de Yangzhou, en Chine, fondé en 2013.",
+    "body1": "Jiangsu Kaichen Power Equipment Co., Ltd. a été fondée en 2013 à Yangzhou (province du Jiangsu, Chine). Nous sommes un fabricant complet d’équipements électriques intégrant R&D, production et vente de groupes électrogènes diesel, avec une capacité annuelle de 8000 unités et 36 000 m² d’usine. Nos produits couvrent les types ouvert, insonorisé, conteneurisé et remorqué de 20 à 4000 kVA, utilisés dans les centres de données, hôpitaux, télécoms, mines, pétrole et gaz, transports, construction et résidentiel.",
+    "body2": "Nous avons des partenariats OEM officiels avec Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi et Scania, et sommes certifiés ISO9001, ISO14001 et GB/T28001. Entreprise nationale de haute technologie depuis 2020, nous détenons plus de 10 brevets de modèle d’utilité et proposons des solutions personnalisées clés en main, de la conception à l’installation et au service après-vente.",
+    "companyIntro": "Présentation de l'entreprise",
+    "factoryVideo": "Vidéo de l'usine",
+    "productionLine": "Ligne de production",
+    "customerVisit": "Visites clients",
+    "certPatent": "Certificats et brevets",
+    "missionTitle": "Notre mission",
+    "missionText": "Fournir une énergie fiable et abordable à chaque secteur grâce à une fabrication OEM professionnelle et un service après-vente réactif.",
+    "qualityTitle": "Contrôle qualité",
+    "qualityText": "Chaque groupe électrogène passe par un processus strict de contrôle qualité en 12 étapes, incluant essai de charge, test d'isolation et inspection fonctionnelle avant expédition.",
+    "expertiseTitle": "Notre savoir-faire",
+    "expertise1": "Groupes ouverts",
+    "expertise2": "Groupes insonorisés",
+    "expertise3": "Groupes conteneurisés",
+    "expertise4": "Groupes mobiles sur remorque",
+    "factoryTitle": "Notre usine",
+    "customersTitle": "Visites de clients",
+    "certTitle": "Certificats et autorisations",
+    "certSubtitle": "Certifications de systèmes, autorisations OEM et brevets de modèle d’utilité",
+    "showMoreCerts": "Voir tous les certificats",
+    "showLessCerts": "Voir moins",
+    "certCats": {
+      "system": "Certifications système",
+      "oem": "OEM et autorisations",
+      "patents": "Modèles d'utilité"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Certification de management de la qualité",
+      "cert-06": "ISO 14001 (GB/T 24001) Management environnemental",
+      "cert-07": "ISO 45001 (GB/T 45001) Santé et Sécurité au Travail",
+      "cert-02": "CE Directive Machines",
+      "cert-01": "Cummins GOEM Autorisation",
+      "cert-03": "Yuchai Certificat de Distributeur",
+      "cert-04": "SDEC Power Autorisation",
+      "cert-09": "Weichai Power Autorisation",
+      "cert-05": "EvoTec Alternateur OEM Autorisation",
+      "cert-11": "Shanghai Shendong (SWG) OEM Certificat",
+      "cert-10": "FORTRUST OEM Autorisation",
+      "cert-12": "Yuchai Marin et Groupe Électrogène OEM Autorisation",
+      "cert-21": "Brevet – Groupe Électrogène Faible Bruit",
+      "cert-23": "Brevet – Groupe Électrogène Ultra-Silencieux",
+      "cert-22": "Brevet – Centrale Électrique Mobile",
+      "cert-13": "Brevet – Châssis de Base pour Groupes Électrogènes",
+      "cert-14": "Brevet – Régulateur de Vitesse Moteur Diesel",
+      "cert-15": "Brevet – Démarreur Moteur Diesel",
+      "cert-16": "Brevet – Dispositif de Réduction du Bruit",
+      "cert-17": "Brevet – Groupe Électrogène Économes en Énergie",
+      "cert-18": "Brevet – Groupe Électrogène Régulateur Économie de Carburant",
+      "cert-19": "Brevet – Dispositif de Récupération de Chaleur",
+      "cert-20": "Brevet – Générateur à Excitation à Grande Vitesse"
+    },
+    "certAllLabel": "Tous"
+  },
+  "productsPage": {
+    "title": "Nos produits",
+    "subtitle": "Parcourez nos groupes électrogènes diesel par marque moteur, gamme de puissance et type d'appareil",
+    "filterByBrand": "Filtrer par marque moteur",
+    "filterByPower": "Filtrer par puissance",
+    "filterByType": "Filtrer par type d'appareil",
+    "brand": "Marque moteur",
+    "power": "Puissance",
+    "unitType": "Type d'appareil",
+    "all": "Tous",
+    "noResults": "Aucun produit ne correspond à vos filtres.",
+    "specsTitle": "Spécifications clés",
+    "brandLabel": "Marque moteur",
+    "powerLabel": "Puissance",
+    "typeLabel": "Type d'appareil",
+    "enquiryTitle": "Se renseigner sur ce générateur",
+    "enquiryName": "Nom",
+    "enquiryEmail": "E-mail",
+    "enquiryPhone": "Téléphone / WhatsApp",
+    "enquiryMessage": "Votre message",
+    "enquirySend": "Envoyer la demande",
+    "enquiryNote": "Notre équipe répondra sous 24 heures.",
+    "featuresTitle": "Caractéristiques",
+    "applicationsTitle": "Domaine d'application",
+    "problemsTitle": "Problèmes résolus",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "page": "Page",
+    "detailTag": "Détail du produit"
+  },
+  "solutions": {
+    "title": "Solutions énergétiques par secteur",
+    "subtitle": "Groupes électrogènes diesel personnalisés pour des usages industriels et commerciaux",
+    "commercial-community": {
+      "name": "Commerces et résidences",
+      "desc": "Alimentation de secours fiable pour centres commerciaux, immeubles et bureaux."
+    },
+    "data-center": {
+      "name": "Data centers",
+      "desc": "Groupes stables pour alimentation de secours, prise en charge du fonctionnement parallèle N+1."
+    },
+    "medical": {
+      "name": "Santé et hôpitaux",
+      "desc": "Alimentation continue pour hôpitaux, cliniques et établissements médicaux."
+    },
+    "factory": {
+      "name": "Usines et industrie",
+      "desc": "Alimentation principale ou de secours pour sites de production."
+    },
+    "mining-oil": {
+      "name": "Mines et sites pétroliers",
+      "desc": "Groupes diesel stables adaptés aux mines et projets pétrole‑gaz dans des conditions d'exploitation complexes."
+    },
+    "transportation": {
+      "name": "Transport et ports",
+      "desc": "Solutions énergétiques pour ports, chemins de fer et plateformes logistiques."
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "desc": "Groupes pour irrigation, transformation céréalière et secours en milieu rural."
+    },
+    "construction-site": {
+      "name": "Chantiers de construction",
+      "desc": "Groupes mobiles et fixes pour alimentation temporaire sur chantier."
+    },
+    "home-backup-power": {
+      "name": "Secours domestique",
+      "desc": "Générateurs diesel silencieux pour secours résidentiel."
+    }
+  },
+  "contactPage": {
+    "title": "Contactez-nous",
+    "subtitle": "Parlez-nous de vos besoins en énergie et obtenez un devis sous 24 heures",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp",
+    "address": "Adresse",
+    "formTitle": "Envoyez-nous un message",
+    "name": "Votre nom",
+    "emailInput": "Votre e-mail",
+    "phone": "Téléphone / WhatsApp",
+    "country": "Pays",
+    "product": "Produit / Puissance requise",
+    "submit": "Envoyer le message",
+    "success": "Merci ! Votre message a été envoyé. Nous répondrons rapidement.",
+    "formNote": "Les champs marqués d'un * sont obligatoires.",
+    "formError": "Désolé, une erreur est survenue. Veuillez réessayer ou nous écrire directement.",
+    "message": "Votre besoin",
+    "phName": "Saisissez votre nom",
+    "phEmail": "Saisissez votre adresse email",
+    "phPhone": "Saisissez téléphone / WhatsApp",
+    "phCountry": "Saisissez votre pays",
+    "phProduct": "p. ex. groupe silencieux 200 kVA",
+    "phMessage": "Décrivez votre besoin : capacité, marque moteur, quantité, délai, etc.",
+    "sending": "Envoi…",
+    "productUrlLabel": "URL de la page produit",
+    "phProductUrl": "Lien vers la page produit",
+    "productNamePrefix": "Nom du produit:",
+    "productLinkPrefix": "Lien du produit:",
+    "tooFrequent": "Veuillez patienter avant de renvoyer.",
+    "quoteHeading": "Renseignez vos informations pour une solution et un devis gratuits",
+    "reqError": "Ce champ est obligatoire",
+    "emailInvalid": "Veuillez saisir une adresse e-mail valide"
+  },
+  "footerMobile": {
+    "home": "Accueil",
+    "products": "Produits",
+    "inquiry": "Envoyer une demande",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "Fabricant et exportateur professionnel de groupes électrogènes diesel (20‑4000 kVA) depuis 2013.",
+    "quickLinks": "Liens rapides",
+    "productsTitle": "Produits",
+    "contactTitle": "Contact",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "whatsapp": "WhatsApp",
+    "address": "Adresse",
+    "email": "E-mail"
+  },
+  "blogPage": {
+    "title": "Actualités et blog",
+    "subtitle": "Conseils, guides et actualités de l'entreprise sur les groupes électrogènes diesel",
+    "readMore": "Lire la suite",
+    "backToBlog": "Retour au blog",
+    "empty": "Aucune publication pour le moment. Revenez bientôt.",
+    "posted": "Publié le",
+    "readTime": "min de lecture"
+  },
+  "legal": {
+    "updatedLabel": "Dernière mise à jour : octobre 2026",
+    "privacyTitle": "Politique de confidentialité",
+    "privacyBody": [
+      "Jiangsu Kaichen Power Equipment Co., Ltd. (« nous », « notre ») s’engage à protéger la confidentialité des visiteurs de notre site. Cette politique explique quelles informations nous collectons et comment nous les utilisons.",
+      "Lorsque vous envoyez une demande via nos formulaires de contact ou de produit, nous collectons les informations que vous fournissez : nom, e-mail, téléphone et contenu du message. Nous les utilisons uniquement pour répondre à votre demande et vous informer sur nos produits et services.",
+      "Nous ne vendons ni ne partageons vos informations personnelles avec des tiers, sauf exigence légale. Pour toute question, contactez-nous à notre adresse e-mail officielle."
+    ],
+    "termsTitle": "Conditions de service",
+    "termsBody": [
+      "En utilisant ce site, vous acceptez ces conditions. Tous les contenus, images et informations produit appartiennent à Jiangsu Kaichen Power Equipment Co., Ltd. sauf mention contraire.",
+      "Les spécifications affichées sont indicatives et peuvent être ajustées selon vos besoins. Veuillez confirmer les spécifications finales avec notre équipe commerciale avant de passer commande.",
+      "Rien sur ce site ne constitue une offre contraignante. Les commandes sont soumises à notre devis écrit et à notre contrat de vente."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Puissance principale",
+    "standbyPower": "Puissance de réserve",
+    "engine": "Moteur",
+    "alternator": "Alternateur",
+    "voltage": "Tension",
+    "control": "Contrôle",
+    "starting": "Démarrage",
+    "cooling": "Refroidissement",
+    "noiseLevel": "Niveau sonore",
+    "fuelTank": "Réservoir de carburant",
+    "container": "Conteneur",
+    "fuelSystem": "Système de carburant",
+    "trailer": "Remorque",
+    "frame": "Châssis",
+    "fuelConsumption": "Consommation de carburant",
+    "mobility": "Mobilité"
+  },
+  "aboutExtended": {
+    "statsFounded": "Fondée",
+    "statsCapacity": "Unités / Capacité annuelle",
+    "statsDelivered": "Unités livrées en 3 ans",
+    "statsStaff": "Employés (30 ingénieurs SAV)",
+    "statsArea": "Usine de Yangzhou",
+    "statsService": "Points de service agréés",
+    "inhouseTitle": "Fabrication intégrée, simple assemblage",
+    "inhouseText": "Contrairement à la plupart des négociants qui achètent moteurs, alternateurs et capots séparément puis les assemblent sur place, Kaichen maîtrise les trois étapes clés de valeur ajoutée dans sa propre usine de Yangzhou. C'est pourquoi le coût baisse et la qualité reste constante.",
+    "inhouse1Title": "Alternateurs cuivre bobinés sur place.",
+    "inhouse1Text": "Nous utilisons de l'acier au silicium haute qualité et du fil émaillé cuivre 100%, bobiné et imprégné sous vide sur notre propre ligne, isolation classe H.",
+    "inhouse2Title": "Capots silencieux sur ligne tôlerie automatisée.",
+    "inhouse2Text": "Découpe laser, emboutissage, peinture poudre, mousse acoustique ininflammable et canaux labyrinthe réduisent le bruit à 65–75 dB(A).",
+    "inhouse3Title": "Armoires de contrôle et ATS intégrées.",
+    "inhouse3Text": "Armoires démarrage auto, coffrets ATS et armoires parallèle câblées selon les données exactes moteur et alternateur, pas un catalogue générique.",
+    "loadbankTitle": "Test de charge 4 étapes sur chaque groupe",
+    "loadbankText": "La plupart des usines livrent après un simple ralenti. Chaque groupe Kaichen passe sur notre banc de charge numérique 2 MW en séquence par paliers. La vidéo est enregistrée, archivée et remise au client avant expédition.",
+    "benchmarkTitle": "Projets de référence",
+    "benchmarkText": "Selon les données d'appels d'offres publics, Kaichen a remporté 73 projets publics nationaux et locaux dans plus de 20 provinces. Références représentatives :",
+    "benchmark1": "Centre de données China UnionPay Huangshan — système parallèle multi-MW pour datacenter financier.",
+    "benchmark2": "Nœuds backbone China Mobile — secours pour salles télécom nationales et provinciales.",
+    "benchmark3": "Champs pétroliers PetroChina — service continu en désert, poussière et grandes variations de température.",
+    "benchmark4": "Hôpitaux de premier rang — secours silencieux avec transfert auto en quelques secondes.",
+    "benchmark5": "Mine de charbon Taiyuan, 1200 kW — puissance principale pour site industriel lourd.",
+    "manufacturingTitle": "Fabrication et contrôle qualité",
+    "lbRow1Title": "20% charge légère",
+    "lbRow1Desc": "Démarrage à froid, stabilité ralenti, équilibre 3 phases, contrôle vibration",
+    "lbRow2Title": "50% demi-charge, 30 min",
+    "lbRow2Desc": "Stabilité, liquide refroidissement et pression huile, équilibre thermique",
+    "lbRow3Title": "75% charge lourde, 60 min",
+    "lbRow3Desc": "Marge de puissance, élévation température, creux fréquence et tension",
+    "lbRow4Title": "100% charge nominale, 60 min",
+    "lbRow4Desc": "Vérification puissance nominale, récupération transitoire, déclenchement surcharge",
+    "mfgIntro": "Chaque groupe électrogène Kaichen passe sur la même ligne de production et de test avant de quitter notre usine du Jiangsu. Le processus vise un objectif : le groupe arrive sur site prêt à charger dès la première coupure, pas après un mois de mise au point.",
+    "mfgBuiltTitle": "Comment chaque groupe est construit",
+    "mfgBuilt1Title": "Appariement moteur-alternateur.",
+    "mfgBuilt1Text": "Nous adaptons la puissance moteur à l'alternateur au facteur de puissance exact dont votre site a besoin, pas seulement à la plaque signalétique.",
+    "mfgBuilt2Title": "Châssis et réservoir.",
+    "mfgBuilt2Text": "Le châssis est soudé en tôle d'acier, équipé d'un réservoir intégré, d'amortisseurs et d'emplacements chariot avant montage moteur.",
+    "mfgBuilt3Title": "Câblage et coffret de contrôle.",
+    "mfgBuilt3Text": "Câbles puissance et commande séparés, borniers numérotés, contrôleur digital pré-programmé selon votre tension, fréquence et logique ATS.",
+    "mfgBuilt4Title": "Capot ou conteneur.",
+    "mfgBuilt4Text": "Groupes silencieux avec mousse acoustique, panneaux ventilés et portes d'accès ; conteneurs avec portes étanches, éclairage intérieur et prise externe.",
+    "mfgLoadTestTitle": "Essai de charge avant expédition",
+    "mfgLoadTestIntro": "Aucun groupe ne part sur une simple inspection visuelle. Chaque unité passe sur banc de charge électronique en séquence structurée, et le rapport accompagne le groupe :",
+    "mfgRow1Title": "Fonctionnement à vide",
+    "mfgRow1Desc": "Chauffe, pression huile et tension de charge",
+    "mfgRow2Title": "25% charge, 30 min",
+    "mfgRow2Desc": "Stabilité tension et fréquence, température échappement",
+    "mfgRow3Title": "50% charge, 30 min",
+    "mfgRow3Desc": "Régulation, consommation, niveau sonore",
+    "mfgRow4Title": "75% charge, 60 min",
+    "mfgRow4Desc": "Système refroidissement, temp. liquide, tension courroie",
+    "mfgRow5Title": "100% charge, 60 min",
+    "mfgRow5Desc": "Puissance nominale complète, régulation ±1.5%",
+    "mfgRow6Title": "Surcharge 110%, 1 min",
+    "mfgRow6Desc": "Coupure protection et vérification alarme",
+    "mfgFinalTitle": "Inspection finale",
+    "mfgFinal1": "Résistance isolement et continuité terre testées après trempage chaud-humide.",
+    "mfgFinal2": "Toutes protections vérifiées : survitesse, haute temp. eau, basse pression huile, surintensité, arrêt d'urgence.",
+    "mfgFinal3": "Séquence ATS testée de bout en bout au banc.",
+    "mfgFinal4": "Retouche peinture, nettoyage, et liste complète pièces de rechange dans la boîte à outils.",
+    "mfgClosing": "Les certificats CE et ISO 9001 accompagnent chaque livraison. Si vous souhaitez un essai témoin, un rapport d'inspection tiers (BV, SGS, TUV) ou un protocole FAT spécifique, prévenez-nous avant production et nous le préparons."
+  },
+  "productType": {
+    "silent": "Insonorisé",
+    "open": "Ouvert",
+    "container": "Conteneur",
+    "mobileTrailer": "Remorque mobile",
+    "dieselGenerator": "Générateur diesel",
+    "powerPlant": "Centrale en conteneur"
+  },
+  "products": {
+    "cummins-100-silent": {
+      "description": "Groupe électrogène diesel Cummins 100 kW compact insonorisé pour bureaux, petites usines et sites proches d'habitations où le bruit doit être maîtrisé.",
+      "features": [
+        "Moteur diesel Cummins 4 ou 6 cylindres avec support mondial éprouvé",
+        "Capot insonorisé réduit le bruit pour les sites proches des habitations",
+        "Réservoir intégré dans le châssis pour une autonomie accrue",
+        "Tableau de commande numérique avec démarrage automatique en option",
+        "Carter protégé contre les intempéries pour installation extérieure"
+      ]
+    },
+    "doosan-500-silent": {
+      "description": "Groupe électrogène diesel Doosan 500 kW robuste insonorisé pour usines, hôpitaux et bâtiments commerciaux nécessitant une grande puissance de secours à faible bruit.",
+      "features": [
+        "Moteur Doosan robuste 6 cylindres pour service continu et secours",
+        "Grand capot insonorisé pour sites urbains et industriels",
+        "Radiateur haute capacité conçu pour températures ambiantes élevées",
+        "Alternateur synchrone sans balais avec AVR",
+        "Prêt pour transfert automatique sur coupure secteur"
+      ]
+    },
+    "kc-100-open": {
+      "description": "Groupe électrogène diesel ouvert 100 kVA fiable pour chantiers, ateliers et alimentation électrique rurale.",
+      "features": [
+        "Unité ouverte sur patins avec châssis acier renforcé",
+        "Moteur Yuchai 6 cylindres, durabilité éprouvée",
+        "Protection complète : huile basse, surtempérature, surcharge",
+        "Tableau numérique avec surveillance à distance en option",
+        "Accès facile pour maintenance"
+      ]
+    },
+    "kc-1000-container": {
+      "description": "Centrale containerisée 1000 kVA, idéale pour flottes de location, mines et projets de soutien réseau.",
+      "features": [
+        "Conteneur 40 pieds avec isolation acoustique et thermique complète",
+        "Moteur Cummins haute densité de puissance",
+        "Capacité de fonctionnement parallèle multi-unités",
+        "Réservoir journalier, filtre à carburant et extinction d'incendie intégrés",
+        "Maintenance réduite pour service continu"
+      ]
+    },
+    "kc-150-perkins": {
+      "description": "Groupe électrogène diesel ouvert 150 kVA avec moteur Perkins, idéal pour secours industriel et de chantier.",
+      "features": [
+        "Moteur Perkins série 1106 fiabilité éprouvée",
+        "Châssis ouvert robuste avec supports antivibrions",
+        "Tableau numérique Deep Sea ou équivalent",
+        "Faible consommation et faible coût de maintenance",
+        "Certifié CE et ISO9001"
+      ]
+    },
+    "kc-200-silent": {
+      "description": "Groupe diesel silencieux 200 kVA moyen pour bâtiments commerciaux, banques et secours industriel.",
+      "features": [
+        "Capot insonorisé résistant aux intempéries pour extérieur",
+        "Moteur Weichai avec régulateur électronique",
+        "Fonctionnement parallèle possible (option)",
+        "Contrôle numérique complet avec écran LCD",
+        "Démarrage à froid et système de transfert automatique"
+      ]
+    },
+    "kc-2000-mobile": {
+      "description": "Groupe diesel mobile sur remorque 2000 kVA pour urgence, événements et opérations de terrain nécessitant un déploiement rapide.",
+      "features": [
+        "Sur remorque avec vitesse de route",
+        "Moteur Perkins robuste pour puissance primaire fiable",
+        "Vérins hydrauliques et isolation vibratile",
+        "Raccords rapides puissance et carburant",
+        "Éclairage complet, extinction d'incendie et cabine de contrôle"
+      ]
+    },
+    "kc-250-doosan": {
+      "description": "Groupe diesel silencieux compact 250 kVA avec moteur Doosan pour secours commercial et communautaire.",
+      "features": [
+        "Moteur Doosan à faible bruit et faible consommation",
+        "Capot insonorisé : bruit < 72 dB(A) à 7 m",
+        "Régulation automatique de tension, prêt pour surveillance à distance",
+        "Réservoir intégré pour 8+ heures de fonctionnement continu",
+        "Certifié CE et ISO9001"
+      ]
+    },
+    "kc-300-container": {
+      "description": "Groupe diesel containerisé 300 kVA, entièrement équipé et prêt à déployer en environnement isolé et rude.",
+      "features": [
+        "Conteneur 20 pieds avec traitement acoustique complet",
+        "Conçu pour fonctionnement parallèle et partage de charge",
+        "Réservoir journalier, extinction d'incendie et échappement intégrés",
+        "Accès maintenance extérieur et salle de contrôle en option",
+        "Adapté à la location et projets d'énergie temporaire"
+      ]
+    },
+    "kc-40-silent": {
+      "description": "Groupe diesel compact et silencieux 40 kVA, idéal pour petites entreprises, villas et secours commercial léger.",
+      "features": [
+        "Capot insonorisé : bruit < 70 dB(A) à 7 m",
+        "Moteur Weichai 4 cylindres à faible consommation",
+        "Régulation automatique de tension et tableau numérique",
+        "Réservoir intégré pour 8+ heures de fonctionnement",
+        "Certifié CE et ISO9001"
+      ]
+    },
+    "kc-4000-container": {
+      "description": "Centrale containerisée 4000 kVA avec moteur MTU, conçue pour projets industriels et services publics de grande envergure.",
+      "features": [
+        "Moteur MTU haute capacité à fiabilité exceptionnelle",
+        "Fonctionnement parallèle modulaire pour puissance de l'ordre du MW",
+        "Systèmes complets intégrés carburant, refroidissement et contrôle",
+        "Adapté à charge de base, pointe et soutien réseau",
+        "Longs intervalles de maintenance réduisent les coûts"
+      ]
+    },
+    "kc-500-open": {
+      "description": "Groupe diesel ouvert robuste 500 kVA avec moteur Cummins, pour alimentation industrielle et commerciale continue.",
+      "features": [
+        "Moteur Cummins série NT, fiabilité reconnue mondialement",
+        "Adapté aux cycles primaire et secours",
+        "Prêt pour fonctionnement parallèle et surveillance à distance",
+        "Châssis robuste avec supports antivibrions",
+        "Faible consommation et longue durée de vie"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "description": "Groupe diesel ouvert haute performance 600 kVA avec moteur Mitsubishi, pour data centers, mines et industrie lourde.",
+      "features": [
+        "Moteur Mitsubishi haute densité et faibles émissions",
+        "Construction ouverte robuste environnements exigeants",
+        "Fonctionnement parallèle pour redondance N+1",
+        "Contrôle numérique avec interface de surveillance à distance",
+        "Certifié CE et ISO9001"
+      ]
+    },
+    "kc-800-silent": {
+      "description": "Groupe diesel silencieux haute capacité 800 kVA avec moteur Volvo Penta, pour data centers, hôpitaux et grandes installations.",
+      "features": [
+        "Moteur Volvo Penta excellente efficacité énergétique",
+        "Capot insonorisé haut de gamme pour zones urbaines",
+        "Fonctionnement parallèle N+1 et gestion de charge",
+        "Contrôleur numérique avancé avec surveillance à distance",
+        "Moteur conforme aux normes d'émission"
+      ]
+    },
+    "kc-900-scania": {
+      "description": "Groupe diesel puissant et silencieux 900 kVA avec moteur Scania, pour installations critiques et grands projets commerciaux.",
+      "features": [
+        "Moteur industriel Scania 16 L excellente économie",
+        "Capot insonorisé : bruit < 75 dB(A) à 7 m",
+        "ATS automatique et surveillance à distance prêts",
+        "Adapté au fonctionnement parallèle et délestage",
+        "Certifié CE et ISO9001"
+      ]
+    },
+    "mitsubishi-100-open": {
+      "description": "Groupe diesel Mitsubishi ouvert 100 kW pour salles machines, ateliers et sites industriels disposant déjà d'un local protégé.",
+      "features": [
+        "Moteur industriel Mitsubishi performance durable",
+        "Conception ouverte sur patins pour maintenance facile",
+        "Réservoir sur châssis avec raccord réservoir journalier",
+        "Alternateur sans balais avec régulation automatique",
+        "Adapté installation en salle de générateur existante"
+      ]
+    },
+    "perkins-400-silent": {
+      "description": "Groupe diesel Perkins 400 kW insonorisé pour bâtiments commerciaux, usines et data centers nécessitant un secours fiable à bruit maîtrisé.",
+      "features": [
+        "Moteur Perkins 6 cylindres forte réponse transitoire",
+        "Capot acoustique pour salles machines intérieures ou extérieur près bureaux",
+        "Châssis robuste avec réservoir intégré",
+        "Tableau numérique avec port de communication à distance",
+        "Adapté au secours fréquent et puissance primaire"
+      ]
+    },
+    "scania-250-open": {
+      "description": "Groupe diesel Scania ouvert 250 kW pour usines et sites à charges motrices importantes nécessitant une forte réponse transitoire.",
+      "features": [
+        "Moteur industriel Scania excellente acceptation de charge",
+        "Conception ouverte pour accès complet service",
+        "Adapté compresseurs, pompes et démarrage moteurs",
+        "Alternateur sans balais avec AVR tension stable",
+        "Monté sur châssis acier robuste"
+      ]
+    },
+    "shangchai-300-silent": {
+      "description": "Groupe diesel Shangchai économique 300 kW insonorisé pour usines, bâtiments commerciaux et zones rurales avec secours fiable à prix pratique.",
+      "features": [
+        "Moteur Shangchai 6 cylindres large réseau de service",
+        "Capot insonorisé pour extérieur près habitations",
+        "Réservoir intégré sur châssis",
+        "Tableau numérique avec démarrage automatique en option",
+        "Bon équilibre performance et coût d'exploitation"
+      ]
+    },
+    "volvo-400-silent": {
+      "description": "Groupe diesel Volvo Penta 400 kW insonorisé pour complexes de bureaux, hôtels et sites industriels où faible bruit, économie et propreté sont prioritaires.",
+      "features": [
+        "Moteur Volvo Penta 6 cylindres économique à charge partielle",
+        "Capot acoustique pour implantation près bureaux et habitations",
+        "Châssis haute résistance avec supports antivibrions",
+        "Tableau numérique avec surveillance à distance en option",
+        "Moteur basse émission pour environnements sensibles"
+      ]
+    },
+    "weichai-400-silent": {
+      "description": "Groupe diesel Weichai 400 kW insonorisé pour usines, complexes commerciaux et chantiers, avec secours fiable et service local accessible.",
+      "features": [
+        "Moteur Weichai WP12/WP13 6 cylindres",
+        "Capot insonorisé pour installation extérieure",
+        "Réservoir intégré sur châssis robuste",
+        "Tableau numérique avec démarrage auto sur coupure secteur",
+        "Bonne disponibilité pièces pour service régional"
+      ]
+    },
+    "yuchai-100-mobile": {
+      "description": "Groupe diesel mobile Yuchai 100 kW sur remorque pour chantiers, événements extérieurs, secours catastrophes et sites où l'électricité doit se déplacer.",
+      "features": [
+        "Remorque homologée avec timon et roues",
+        "Moteur diesel Yuchai pour service mobile",
+        "Capot protège le groupe pendant transport et fonctionnement",
+        "Béquilles réglables pour installation rapide",
+        "Adapté aux sites changeant fréquemment d'emplacement"
+      ]
+    },
+    "yuchai-300-silent": {
+      "description": "Groupe diesel Yuchai 300 kW insonorisé pour usines, bâtiments commerciaux et sites agricoles, avec secours fiable et coût total pratique.",
+      "features": [
+        "Moteur Yuchai 6 cylindres durabilité éprouvée",
+        "Capot acoustique protège des intempéries et réduit le bruit",
+        "Réservoir sur châssis avec accès service",
+        "Tableau numérique avec démarrage auto en option",
+        "Adapté au secours et service fréquent"
+      ]
+    }
+  },
+  "cookie": {
+    "title": "Nous respectons votre vie privée",
+    "body": "Nous utilisons des cookies et technologies similaires pour faire fonctionner ce site, analyser le trafic et personnaliser le contenu. Selon le RGPD de l'UE et du Royaume-Uni, nous avons besoin de votre consentement avant de charger des cookies non essentiels. Vous pouvez modifier votre choix à tout moment dans notre",
+    "privacyLink": "Politique de Confidentialité",
+    "reject": "Refuser non essentiels",
+    "accept": "Tout accepter"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Sans balais, auto-excité",
+    "digitalControlPanel": "Panneau de contrôle numérique",
+    "digitalController": "Contrôleur numérique",
+    "digitalControllerAuto": "Contrôleur numérique avec démarrage automatique",
+    "digitalControllerParallel": "Contrôleur numérique avec fonction parallèle",
+    "digitalControllerRemote": "Contrôleur numérique avec surveillance à distance",
+    "digitalAmfController": "Contrôleur AMF numérique",
+    "atsController": "Contrôleur ATS automatique",
+    "advancedParallel": "Contrôleur parallèle avancé",
+    "electricStart24": "Démarrage électrique, 24V",
+    "electricStart1224": "Démarrage électrique, 12/24V",
+    "waterCooled": "Radiateur refroidi par eau",
+    "waterCooledContainer": "Refroidi par eau, optimisé pour conteneur",
+    "radiatorContainer": "Radiateur, optimisé pour conteneur",
+    "skidAntiVib": "Châssis renforcé avec supports antivibrations",
+    "skidForklift": "Châssis renforcé avec fentes pour chariot élévateur",
+    "singleAxleTrailer": "Remorque à un essieu, prête pour la route",
+    "twoAxleTrailer": "Remorque routière à deux essieux",
+    "iso20ft": "Conteneur ISO de 20 pieds",
+    "iso40ft": "Conteneur ISO de 40 pieds",
+    "hc40ft": "Module high cube de 40 pieds",
+    "tank180": "Intégré, 180 L",
+    "tank300": "Intégré, 300 L",
+    "tank600": "Intégré, 600 L",
+    "tank900": "Intégré, 900 L",
+    "tank75": "Intégré, 75 L",
+    "noise6872": "68–72 dB(A) à 7 m",
+    "noise6975": "69–75 dB(A) à 7 m",
+    "noise7075": "70–75 dB(A) à 7 m",
+    "noise7076": "70–76 dB(A) à 7 m",
+    "noise7278": "72–78 dB(A) à 7 m",
+    "noiseLe78": "≤ 78 dB(A) à 7 m",
+    "noiseLe70": "≤ 70 dB(A) à 7 m",
+    "noiseLe72": "≤ 72 dB(A) à 7 m",
+    "noiseLe75": "≤ 75 dB(A) à 7 m",
+    "fuel640": "env. 640 L/h à 100% de charge",
+    "fuel91": "env. 91 L/h à 100% de charge",
+    "dayTank": "Réservoir journalier + connexion externe",
+    "voltageCustom": "400/230V, 50Hz (tensions personnalisées disponibles)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

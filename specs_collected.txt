@@ -1,0 +1,115 @@
+=== KEYS ===
+Alternator
+Container
+Control
+Cooling
+Engine
+Frame
+Fuel consumption
+Fuel system
+Fuel tank
+Mobility
+Noise level
+Prime power
+Standby power
+Starting
+Trailer
+Voltage
+
+=== VALUES ===
+100 kW / 125 kVA
+135 kW / 169 kVA
+1440 kW / 1800 kVA
+150 kW / 188 kVA
+1600 kW / 2000 kVA
+180 kW / 225 kVA
+180L built-in
+200 kW / 250 kVA
+20ft ISO container
+216 kW / 270 kVA
+225 kW / 281 kVA
+240 kW / 300 kVA
+250 kW / 312 kVA
+27 kW / 34 kVA
+270 kW / 338 kVA
+2880 kW / 3600 kVA
+30 kW / 38 kVA
+300 kW / 375 kVA
+300L built-in
+3200 kW / 4000 kVA
+360 kW / 450 kVA
+400 kW / 500 kVA
+400/230V, 50Hz
+400/230V, 50Hz (custom voltages available)
+40ft ISO container
+40ft high-cube module
+450 kW / 562 kVA
+500 kW / 625 kVA
+600L built-in
+68–72 dB(A) at 7m
+69–75 dB(A) at 7m
+70–75 dB(A) at 7m
+70–76 dB(A) at 7m
+720 kW / 900 kVA
+72–78 dB(A) at 7m
+75L built-in
+800 kW / 1000 kVA
+90 kW / 112 kVA
+900L built-in
+Advanced parallel-capable controller
+Advanced paralleling controller
+Automatic ATS-ready controller
+Brushless self-excited
+Brushless, self-excited
+Cummins / Deep Sea controller
+Cummins 4B3.9 / 6BT5.9 series
+Cummins KTA38
+Cummins NT855
+Day tank + external connection
+Deep Sea / KCP controller
+Digital AMF controller
+Digital control panel
+Digital controller
+Digital controller with auto start
+Digital controller with parallel capability
+Digital controller with remote monitoring
+Doosan DP158 / DV11 series
+Doosan P158LE
+Electric start, 12/24V
+Electric start, 24V
+Heavy-duty skid with anti-vibration mounts
+Heavy-duty skid with forklift slots
+KCP LCD controller
+KCP digital controller
+MTU 16V4000
+Mitsubishi S6R2
+Mitsubishi S6S / S4S series
+Perkins / Cummins heavy-duty
+Perkins 1106A
+Perkins 2506 / 2806 series
+Radiator, container optimized
+SDEC SC12E
+Scania DC16
+Scania DC9 / DC13 series
+Shangchai SC12E / SC13 series
+Single-axle trailer, road-ready
+Stamford
+Stamford / Leroy-Somer
+Stamford / Marathon
+Two-axle highway trailer
+Volvo Penta TAD1641
+Volvo TAD1343 / TAD1641 series
+Water-cooled radiator
+Water-cooled, container optimized
+Weichai WP12D400E200 series
+Weichai WP2.3D
+Weichai WP6D
+Yuchai YC6108
+Yuchai YC6B series
+Yuchai YC6K / YC6MK series
+approx. 640 L/h at 100% load
+approx. 91 L/h at 100% load
+≤ 78 dB(A) @ 7m
+≤70 dB(A) @ 7m
+≤72 dB(A) @ 7m
+≤75 dB(A) @ 7m

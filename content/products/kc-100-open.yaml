@@ -1,0 +1,21 @@
+name: Yuchai 150kW Open Diesel Generator
+image: /images/products/yuchai-150kw-open.jpg
+brand: Yuchai
+powerKVA: 188
+type: open
+description: Reliable 100kVA open-type diesel generator set for construction sites, workshops and rural power supply.
+features:
+  - Open skid-mounted unit with heavy-duty steel baseframe
+  - Yuchai 6-cylinder engine, proven durability
+  - "Full protection system: low oil, high water temp, overload"
+  - Digital control panel with remote monitoring option
+  - Easy maintenance access
+specs:
+  Prime power: 135 kW / 169 kVA
+  Standby power: 150 kW / 188 kVA
+  Engine: Yuchai YC6108
+  Alternator: Stamford / Marathon
+  Voltage: 400/230V, 50Hz
+  Control: KCP digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator

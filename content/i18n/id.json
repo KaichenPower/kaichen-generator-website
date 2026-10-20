@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Kaichen Power – Produsen Diesel Genset",
+    "description": "Pemasok OEM diesel genset terbuka, senyap, kontainer, dan mobile 20–4000kVA untuk proyek industri dan komersial global."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "solutions": "Solusi",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "getQuote": "Dapatkan Penawaran"
+  },
+  "common": {
+    "requestQuote": "Minta Penawaran",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "viewAll": "Lihat Semua",
+    "backToTop": "Kembali ke atas",
+    "language": "Bahasa",
+    "allProducts": "Semua Produk",
+    "relatedProducts": "Produk Terkait",
+    "relatedPosts": "Artikel Terkait",
+    "backToProducts": "Kembali ke Produk",
+    "notFoundTitle": "Halaman Tidak Ditemukan",
+    "notFoundText": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "backToHome": "Kembali ke Beranda"
+  },
+  "home": {
+    "heroBadge": "Produsen OEM Sejak 2013",
+    "heroTitle": "Produsen Diesel Genset China | Kaichen Power",
+    "heroSubtitle": "Jiangsu Kaichen Power Equipment Co., Ltd. didirikan pada 2013 di Yangzhou, China. Sebagai produsen diesel genset profesional, kami memproduksi genset terbuka, senyap, kontainer, dan trailer mobile 20–4000kVA untuk proyek industri dan komersial di seluruh dunia.",
+    "cta": "Lihat Generator Kami",
+    "secondaryCta": "Dapatkan Penawaran",
+    "featureTitle": "Mengapa Memilih Kaichen Power",
+    "features": [
+      {
+        "title": "Kualitas Bersertifikat ISO & CE",
+        "text": "Produksi bersertifikat ISO9001, ISO14001 dan GB/T28001 dengan kontrol kualitas 12-langkah ketat sebelum setiap pengiriman."
+      },
+      {
+        "title": "Kemitraan OEM Global",
+        "text": "Mitra OEM/ODM resmi Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi dan Scania."
+      },
+      {
+        "title": "Rentang Daya Lengkap 20–4000kVA",
+        "text": "Unit terbuka, senyap, kontainer, dan trailer mobile mencakup 20kVA hingga 4000kVA untuk setiap aplikasi."
+      },
+      {
+        "title": "Langsung dari Pabrik & Pengiriman Cepat",
+        "text": "Langsung dari pabrik Yangzhou dengan kapasitas tahunan 8.000 unit, harga kompetitif dan waktu produksi lebih singkat."
+      }
+    ],
+    "productsTitle": "Produk Kami",
+    "productsSubtitle": "Diesel genset andal untuk setiap aplikasi",
+    "viewAllProducts": "Lihat Semua Produk",
+    "solutionsTitle": "Solusi Industri",
+    "solutionsSubtitle": "Solusi daya khusus untuk berbagai industri",
+    "aboutPreviewTitle": "Tentang Kaichen Power",
+    "aboutPreviewText": "Didirikan pada 2013 di Yangzhou, Kaichen Power adalah produsen dan eksportir diesel genset profesional, melayani pelanggan di seluruh China dan pasar dunia.",
+    "statsTitle": "Kaichen Power dalam Angka",
+    "stats": [
+      {
+        "value": "2013",
+        "label": "Tahun Berdiri"
+      },
+      {
+        "value": "60+",
+        "label": "Negara Ekspor"
+      },
+      {
+        "value": "1200+",
+        "label": "Proyek Selesai"
+      },
+      {
+        "value": "4000kVA",
+        "label": "Kapasitas Maks"
+      }
+    ],
+    "blogTitle": "Terbaru dari Blog Kami",
+    "readMore": "Baca Selengkapnya",
+    "statsFounded": "Tahun Berdiri",
+    "statsCapacity": "Kapasitas Unit / Tahun",
+    "statsEmployees": "Karyawan",
+    "statsArea": "Luas Pabrik",
+    "brandsTitle": "Mitra Mesin",
+    "brandsSubtitle": "Otorisasi OEM resmi dari produsen mesin global terkemuka",
+    "slides": [
+      {
+        "title": "Produsen Diesel Genset China",
+        "subtitle": "Didirikan 2013 di Yangzhou, Jiangsu — produsen diesel genset OEM profesional untuk 20–4000kVA."
+      },
+      {
+        "title": "Bengkel Produksi Genset Canggih",
+        "subtitle": "Lini produksi modern dan kontrol kualitas ketat untuk setiap genset terbuka, senyap, kontainer, dan trailer."
+      },
+      {
+        "title": "Genset Kontainer & Senyap",
+        "subtitle": "Solusi daya kedap suara dan kontainer untuk aplikasi perkotaan, kelautan, dan luar ruangan."
+      },
+      {
+        "title": "Diesel Genset Terbuka 20–4000kVA",
+        "subtitle": "Daya utama dan siaga yang andal untuk proyek industri, komersial, dan konstruksi di seluruh dunia."
+      },
+      {
+        "title": "Generator Trailer Mobile",
+        "subtitle": "Daya mobile siap bergerak untuk lokasi sementara, acara, dan cadangan darurat."
+      }
+    ],
+    "trustTitle": "Produsen OEM Bersertifikat & Resmi",
+    "trustItems": [
+      "ISO 9001",
+      "ISO 14001",
+      "GB/T45001",
+      "CE",
+      "Resmi OEM",
+      "8.000 Unit / Tahun"
+    ],
+    "factoryTitle": "Pabrik & Bengkel Kami",
+    "factorySubtitle": "Lihat bagian dalam pabrik manufaktur diesel genset kami di Yangzhou",
+    "factoryCaptions": [
+      "Lini Perakitan & Produksi",
+      "Kontrol Kualitas & Uji Beban",
+      "Bengkel Unit Daya Mobile",
+      "Pengerjaan Logam & Fabrikasi"
+    ],
+    "workshopTitle": "Manufaktur dalam Aksi",
+    "workshopText": "Dari fabrikasi logam hingga perakitan akhir dan uji beban, setiap genset Kaichen dibangun dan diverifikasi di bengkel Yangzhou kami sendiri."
+  },
+  "aboutPage": {
+    "title": "Tentang Kaichen Power",
+    "lead": "Produsen dan eksportir diesel genset profesional dari Yangzhou, China, didirikan pada 2013.",
+    "body1": "Jiangsu Kaichen Power Equipment Co., Ltd. didirikan pada 2013 di Yangzhou, Jiangsu, China. Kami adalah produsen peralatan daya komprehensif yang mengintegrasikan R&D, produksi, dan penjualan diesel genset, dengan kapasitas tahunan 8.000 unit dan luas pabrik 36.000 meter persegi. Produk kami mencakup jenis terbuka, senyap, kontainer, dan trailer mobile dari 20kVA hingga 4000kVA, banyak digunakan di pusat data, rumah sakit, telekomunikasi, pertambangan, minyak & gas, transportasi, konstruksi, dan sektor perumahan.",
+    "body2": "Kami memiliki kemitraan OEM resmi dengan Cummins, Perkins, Volvo, Doosan, Weichai, Yuchai, SDEC, Mitsubishi dan Scania, serta bersertifikat ISO9001, ISO14001 dan GB/T28001. Sebagai Perusahaan Teknologi Tinggi Nasional sejak 2020, kami memiliki lebih dari 10 paten model utilitas dan memberikan solusi khusus satu pintu dari desain dan pemilihan hingga instalasi dan dukungan purna jual.",
+    "companyIntro": "Pengenalan Perusahaan",
+    "factoryVideo": "Video Pabrik",
+    "productionLine": "Lini Produksi",
+    "customerVisit": "Kunjungan Pelanggan",
+    "certPatent": "Sertifikat & Paten",
+    "missionTitle": "Misi Kami",
+    "missionText": "Menyediakan daya yang andal dan terjangkau untuk setiap industri melalui manufaktur OEM profesional dan dukungan purna jual yang responsif.",
+    "qualityTitle": "Kontrol Kualitas",
+    "qualityText": "Setiap genset melalui proses kontrol kualitas 12-langkah yang ketat, termasuk uji beban, uji isolasi, dan inspeksi fungsional sebelum pengiriman.",
+    "expertiseTitle": "Keahlian Kami",
+    "expertise1": "Genset Tipe Terbuka",
+    "expertise2": "Genset Senyap & Bertutup",
+    "expertise3": "Genset Tipe Kontainer",
+    "expertise4": "Genset Trailer Mobile",
+    "factoryTitle": "Pabrik Kami",
+    "customersTitle": "Kunjungan Pelanggan",
+    "certTitle": "Sertifikat & Otorisasi",
+    "certSubtitle": "Sertifikasi sistem, otorisasi OEM, dan paten model utilitas",
+    "showMoreCerts": "Lihat Semua Sertifikat",
+    "showLessCerts": "Tampilkan Lebih Sedikit",
+    "certCats": {
+      "system": "Sertifikasi Sistem",
+      "oem": "OEM & Otorisasi",
+      "patents": "Paten Model Utilitas"
+    },
+    "certNames": {
+      "cert-08": "ISO 9001 Sertifikasi Manajemen Mutu",
+      "cert-06": "ISO 14001 (GB/T 24001) Manajemen Lingkungan",
+      "cert-07": "ISO 45001 (GB/T 45001) Kesehatan & Keselamatan Kerja",
+      "cert-02": "CE Direktif Mesin",
+      "cert-01": "Cummins GOEM Otorisasi",
+      "cert-03": "Yuchai Sertifikat Distributor",
+      "cert-04": "SDEC Power Otorisasi",
+      "cert-09": "Weichai Power Otorisasi",
+      "cert-05": "EvoTec Alternator OEM Otorisasi",
+      "cert-11": "Shanghai Shendong (SWG) Sertifikat OEM",
+      "cert-10": "FORTRUST OEM Otorisasi",
+      "cert-12": "Yuchai Laut & Genset OEM Otorisasi",
+      "cert-21": "Paten – Genset Kebisingan Rendah",
+      "cert-23": "Paten – Genset Ultra Senyap",
+      "cert-22": "Paten – Pembangkit Listrik Mobile",
+      "cert-13": "Paten – Sasis Dasar untuk Genset",
+      "cert-14": "Paten – Governor Kecepatan Mesin Diesel",
+      "cert-15": "Paten – Starter Mesin Diesel",
+      "cert-16": "Paten – Perangkat Redam Kebisingan",
+      "cert-17": "Paten – Genset Hemat Energi",
+      "cert-18": "Paten – Genset Penghemat Bahan Bakar",
+      "cert-19": "Paten – Perangkat Pemulihan Energi Panas",
+      "cert-20": "Paten – Generator Eksitasi Kecepatan Tinggi"
+    },
+    "certAllLabel": "Semua"
+  },
+  "productsPage": {
+    "title": "Produk Kami",
+    "subtitle": "Jelajahi diesel genset kami berdasarkan merek mesin, rentang daya, dan jenis unit",
+    "filterByBrand": "Filter Berdasarkan Merek Mesin",
+    "filterByPower": "Filter Berdasarkan Rentang Daya",
+    "filterByType": "Filter Berdasarkan Jenis Unit",
+    "brand": "Merek Mesin",
+    "power": "Daya",
+    "unitType": "Jenis Unit",
+    "all": "Semua",
+    "noResults": "Tidak ada produk yang cocok dengan filter Anda.",
+    "specsTitle": "Spesifikasi Utama",
+    "brandLabel": "Merek Mesin",
+    "powerLabel": "Daya",
+    "typeLabel": "Jenis Unit",
+    "enquiryTitle": "Tanyakan Tentang Generator Ini",
+    "enquiryName": "Nama",
+    "enquiryEmail": "Email",
+    "enquiryPhone": "Telepon / WhatsApp",
+    "enquiryMessage": "Pesan Anda",
+    "enquirySend": "Kirim Pertanyaan",
+    "enquiryNote": "Tim kami akan membalas dalam 24 jam.",
+    "featuresTitle": "Fitur",
+    "applicationsTitle": "Ruang Lingkup Aplikasi",
+    "problemsTitle": "Masalah yang Dipecahkan",
+    "prev": "Sebelumnya",
+    "next": "Berikutnya",
+    "page": "Halaman",
+    "detailTag": "Detail Produk"
+  },
+  "solutions": {
+    "title": "Solusi Daya Industri",
+    "subtitle": "Diesel genset khusus untuk berbagai skenario industri dan komersial",
+    "commercial-community": {
+      "name": "Komersial & Komunitas",
+      "desc": "Catu daya cadangan yang andal untuk pusat perbelanjaan, kompleks perumahan, dan gedung perkantoran."
+    },
+    "data-center": {
+      "name": "Pusat Data",
+      "desc": "Diesel genset stabil untuk daya darurat pusat data, mendukung operasi paralel N+1."
+    },
+    "medical": {
+      "name": "Medis & Kesehatan",
+      "desc": "Jaminan daya berkelanjutan untuk rumah sakit, klinik, dan fasilitas medis."
+    },
+    "factory": {
+      "name": "Pabrik & Manufaktur",
+      "desc": "Daya utama atau siaga untuk pabrik manufaktur dan bengkel."
+    },
+    "mining-oil": {
+      "name": "Pertambangan & Ladang Minyak",
+      "desc": "Diesel generator stabil untuk lokasi tambang dan proyek minyak & gas dalam kondisi kerja kompleks."
+    },
+    "transportation": {
+      "name": "Transportasi",
+      "desc": "Solusi daya untuk pelabuhan, kereta api, dan hub transportasi."
+    },
+    "agriculture": {
+      "name": "Pertanian",
+      "desc": "Generator untuk irigasi pertanian, pengolahan biji-bijian, dan cadangan daya pedesaan."
+    },
+    "construction-site": {
+      "name": "Lokasi Konstruksi",
+      "desc": "Genset mobile dan stasioner untuk daya konstruksi sementara."
+    },
+    "home-backup-power": {
+      "name": "Cadangan Daya Rumah",
+      "desc": "Diesel generator senyap untuk catu daya darurat perumahan."
+    }
+  },
+  "contactPage": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ceritakan kebutuhan daya Anda dan dapatkan penawaran dalam 24 jam",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Alamat",
+    "formTitle": "Kirim Pesan kepada Kami",
+    "name": "Nama Anda",
+    "emailInput": "Email Anda",
+    "phone": "Telepon / WhatsApp",
+    "country": "Negara",
+    "product": "Produk / Daya yang Dibutuhkan",
+    "submit": "Kirim Pesan",
+    "success": "Terima kasih! Pesan Anda telah terkirim. Kami akan segera membalas.",
+    "formNote": "Kolom bertanda * wajib diisi.",
+    "formError": "Maaf, terjadi kesalahan. Silakan coba lagi atau hubungi kami langsung melalui email.",
+    "message": "Kebutuhan Anda",
+    "phName": "Masukkan nama lengkap Anda",
+    "phEmail": "Masukkan alamat email Anda",
+    "phPhone": "Masukkan nomor telepon / WhatsApp Anda",
+    "phCountry": "Masukkan negara Anda",
+    "phProduct": "mis. generator senyap 200 kVA",
+    "phMessage": "Jelaskan kebutuhan Anda: kapasitas, merek mesin, jumlah, waktu pengiriman, dll.",
+    "sending": "Mengirim…",
+    "productUrlLabel": "URL Halaman Produk",
+    "phProductUrl": "Tautan ke halaman produk",
+    "productNamePrefix": "Nama produk:",
+    "productLinkPrefix": "Tautan produk:",
+    "tooFrequent": "Mohon tunggu sebentar sebelum mengirim lagi.",
+    "quoteHeading": "Isi detail Anda untuk mendapatkan solusi & penawaran gratis",
+    "reqError": "Kolom ini wajib diisi",
+    "emailInvalid": "Masukkan alamat email yang valid"
+  },
+  "footerMobile": {
+    "home": "Beranda",
+    "products": "Produk",
+    "inquiry": "Kirim Pertanyaan",
+    "blog": "Blog"
+  },
+  "footer": {
+    "aboutText": "Produsen dan eksportir diesel genset profesional (20–4000kVA) sejak 2013.",
+    "quickLinks": "Tautan Cepat",
+    "productsTitle": "Produk",
+    "contactTitle": "Kontak",
+    "rights": "Hak cipta dilindungi.",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "whatsapp": "WhatsApp",
+    "address": "Alamat",
+    "email": "Email"
+  },
+  "blogPage": {
+    "title": "Berita & Blog",
+    "subtitle": "Wawasan, panduan, dan pembaruan perusahaan tentang diesel genset",
+    "readMore": "Baca Selengkapnya",
+    "backToBlog": "Kembali ke Blog",
+    "empty": "Belum ada artikel. Periksa kembali nanti.",
+    "posted": "Diposting pada",
+    "readTime": "menit baca"
+  },
+  "legal": {
+    "updatedLabel": "Terakhir diperbarui: Oktober 2026",
+    "privacyTitle": "Kebijakan Privasi",
+    "privacyBody": [
+      "Jiangsu Kaichen Power Equipment Co., Ltd. (\"kami\") berkomitmen melindungi privasi pengunjung situs web kami. Kebijakan ini menjelaskan informasi apa yang kami kumpulkan dan bagaimana kami menggunakannya.",
+      "Saat Anda mengirimkan pertanyaan melalui formulir kontak atau pertanyaan produk kami, kami mengumpulkan detail yang Anda berikan, seperti nama, alamat email, nomor telepon, dan isi pesan Anda. Kami menggunakan informasi ini semata-mata untuk menanggapi pertanyaan Anda dan memberikan informasi tentang produk dan layanan kami.",
+      "Kami tidak menjual atau membagikan informasi pribadi Anda kepada pihak ketiga kecuali diwajibkan oleh hukum. Jika Anda memiliki pertanyaan tentang kebijakan ini, silakan hubungi kami melalui alamat email resmi."
+    ],
+    "termsTitle": "Ketentuan Layanan",
+    "termsBody": [
+      "Dengan menggunakan situs web ini, Anda menyetujui ketentuan ini. Semua konten, gambar, dan informasi produk di situs ini adalah milik Jiangsu Kaichen Power Equipment Co., Ltd. kecuali dinyatakan lain.",
+      "Spesifikasi produk yang ditampilkan bersifat indikatif dan dapat disesuaikan dengan kebutuhan Anda. Harap konfirmasi spesifikasi akhir dengan tim penjualan kami sebelum melakukan pemesanan.",
+      "Tidak ada hal di situs web ini yang merupakan penawaran yang mengikat. Pesanan tunduk pada penawaran tertulis dan perjanjian penjualan kami."
+    ]
+  },
+  "specLabels": {
+    "primePower": "Daya utama",
+    "standbyPower": "Daya siaga",
+    "engine": "Mesin",
+    "alternator": "Alternator",
+    "voltage": "Tegangan",
+    "control": "Kontrol",
+    "starting": "Menyalakan",
+    "cooling": "Pendinginan",
+    "noiseLevel": "Tingkat kebisingan",
+    "fuelTank": "Tangki bahan bakar",
+    "container": "Kontainer",
+    "fuelSystem": "Sistem bahan bakar",
+    "trailer": "Trailer",
+    "frame": "Kerangka",
+    "fuelConsumption": "Konsumsi bahan bakar",
+    "mobility": "Mobilitas"
+  },
+  "aboutExtended": {
+    "statsFounded": "Didirikan",
+    "statsCapacity": "Unit / Kapasitas tahunan",
+    "statsDelivered": "Unit terkirim dalam 3 tahun",
+    "statsStaff": "Karyawan (30 insinyur servis)",
+    "statsArea": "Pabrik di Yangzhou",
+    "statsService": "Poin layanan resmi",
+    "inhouseTitle": "Manufaktur internal, bukan sekadar perakitan",
+    "inhouseText": "Berbeda dari kebanyakan pedagang yang membeli mesin, alternator, dan kanopi terpisah lalu merakit di lokasi, Kaichen menjaga tiga langkah nilai tambah inti di pabrik Yangzhou kami sendiri. Itulah sebabnya biaya turun dan kualitas tetap konsisten.",
+    "inhouse1Title": "Alternator tembaga digulung internal.",
+    "inhouse1Text": "Kami menggunakan baja silikon bermutu tinggi dan kawat email tembaga 100%, digulung dan diresapi vakum di lini kami sendiri, isolasi kelas H.",
+    "inhouse2Title": "Kanopi peredam pada lini lembaran logam otomatis.",
+    "inhouse2Text": "Potong laser, press, cat bubuk, busa akustik tahan api, dan saluran labirin menurunkan kebisingan ke 65–75 dB(A).",
+    "inhouse3Title": "Panel kontrol dan kabinet ATS dibuat internal.",
+    "inhouse3Text": "Panel start otomatis, kabinet ATS ganda, dan switchgear paralel disesuaikan dengan data mesin dan alternator yang tepat, bukan katalog generik.",
+    "loadbankTitle": "Uji beban 4 tahap untuk setiap unit",
+    "loadbankText": "Kebanyakan pabrik menyerahkan unit setelah idle. Setiap unit Kaichen melewati beban uji digital 2 MW kami secara bertahap. Video uji direkam, diarsipkan per unit, dan diberikan kepada pembeli sebelum pengiriman.",
+    "benchmarkTitle": "Proyek patokan",
+    "benchmarkText": "Berdasarkan data tender publik, Kaichen memenangkan 73 proyek publik nasional dan lokal di lebih dari 20 provinsi. Referensi perwakilan:",
+    "benchmark1": "Pusat data China UnionPay Huangshan — sistem paralel multi-MW untuk pusat data kelas finansial.",
+    "benchmark2": "Noda tulang punggung China Mobile — daya siaga untuk ruang telekomunikasi provinsi dan nasional.",
+    "benchmark3": "Lapangan minyak PetroChina — tugas terus menerus di gurun, debu, dan suhu ekstrem.",
+    "benchmark4": "Rumah sakit kelas atas — siaga senyap dengan transfer otomatis tingkat detik.",
+    "benchmark5": "Tambang batu bara Taiyuan, 1200 kW — daya utama untuk lokasi industri berat.",
+    "manufacturingTitle": "Manufaktur dan pengendalian kualitas",
+    "lbRow1Title": "20% beban ringan",
+    "lbRow1Desc": "Start dingin, kelancaran idle, keseimbangan 3 fase, cek getaran",
+    "lbRow2Title": "50% beban setengah, 30 menit",
+    "lbRow2Desc": "Stabilitas, cairan pendingin dan tekanan oli, keseimbangan pendinginan",
+    "lbRow3Title": "75% beban berat, 60 menit",
+    "lbRow3Desc": "Margin daya, kenaikan suhu, penurunan frekuensi dan tegangan",
+    "lbRow4Title": "100% beban nominal, 60 menit",
+    "lbRow4Desc": "Verifikasi daya nominal, pemulihan transien, trip beban lebih",
+    "mfgIntro": "Setiap genset diesel Kaichen melewati lini produksi dan rutinitas uji yang sama sebelum meninggalkan pabrik kami di Jiangsu. Proses dibangun di sekitar satu tujuan: set tiba di lokasi Anda siap memikul beban pada pemadaman nyata pertama, bukan setelah sebulan debugging.",
+    "mfgBuiltTitle": "Bagaimana setiap set dibangun",
+    "mfgBuilt1Title": "Pencocokan engine dan alternator.",
+    "mfgBuilt1Text": "Kami mencocokkan rating engine dengan alternator pada faktor daya tepat yang dibutuhkan lokasi Anda, bukan hanya pada nama plate.",
+    "mfgBuilt2Title": "Baseframe dan tangki.",
+    "mfgBuilt2Text": "Skid dilas dari pelat baja, dilengkapi tangki bahan bakar terintegrasi, peredam getaran, dan slot forklift sebelum engine dipasang.",
+    "mfgBuilt3Title": "Wiring dan panel kontrol.",
+    "mfgBuilt3Text": "Kabel daya dan kontrol dialirkan di saluran terpisah, blok terminal dinomori, dan pengontrol digital diprogram awal untuk tegangan, frekuensi, dan logika ATS Anda.",
+    "mfgBuilt4Title": "Kanopi atau container.",
+    "mfgBuilt4Text": "Set senyap dilapisi busa akustik, panel berventilasi, dan pintu akses; set kontainer menerima pintu tertutup cuaca, lampu internal, dan soket daya eksternal.",
+    "mfgLoadTestTitle": "Uji beban sebelum pengiriman",
+    "mfgLoadTestIntro": "Tidak ada set yang dikirim hanya dengan pemeriksaan visual. Setiap unit melewati bank beban elektronik kami secara berurutan, dan laporan uji menyertai set:",
+    "mfgRow1Title": "Running tanpa beban",
+    "mfgRow1Desc": "Pemanasan, tekanan oli dan tegangan charging",
+    "mfgRow2Title": "25% beban, 30 menit",
+    "mfgRow2Desc": "Stabilitas tegangan dan frekuensi, suhu buang",
+    "mfgRow3Title": "50% beban, 30 menit",
+    "mfgRow3Desc": "Respons governor, konsumsi bahan bakar, tingkat kebisingan",
+    "mfgRow4Title": "75% beban, 60 menit",
+    "mfgRow4Desc": "Sistem pendingin, suhu coolant, tegangan sabuk",
+    "mfgRow5Title": "100% beban, 60 menit",
+    "mfgRow5Desc": "Output nominal penuh, regulasi tegangan ±1.5%",
+    "mfgRow6Title": "Overload 110%, 1 menit",
+    "mfgRow6Desc": "Shutdown proteksi dan verifikasi alarm",
+    "mfgFinalTitle": "Inspeksi akhir",
+    "mfgFinal1": "Tahanan isolasi dan kontinuitas bumi diuji setelah rendam panas-lembap.",
+    "mfgFinal2": "Semua fungsi proteksi diverifikasi: over-speed, suhu air tinggi, tekanan oli rendah, over-current, stop darurat.",
+    "mfgFinal3": "Urutan ATS diuji end-to-end di bench.",
+    "mfgFinal4": "Touch-up cat, pembersihan, dan daftar suku cadang lengkap dikemas di kotak perkakas.",
+    "mfgClosing": "Sertifikat CE dan ISO 9001 menyertai setiap pengiriman. Jika Anda memerlukan witness test, laporan inspeksi pihak ketiga (BV, SGS, TUV), atau protokol FAT khusus lokasi, beri tahu kami sebelum produksi dimulai dan kami menyiapkannya."
+  },
+  "productType": {
+    "silent": "Terkendap",
+    "open": "Terbuka",
+    "container": "Kontainer",
+    "mobileTrailer": "Trailer bergerak",
+    "dieselGenerator": "Genset diesel",
+    "powerPlant": "Pusat daya kontainer"
+  },
+  "products": {
+    "cummins-100-silent": {
+      "description": "Genset diesel Cummins 100 kW tipe silent kompak untuk kantor, pabrik kecil, dan area dekat pemukiman di mana kebisingan harus dikontrol.",
+      "features": [
+        "Mesin diesel Cummins 4 atau 6 silinder dengan dukungan global terbukti",
+        "Kanopi akustik mengurangi kebisingan untuk lokasi dekat manusia",
+        "Tangki bahan bakar terintegrasi di baseframe untuk durasi lebih lama",
+        "Panel kontrol digital dengan starter otomatis opsional",
+        "Casing tahan cuaca untuk instalasi luar ruangan"
+      ]
+    },
+    "doosan-500-silent": {
+      "description": "Genset diesel Doosan 500 kW heavy duty tipe silent untuk pabrik, rumah sakit, dan gedung komersial yang membutuhkan daya siaga besar dengan kebisingan rendah.",
+      "features": [
+        "Mesin Doosan heavy duty 6 silinder untuk prime dan standby",
+        "Kanopi akustik besar untuk lokasi perkotaan dan industri",
+        "Radiator kapasitas tinggi untuk suhu lingkungan tinggi",
+        "Alternator sinkron brushless dengan AVR",
+        "Siap untuk auto mains failure transfer"
+      ]
+    },
+    "kc-100-open": {
+      "description": "Genset diesel tipe open 100 kVA andal untuk lokasi konstruksi, bengkel, dan pasokan listrik pedesaan.",
+      "features": [
+        "Unit open skid-mounted dengan baseframe baja berat",
+        "Mesin Yuchai 6 silinder, daya tahan terbukti",
+        "Proteksi penuh: oli rendah, suhu air tinggi, overload",
+        "Panel digital dengan remote monitoring opsional",
+        "Akses perawatan mudah"
+      ]
+    },
+    "kc-1000-container": {
+      "description": "Pusat daya container 1000 kVA, ideal untuk armada rental besar, pertambangan, dan proyek pendukung grid.",
+      "features": [
+        "Modul kontainer 40 kaki dengan isolasi akustik dan termal penuh",
+        "Mesin Cummins densitas daya tinggi",
+        "Kemampuan paralel multi-unit dan sinkronisasi",
+        "Tangki harian built-in, fuel polishing, dan pemadam kebakaran",
+        "Perawatan rendah untuk operasi continuous duty"
+      ]
+    },
+    "kc-150-perkins": {
+      "description": "Genset diesel tipe open 150 kVA andal dengan mesin Perkins, ideal untuk daya siaga industri dan konstruksi.",
+      "features": [
+        "Mesin Perkins seri 1106 dengan keandalan terbukti",
+        "Rangka baja open robust dengan dudukan anti getar",
+        "Panel digital Deep Sea atau setara",
+        "Konsumsi BBM rendah dan biaya perawatan rendah",
+        "Tersertifikasi CE dan ISO9001"
+      ]
+    },
+    "kc-200-silent": {
+      "description": "Genset diesel silent menengah 200 kVA untuk gedung komersial, bank, dan daya siaga industri.",
+      "features": [
+        "Kanopi silent tahan cuaca untuk instalasi luar",
+        "Mesin Weichai dengan governor elektronik",
+        "Kemampuan paralel (opsional)",
+        "Kontrol digital penuh dengan layar LCD",
+        "Dukungan cold start dan automatic transfer switch"
+      ]
+    },
+    "kc-2000-mobile": {
+      "description": "Genset diesel trailer 2000 kVA untuk daya darurat, acara, dan operasi lapangan yang membutuhkan penyebaran cepat.",
+      "features": [
+        "Trailer-mounted dengan kemampuan tarik kecepatan jalan raya",
+        "Mesin Perkins heavy duty untuk daya prime andal",
+        "Kaki hidrolik dan isolasi getar",
+        "Koneksi cepat daya dan BBM",
+        "Penerangan lengkap, pemadam kebakaran, dan kabin kontrol"
+      ]
+    },
+    "kc-250-doosan": {
+      "description": "Genset diesel silent kompak 250 kVA dengan mesin Doosan untuk daya siaga komersial dan komunitas.",
+      "features": [
+        "Mesin Doosan dengan kebisingan rendah dan konsumsi BBM rendah",
+        "Kanopi silent mengurangi kebisingan di bawah 72 dB(A) pada 7 m",
+        "Regulasi tegangan otomatis dan siap remote monitoring",
+        "Tangki terintegrasi untuk 8+ jam operasi terus menerus",
+        "Tersertifikasi CE dan ISO9001"
+      ]
+    },
+    "kc-300-container": {
+      "description": "Genset diesel container 300 kVA, lengkap dan siap dikerahkan di lingkungan terpencil dan keras.",
+      "features": [
+        "Rumah kontainer 20 kaki dengan perlakuan akustik penuh",
+        "Dirancang untuk paralel operation dan load sharing",
+        "Tangki harian terintegrasi, pemadam kebakaran, dan sistem knalpot",
+        "Akses perawatan eksternal dan ruang kontrol opsional",
+        "Cocok untuk rental dan proyek daya sementara"
+      ]
+    },
+    "kc-40-silent": {
+      "description": "Genset diesel silent kompak 40 kVA, ideal untuk usaha kecil, vila, dan daya siaga komersial ringan.",
+      "features": [
+        "Kanopi silent mengurangi kebisingan di bawah 70 dB(A) pada 7 m",
+        "Mesin Weichai 4 silinder dengan konsumsi BBM rendah",
+        "Regulasi tegangan otomatis dan panel kontrol digital",
+        "Tangki terintegrasi untuk 8+ jam operasi",
+        "Tersertifikasi CE dan ISO9001"
+      ]
+    },
+    "kc-4000-container": {
+      "description": "Pusat daya container 4000 kVA dengan mesin MTU, dirancang untuk proyek industri dan utilitas skala besar.",
+      "features": [
+        "Mesin MTU kapasitas tinggi dengan keandalan luar biasa",
+        "Operasi paralel multi-modul untuk daya skala MW",
+        "Sistem BBM, pendinginan, dan kontrol terintegrasi penuh",
+        "Cocok untuk base load, peak shaving, dan grid support",
+        "Interval perawatan panjang menurunkan biaya operasional"
+      ]
+    },
+    "kc-500-open": {
+      "description": "Genset diesel open heavy duty 500 kVA dengan mesin Cummins, untuk daya industri dan komersial terus menerus.",
+      "features": [
+        "Mesin Cummins seri NT, keandalan diakui global",
+        "Cocok untuk prime dan standby duty cycles",
+        "Siap paralel operation dan remote monitoring",
+        "Baseframe heavy duty dengan dudukan anti getar",
+        "Konsumsi BBM rendah dan umur pakai panjang"
+      ]
+    },
+    "kc-600-mitsubishi": {
+      "description": "Genset diesel open kinerja tinggi 600 kVA dengan mesin Mitsubishi, untuk pusat data, pertambangan, dan industri berat.",
+      "features": [
+        "Mesin Mitsubishi densitas daya tinggi dan emisi rendah",
+        "Konstruksi open kokoh untuk lingkungan menantang",
+        "Paralel operation untuk redundansi N+1",
+        "Kontrol digital dengan antarmuka remote monitoring",
+        "Tersertifikasi CE dan ISO9001"
+      ]
+    },
+    "kc-800-silent": {
+      "description": "Genset diesel silent kapasitas tinggi 800 kVA dengan mesin Volvo Penta, untuk pusat data, rumah sakit, dan fasilitas besar.",
+      "features": [
+        "Mesin Volvo Penta efisiensi BBM luar biasa",
+        "Kanopi silent grade tinggi untuk area perkotaan",
+        "Paralel operation N+1 dan manajemen beban",
+        "Kontroler digital canggih dengan remote monitoring",
+        "Paket mesin sesuai emisi"
+      ]
+    },
+    "kc-900-scania": {
+      "description": "Genset diesel silent bertenaga 900 kVA dengan mesin Scania, untuk fasilitas kritikal dan proyek komersial besar.",
+      "features": [
+        "Mesin industri Scania 16 liter ekonomi BBM luar biasa",
+        "Kanopi silent mengurangi kebisingan di bawah 75 dB(A) pada 7 m",
+        "ATS otomatis dan siap remote monitoring",
+        "Cocok untuk paralel dan peak shaving",
+        "Tersertifikasi CE dan ISO9001"
+      ]
+    },
+    "mitsubishi-100-open": {
+      "description": "Genset diesel Mitsubishi open frame 100 kW untuk ruang mesin, bengkel, dan lokasi industri yang sudah memiliki ruang terpisah dengan proteksi cuaca dan suara.",
+      "features": [
+        "Mesin industri Mitsubishi dengan kinerja tahan lama",
+        "Desain open skid untuk akses perawatan mudah",
+        "Tangki di baseframe dengan koneksi tangki harian",
+        "Alternator brushless dengan regulasi tegangan otomatis",
+        "Cocok untuk instalasi di ruang genset yang sudah ada"
+      ]
+    },
+    "perkins-400-silent": {
+      "description": "Genset diesel Perkins 400 kW silent untuk gedung komersial, pabrik, dan fasilitas data yang membutuhkan daya siaga andal dengan kebisingan terkendali.",
+      "features": [
+        "Mesin Perkins 6 silinder respons transien kuat",
+        "Kanopi akustik untuk ruang mesin dalam atau luar dekat kantor",
+        "Baseframe heavy duty dengan tangki terintegrasi",
+        "Panel digital dengan port komunikasi jarak jauh",
+        "Cocok untuk siaga sering dan daya prime"
+      ]
+    },
+    "scania-250-open": {
+      "description": "Genset diesel Scania open frame 250 kW untuk pabrik dan lokasi dengan beban motor berat yang membutuhkan respons transien kuat.",
+      "features": [
+        "Mesin industri Scania step-load acceptance sangat baik",
+        "Layout open untuk akses servis penuh",
+        "Cocok untuk kompresor, pompa, dan starting motor",
+        "Alternator brushless dengan AVR tegangan stabil",
+        "Dipasang pada baseframe baja berat"
+      ]
+    },
+    "shangchai-300-silent": {
+      "description": "Genset diesel Shangchai 300 kW silent hemat untuk pabrik, gedung komersial, dan lokasi pedesaan yang membutuhkan siaga andal dengan harga praktis.",
+      "features": [
+        "Mesin diesel Shangchai 6 silinder, jaringan dukungan luas",
+        "Kanopi silent untuk instalasi luar dekat penduduk",
+        "Tangki BBM terintegrasi di baseframe",
+        "Panel digital dengan starter otomatis opsional",
+        "Keseimbangan baik antara kinerja dan biaya operasi"
+      ]
+    },
+    "volvo-400-silent": {
+      "description": "Genset diesel Volvo Penta 400 kW silent untuk kompleks perkantoran, hotel, dan lokasi industri di mana kebisingan rendah, ekonomi BBM, dan kebersihan menjadi prioritas.",
+      "features": [
+        "Mesin Volvo Penta 6 silinder, hemat pada beban parsial",
+        "Kanopi akustik untuk lokasi dekat kantor dan perumahan",
+        "Baseframe kekuatan tinggi dengan dudukan anti getar",
+        "Panel digital dengan remote monitoring opsional",
+        "Mesin emisi rendah untuk lingkungan sensitif"
+      ]
+    },
+    "weichai-400-silent": {
+      "description": "Genset diesel Weichai 400 kW silent untuk pabrik, kompleks komersial, dan lokasi konstruksi, dengan daya siaga andal dan layanan lokal mudah dijangkau.",
+      "features": [
+        "Mesin Weichai WP12/WP13 6 silinder",
+        "Kanopi silent untuk instalasi luar",
+        "Tangki terintegrasi pada baseframe berat",
+        "Panel digital dengan auto mains failure start",
+        "Ketersediaan suku cadang baik untuk layanan regional"
+      ]
+    },
+    "yuchai-100-mobile": {
+      "description": "Genset diesel mobile Yuchai 100 kW di trailer untuk lokasi konstruksi, acara luar ruang, bantuan bencana, dan lokasi di mana daya harus berpindah.",
+      "features": [
+        "Trailer road-legal dengan tow bar dan roda",
+        "Mesin diesel Yuchai untuk layanan mobile",
+        "Kanopi melindungi set selama transportasi dan operasi",
+        "Kaki penyangga dapat diatur untuk setup cepat",
+        "Cocok untuk lokasi yang sering berpindah"
+      ]
+    },
+    "yuchai-300-silent": {
+      "description": "Genset diesel Yuchai 300 kW silent untuk pabrik, gedung komersial, dan lokasi pertanian, dengan daya siaga andal dan total biaya praktis.",
+      "features": [
+        "Mesin diesel Yuchai 6 silinder daya tahan terbukti",
+        "Kanopi akustik melindungi cuaca dan mengurangi kebisingan",
+        "Tangki di baseframe dengan akses servis",
+        "Panel digital dengan starter otomatis opsional",
+        "Cocok untuk siaga dan operasi sering"
+      ]
+    }
+  },
+  "cookie": {
+    "title": "Kami menghargai privasi Anda",
+    "body": "Kami menggunakan cookie dan teknologi serupa untuk menjalankan situs ini, menganalisis lalu lintas, dan mempersonalisasi konten. Berdasarkan GDPR UE dan Inggris Raya, kami membutuhkan persetujuan Anda sebelum memuat cookie non-essensial. Anda dapat mengubah pilihan kapan saja di",
+    "privacyLink": "Kebijakan Privasi",
+    "reject": "Tolak Non-Essensial",
+    "accept": "Terima Semua"
+  },
+  "privacy": {
+    "lastUpdated": "Last Updated: October 2026",
+    "sections": {
+      "1": {
+        "heading": "1. Introduction",
+        "paragraphs": {
+          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
+          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
+          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
+        }
+      },
+      "2": {
+        "heading": "2. What Are Cookies?",
+        "paragraphs": {
+          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
+          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
+        }
+      },
+      "3": {
+        "heading": "3. How We Use Cookies",
+        "paragraphs": {
+          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
+          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
+          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
+          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
+        }
+      },
+      "4": {
+        "heading": "4. Third-Party Cookies",
+        "paragraphs": {
+          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
+          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
+        }
+      },
+      "5": {
+        "heading": "5. Your Rights and Choices",
+        "paragraphs": {
+          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
+          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
+          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
+        }
+      },
+      "6": {
+        "heading": "6. Changes to This Policy",
+        "paragraphs": {
+          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
+        }
+      },
+      "7": {
+        "heading": "7. Contact Us",
+        "paragraphs": {
+          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
+        }
+      }
+    }
+  },
+  "specValues": {
+    "brushlessSelfExcited": "Tanpa sikat, self-excited",
+    "digitalControlPanel": "Panel kontrol digital",
+    "digitalController": "Kontroler digital",
+    "digitalControllerAuto": "Kontroler digital dengan start otomatis",
+    "digitalControllerParallel": "Kontroler digital dengan fitur paralel",
+    "digitalControllerRemote": "Kontroler digital dengan monitoring jarak jauh",
+    "digitalAmfController": "Kontroler AMF digital",
+    "atsController": "Kontroler ATS otomatis",
+    "advancedParallel": "Kontroler paralel canggih",
+    "electricStart24": "Start elektrik, 24V",
+    "electricStart1224": "Start elektrik, 12/24V",
+    "waterCooled": "Pendingin air (radiator)",
+    "waterCooledContainer": "Pendingin air, dioptimalkan untuk kontainer",
+    "radiatorContainer": "Radiator, dioptimalkan untuk kontainer",
+    "skidAntiVib": "Bingkai berat dengan dudukan anti getar",
+    "skidForklift": "Bingkai berat dengan slot forklift",
+    "singleAxleTrailer": "Trailer satu gandar, siap jalan raya",
+    "twoAxleTrailer": "Trailer jalan raya dua gandar",
+    "iso20ft": "Kontainer ISO 20 kaki",
+    "iso40ft": "Kontainer ISO 40 kaki",
+    "hc40ft": "Modul high cube 40 kaki",
+    "tank180": "Terintegrasi, 180 L",
+    "tank300": "Terintegrasi, 300 L",
+    "tank600": "Terintegrasi, 600 L",
+    "tank900": "Terintegrasi, 900 L",
+    "tank75": "Terintegrasi, 75 L",
+    "noise6872": "68–72 dB(A) pada 7 m",
+    "noise6975": "69–75 dB(A) pada 7 m",
+    "noise7075": "70–75 dB(A) pada 7 m",
+    "noise7076": "70–76 dB(A) pada 7 m",
+    "noise7278": "72–78 dB(A) pada 7 m",
+    "noiseLe78": "≤ 78 dB(A) pada 7 m",
+    "noiseLe70": "≤ 70 dB(A) pada 7 m",
+    "noiseLe72": "≤ 72 dB(A) pada 7 m",
+    "noiseLe75": "≤ 75 dB(A) pada 7 m",
+    "fuel640": "sekitar 640 L/jam pada beban 100%",
+    "fuel91": "sekitar 91 L/jam pada beban 100%",
+    "dayTank": "Tangki harian + koneksi eksternal",
+    "voltageCustom": "400/230V, 50Hz (tegangan khusus tersedia)"
+  },
+  "powerUnits": {
+    "kw": "kW",
+    "kva": "kVA"
+  }
+}

@@ -1,0 +1,21 @@
+name: Yuchai 100kW Mobile Trailer Diesel Generator
+image: /images/products/yuchai-100kw-mobile.png
+brand: Yuchai
+powerKVA: 125
+type: mobile
+description: Trailer-mounted 100kW Yuchai mobile diesel generator for construction sites, outdoor events, disaster relief and sites where power must move between locations.
+features:
+  - Road-legal trailer with tow bar and wheels
+  - Yuchai diesel engine for mobile duty
+  - Canopy protects the set during transport and operation
+  - Adjustable support legs for quick setup
+  - Suitable for sites that change location frequently
+specs:
+  Prime power: 90 kW / 112 kVA
+  Standby power: 100 kW / 125 kVA
+  Engine: Yuchai YC6B series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital control panel
+  Starting: Electric start, 24V
+  Mobility: Single-axle trailer, road-ready

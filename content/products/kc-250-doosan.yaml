@@ -1,0 +1,21 @@
+name: Doosan 200kW Silent Diesel Generator
+image: /images/products/doosan-200kw-silent.jpg
+brand: Doosan
+powerKVA: 250
+type: silent
+description: Quiet and compact 250kVA silent type diesel generator set powered by a Doosan engine for commercial and community standby power.
+features:
+  - Doosan engine with low noise and low fuel consumption
+  - Soundproof canopy reducing noise to below 72 dB(A) at 7m
+  - Automatic voltage regulation and remote monitoring ready
+  - Integrated fuel tank for 8+ hours continuous running
+  - CE and ISO9001 certified
+specs:
+  Prime power: 180 kW / 225 kVA
+  Standby power: 200 kW / 250 kVA
+  Engine: Doosan P158LE
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Control: Automatic ATS-ready controller
+  Noise level: ≤72 dB(A) @ 7m
+  Fuel tank: 300L built-in

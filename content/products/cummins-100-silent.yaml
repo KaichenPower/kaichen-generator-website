@@ -1,0 +1,21 @@
+name: Cummins 100kW Silent Diesel Generator
+image: /images/products/cummins-100kw-silent.jpg
+brand: Cummins
+powerKVA: 125
+type: silent
+description: Compact 100kW soundproof Cummins diesel generator for offices, small factories and sites near residential areas where noise must be controlled.
+features:
+  - Cummins 4- or 6-cylinder diesel engine with proven global support
+  - Acoustic canopy reduces noise for sites near people
+  - Baseframe integrated fuel tank for longer running
+  - Digital control panel with automatic start option
+  - Weather-protected enclosure for outdoor installation
+specs:
+  Prime power: 90 kW / 112 kVA
+  Standby power: 100 kW / 125 kVA
+  Engine: Cummins 4B3.9 / 6BT5.9 series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller
+  Starting: Electric start, 12/24V
+  Noise level: 68–72 dB(A) at 7m

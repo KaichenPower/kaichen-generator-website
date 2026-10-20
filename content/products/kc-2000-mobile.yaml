@@ -1,0 +1,21 @@
+name: Perkins 2000kVA Mobile Trailer Power Station
+image: /images/products/mobile-2000.jpg
+brand: Perkins
+powerKVA: 2000
+type: mobile
+description: 2000kVA mobile trailer-mounted diesel generator set for emergency power, events and field operations requiring rapid deployment.
+features:
+  - Trailer-mounted with highway-speed towing capability
+  - Perkins heavy-duty engine for reliable prime power
+  - Hydraulic lifting legs and vibration isolation
+  - Quick-connect power and fuel fittings
+  - Full lighting, fire suppression and control cabin
+specs:
+  Prime power: 1440 kW / 1800 kVA
+  Standby power: 1600 kW / 2000 kVA
+  Engine: Perkins / Cummins heavy-duty
+  Alternator: Stamford / Leroy-Somer
+  Voltage: 400/230V, 50Hz
+  Trailer: Two-axle highway trailer
+  Control: Digital controller with remote monitoring
+  Noise level: ≤ 78 dB(A) @ 7m
