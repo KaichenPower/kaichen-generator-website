@@ -659,60 +659,60 @@
     "accept": "Aceitar todos"
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2026",
+    "lastUpdated": "Última atualização: Outubro 2026",
     "sections": {
       "1": {
-        "heading": "1. Introduction",
-        "paragraphs": {
-          "0": "Welcome to www.cnkcpower.com (hereinafter referred to as \"we\", \"us\", \"our\", or the \"Site\"). We are committed to protecting your privacy and ensuring you have a positive experience when browsing our Site.",
-          "1": "This Cookie Privacy Policy explains what cookies are, how we use them, the types of cookies we use, and how you can control or delete them. This Policy is part of our broader Privacy Policy.",
-          "2": "By using our Site, you consent to the use of cookies in accordance with this Policy. If you do not agree to our use of cookies, please adjust your browser settings accordingly or discontinue use of the Site."
-        }
+        "heading": "1. Introdução",
+        "paragraphs": [
+          "Bem-vindo ao www.cnkcpower.com (doravante 'nos' ou o 'Site'). Estamos comprometidos em proteger sua privacidade e garantir uma experiencia positiva ao navegar em nosso Site.",
+          "Esta Política de Privacidade de Cookies explica o que são cookies, como os usamos, os tipos de cookies que utilizamos e como você pode controlá-los ou excluí-los.",
+          "Ao usar nosso Site, você consente com o uso de cookies de acordo com esta Política. Se você não concorda, ajuste as configurações do seu navegador."
+        ]
       },
       "2": {
-        "heading": "2. What Are Cookies?",
-        "paragraphs": {
-          "0": "Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently, enhance user experience, and provide information to the owners of the site.",
-          "1": "Cookies can be session cookies (temporary, expire when you close your browser), persistent cookies (remain on your device for a set period), first-party cookies (set by the website you are visiting), or third-party cookies (set by a third party such as advertisers or analytics services through our Site)."
-        }
+        "heading": "2. O que são Cookies?",
+        "paragraphs": [
+          "Cookies são pequenos arquivos de texto colocados no seu dispositivo (computador, smartphone, tablet) quando você visita um site. Eles melhoram o funcionamento e a experiência do usuário.",
+          "Cookies podem ser de sessão (temporários), persistentes (período definido), próprios (do site visitado) ou de terceiros (anúncios, análise)."
+        ]
       },
       "3": {
-        "heading": "3. How We Use Cookies",
-        "paragraphs": {
-          "0": "Strictly Necessary Cookies: These are essential for the Site to function properly (e.g., security features and language preference). These cookies do not store personally identifiable information and cannot be disabled.",
-          "1": "Performance and Analytics Cookies: These help us understand how visitors interact with our Site by collecting anonymous information. This helps us improve our Site performance. They are only loaded after you give your consent.",
-          "2": "Functionality Cookies: These allow the Site to remember choices you make (e.g., language preference and region) to provide a more personalized experience.",
-          "3": "Targeting and Advertising Cookies: These are used to deliver advertisements relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and help measure the effectiveness of advertising campaigns. They are only set after your explicit consent."
-        }
+        "heading": "3. Como usamos Cookies",
+        "paragraphs": [
+          "Cookies estritamente necessários: Essenciais para o funcionamento do Site (segurança, idioma). Não armazenam dados pessoais e não podem ser desativados.",
+          "Cookies de desempenho e análise: Ajudam a entender como os visitantes usam o Site (informações anônimas). Carregados apenas após consentimento.",
+          "Cookies de funcionalidade: Lembram suas preferências (idioma, região) para uma experiência mais personalizada.",
+          "Cookies de segmentação e publicidade: Exibem anúncios relevantes aos seus interesses."
+        ]
       },
       "4": {
-        "heading": "4. Third-Party Cookies",
-        "paragraphs": {
-          "0": "We partner with third-party service providers who may set cookies on your device when you visit our Site. These may include analytics providers, advertising networks, social media platforms, and video hosting services.",
-          "1": "These third parties have their own privacy policies and cookie policies. We recommend reviewing their policies to understand how they use your data. We do not control the placement of these third-party cookies, and they are only activated after your consent."
-        }
+        "heading": "4. Cookies de Terceiros",
+        "paragraphs": [
+          "Trabalhamos com provedores terceirizados (análise, redes de publicidade, redes sociais) que podem definir cookies no seu dispositivo.",
+          "Esses terceiros têm suas próprias políticas de privacidade. Não controlamos a definição desses cookies."
+        ]
       },
       "5": {
-        "heading": "5. Your Rights and Choices",
-        "paragraphs": {
-          "0": "For users in the European Economic Area (EEA) and the United Kingdom under GDPR, you have the right to give or withdraw consent for non-essential cookies at any time. You may request access to the personal data we hold about you, request deletion of your data, and manage your preferences via the Cookie Consent Banner or your browser settings.",
-          "1": "For users in California, USA under CCPA/CPRA, you have the right to know what personal information is collected, used, or shared; the right to request deletion; and the right to opt-out of sale or sharing of your personal information. We do not sell your personal data.",
-          "2": "You can control and delete cookies through the Cookie Consent Banner that appears when you first visit our Site, or through your browser settings."
-        }
+        "heading": "5. Seus Direitos",
+        "paragraphs": [
+          "De acordo com o GDPR (EEE e Reino Unido), você pode dar ou retirar seu consentimento a qualquer momento, solicitar acesso ou exclusão dos seus dados pessoais.",
+          "De acordo com a CCPA/CPRA (Califórnia), você tem o direito de saber quais dados são coletados e solicitar sua exclusão. Não vendemos seus dados.",
+          "Você pode gerenciar e excluir cookies nas configurações do seu navegador."
+        ]
       },
       "6": {
-        "heading": "6. Changes to This Policy",
-        "paragraphs": {
-          "0": "We may update this Cookie Privacy Policy from time to time to reflect changes in technology, legislation, or our business operations. Any updates will be posted on this page with an updated date. We encourage you to review this policy periodically."
-        }
+        "heading": "6. Alterações nesta Política",
+        "paragraphs": [
+          "Podemos atualizar esta política periodicamente. As alterações serão publicadas nesta página com a data atualizada."
+        ]
       },
       "7": {
-        "heading": "7. Contact Us",
-        "paragraphs": {
-          "0": "Jiangsu Kaichen Power Equipment Co., Ltd.",
-          "1": "Address: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
-          "2": "Email: cnkcpower@163.com  |  Tel: +86-18012341322"
-        }
+        "heading": "7. Contate-nos",
+        "paragraphs": [
+          "Jiangsu Kaichen Power Equipment Co., Ltd.",
+          "Endereço: Dinghuo Industrial Park, Jiangdu District, Yangzhou City, Jiangsu, China.",
+          "Email: cnkcpower@gmail.com | Tel: +86-18012341322"
+        ]
       }
     }
   },
