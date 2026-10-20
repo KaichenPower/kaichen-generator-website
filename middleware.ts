@@ -4,5 +4,6 @@ import { routing } from './i18n/routing';
 export default createMiddleware(routing);
 
 export const config = {
+  runtime: 'edge',
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)'],
 };
