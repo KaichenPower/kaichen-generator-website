@@ -3,6 +3,8 @@ import { siteConfig, locales } from '@/lib/site';
 import { getAllProducts, solutionSlugs } from '@/lib/content';
 import { getAllPosts } from '@/lib/blog';
 
+export const dynamic = 'force-static';
+
 // 自动生成 /sitemap.xml：覆盖 10 语种 × 全站页面
 export default function sitemap(): MetadataRoute.Sitemap {
   const domain = siteConfig.domain;
