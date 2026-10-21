@@ -1,38 +1,73 @@
 ---
-title: "Liste de maintenance du groupe électrogène diesel pour une longue durée de vie"
-date: "2026-07-05"
-excerpt: "Une maintenance régulière maintient votre groupe fiable et prolonge sa durée de vie. Voici une liste pratique que votre équipe peut suivre."
+title: "Checklist de Maintenance du Générateur : 12 Tâches Mensuelles"
+date: "2026-10-21"
+excerpt: "Un générateur de secours ne fonctionne que si vous l entretenez. Voici la checklist mensuelle pratique que suit notre équipe de service."
 ---
 
-## Contrôles quotidiens
+![Generator maintenance](/images/blog/generator-maintenance-checklist.jpg)
 
-- Vérifiez le niveau de carburant et d’huile moteur.
-- Inspectez toute fuite visible de carburant, d’huile ou de liquide de refroidissement.
-- Vérifiez la tension de la batterie et le fonctionnement du chargeur.
-- Recherchez un bruit ou une vibration anormale pendant le test hebdomadaire.
+Un générateur diesel est une machine qui reste inactive 99% du temps. Les 1% restants, quand le réseau tombe en panne, il doit démarrer, prendre la charge et fonctionner sans accroc. Cela ne se produit qu avec un entretien approprié.
 
-## Contrôles hebdomadaires
+## Why monthly maintenance matters
 
-- Faites fonctionner le groupe sous charge pendant au moins 30 minutes.
-- Vérifiez le niveau de liquide de refroidissement et la propreté du radiateur.
-- Inspectez les filtres à air et nettoyez-les ou remplacez-les si nécessaire.
-- Confirmez que le panneau de commande ne montre aucun code d’erreur.
+Un générateur qui ne tourne jamais se dégrade quand même. Le carburant vieillit, les batteries se déchargent, les durites en caoutchouc se fissurent. Une inspection mensuelle de 10 minutes évite 90% des dépannages d urgence.
 
-## Contrôles mensuels
+## The 12-point monthly checklist
 
-- Inspectez les courroies et ajustez la tension si nécessaire.
-- Vérifiez la tension de l’alternateur et le courant de sortie.
-- Testez le fonctionnement de l’ATS (inverseur automatique).
-- Vérifiez la qualité du carburant et purgez l’eau du filtre à carburant.
+### 1. Task 1
 
-## Entretien annuel
+Démarrez et testez le générateur sous charge d au moins 30% pendant 30 minutes.
 
-- Changez l’huile moteur et les filtres (huile, carburant, air).
-- Remplacez le liquide de refroidissement et vérifiez la protection anticorrosion.
-- Testez la batterie et remplacez-la si elle est faible.
-- Effectuez un test complet avec banc de charge ou charge réelle.
-- Faites inspecter le moteur, l’alternateur et le système de commande par un technicien qualifié.
+### 2. Task 2
 
-## Tenez des registres
+Vérifiez la batterie : tension de charge ~27V pour un système 24V. Une batterie HS est la cause n°1 de panne de démarrage.
 
-Notez chaque test et entretien dans un livre de maintenance. De bons registres facilitent la détection précoce des problèmes et maintiennent la garantie valide. Pour tout entretien que vous ne pouvez pas réaliser en interne, notre équipe est disponible.
+### 3. Task 3
+
+Contrôlez le niveau et la qualité de l huile. Si elle semble laiteuse ou sent le carburant, prévoyez une vidange.
+
+### 4. Task 4
+
+Vérifiez le niveau du liquide de refroidissement et la concentration antigel avant l hiver.
+
+### 5. Task 5
+
+Inspectez le bâti, les filtres et les conduites de carburant pour des traces humides.
+
+### 6. Task 6
+
+Contrôlez le filtre à air et son indicateur.
+
+### 7. Task 7
+
+Vérifiez la tension de la courroie du ventilateur (flèche de 10-15 mm).
+
+### 8. Task 8
+
+Inspectez l échappement : absence de suie noire, pas de corrosion sur le raccord flexible.
+
+### 9. Task 9
+
+Testez l ATS : simulez une coupure secteur et confirmez le démarrage, le transfert et l arrêt.
+
+### 10. Task 10
+
+Nettoyez le radiateur et les ailettes avec de l air basse pression.
+
+### 11. Task 11
+
+Enregistrez les heures de fonctionnement et la charge moyenne.
+
+### 12. Task 12
+
+Inspectez le capot et l environnement : retirez feuilles, nids, eau stagnante.
+
+## Quarterly and annual
+
+Tous les 3 mois : filtres à gasoil, densité de la batterie, serrage des connexions. Tous les 12 mois : vidange complète, jeu aux soupapes, injecteurs, test de charge.
+
+## Bottom line
+
+Un générateur de secours est une assurance. Vous ne savez s il fonctionne que quand vous en avez besoin. Dix minutes par mois maintiennent cette assurance valide.
+
+Si vous achetez un nouveau générateur et souhaitez un plan de maintenance inclus, [contactez notre équipe d ingénierie](/contact).

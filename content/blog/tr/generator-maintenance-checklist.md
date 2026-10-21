@@ -1,38 +1,73 @@
 ---
-title: "Uzun Servis Ömrü için Dizel Jeneratör Bakım Kontrol Listesi"
-date: "2026-07-05"
-excerpt: "Düzenli bakım, jeneratörünüzü güvenilir tutar ve ömrünü uzatır. Ekibinizin uygulayabileceği pratik bir kontrol listesi burada."
+title: "Jeneratör Bakım Kontrol Listesi: Aylık 12 Görev"
+date: "2026-10-21"
+excerpt: "Yedek jeneratör sadece bakım yaparsanız çalışır. İşte servis ekibimizin uyguladığı pratik aylık kontrol listesi."
 ---
 
-## Günlük Kontroller
+![Generator maintenance](/images/blog/generator-maintenance-checklist.jpg)
 
-- Yakıt seviyesini ve motor yağı seviyesini kontrol edin.
-- Görünür yakıt, yağ veya soğutma sıvısı sızıntısı olup olmadığını inceleyin.
-- Akü voltajını ve şarj cihazının çalışmasını doğrulayın.
-- Haftalık test çalışması sırasında anormal ses veya titreşim olup olmadığını kontrol edin.
+Dizel jeneratör zamanın %99unda boşta duran bir makinedir. Diğer %1de, şebeke kesildiğinde, çalışmalı, yükü almalı ve sorunsuz çalışmaya devam etmelidir. Bu sadece doğru bakımla olur.
 
-## Haftalık Kontroller
+## Why monthly maintenance matters
 
-- Jeneratörü en az 30 dakika yük altında çalıştırın.
-- Soğutma sıvısı seviyesini ve radyatör temizliğini kontrol edin.
-- Hava filtrelerini inceleyin ve gerektiğinde temizleyin veya değiştirin.
-- Kontrol panelinin arıza kodu göstermediğini doğrulayın.
+Hiç çalışmayan bir jeneratör de bozulur. Yakıt bayatlar, piller şarj kaybeder, lastik hortumlar çatlar. Aylık 10 dakikalık yürüyüş, acil durum çağrılarının %90nı önler.
 
-## Aylık Kontroller
+## The 12-point monthly checklist
 
-- Tahrik kayışlarını inceleyin ve gerekirse gerginliği ayarlayın.
-- Alternatör voltajını ve çıkış akımını kontrol edin.
-- ATS (otomatik transfer şalteri) çalışmasını test edin.
-- Yakıt kalitesini kontrol edin ve yakıt filtresinden suyu boşaltın.
+### 1. Task 1
 
-## Yıllık Servis
+Jeneratörü en az %30 yük altında 30 dakika çalıştırın.
 
-- Motor yağını ve filtreleri (yağ, yakıt, hava) değiştirin.
-- Soğutma sıvısını değiştirin ve korozyon korumasını kontrol edin.
-- Aküyü test edin ve zayıfsa değiştirin.
-- Yük bankası veya gerçek yük ile tam yük bankası testi yapın.
-- Nitelikli bir teknisyenin motoru, alternatörü ve kontrol sistemini incelemesini sağlayın.
+### 2. Task 2
 
-## Kayıt Tutun
+Pili kontrol edin: şarj gerilimi 24V sistem için ~27V. Bitik pil, çalıştırma başarısızlığının 1numaralı nedenidir.
 
-Her test çalışmasını ve servisi bir bakım defterine kaydedin. İyi kayıtlar, sorunları erken fark etmeyi kolaylaştırır ve garanti kapsamını geçerli tutar. Kendi başınıza yapamayacağınız her servis için ekibimiz sizi desteklemeye hazırdır.
+### 3. Task 3
+
+Yağ seviyesini ve kalitesini kontrol edin. Süt beyazı görünüyorsa veya yakıt kokuyorsa yağ değişimi planlayın.
+
+### 4. Task 4
+
+Soğutucu seviyesini ve antifriz konsantrasyonunu kış öncesi kontrol edin.
+
+### 5. Task 5
+
+Şasi, filtreler ve yakıt hatlarında nemli lekeler olup olmadığına bakın.
+
+### 6. Task 6
+
+Hava filtresini ve göstergeyi kontrol edin.
+
+### 7. Task 7
+
+Kemer gerginliğini kontrol edin: 10-15 mm sapma olmalı.
+
+### 8. Task 8
+
+Egzoz sistemini kontrol edin: siyah kurum olmamalı, esnek bağlantıda korozyon olmamalı.
+
+### 9. Task 9
+
+ATSyi test edin: şebeke kesintisini simüle edin ve çalıştırma, transfer ve kapatmayı doğrulayın.
+
+### 10. Task 10
+
+Radyatörü ve petekleri düşük basınçlı havayla temizleyin.
+
+### 11. Task 11
+
+Çalışma saatlerini ve yük verilerini kaydedin.
+
+### 12. Task 12
+
+Kabin ve çevreyi kontrol edin: yaprak, yuva ve durgun suyu temizleyin.
+
+## Quarterly and annual
+
+Her 3 ayda: yakıt filtreleri, pil özgül ağırlığı, elektrik bağlantıları. Her 12 ayda: tam yağ değişimi, valf ayarı, enjektör kontrolü, yük bankası testi.
+
+## Bottom line
+
+Yedek jeneratör bir sigortadır. İhtiyacınız olduğunda çalışıp çalışmadığını anlarsınız. Aylık 10 dakika bu sigortayı geçerli tutar.
+
+Yeni bir jeneratör satın alıyorsanız ve bakım planı dahil istiyorsanız, [mühendislik ekibimizle iletişime geçin](/contact).

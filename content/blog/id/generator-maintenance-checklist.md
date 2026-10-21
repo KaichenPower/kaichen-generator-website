@@ -1,38 +1,73 @@
 ---
-title: "Daftar Periksa Perawatan Diesel Generator untuk Masa Pakai Panjang"
-date: "2026-07-05"
-excerpt: "Perawatan rutin menjaga generator Anda tetap andal dan memperpanjang umurnya. Berikut daftar periksa praktis yang dapat diikuti tim Anda."
+title: "Checklist Perawatan Genset: 12 Tugas Bulanan"
+date: "2026-10-21"
+excerpt: "Genset cadangan hanya bekerja jika Anda merawatnya. Berikut adalah checklist bulanan praktis yang diikuti tim servis kami."
 ---
 
-## Pemeriksaan Harian
+![Generator maintenance](/images/blog/generator-maintenance-checklist.jpg)
 
-- Periksa level bahan bakar dan level oli mesin.
-- Periksa adanya kebocoran bahan bakar, oli, atau pendingin yang terlihat.
-- Verifikasi tegangan baterai dan pengoperasian pengisi daya.
-- Periksa kebisingan atau getaran abnormal selama uji coba mingguan.
+Genset diesel adalah mesin yang menganggur 99% dari waktu. 1% sisanya — saat listrik padam — ia harus start, menerima beban, dan terus berjalan tanpa kendala. Itu hanya terjadi dengan perawatan yang tepat.
 
-## Pemeriksaan Mingguan
+## Why monthly maintenance matters
 
-- Jalankan generator di bawah beban setidaknya 30 menit.
-- Periksa level pendingin dan kebersihan radiator.
-- Periksa filter udara dan bersihkan atau ganti sesuai kebutuhan.
-- Konfirmasi panel kontrol tidak menampilkan kode kesalahan.
+Genset yang tidak pernah jalan tetap menurun. Bahan bakar basi, aki kehilangan daya, selang karet retak. Pemeriksaan 10 menit bulanan mencegah 90% panggilan darurat.
 
-## Pemeriksaan Bulanan
+## The 12-point monthly checklist
 
-- Periksa sabuk penggerak dan sesuaikan tegangan jika diperlukan.
-- Periksa tegangan alternator dan arus output.
-- Uji pengoperasian ATS (sakelar transfer otomatis).
-- Periksa kualitas bahan bakar dan tiriskan air dari filter bahan bakar.
+### 1. Task 1
 
-## Servis Tahunan
+Start dan uji genset dengan beban minimal 30% selama 30 menit.
 
-- Ganti oli mesin dan filter (oli, bahan bakar, udara).
-- Ganti pendingin dan periksa proteksi anti-korosi.
-- Uji baterai dan ganti jika lemah.
-- Lakukan uji bank beban penuh dengan bank beban atau beban nyata.
-- Minta teknisi berkualifikasi memeriksa mesin, alternator, dan sistem kontrol.
+### 2. Task 2
 
-## Catat Riwayat
+Periksa aki: tegangan pengisian ~27V untuk sistem 24V. Aki mati adalah penyebab #1 genset gagal start.
 
-Catat setiap uji coba dan servis dalam buku perawatan. Catatan yang baik memudahkan mendeteksi masalah lebih awal dan menjaga garansi tetap berlaku. Untuk servis yang tidak dapat Anda lakukan sendiri, tim kami siap mendukung Anda.
+### 3. Task 3
+
+Periksa level dan kualitas oli. Jika tampak keruh atau berbau bahan bakar, jadwalkan ganti oli.
+
+### 4. Task 4
+
+Periksa level coolant dan konsentrasi antifreeze sebelum musim dingin.
+
+### 5. Task 5
+
+Periksa rangka, filter, dan selang bahan bakar cari titik lembap.
+
+### 6. Task 6
+
+Periksa filter udara dan indikator.
+
+### 7. Task 7
+
+Periksa tegangan fan belt: defleksi 10-15 mm.
+
+### 8. Task 8
+
+Periksa sistem knalpot: tidak ada jelaga hitam, tidak korosi pada sambungan fleksibel.
+
+### 9. Task 9
+
+Uji ATS: simulasi pemadaman listrik dan konfirmasi start, transfer, dan shutdown.
+
+### 10. Task 10
+
+Bersihkan radiator dan sirip dengan udara tekanan rendah.
+
+### 11. Task 11
+
+Catat jam operasi dan data beban.
+
+### 12. Task 12
+
+Periksa kanopi dan lingkungan: buang daun, sarang, air menggenang.
+
+## Quarterly and annual
+
+Setiap 3 bulan: filter bahan bakar, specific gravity aki, kencangkan koneksi listrik. Setiap 12 bulan: ganti oli penuh, klep, injektor, uji beban.
+
+## Bottom line
+
+Genset cadangan adalah asuransi. Anda hanya tahu ia bekerja saat membutuhkannya. Sepuluh menit sebulan menjaga asuransi itu tetap berlaku.
+
+Jika Anda membeli genset baru dan ingin paket perawatan, [hubungi tim teknik kami](/contact).

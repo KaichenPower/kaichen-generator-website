@@ -1,38 +1,73 @@
 ---
-title: "Lista de manutenção do gerador a diesel para uma longa vida útil"
-date: "2026-07-05"
-excerpt: "A manutenção regular mantém o seu gerador fiável e prolonga a sua vida. Aqui está uma lista prática que a sua equipa pode seguir."
+title: "Checklist de Manutenção do Gerador: 12 Tarefas Mensais"
+date: "2026-10-21"
+excerpt: "Um gerador reserva só funciona se você o mantiver. Aqui está a checklist mensal prática que nossa equipe de serviço segue."
 ---
 
-## Verificações diárias
+![Generator maintenance](/images/blog/generator-maintenance-checklist.jpg)
 
-- Verifique o nível de combustível e de óleo do motor.
-- Inspecione possíveis fugas visíveis de combustível, óleo ou refrigerante.
-- Verifique a tensão da bateria e o funcionamento do carregador.
-- Verifique ruídos ou vibrações anormais durante o teste semanal.
+Um gerador a diesel é uma máquina que fica inativa 99% do tempo. O outro 1%, quando a rede falha, ele precisa ligar, assumir a carga e continuar funcionando sem problemas. Isso só acontece com manutenção adequada.
 
-## Verificações semanais
+## Why monthly maintenance matters
 
-- Faça funcionar o gerador sob carga durante pelo menos 30 minutos.
-- Verifique o nível de refrigerante e a limpeza do radiador.
-- Inspecione os filtros de ar e limpe ou substitua conforme necessário.
-- Confirme que o painel de controlo não mostra códigos de erro.
+Um gerador que nunca funciona também se degrada. O combustível estraga, as baterias perdem carga, as mangueiras de borracha racham. Uma inspeção mensal de 10 minutos evita 90% das chamadas de emergência.
 
-## Verificações mensais
+## The 12-point monthly checklist
 
-- Inspecione as correias de transmissão e ajuste a tensão se necessário.
-- Verifique a tensão do alternador e a corrente de saída.
-- Teste o funcionamento do ATS (comutador automático de transferência).
-- Verifique a qualidade do combustível e drene a água do filtro de combustível.
+### 1. Task 1
 
-## Serviço anual
+Ligue e teste o gerador com pelo menos 30% de carga por 30 minutos.
 
-- Mude o óleo do motor e os filtros (óleo, combustível, ar).
-- Substitua o refrigerante e verifique a proteção anticorrosão.
-- Teste a bateria e substitua se estiver fraca.
-- Realize um teste completo com banco de carga ou carga real.
-- Faça um técnico qualificado inspecionar o motor, o alternador e o sistema de controlo.
+### 2. Task 2
 
-## Mantenha registos
+Verifique a bateria: tensão de carga ~27V para sistema 24V. Bateria morta é a causa nº1 de falha de partida.
 
-Registe cada teste e serviço num livro de manutenção. Bons registos facilitam a deteção precoce de problemas e mantêm a garantia válida. Para qualquer serviço que não consiga realizar, a nossa equipa está disponível para o apoiar.
+### 3. Task 3
+
+Verifique o nível e a qualidade do óleo. Se parecer leitoso ou cheirar a combustível, troque o óleo.
+
+### 4. Task 4
+
+Verifique o nível do líquido de arrefecimento e a concentração do anticongelante antes do inverno.
+
+### 5. Task 5
+
+Inspecione a base, filtros e tubagens em busca de manchas úmidas.
+
+### 6. Task 6
+
+Verifique o filtro de ar e o indicador.
+
+### 7. Task 7
+
+Verifique a tensão da correia: 10-15 mm de deflexão.
+
+### 8. Task 8
+
+Verifique o sistema de exaustão: sem fuligem preta, sem corrosão na conexão flexível.
+
+### 9. Task 9
+
+Teste o ATS: simule falha de rede e confirme partida, transferência e desligamento.
+
+### 10. Task 10
+
+Limpe o radiador e as aletas com ar de baixa pressão.
+
+### 11. Task 11
+
+Registre as horas de funcionamento e os dados de carga.
+
+### 12. Task 12
+
+Inspecione a canopy e o ambiente: remova folhas, ninhos e água parada.
+
+## Quarterly and annual
+
+A cada 3 meses: filtros de combustível, densidade da bateria, aperto das conexões. A cada 12 meses: troca completa de óleo, folga das válvulas, injetores, teste de carga.
+
+## Bottom line
+
+Um gerador reserva é um seguro. Você só descobre se funciona quando precisa dele. Dez minutos por mês mantêm esse seguro válido.
+
+Se você está comprando um novo gerador e quer um plano de manutenção incluso, [contate nossa equipe de engenharia](/contact).

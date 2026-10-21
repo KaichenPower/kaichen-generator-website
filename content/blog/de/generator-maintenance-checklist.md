@@ -1,38 +1,73 @@
 ---
-title: "Wartungscheckliste für Dieselgeneratoren für eine lange Lebensdauer"
-date: "2026-07-05"
-excerpt: "Regelmäßige Wartung hält Ihren Generator zuverlässig und verlängert seine Lebensdauer. Hier ist eine praktische Checkliste für Ihr Team."
+title: "Wartungscheckliste für Generatoren: 12 Monatliche Aufgaben"
+date: "2026-10-21"
+excerpt: "Ein Notstromgenerator funktioniert nur, wenn Sie ihn warten. Hier ist die praktische monatliche Checkliste, der unser Serviceteam folgt."
 ---
 
-## Tägliche Checks
+![Generator maintenance](/images/blog/generator-maintenance-checklist.jpg)
 
-- Prüfen Sie den Kraftstoff- und Motorölstand.
-- Kontrollieren Sie auf sichtbare Kraftstoff-, Öl- oder Kühlmittellecks.
-- Prüfen Sie Batteriespannung und Ladefunktion.
-- Achten Sie beim wöchentlichen Testlauf auf ungewöhnliche Geräusche oder Vibrationen.
+Ein Dieselgenerator ist eine Maschine, die 99% der Zeit stillsteht. Das andere 1% – wenn das Netz ausfällt – muss er starten, die Last übernehmen und reibungslos laufen. Das gelingt nur bei richtiger Wartung.
 
-## Wöchentliche Checks
+## Why monthly maintenance matters
 
-- Lassen Sie den Generator mindestens 30 Minuten unter Last laufen.
-- Prüfen Sie Kühlmittelstand und Sauberkeit des Kühlers.
-- Kontrollieren Sie die Luftfilter und reinigen oder ersetzen Sie sie bei Bedarf.
-- Bestätigen Sie, dass das Bedienfeld keine Fehlercodes zeigt.
+Ein Generator, der nie läuft, verschleißt trotzdem. Kraftstoff wird alt, Batterien verlieren Ladung, Gummischläuche reißen. Ein 10-minütiger monatlicher Rundgang verhindert 90% der Notfalleinsätze.
 
-## Monatliche Checks
+## The 12-point monthly checklist
 
-- Kontrollieren Sie die Antriebsriemen und stellen Sie die Spannung bei Bedarf ein.
-- Prüfen Sie Generatorspannung und Ausgangsstrom.
-- Testen Sie die Funktion des ATS (automatische Umschaltung).
-- Prüfen Sie die Kraftstoffqualität und lassen Sie Wasser aus dem Kraftstofffilter ab.
+### 1. Task 1
 
-## Jährlicher Service
+Starten und testen Sie den Generator unter mindestens 30% Last für 30 Minuten.
 
-- Wechseln Sie Motoröl und Filter (Öl, Kraftstoff, Luft).
-- Ersetzen Sie Kühlmittel und prüfen Sie den Korrosionsschutz.
-- Testen Sie die Batterie und ersetzen Sie sie bei Schwäche.
-- Führen Sie einen vollständigen Lastbanktest mit Lastbank oder realer Last durch.
-- Lassen Sie Motor, Generator und Steuersystem von einem qualifizierten Techniker prüfen.
+### 2. Task 2
 
-## Führen Sie Aufzeichnungen
+Prüfen Sie die Batterie: Ladespannung ~27V bei 24V-System. Eine leere Batterie ist Grund Nr. 1 für Startausfälle.
 
-Protokollieren Sie jeden Testlauf und Service in einem Wartungsbuch. Gute Aufzeichnungen erleichtern die Früherkennung von Problemen und erhalten die Garantie. Für jeden Service, den Sie nicht selbst durchführen können, steht unser Team bereit.
+### 3. Task 3
+
+Kontrollieren Sie Ölstand und Qualität. Bei milchigem Öl oder Kraftstoffgeruch: Ölwechsel.
+
+### 4. Task 4
+
+Prüfen Sie Kühlmittelstand und Frostschutzkonzentration vor dem Winter.
+
+### 5. Task 5
+
+Untersuchen Sie Rahmen, Filter und Leitungen auf nasse Stellen.
+
+### 6. Task 6
+
+Prüfen Sie den Luftfilter und die Anzeige.
+
+### 7. Task 7
+
+Prüfen Sie den Riemen: 10-15 mm Durchbiegung.
+
+### 8. Task 8
+
+Prüfen Sie die Abgasanlage auf Ruß und Korrosion.
+
+### 9. Task 9
+
+Testen Sie den ATS: simulieren Sie Netzausfall und bestätigen Sie Start, Umschaltung und Abschaltung.
+
+### 10. Task 10
+
+Reinigen Sie Kühler und Rippen mit Niederdruckluft.
+
+### 11. Task 11
+
+Notieren Sie Betriebsstunden und Lastdaten.
+
+### 12. Task 12
+
+Prüfen Sie die Haube und Umgebung: entfernen Sie Blätter, Nester, stehendes Wasser.
+
+## Quarterly and annual
+
+Alle 3 Monate: Kraftstofffilter, Batteriedichte, elektrische Verbindungen. Alle 12 Monate: kompletter Ölwechsel, Ventilspiel, Einspritzdüsen, Lasttest.
+
+## Bottom line
+
+Ein Notstromgenerator ist eine Versicherung. Sie merken erst, ob er funktioniert, wenn Sie ihn brauchen. Zehn Minuten pro Monat halten diese Versicherung gültig.
+
+Wenn Sie einen neuen Generator kaufen und einen Wartungsplan wünschen, [kontaktieren Sie unser Ingenieurteam](/contact).
