@@ -649,6 +649,28 @@
         "Panel digital dengan starter otomatis opsional",
         "Cocok untuk siaga dan operasi sering"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Genset Diesel Cummins 50kW Silent",
+      "description": "Genset diesel Cummins ringkas 50kW (63kVA) dalam kanopi peredam suara, dirancang untuk kantor kecil, klinik, toko, dan daya cadangan komersial ringan di mana operasi tenang dan keandalan penting.",
+      "features": [
+        "Mesin Cummins 4 silinder dengan jaringan layanan global teruji",
+        "Kanopi akustik mengurangi kebisingan di bawah 68 dB(A) pada 7 meter",
+        "Regulasi tegangan otomatis (AVR) dengan panel kontrol digital",
+        "Tangki bahan bakar terintegrasi untuk 8+ jam operasi berkelanjutan",
+        "Start otomatis saat listrik mati (AMF) dalam 10 detik",
+        "Paket sesuai CE, ISO9001, dan emisi"
+      ],
+      "applications": [
+        "Kantor kecil dan klinik",
+        "Toko ritel",
+        "Daya cadangan komersial ringan"
+      ],
+      "problems": [
+        "Daya cadangan tenang dekat kantor",
+        "Start andal saat listrik mati",
+        "Ukuran ringkas untuk ruang sempit"
+      ]
     }
   },
   "cookie": {

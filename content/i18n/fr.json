@@ -649,6 +649,28 @@
         "Tableau numérique avec démarrage auto en option",
         "Adapté au secours et service fréquent"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Générateur Diesel Silencieux Cummins 50kW",
+      "description": "Générateur diesel Cummins compact de 50kW (63kVA) en capot insonorisé, conçu pour les petits bureaux, cliniques, magasins et secours commercial léger où le fonctionnement silencieux et la fiabilité comptent.",
+      "features": [
+        "Moteur Cummins 4 cylindres avec réseau de service mondial éprouvé",
+        "Capot acoustique réduisant le bruit en dessous de 68 dB(A) à 7 mètres",
+        "Régulateur automatique de tension (AVR) avec panneau de contrôle numérique",
+        "Réservoir intégré pour 8+ heures de fonctionnement continu",
+        "Démarrage automatique sur coupure secteur (AMF) en 10 secondes",
+        "Package conforme CE, ISO9001 et émissions"
+      ],
+      "applications": [
+        "Petits bureaux et cliniques",
+        "Magasins de détail",
+        "Secours commercial léger"
+      ],
+      "problems": [
+        "Énergie de secours silencieuse près des bureaux",
+        "Démarrage fiable en cas de coupure",
+        "Taille compacte pour les salles étroites"
+      ]
     }
   },
   "cookie": {

@@ -649,6 +649,28 @@
         "Opsiyonel otomatik çalıştırmalı dijital kontrol paneli",
         "Yedek ve sık çalışma için uygun"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Cummins 50kW Sessiz Dizel Jeneratör",
+      "description": "Sessiz çalışma ve güvenilirliğin önemli olduğu küçük ofisler, klinikler, mağazalar ve hafif ticari yedek güç için kompakt 50kW (63kVA) Cummins ses yalıtımlı dizel jeneratör seti.",
+      "features": [
+        "Kanıtlanmış küresel servis ağına sahip Cummins 4 silindirli motor",
+        "Ses yalıtımlı kapak, gürültüyü 7 metrede 68 dB(A)'nın altına düşürür",
+        "Dijital kontrol paneli ile otomatik voltaj regülasyonu (AVR)",
+        "8+ saat kesintisiz çalışma için entegre yakıt deposu",
+        "Şebeke kesintisinde 10 saniyede otomatik çalışma (AMF)",
+        "CE, ISO9001 ve emisyon uyumlu paket"
+      ],
+      "applications": [
+        "Küçük ofisler ve klinikler",
+        "Perakende mağazaları",
+        "Hafif ticari yedek güç"
+      ],
+      "problems": [
+        "Ofisler yakınında sessiz yedek güç",
+        "Şebeke kesildiğinde güvenilir çalışma",
+        "Dar odalar için kompakt boyut"
+      ]
     }
   },
   "cookie": {

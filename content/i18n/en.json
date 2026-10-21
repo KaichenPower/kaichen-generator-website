@@ -620,6 +620,28 @@
         "Multi-module parallel operation",
         "Long-run continuous duty"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Cummins 50kW Silent Diesel Generator",
+      "description": "Compact 50kW (63kVA) Cummins soundproof diesel generator set, designed for small offices, clinics, retail stores and light commercial standby power where quiet operation and reliability matter.",
+      "features": [
+        "Cummins 4-cylinder diesel engine with proven global service network",
+        "Acoustic canopy reducing noise to below 68 dB(A) at 7 meters",
+        "Automatic voltage regulation (AVR) with digital control panel",
+        "Integrated baseframe fuel tank for 8+ hours continuous running",
+        "Automatic mains failure (AMF) start-up within 10 seconds",
+        "CE, ISO9001 and emission-compliant package"
+      ],
+      "applications": [
+        "Small offices & clinics",
+        "Retail stores & shops",
+        "Light commercial standby"
+      ],
+      "problems": [
+        "Quiet backup power near offices and residences",
+        "Reliable start-up when the grid fails",
+        "Compact size for tight plant rooms"
+      ]
     }
   },
   "aboutExtended": {

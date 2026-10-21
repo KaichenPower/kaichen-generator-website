@@ -649,6 +649,28 @@
         "Digitalpanel mit optionaler Automatikstart",
         "Geeignet für Not- und häufigen Betrieb"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Cummins 50kW Schalldichter Dieselgenerator",
+      "description": "Kompakter Cummins-Dieselgenerator 50kW (63kVA) im schalldichten Gehäuse für kleine Büros, Kliniken, Geschäfte und leichte kommerzielle Notstromversorgung, wo leiser Betrieb und Zuverlässigkeit zählen.",
+      "features": [
+        "Cummins 4-Zylinder-Motor mit bewährtem globalem Servicenetz",
+        "Schallschutzhaube reduziert Geräusch auf unter 68 dB(A) auf 7 Meter",
+        "Automatischer Spannungsregler (AVR) mit digitalem Bedienpanel",
+        "Integrierter Kraftstofftank für 8+ Stunden Dauerbetrieb",
+        "Automatischer Netzausfallstart (AMF) innerhalb von 10 Sekunden",
+        "CE-, ISO9001- und emissionskonformes Paket"
+      ],
+      "applications": [
+        "Kleine Büros und Kliniken",
+        "Einzelhandelsgeschäfte",
+        "Leichte kommerzielle Notstromversorgung"
+      ],
+      "problems": [
+        "Leise Notstromversorgung nahe Büros",
+        "Zuverlässiger Start bei Netzausfall",
+        "Kompakte Größe für enge Räume"
+      ]
     }
   },
   "cookie": {

@@ -649,6 +649,28 @@
         "Painel digital com arranque automático opcional",
         "Adequado para emergência e serviço frequente"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Gerador Diesel Silencioso Cummins 50kW",
+      "description": "Gerador diesel Cummins compacto de 50kW (63kVA) em cabine acústica, projetado para pequenos escritórios, clínicas, lojas e reserva comercial leve onde operação silenciosa e confiabilidade importam.",
+      "features": [
+        "Motor Cummins 4 cilindros com rede de serviço global comprovada",
+        "Cabine acústica reduz ruído para abaixo de 68 dB(A) a 7 metros",
+        "Regulador automático de tensão (AVR) com painel digital",
+        "Tanque integrado para 8+ horas de operação contínua",
+        "Partida automática por falha de rede (AMF) em 10 segundos",
+        "Pacote conforme CE, ISO9001 e emissões"
+      ],
+      "applications": [
+        "Pequenos escritórios e clínicas",
+        "Lojas de varejo",
+        "Reserva comercial leve"
+      ],
+      "problems": [
+        "Energia reserva silenciosa perto de escritórios",
+        "Partida confiável quando a rede falha",
+        "Tamanho compacto para salas estreitas"
+      ]
     }
   },
   "cookie": {

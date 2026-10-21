@@ -649,6 +649,28 @@
         "Bảng số khởi động tự động tùy chọn",
         "Phù hợp dự phòng và chạy thường xuyên"
       ]
+    },
+    "cummins-50-silent": {
+      "name": "Máy Phát Điện Diesel Cummins 50kW Chống Ồn",
+      "description": "Máy phát diesel Cummins nhỏ gọn 50kW (63kVA) trong vỏ cách âm, thiết kế cho văn phòng nhỏ, phòng khám, cửa hàng và dự phòng thương mại nhẹ, nơi hoạt động yên tĩnh và độ tin cậy là quan trọng.",
+      "features": [
+        "Động cơ Cummins 4 xi-lanh với mạng lưới dịch vụ toàn cầu đã được kiểm chứng",
+        "Vỏ cách âm giảm tiếng ồn xuống dưới 68 dB(A) ở khoảng cách 7 mét",
+        "Bộ điều chỉnh điện áp tự động (AVR) với bảng điều khiển kỹ thuật số",
+        "Bể nhiên liệu tích hợp cho 8+ giờ hoạt động liên tục",
+        "Khởi động tự động khi mất điện (AMF) trong 10 giây",
+        "Đóng gói tuân thủ CE, ISO9001 và khí thải"
+      ],
+      "applications": [
+        "Văn phòng nhỏ và phòng khám",
+        "Cửa hàng bán lẻ",
+        "Dự phòng thương mại nhẹ"
+      ],
+      "problems": [
+        "Nguồn dự phòng yên tĩnh gần văn phòng",
+        "Khởi động đáng tin cậy khi mất điện",
+        "Kích thước nhỏ gọn cho phòng hẹp"
+      ]
     }
   },
   "cookie": {
