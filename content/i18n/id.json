@@ -345,7 +345,9 @@
     "trailer": "Trailer",
     "frame": "Kerangka",
     "fuelConsumption": "Konsumsi bahan bakar",
-    "mobility": "Mobilitas"
+    "mobility": "Mobilitas",
+    "dimensions": "Dimensi",
+    "weight": "Berat"
   },
   "aboutExtended": {
     "statsFounded": "Didirikan",
@@ -777,7 +779,13 @@
     "fuel640": "sekitar 640 L/jam pada beban 100%",
     "fuel91": "sekitar 91 L/jam pada beban 100%",
     "dayTank": "Tangki harian + koneksi eksternal",
-    "voltageCustom": "400/230V, 50Hz (tegangan khusus tersedia)"
+    "voltageCustom": "400/230V, 50Hz (tegangan khusus tersedia)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer brushless",
+    "deepseaComApAmf": "Pengontrol Deepsea atau ComAp AMF",
+    "voltage3phase": "400/230V, 50Hz, 3 fasa",
+    "tank120": "120L terintegrasi",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

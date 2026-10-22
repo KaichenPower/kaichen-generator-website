@@ -345,7 +345,9 @@
     "trailer": "Anhänger",
     "frame": "Rahmen",
     "fuelConsumption": "Kraftstoffverbrauch",
-    "mobility": "Mobilität"
+    "mobility": "Mobilität",
+    "dimensions": "Abmessungen",
+    "weight": "Gewicht"
   },
   "aboutExtended": {
     "statsFounded": "Gegründet",
@@ -777,7 +779,13 @@
     "fuel640": "ca. 640 L/h bei 100% Last",
     "fuel91": "ca. 91 L/h bei 100% Last",
     "dayTank": "Tagestank + externer Anschluss",
-    "voltageCustom": "400/230V, 50Hz (Sonderspannungen verfügbar)"
+    "voltageCustom": "400/230V, 50Hz (Sonderspannungen verfügbar)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer bürstenlos",
+    "deepseaComApAmf": "Deepsea oder ComAp AMF Steuergerät",
+    "voltage3phase": "400/230V, 50Hz, 3-phasig",
+    "tank120": "120L integriert",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

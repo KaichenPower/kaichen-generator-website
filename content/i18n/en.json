@@ -345,7 +345,9 @@
     "trailer": "Trailer",
     "frame": "Frame",
     "fuelConsumption": "Fuel consumption",
-    "mobility": "Mobility"
+    "mobility": "Mobility",
+    "dimensions": "Dimensions",
+    "weight": "Weight"
   },
   "products": {
     "kc-100-open": {
@@ -820,7 +822,13 @@
     "fuel640": "approx. 640 L/h at 100% load",
     "fuel91": "approx. 91 L/h at 100% load",
     "dayTank": "Day tank + external connection",
-    "voltageCustom": "400/230V, 50Hz (custom voltages available)"
+    "voltageCustom": "400/230V, 50Hz (custom voltages available)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer brushless",
+    "deepseaComApAmf": "Deepsea or ComAp AMF controller",
+    "voltage3phase": "400/230V, 50Hz, 3-phase",
+    "tank120": "120L built-in",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

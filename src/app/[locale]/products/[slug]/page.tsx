@@ -29,6 +29,8 @@ const LABEL_KEYS: Record<string, string> = {
   Frame: 'frame',
   'Fuel consumption': 'fuelConsumption',
   Mobility: 'mobility',
+  Dimensions: 'dimensions',
+  Weight: 'weight',
 };
 
 // English spec value -> i18n key in specValues namespace
@@ -74,6 +76,12 @@ const VALUE_MAP: Record<string, string> = {
   'approx. 91 L/h at 100% load': 'fuel91',
   'Day tank + external connection': 'dayTank',
   '400/230V, 50Hz (custom voltages available)': 'voltageCustom',
+  'Stamford / Leroy-Somer brushless': 'stamfordLeroyBrushless',
+  'Deepsea or ComAp AMF controller': 'deepseaComApAmf',
+  '400/230V, 50Hz, 3-phase': 'voltage3phase',
+  '120L built-in': 'tank120',
+  '≤68 dB(A) @ 7m': 'noiseLe68',
+  'Cummins 4BT3.9-G2': 'engine4bt',
 };
 
 export function generateStaticParams() {

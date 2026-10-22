@@ -345,7 +345,9 @@
     "trailer": "Remolque",
     "frame": "Bastidor",
     "fuelConsumption": "Consumo de combustible",
-    "mobility": "Movilidad"
+    "mobility": "Movilidad",
+    "dimensions": "Dimensiones",
+    "weight": "Peso"
   },
   "aboutExtended": {
     "statsFounded": "Fundada",
@@ -777,7 +779,13 @@
     "fuel640": "aprox. 640 L/h al 100% de carga",
     "fuel91": "aprox. 91 L/h al 100% de carga",
     "dayTank": "Tanque diario + conexión externa",
-    "voltageCustom": "400/230V, 50Hz (voltajes personalizados disponibles)"
+    "voltageCustom": "400/230V, 50Hz (voltajes personalizados disponibles)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer sin escobillas",
+    "deepseaComApAmf": "Controlador Deepsea o ComAp AMF",
+    "voltage3phase": "400/230V, 50Hz, trifásico",
+    "tank120": "120L integrado",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

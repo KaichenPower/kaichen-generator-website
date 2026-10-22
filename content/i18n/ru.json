@@ -345,7 +345,9 @@
     "trailer": "Прицеп",
     "frame": "Рама",
     "fuelConsumption": "Расход топлива",
-    "mobility": "Подвижность"
+    "mobility": "Подвижность",
+    "dimensions": "Габариты",
+    "weight": "Масса"
   },
   "aboutExtended": {
     "statsFounded": "Основана",
@@ -777,7 +779,13 @@
     "fuel640": "примерно 640 л/ч при 100% нагрузке",
     "fuel91": "примерно 91 л/ч при 100% нагрузке",
     "dayTank": "Дневной бак + внешнее подключение",
-    "voltageCustom": "400/230В, 50Гц (возможны нестандартные напряжения)"
+    "voltageCustom": "400/230В, 50Гц (возможны нестандартные напряжения)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer бесщёточный",
+    "deepseaComApAmf": "Контроллер Deepsea или ComAp с АВР",
+    "voltage3phase": "400/230В, 50Гц, 3-фазы",
+    "tank120": "Встроенный 120л",
+    "noiseLe68": "≤68 дБ(A) на 7м",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "кВт",

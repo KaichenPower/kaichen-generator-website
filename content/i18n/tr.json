@@ -345,7 +345,9 @@
     "trailer": "Römork",
     "frame": "Şasi",
     "fuelConsumption": "Yakıt tüketimi",
-    "mobility": "Mobilite"
+    "mobility": "Mobilite",
+    "dimensions": "Boyutlar",
+    "weight": "Ağırlık"
   },
   "aboutExtended": {
     "statsFounded": "Kuruluş",
@@ -777,7 +779,13 @@
     "fuel640": "%100 yükte yaklaşık 640 L/s",
     "fuel91": "%100 yükte yaklaşık 91 L/s",
     "dayTank": "Günlük depo + harici bağlantı",
-    "voltageCustom": "400/230V, 50Hz (özel voltajlar mevcut)"
+    "voltageCustom": "400/230V, 50Hz (özel voltajlar mevcut)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer fırçasız",
+    "deepseaComApAmf": "Deepsea veya ComAp AMF kontrol cihazı",
+    "voltage3phase": "400/230V, 50Hz, 3 fazlı",
+    "tank120": "120L dahili",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

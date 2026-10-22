@@ -345,7 +345,9 @@
     "trailer": "Rơ moóc",
     "frame": "Khung",
     "fuelConsumption": "Tiêu thụ nhiên liệu",
-    "mobility": "Di động"
+    "mobility": "Di động",
+    "dimensions": "Kích thước",
+    "weight": "Trọng lượng"
   },
   "aboutExtended": {
     "statsFounded": "Thành lập",
@@ -777,7 +779,13 @@
     "fuel640": "khoảng 640 L/h ở tải 100%",
     "fuel91": "khoảng 91 L/h ở tải 100%",
     "dayTank": "Bồn ngày + kết nối ngoài",
-    "voltageCustom": "400/230V, 50Hz (có thể tùy chỉnh điện áp)"
+    "voltageCustom": "400/230V, 50Hz (có thể tùy chỉnh điện áp)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer không chổi than",
+    "deepseaComApAmf": "Bộ điều khiển Deepsea hoặc ComAp AMF",
+    "voltage3phase": "400/230V, 50Hz, 3 pha",
+    "tank120": "120L tích hợp",
+    "noiseLe68": "≤68 dB(A) @ 7m",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "kW",

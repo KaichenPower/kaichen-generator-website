@@ -345,7 +345,9 @@
     "trailer": "المقطورة",
     "frame": "الإطار",
     "fuelConsumption": "استهلاك الوقود",
-    "mobility": "الحركة"
+    "mobility": "الحركة",
+    "dimensions": "الأبعاد",
+    "weight": "الوزن"
   },
   "aboutExtended": {
     "statsFounded": "تأسست",
@@ -777,7 +779,13 @@
     "fuel640": "حوالي 640 لتر/ساعة عند حمل 100%",
     "fuel91": "حوالي 91 لتر/ساعة عند حمل 100%",
     "dayTank": "خزان يومي + توصيل خارجي",
-    "voltageCustom": "400/230 فولت، 50 هرتز (تتوفر فولتية مخصصة)"
+    "voltageCustom": "400/230 فولت، 50 هرتز (تتوفر فولتية مخصصة)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer بدون فرش",
+    "deepseaComApAmf": "جهاز تحكم Deepsea أو ComAp AMF",
+    "voltage3phase": "400/230V, 50Hz, ثلاثي الطور",
+    "tank120": "120 لتر مدمج",
+    "noiseLe68": "≤68 ديسيبل @ 7م",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "كيلوواط",

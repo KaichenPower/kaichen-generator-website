@@ -345,7 +345,9 @@
     "trailer": "รถพ่วง",
     "frame": "โครง",
     "fuelConsumption": "การสิ้นเปลืองเชื้อเพลิง",
-    "mobility": "ความคล่องตัว"
+    "mobility": "ความคล่องตัว",
+    "dimensions": "ขนาด",
+    "weight": "น้ำหนัก"
   },
   "aboutExtended": {
     "statsFounded": "ก่อตั้ง",
@@ -777,7 +779,13 @@
     "fuel640": "ประมาณ 640 ลิตร/ชม. ที่ภาระ 100%",
     "fuel91": "ประมาณ 91 ลิตร/ชม. ที่ภาระ 100%",
     "dayTank": "ถังรายวัน + การเชื่อมต่อภายนอก",
-    "voltageCustom": "400/230V, 50Hz (มีแรงดันไฟฟ้าพิเศษให้เลือก)"
+    "voltageCustom": "400/230V, 50Hz (มีแรงดันไฟฟ้าพิเศษให้เลือก)",
+    "stamfordLeroyBrushless": "Stamford / Leroy-Somer ไม่มีแปรงถ่าน",
+    "deepseaComApAmf": "เครื่องควบคุม Deepsea หรือ ComAp AMF",
+    "voltage3phase": "400/230V, 50Hz, 3 เฟส",
+    "tank120": "120 ลิตรในตัว",
+    "noiseLe68": "≤68 dB(A) @ 7 ม.",
+    "engine4bt": "Cummins 4BT3.9-G2"
   },
   "powerUnits": {
     "kw": "กิโลวัตต์",
