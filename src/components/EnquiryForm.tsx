@@ -101,15 +101,16 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
 
     const payload = {
       access_key: ACCESS_KEY,
-      subject: `${subject || cp('formTitle')}${form.product ? ' — ' + form.product : ''}`,
+      subject: subject || cp('formTitle'),
       from_name: form.name,
       name: form.name,
       email: form.email,
       phone: form.phone,
       country: form.country,
-      product: form.product || subject || '',
-      product_url: form.productUrl,
-      message: form.message,
+      message: form.product
+        ? `${form.product}\n\n${form.message}`
+        : form.message,
+      botcheck: form.botcheck,
     };
 
     try {
