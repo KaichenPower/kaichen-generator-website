@@ -6,7 +6,7 @@ import { useTranslations } from 'next-intl';
 const ACCESS_KEY = '9e488395-317d-4363-9f97-53259ba15d11';
 const ENDPOINT = 'https://api.web3forms.com/submit';
 // hCaptcha sitekey（替换为你在 hCaptcha 官网获取的 sitekey）
-const HCAPTCHA_SITEKEY = 'YOUR_HCAPTCHA_SITEKEY';
+const HCAPTCHA_SITEKEY = 'e33a1b2e-9294-4b18-aeec-133669f09562';
 
 type Props = {
   subject?: string;
@@ -29,7 +29,6 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
 
   // 加载 hCaptcha JS
   useEffect(() => {
-    if (HCAPTCHA_SITEKEY === 'YOUR_HCAPTCHA_SITEKEY') return;
     const script = document.createElement('script');
     script.src = 'https://js.hcaptcha.com/1/api.js';
     script.async = true;
@@ -117,7 +116,7 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
     // 冷却期内禁止重复提交
     if (cooldown) return;
     // hCaptcha 验证
-    if (HCAPTCHA_SITEKEY !== 'YOUR_HCAPTCHA_SITEKEY' && !hcaptchaToken) {
+    if (!hcaptchaToken) {
       alert('Please complete the hCaptcha verification');
       return;
     }
@@ -269,9 +268,7 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
           />
           {errors.message && <span className="field-error">{errors.message}</span>}
         </div>
-        {HCAPTCHA_SITEKEY !== 'YOUR_HCAPTCHA_SITEKEY' && (
-          <div className="h-captcha" data-sitekey={HCAPTCHA_SITEKEY} data-callback="hcaptchaCallback" style={{ marginBottom: '1rem' }}></div>
-        )}
+        <div className="h-captcha" data-sitekey={HCAPTCHA_SITEKEY} data-callback="hcaptchaCallback" style={{ marginBottom: '1rem' }}></div>
         <button
           type="submit"
           className="btn btn-accent"
