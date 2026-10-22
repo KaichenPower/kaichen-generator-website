@@ -1,10 +1,12 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
 
 // Web3Forms 配置
 const ACCESS_KEY = '9e488395-317d-4363-9f97-53259ba15d11';
 const ENDPOINT = 'https://api.web3forms.com/submit';
+// hCaptcha sitekey（替换为你在 hCaptcha 官网获取的 sitekey）
+const HCAPTCHA_SITEKEY = 'YOUR_HCAPTCHA_SITEKEY';
 
 type Props = {
   subject?: string;
@@ -23,6 +25,27 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
   // 记录表单挂载时间，用于拦截"秒提交"的机器人
   const [mountedAt] = useState(() => Date.now());
   const [cooldown, setCooldown] = useState(false);
+  const [hcaptchaToken, setHcaptchaToken] = useState('');
+
+  // 加载 hCaptcha JS
+  useEffect(() => {
+    if (HCAPTCHA_SITEKEY === 'YOUR_HCAPTCHA_SITEKEY') return;
+    const script = document.createElement('script');
+    script.src = 'https://js.hcaptcha.com/1/api.js';
+    script.async = true;
+    script.defer = true;
+    document.head.appendChild(script);
+    return () => {
+      document.head.removeChild(script);
+    };
+  }, []);
+
+  // hCaptcha 回调
+  useEffect(() => {
+    (window as any).hcaptchaCallback = (token: string) => {
+      setHcaptchaToken(token);
+    };
+  }, []);
   const [form, setForm] = useState({
     name: '',
     email: '',
@@ -93,6 +116,11 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
     if (Date.now() - mountedAt < 3000) return;
     // 冷却期内禁止重复提交
     if (cooldown) return;
+    // hCaptcha 验证
+    if (HCAPTCHA_SITEKEY !== 'YOUR_HCAPTCHA_SITEKEY' && !hcaptchaToken) {
+      alert('Please complete the hCaptcha verification');
+      return;
+    }
 
     // 提交前整体校验，有错则阻止并提示
     if (!validateAll()) return;
@@ -111,6 +139,7 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
         ? `${form.product}\n\n${form.message}`
         : form.message,
       botcheck: form.botcheck,
+      'h-captcha-response': hcaptchaToken,
     };
 
     try {
@@ -240,6 +269,9 @@ export default function EnquiryForm({ subject, productName = '', productUrl = ''
           />
           {errors.message && <span className="field-error">{errors.message}</span>}
         </div>
+        {HCAPTCHA_SITEKEY !== 'YOUR_HCAPTCHA_SITEKEY' && (
+          <div className="h-captcha" data-sitekey={HCAPTCHA_SITEKEY} data-callback="hcaptchaCallback" style={{ marginBottom: '1rem' }}></div>
+        )}
         <button
           type="submit"
           className="btn btn-accent"
