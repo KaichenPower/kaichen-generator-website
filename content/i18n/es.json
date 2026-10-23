@@ -673,6 +673,27 @@
         "Arranque fiable cuando falla la red",
         "Tamaño compacto para cuartos estrechos"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Generador Diésel Cummins 200 kW Silencioso",
+      "description": "Confiable generador diésel Cummins de 200 kW insonorizado para fábricas medianas, hospitales, centros de datos y edificios comerciales que necesitan energía de respaldo estable.",
+      "features": [
+        "Motor Cummins serie NTA855 con durabilidad comprobada en todo el mundo",
+        "Cabina acústica reforzada para funcionamiento de bajo ruido",
+        "Gran tanque de combustible integrado en el bastidor",
+        "Panel de control digital Deep-sea con opción de monitoreo remoto",
+        "Carcasa resistente a la intemperie para instalación exterior"
+      ],
+      "applications": [
+        "Fábricas y talleres medianos",
+        "Hospitales y centros de salud",
+        "Centros de datos y edificios comerciales"
+      ],
+      "problems": [
+        "Energía de respaldo confiable para cargas críticas",
+        "Funcionamiento silencioso en áreas urbanas y suburbanas",
+        "Salida estable durante cortes prolongados"
+      ]
     }
   },
   "cookie": {

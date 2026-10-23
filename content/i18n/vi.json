@@ -673,6 +673,27 @@
         "Khởi động đáng tin cậy khi mất điện",
         "Kích thước nhỏ gọn cho phòng hẹp"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Máy Phát Điện Diesel Cummins 200 kW Kiểu Cách Âm",
+      "description": "Máy phát điện diesel Cummins 200 kW kiểu cách âm đáng tin cậy cho các nhà máy vừa, bệnh viện, trung tâm dữ liệu và tòa nhà thương mại cần nguồn điện dự phòng ổn định.",
+      "features": [
+        "Động cơ Cummins dòng NTA855 với độ bền được chứng minh trên toàn thế giới",
+        "Vỏ cách âm hạng nặng cho hoạt động tiếng ồn thấp",
+        "Bồn nhiên liệu tích hợp lớn trên khung sườn",
+        "Bảng điều khiển kỹ thuật số Deep-sea với tùy chọn giám sát từ xa",
+        "Vỏ chịu thời tiết cho lắp đặt ngoài trời"
+      ],
+      "applications": [
+        "Nhà máy và xưởng vừa",
+        "Bệnh viện và cơ sở y tế",
+        "Trung tâm dữ liệu và tòa nhà thương mại"
+      ],
+      "problems": [
+        "Nguồn điện dự phòng đáng tin cậy cho các tải trọng quan trọng",
+        "Hoạt động êm ái ở khu vực đô thị và ngoại ô",
+        "Đầu ra ổn định trong suốt thời gian mất điện kéo dài"
+      ]
     }
   },
   "cookie": {

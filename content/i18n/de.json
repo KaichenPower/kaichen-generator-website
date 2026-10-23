@@ -673,6 +673,27 @@
         "Zuverlässiger Start bei Netzausfall",
         "Kompakte Größe für enge Räume"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Cummins 200 kW Schallisolierter Dieselgenerator",
+      "description": "Zuverlässiger 200 kW schallisolierter Cummins-Dieselgenerator für mittlere Fabriken, Krankenhäuser, Rechenzentren und Geschäftsgebäude, die stabile Notstromversorgung benötigen.",
+      "features": [
+        "Cummins NTA855-Motor mit bewährter weltweiter Haltbarkeit",
+        "Schwerer Schallschutz für geräuscharmen Betrieb",
+        "Großer integrierter Kraftstofftank auf dem Grundrahmen",
+        "Deep-sea Digitalsteuerung mit optionaler Fernüberwachung",
+        "Wetterfeste Hülle für Außeninstallation"
+      ],
+      "applications": [
+        "Mittlere Fabriken und Werkstätten",
+        "Krankenhäuser und Gesundheitswesen",
+        "Rechenzentren und Geschäftsgebäude"
+      ],
+      "problems": [
+        "Zuverlässige Notstromversorgung für kritische Lasten",
+        "Leiser Betrieb in städtischen und vorstädtischen Gebieten",
+        "Stabile Leistung bei langen Stromausfällen"
+      ]
     }
   },
   "cookie": {

@@ -673,6 +673,27 @@
         "Start andal saat listrik mati",
         "Ukuran ringkas untuk ruang sempit"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Genset Diesel Cummins 200 kW Silent",
+      "description": "Genset diesel Cummins 200 kW kedap suara yang andal untuk pabrik menengah, rumah sakit, pusat data, dan gedung komersial yang membutuhkan daya cadangan stabil.",
+      "features": [
+        "Mesin Cummins seri NTA855 dengan ketahanan terbukti di seluruh dunia",
+        "Kanopi akustik berat untuk operasi kebisingan rendah",
+        "Tangki bahan bakar terintegrasi besar pada rangka dasar",
+        "Panel kontrol digital Deep-sea dengan opsi pemantauan jarak jauh",
+        "Wadah tahan cuaca untuk instalasi luar ruangan"
+      ],
+      "applications": [
+        "Pabrik dan bengkel menengah",
+        "Rumah sakit dan fasilitas kesehatan",
+        "Pusat data dan gedung komersial"
+      ],
+      "problems": [
+        "Daya cadangan andal untuk beban kritis",
+        "Operasi senyap di area perkotaan dan pinggiran kota",
+        "Output stabil selama pemadaman listrik panjang"
+      ]
     }
   },
   "cookie": {

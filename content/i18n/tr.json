@@ -673,6 +673,27 @@
         "Şebeke kesildiğinde güvenilir çalışma",
         "Dar odalar için kompakt boyut"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Cummins 200 kW Sessiz Dizel Jeneratör",
+      "description": "Orta ölçekli fabrikalar, hastaneler, veri merkezleri ve ticari binalar için güvenilir 200 kW ses yalıtımlı Cummins dizel jeneratör.",
+      "features": [
+        "Dünya çapında kanıtlanmış dayanıklılığa sahip Cummins NTA855 serisi motor",
+        "Düşük gürültülü çalışma için ağır hizmet tipi akustik kabin",
+        "Ana şasi üzerinde büyük entegre yakıt deposu",
+        "Uzaktan izleme seçeneği ile Deep-sea dijital kontrol paneli",
+        "Dış mekan montajı için hava koşullarına dayanıklı muhafaza"
+      ],
+      "applications": [
+        "Orta ölçekli fabrikalar ve atölyeler",
+        "Hastaneler ve sağlık hizmetleri",
+        "Veri merkezleri ve ticari binalar"
+      ],
+      "problems": [
+        "Kritik yükler için güvenilir yedek güç",
+        "Kentsel ve banliyö bölgelerinde sessiz çalışma",
+        "Uzun kesintiler sırasında stabil çıkış"
+      ]
     }
   },
   "cookie": {

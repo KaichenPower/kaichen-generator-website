@@ -673,6 +673,27 @@
         "Démarrage fiable en cas de coupure",
         "Taille compacte pour les salles étroites"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Groupe Électrogène Diesel Cummins 200 kW Silencieux",
+      "description": "Groupe électrogène diesel Cummins fiable de 200 kW insonorisé pour les usines moyennes, hôpitaux, centres de données et bâtiments commerciaux nécessitant une alimentation de secours stable.",
+      "features": [
+        "Moteur Cummins série NTA855 avec durabilité éprouvée dans le monde entier",
+        "Capot acoustique renforcé pour un fonctionnement à faible bruit",
+        "Grand réservoir de carburant intégré sur le châssis",
+        "Panneau de contrôle numérique Deep-sea avec option de surveillance à distance",
+        "Enceinte résistante aux intempéries pour installation extérieure"
+      ],
+      "applications": [
+        "Usines et ateliers moyens",
+        "Hôpitaux et établissements de santé",
+        "Centres de données et bâtiments commerciaux"
+      ],
+      "problems": [
+        "Alimentation de secours fiable pour les charges critiques",
+        "Fonctionnement silencieux en zone urbaine et suburbaine",
+        "Sortie stable lors de coupures prolongées"
+      ]
     }
   },
   "cookie": {

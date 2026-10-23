@@ -644,6 +644,27 @@
         "Reliable start-up when the grid fails",
         "Compact size for tight plant rooms"
       ]
+    },
+    "cummins-200-silent": {
+      "name": "Cummins 200kW Silent Diesel Generator",
+      "description": "Reliable 200kW soundproof Cummins diesel generator for medium factories, hospitals, data centers and commercial buildings needing stable backup power.",
+      "features": [
+        "Cummins NTA855 series engine with proven durability worldwide",
+        "Heavy-duty acoustic canopy for low noise operation",
+        "Large integrated fuel tank on baseframe",
+        "Deep-sea digital control panel with remote monitoring option",
+        "Weather-resistant enclosure for outdoor installation"
+      ],
+      "applications": [
+        "Medium factories & workshops",
+        "Hospitals & healthcare",
+        "Data centers & commercial buildings"
+      ],
+      "problems": [
+        "Reliable standby power for critical loads",
+        "Quiet operation in urban and suburban areas",
+        "Stable output during long outages"
+      ]
     }
   },
   "aboutExtended": {
