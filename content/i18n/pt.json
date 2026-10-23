@@ -182,7 +182,8 @@
       "cert-19": "Patente – Dispositivo de Recuperação de Calor",
       "cert-20": "Patente – Gerador de Excitação de Alta Velocidade"
     },
-    "certAllLabel": "Todos"
+    "certAllLabel": "Todos",
+    "description": "Conheça a Kaichen Power - fabricante profissional de geradores a diesel em Yangzhou, China desde 2013, fábrica de 36.000 m² e 8.000 unidades por ano."
   },
   "productsPage": {
     "title": "Nossos produtos",
@@ -327,7 +328,9 @@
       "Ao usar este site, você concorda com estes termos. Todos os conteúdos, imagens e informações de produto pertencem à Jiangsu Kaichen Power Equipment Co., Ltd., salvo indicação em contrário.",
       "As especificações exibidas são indicativas e podem ser ajustadas conforme suas necessidades. Confirme as especificações finais com nossa equipe de vendas antes de fazer um pedido.",
       "Nada neste site constitui uma oferta vinculante. Os pedidos estão sujeitos à nossa cotação escrita e ao contrato de venda."
-    ]
+    ],
+    "privacyDescription": "Política de Privacidade da Kaichen Power - como coletamos, usamos e protegemos suas informações pessoais quando você visita nosso site.",
+    "termsDescription": "Termos de Serviço da Kaichen Power - os termos e condições para usar nosso site e comprar geradores a diesel."
   },
   "specLabels": {
     "primePower": "Potência principal",

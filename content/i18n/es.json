@@ -182,7 +182,8 @@
       "cert-19": "Patente – Dispositivo de Recuperación de Calor",
       "cert-20": "Patente – Generador de Excitación de Alta Velocidad"
     },
-    "certAllLabel": "Todos"
+    "certAllLabel": "Todos",
+    "description": "Conozca Kaichen Power - fabricante profesional de grupos electrógenos diésel en Yangzhou, China desde 2013, fábrica de 36.000 m² y 8.000 unidades anuales."
   },
   "productsPage": {
     "title": "Nuestros productos",
@@ -327,7 +328,9 @@
       "Al usar este sitio acepta estos términos. Todos los contenidos, imágenes e información de producto pertenecen a Jiangsu Kaichen Power Equipment Co., Ltd. salvo que se indique lo contrario.",
       "Las especificaciones mostradas son orientativas y pueden ajustarse según sus necesidades. Confirme las especificaciones finales con nuestro equipo de ventas antes de realizar un pedido.",
       "Nada de este sitio constituye una oferta vinculante. Los pedidos se rigen por nuestra cotización escrita y contrato de venta."
-    ]
+    ],
+    "privacyDescription": "Política de privacidad de Kaichen Power - cómo recopilamos, utilizamos y protegemos su información personal cuando visita nuestro sitio web.",
+    "termsDescription": "Términos de servicio de Kaichen Power - los términos y condiciones para usar nuestro sitio web y comprar grupos electrógenos diésel."
   },
   "specLabels": {
     "primePower": "Potencia principal",

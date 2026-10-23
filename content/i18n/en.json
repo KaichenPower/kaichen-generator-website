@@ -182,7 +182,8 @@
       "cert-19": "Utility Model Patent – Heat Energy Recovery Device",
       "cert-20": "Utility Model Patent – High-Speed Excitation Generator"
     },
-    "certAllLabel": "All"
+    "certAllLabel": "All",
+    "description": "Learn about Kaichen Power - a professional diesel generator set manufacturer in Yangzhou, China since 2013, with 36,000 m² factory and 8,000 units annual capacity."
   },
   "productsPage": {
     "title": "Our Products",
@@ -327,7 +328,9 @@
       "By using this website you agree to these terms. All content, images and product information on this site belong to Jiangsu Kaichen Power Equipment Co., Ltd. unless stated otherwise.",
       "Product specifications shown are indicative and may be adjusted according to your requirements. Please confirm final specifications with our sales team before placing an order.",
       "Nothing on this website constitutes a binding offer. Orders are subject to our written quotation and sales agreement."
-    ]
+    ],
+    "privacyDescription": "Privacy Policy of Kaichen Power - how we collect, use and protect your personal information when you visit our website or submit enquiries.",
+    "termsDescription": "Terms of Service of Kaichen Power - the terms and conditions for using our website and purchasing diesel generator sets."
   },
   "specLabels": {
     "primePower": "Prime power",

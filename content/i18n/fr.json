@@ -182,7 +182,8 @@
       "cert-19": "Brevet – Dispositif de Récupération de Chaleur",
       "cert-20": "Brevet – Générateur à Excitation à Grande Vitesse"
     },
-    "certAllLabel": "Tous"
+    "certAllLabel": "Tous",
+    "description": "Découvrez Kaichen Power - fabricant professionnel de groupes électrogènes diesel à Yangzhou, Chine depuis 2013, usine de 36 000 m² et 8 000 unités par an."
   },
   "productsPage": {
     "title": "Nos produits",
@@ -327,7 +328,9 @@
       "En utilisant ce site, vous acceptez ces conditions. Tous les contenus, images et informations produit appartiennent à Jiangsu Kaichen Power Equipment Co., Ltd. sauf mention contraire.",
       "Les spécifications affichées sont indicatives et peuvent être ajustées selon vos besoins. Veuillez confirmer les spécifications finales avec notre équipe commerciale avant de passer commande.",
       "Rien sur ce site ne constitue une offre contraignante. Les commandes sont soumises à notre devis écrit et à notre contrat de vente."
-    ]
+    ],
+    "privacyDescription": "Politique de confidentialité de Kaichen Power - comment nous collectons, utilisons et protégeons vos informations personnelles lorsque vous visitez notre site web.",
+    "termsDescription": "Conditions d'utilisation de Kaichen Power - les termes et conditions pour utiliser notre site web et acheter des groupes électrogènes diesel."
   },
   "specLabels": {
     "primePower": "Puissance principale",

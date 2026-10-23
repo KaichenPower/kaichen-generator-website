@@ -182,7 +182,8 @@
       "cert-19": "Patent – Wärmerückgewinnungseinrichtung",
       "cert-20": "Patent – Hochgeschwindigkeits-Erregergenerator"
     },
-    "certAllLabel": "Alle"
+    "certAllLabel": "Alle",
+    "description": "Erfahren Sie mehr über Kaichen Power - professioneller Dieselgenerator-Hersteller in Yangzhou, China seit 2013, 36.000 m² Fabrik und 8.000 Einheiten jährlich."
   },
   "productsPage": {
     "title": "Unsere Produkte",
@@ -327,7 +328,9 @@
       "Durch die Nutzung dieser Website stimmen Sie diesen Bedingungen zu. Alle Inhalte, Bilder und Produktinformationen auf dieser Seite gehören, sofern nicht anders angegeben, Jiangsu Kaichen Power Equipment Co., Ltd.",
       "Die angezeigten Produktspezifikationen sind Richtwerte und können je nach Anforderung angepasst werden. Bitte bestätigen Sie die endgültigen Spezifikationen vor der Bestellung mit unserem Vertriebsteam.",
       "Nichts auf dieser Website stellt ein verbindliches Angebot dar. Bestellungen unterliegen unserem schriftlichen Angebot und Verkaufsvertrag."
-    ]
+    ],
+    "privacyDescription": "Datenschutzrichtlinie von Kaichen Power - wie wir Ihre persönlichen Daten sammeln, verwenden und schützen, wenn Sie unsere Website besuchen.",
+    "termsDescription": "Nutzungsbedingungen von Kaichen Power - die Bedingungen für die Nutzung unserer Website und den Kauf von Dieselgeneratoren."
   },
   "specLabels": {
     "primePower": "Hauptleistung",

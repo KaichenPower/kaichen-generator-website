@@ -182,7 +182,8 @@
       "cert-19": "Bằng sáng chế – Thiết bị thu hồi nhiệt năng",
       "cert-20": "Bằng sáng chế – Máy phát kích từ tốc độ cao"
     },
-    "certAllLabel": "Tất cả"
+    "certAllLabel": "Tất cả",
+    "description": "Tìm hiểu về Kaichen Power - nhà sản xuất máy phát điện diesel chuyên nghiệp tại Yangzhou, Trung Quốc từ năm 2013, nhà máy 36.000 m² và 8.000 đơn vị mỗi năm."
   },
   "productsPage": {
     "title": "Sản phẩm của chúng tôi",
@@ -327,7 +328,9 @@
       "Khi sử dụng trang web này, bạn đồng ý với các điều khoản này. Trừ khi được nêu rõ, mọi nội dung, hình ảnh và thông tin sản phẩm trên trang web đều thuộc sở hữu của Công ty Jiangsu Kaichen Power Equipment Co., Ltd.",
       "Thông số kỹ thuật hiển thị mang tính tham khảo và có thể điều chỉnh theo yêu cầu của bạn. Vui lòng xác nhận thông số cuối cùng với đội ngũ bán hàng của chúng tôi trước khi đặt hàng.",
       "Không có gì trên trang web này tạo thành lời chào hàng ràng buộc. Đơn hàng tuân theo báo giá bằng văn bản và hợp đồng bán hàng của chúng tôi."
-    ]
+    ],
+    "privacyDescription": "Chính sách bảo mật của Kaichen Power - cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn truy cập trang web của chúng tôi.",
+    "termsDescription": "Điều khoản dịch vụ của Kaichen Power - các điều khoản và điều kiện để sử dụng trang web của chúng tôi và mua máy phát điện diesel."
   },
   "specLabels": {
     "primePower": "Công suất chính",

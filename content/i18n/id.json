@@ -182,7 +182,8 @@
       "cert-19": "Paten – Perangkat Pemulihan Energi Panas",
       "cert-20": "Paten – Generator Eksitasi Kecepatan Tinggi"
     },
-    "certAllLabel": "Semua"
+    "certAllLabel": "Semua",
+    "description": "Pelajari tentang Kaichen Power - produsen genset diesel profesional di Yangzhou, Tiongkok sejak 2013, pabrik 36.000 m² dan 8.000 unit per tahun."
   },
   "productsPage": {
     "title": "Produk Kami",
@@ -327,7 +328,9 @@
       "Dengan menggunakan situs web ini, Anda menyetujui ketentuan ini. Semua konten, gambar, dan informasi produk di situs ini adalah milik Jiangsu Kaichen Power Equipment Co., Ltd. kecuali dinyatakan lain.",
       "Spesifikasi produk yang ditampilkan bersifat indikatif dan dapat disesuaikan dengan kebutuhan Anda. Harap konfirmasi spesifikasi akhir dengan tim penjualan kami sebelum melakukan pemesanan.",
       "Tidak ada hal di situs web ini yang merupakan penawaran yang mengikat. Pesanan tunduk pada penawaran tertulis dan perjanjian penjualan kami."
-    ]
+    ],
+    "privacyDescription": "Kebijakan Privasi Kaichen Power - bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda saat Anda mengunjungi situs web kami.",
+    "termsDescription": "Ketentuan Layanan Kaichen Power - syarat dan ketentuan untuk menggunakan situs web kami dan membeli genset diesel."
   },
   "specLabels": {
     "primePower": "Daya utama",

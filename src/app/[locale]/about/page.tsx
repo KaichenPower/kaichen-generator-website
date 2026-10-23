@@ -14,6 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const alternates = getAlternates('/about');
   return {
     title: t('title'),
+    description: t('description'),
     alternates: { canonical: alternates[locale], languages: alternates },
   };
 }

@@ -13,6 +13,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const alternates = getAlternates('/terms');
   return {
     title: t('termsTitle'),
+    description: t('termsDescription'),
     alternates: { canonical: alternates[locale], languages: alternates },
   };
 }
