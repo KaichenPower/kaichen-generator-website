@@ -21,7 +21,7 @@
 - [Contact Us](https://www.dgsetmanufacturer.com/en/contact/) - Get in touch for quotes and technical support
 
 ## Specifications
-- Power range: 20 kVA - 2000 kVA
+- Power range: 20 kVA - 3000 kVA
 - Engine brands: Cummins, Weichai, Yuchai, SDEC, Perkins
 - Voltage: 220V - 11kV (single phase and three phase)
 - Frequency: 50 Hz / 60 Hz
