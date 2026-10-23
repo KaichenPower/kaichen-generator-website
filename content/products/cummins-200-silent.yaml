@@ -1,0 +1,21 @@
+name: Cummins 200kW Silent Diesel Generator
+image: /images/products/cummins-200kw-silent.jpg
+brand: Cummins
+powerKVA: 250
+type: silent
+description: Reliable 200kW soundproof Cummins diesel generator for medium factories, hospitals, data centers and commercial buildings needing stable backup power.
+features:
+  - Cummins NTA855 series engine with proven durability worldwide
+  - Heavy-duty acoustic canopy for low noise operation
+  - Large integrated fuel tank on baseframe
+  - Deep-sea digital control panel with remote monitoring option
+  - Weather-resistant enclosure for outdoor installation
+specs:
+  Prime power: 180 kW / 225 kVA
+  Standby power: 200 kW / 250 kVA
+  Engine: Cummins NTA855-G1
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Noise level: 70–75 dB(A) at 7m
