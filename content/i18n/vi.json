@@ -11,7 +11,7 @@
     "blog": "Blog",
     "contact": "Liên hệ",
     "getQuote": "Yêu cầu báo giá",
-    "faq": "FAQ"
+    "faq": "Câu hỏi thường gặp"
   },
   "common": {
     "requestQuote": "Yêu cầu báo giá",
@@ -817,49 +817,49 @@
     "kva": "kVA"
   },
   "faqPage": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Answers to common questions about diesel generator sets.",
-    "askQuestion": "Ask Us a Question",
+    "title": "Câu Hỏi Thường Gặp",
+    "subtitle": "Câu trả lời thẳng thắn về bảo hành, kích thước, thời gian giao hàng, kiểu cách âm vs kiểu mở, điện dự phòng vs điện chính, hỗ trợ xuất khẩu và dịch vụ sau bán hàng.",
+    "askQuestion": "Hãy đặt câu hỏi với chúng tôi",
     "faqs": [
       {
-        "q": "What warranty do you offer on a new generator set?",
-        "a": "A standard new set carries a 1-year or 1,000-hour warranty (whichever comes first), measured from commissioning or invoice date. The engine, alternator and control panel can be extended to 2 years under our extended-warranty option. Wear items such as oil, filters, belts and batteries are excluded. The exact terms are written into the purchase contract."
+        "q": "Bạn cung cấp bảo hành gì cho một máy phát điện mới?",
+        "a": "Máy tiêu chuẩn mới có bảo hành 1 năm hoặc 1.000 giờ (tùy điều kiện nào đến trước), tính từ ngày vận hành hoặc ngày hóa đơn. Động cơ, máy phát điện và bảng điều khiển có thể được gia hạn lên 2 năm theo tùy chọn bảo hành mở rộng của chúng tôi."
       },
       {
-        "q": "How long is the lead time?",
-        "a": "Standard power ranges (20–500 kVA) are usually in stock and ship within 7–15 days. Custom configurations, high-voltage parallel systems or special canopies typically take 25–45 days. We keep finished stock of common Weichai, Yuchai and SDEC sets to shorten lead time for urgent projects."
+        "q": "Thời gian giao hàng là bao lâu?",
+        "a": "Các dải công suất tiêu chuẩn (20–500 kVA) thường có sẵn trong kho và giao hàng trong 7–15 ngày. Cấu hình tùy chỉnh, hệ thống song song điện áp cao hoặc mái che đặc biệt thường mất 25–45 ngày."
       },
       {
-        "q": "How do I choose the right generator size for my site?",
-        "a": "Add the running kW of every load the set must carry at the same time, then add 20–30% margin for motor starting current and future expansion. As a rule of thumb, a small office or shop needs 20–50 kVA, a factory floor or a mid-size hotel needs 100–300 kVA, and a data center or hospital moves up to 500 kVA and above. Send us your load list and we will size the set for free."
+        "q": "Làm thế nào để chọn kích thước máy phát điện phù hợp cho địa điểm của tôi?",
+        "a": "Cộng kW hoạt động của mọi tải mà bộ máy phải chịu cùng lúc, sau đó thêm 20–30 % biên độ cho dòng khởi động động cơ và mở rộng trong tương lai. Theo quy tắc thông thường, một văn phòng nhỏ hoặc cửa hàng cần 20–50 kVA, một nhà xưởng hoặc khách sạn cỡ trung bình cần 100–300 kVA, và một trung tâm dữ liệu hoặc bệnh viện cần 500 kVA trở lên."
       },
       {
-        "q": "Silent type or open type – which one should I pick?",
-        "a": "Choose a silent canopy set if the unit sits near people (office floor, hospital, residential area, rooftop) and you need to keep noise around 65–75 dB(A) at 7 meters. Choose an open-type set if the unit goes into a dedicated machine room that already has acoustic treatment, because the canopy adds cost and reduces service access. Containerized and trailer-mounted options are available for outdoor or mobile duty."
+        "q": "Kiểu cách âm hay kiểu mở – tôi nên chọn kiểu nào?",
+        "a": "Chọn bộ máy có mái che cách âm nếu máy đặt gần người (tầng văn phòng, bệnh viện, khu dân cư, mái nhà) và bạn cần giữ ồn khoảng 65–75 dB(A) ở khoảng cách 7 mét. Chọn bộ kiểu mở nếu máy đi vào phòng máy chuyên dụng đã có xử lý âm thanh."
       },
       {
-        "q": "What is the difference between standby power and prime power?",
-        "a": "Standby power is for occasional emergency use during grid outages, typically up to 200 hours a year at 70% average load, with no overload allowed. Prime (continuous) power runs the site as the main power source, 24 hours a day, with 10% overload allowed for one hour in twelve. If you are buying for a site without a stable grid, always specify prime power – buying a standby set for continuous duty shortens its life and voids the warranty."
+        "q": "Sự khác biệt giữa điện dự phòng và điện chính là gì?",
+        "a": "Điện dự phòng dùng cho mục đích khẩn cấp không thường xuyên khi mất lưới điện, thường tối đa 200 giờ mỗi năm ở tải trung bình 70 %, không cho phép quá tải. Điện chính (liên tục) chạy địa điểm như nguồn điện chính, 24 giờ một ngày, cho phép quá tải 10 % trong một giờ trong mười hai giờ."
       },
       {
-        "q": "Do you support custom voltage, frequency and special environments?",
-        "a": "Yes. We build 50 Hz / 60 Hz sets, from 220V single-phase up to 11kV three-phase, and tailor the set for high altitude (derating), cold climates (jacket water heater, arctic coolant), coastal sites (anti-corrosion treatment) and dusty environments (pre-filters). Remote monitoring via 4G and cloud, ATS auto-transfer and multi-machine paralleling are all available."
+        "q": "Bạn có hỗ trợ điện áp, tần số và môi trường đặc biệt tùy chỉnh không?",
+        "a": "Có. Chúng tôi chế tạo bộ máy 50 Hz / 60 Hz, từ 220V pha đơn đến 11kV ba pha, và tùy chỉnh bộ máy cho độ cao (giảm công suất), khí hậu lạnh (bộ làm nóng nước áo, chất làm mát Bắc Cực), địa điểm ven biển (xử lý chống ăn mòn) và môi trường bụi bặm (bộ lọc trước)."
       },
       {
-        "q": "Can you export overseas and handle documentation?",
-        "a": "We have an export department at the Yangzhou Innovation Center and have shipped to Southeast Asia, the Middle East, Africa, South America and Eastern Europe. We provide commercial invoice, packing list, bill of lading, CE/ISO certificates, test report and (on request) a third-party inspection report from SGS, BV or TUV. Export-standard anti-corrosion packaging is used by default."
+        "q": "Bạn có thể xuất khẩu ra nước ngoài và xử lý tài liệu không?",
+        "a": "Chúng tôi có bộ phận xuất khẩu tại Trung tâm Đổi mới Dương Châu và đã giao hàng đến Đông Nam Á, Trung Đông, Châu Phi, Nam Mỹ và Đông Âu. Chúng tôi cung cấp hóa đơn thương mại, danh sách đóng gói, vận đơn, chứng chỉ CE/ISO, báo cáo thử nghiệm và (theo yêu cầu) báo cáo kiểm tra bên thứ ba từ SGS, BV hoặc TUV."
       },
       {
-        "q": "What does the after-sales response look like?",
-        "a": "We maintain more than 2,000 authorized service points across China. On the same day, engineers arrive on site within 2–4 hours in cities, 4–8 hours within the province and within 24 hours in other provinces. Overseas buyers get remote video support, a spare-parts kit and local partner contacts. The hotline runs 24/7/365. After the warranty expires, we keep supplying parts at cost plus labor for the life of the set."
+        "q": "Dịch vụ sau bán hàng như thế nào?",
+        "a": "Chúng tôi duy trì hơn 2.000 điểm dịch vụ được ủy quyền trên toàn Trung Quốc. Trong cùng ngày, kỹ sư đến nơi trong 2–4 giờ ở thành phố, 4–8 giờ trong tỉnh và trong vòng 24 giờ ở các tỉnh khác. Người mua ở nước ngoài nhận được hỗ trợ video từ xa, bộ phụ tùng liên hệ và địa điểm đối tác địa phương."
       },
       {
-        "q": "Is installation and operator training included?",
-        "a": "Standard sets ship with free video guidance. On-site installation, commissioning and hands-on operator training (start/stop, alarm recognition, routine maintenance) are available as a paid service. We test voltage, frequency and load on site and hand over a commissioning report before leaving. Civil works, cabling and exhaust piping are normally handled by your local contractor."
+        "q": "Bao gồm lắp đặt và đào tạo người vận hành chứ?",
+        "a": "Bộ tiêu chuẩn được giao kèm hướng dẫn video miễn phí. Lắp đặt tại chỗ, vận hành thử và đào tạo thực hành người vận hành (khởi động/dừng, nhận biết báo động, bảo dưỡng định kỳ) có sẵn dưới dạng dịch vụ trả phí."
       },
       {
-        "q": "Do you test every set before shipment?",
-        "a": "Yes. Every set runs on our 2 MW digital load bank through a four-step sequence – 20%, 50%, 75% and 100% rated load – for at least 2 hours total. The whole test is recorded on video and shared with you before the set leaves the factory, so you can verify the real output and protection trip settings before you receive the goods."
+        "q": "Bạn có kiểm tra từng bộ trước khi giao hàng không?",
+        "a": "Có. Mỗi bộ chạy trên ngân hàng tải điện tử 2 MW của chúng tôi qua chu trình bốn bước – 20 %, 50 %, 75 % và 100 % tải định mức – tổng cộng ít nhất 2 giờ. Toàn bộ bài kiểm tra được ghi video và chia sẻ với bạn trước khi bộ rời khỏi nhà máy."
       }
     ]
   }

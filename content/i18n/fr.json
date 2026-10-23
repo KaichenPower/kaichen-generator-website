@@ -817,49 +817,49 @@
     "kva": "kVA"
   },
   "faqPage": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Answers to common questions about diesel generator sets.",
-    "askQuestion": "Ask Us a Question",
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Réponses directes sur la garantie, le dimensionnement, les délais, type silencieux vs ouvert, puissance de secours vs principale, support export et après-vente.",
+    "askQuestion": "Posez-nous une question",
     "faqs": [
       {
-        "q": "What warranty do you offer on a new generator set?",
-        "a": "A standard new set carries a 1-year or 1,000-hour warranty (whichever comes first), measured from commissioning or invoice date. The engine, alternator and control panel can be extended to 2 years under our extended-warranty option. Wear items such as oil, filters, belts and batteries are excluded. The exact terms are written into the purchase contract."
+        "q": "Quelle garantie offrez-vous sur un groupe électrogène neuf ?",
+        "a": "Un groupe neuf standard bénéficie d'une garantie de 1 an ou 1 000 heures (selon la première éventualité), mesurée à partir de la mise en service ou de la date de facture. Le moteur, l'alternateur et le panneau de contrôle peuvent être étendus à 2 ans sous notre option de garantie étendue."
       },
       {
-        "q": "How long is the lead time?",
-        "a": "Standard power ranges (20–500 kVA) are usually in stock and ship within 7–15 days. Custom configurations, high-voltage parallel systems or special canopies typically take 25–45 days. We keep finished stock of common Weichai, Yuchai and SDEC sets to shorten lead time for urgent projects."
+        "q": "Quel est le délai de livraison ?",
+        "a": "Les plages de puissance standard (20–500 kVA) sont généralement en stock et expédiées sous 7–15 jours. Les configurations personnalisées, les systèmes parallèles haute tension ou les carports spéciaux prennent généralement 25–45 jours."
       },
       {
-        "q": "How do I choose the right generator size for my site?",
-        "a": "Add the running kW of every load the set must carry at the same time, then add 20–30% margin for motor starting current and future expansion. As a rule of thumb, a small office or shop needs 20–50 kVA, a factory floor or a mid-size hotel needs 100–300 kVA, and a data center or hospital moves up to 500 kVA and above. Send us your load list and we will size the set for free."
+        "q": "Comment choisir la bonne taille de générateur pour mon site ?",
+        "a": "Additionnez les kW en fonctionnement de chaque charge que le groupe doit supporter en même temps, puis ajoutez 20–30 % de marge pour le courant de démarrage du moteur et l'expansion future. En règle générale, un petit bureau ou magasin nécessite 20–50 kVA, un étage d'usine ou un hôtel de taille moyenne nécessite 100–300 kVA, et un centre de données ou un hôpital passe à 500 kVA et plus."
       },
       {
-        "q": "Silent type or open type – which one should I pick?",
-        "a": "Choose a silent canopy set if the unit sits near people (office floor, hospital, residential area, rooftop) and you need to keep noise around 65–75 dB(A) at 7 meters. Choose an open-type set if the unit goes into a dedicated machine room that already has acoustic treatment, because the canopy adds cost and reduces service access. Containerized and trailer-mounted options are available for outdoor or mobile duty."
+        "q": "Type silencieux ou ouvert – lequel dois-je choisir ?",
+        "a": "Choisissez un groupe à capot silencieux si l'unité se trouve près des personnes (bureau, hôpital, zone résidentielle, toit) et que vous devez maintenir le bruit autour de 65–75 dB(A) à 7 mètres. Choisissez un groupe de type ouvert si l'unité va dans une salle des machines dédiée qui dispose déjà d'un traitement acoustique."
       },
       {
-        "q": "What is the difference between standby power and prime power?",
-        "a": "Standby power is for occasional emergency use during grid outages, typically up to 200 hours a year at 70% average load, with no overload allowed. Prime (continuous) power runs the site as the main power source, 24 hours a day, with 10% overload allowed for one hour in twelve. If you are buying for a site without a stable grid, always specify prime power – buying a standby set for continuous duty shortens its life and voids the warranty."
+        "q": "Quelle est la différence entre puissance de secours et puissance principale ?",
+        "a": "L'énergie de secours est destinée à un usage d'urgence occasionnel lors des coupures de réseau, généralement jusqu'à 200 heures par an à 70 % de charge moyenne, sans surcharge autorisée. L'énergie principale (continue) fonctionne comme source d'alimentation principale du site, 24 heures sur 24, avec une surcharge de 10 % autorisée pendant une heure sur douze."
       },
       {
-        "q": "Do you support custom voltage, frequency and special environments?",
-        "a": "Yes. We build 50 Hz / 60 Hz sets, from 220V single-phase up to 11kV three-phase, and tailor the set for high altitude (derating), cold climates (jacket water heater, arctic coolant), coastal sites (anti-corrosion treatment) and dusty environments (pre-filters). Remote monitoring via 4G and cloud, ATS auto-transfer and multi-machine paralleling are all available."
+        "q": "Prendiez-vous en charge la tension, la fréquence et les environnements spéciaux personnalisés ?",
+        "a": "Oui. Nous construisons des groupes 50 Hz / 60 Hz, de 220V monophasé jusqu'à 11kV triphasé, et adaptons le groupe pour haute altitude (déclassement), climats froids (chauffage de chemise d'eau, liquide de refroidissement arctique), sites côtiers (traitement anticorrosion) et environnements poussiéreux (préfiltres)."
       },
       {
-        "q": "Can you export overseas and handle documentation?",
-        "a": "We have an export department at the Yangzhou Innovation Center and have shipped to Southeast Asia, the Middle East, Africa, South America and Eastern Europe. We provide commercial invoice, packing list, bill of lading, CE/ISO certificates, test report and (on request) a third-party inspection report from SGS, BV or TUV. Export-standard anti-corrosion packaging is used by default."
+        "q": "Pouvez-vous exporter à l'étranger et gérer la documentation ?",
+        "a": "Nous avons un département export au Centre d'Innovation de Yangzhou et avons expédié vers l'Asie du Sud-Est, le Moyen-Orient, l'Afrique, l'Amérique du Sud et l'Europe de l'Est. Nous fournissons la facture commerciale, la liste de colisage, le connaissement, les certificats CE/ISO, le rapport d'essai et (sur demande) un rapport d'inspection tiers de SGS, BV ou TUV."
       },
       {
-        "q": "What does the after-sales response look like?",
-        "a": "We maintain more than 2,000 authorized service points across China. On the same day, engineers arrive on site within 2–4 hours in cities, 4–8 hours within the province and within 24 hours in other provinces. Overseas buyers get remote video support, a spare-parts kit and local partner contacts. The hotline runs 24/7/365. After the warranty expires, we keep supplying parts at cost plus labor for the life of the set."
+        "q": "À quoi ressemble la réponse après-vente ?",
+        "a": "Nous maintenons plus de 2 000 points de service agréés dans toute la Chine. Le même jour, les ingénieurs arrivent sur site en 2–4 heures dans les villes, 4–8 heures dans la province et dans les 24 heures dans les autres provinces. Les acheteurs étrangers bénéficient d'une assistance vidéo à distance, d'un kit de pièces de rechange et des contacts des partenaires locaux."
       },
       {
-        "q": "Is installation and operator training included?",
-        "a": "Standard sets ship with free video guidance. On-site installation, commissioning and hands-on operator training (start/stop, alarm recognition, routine maintenance) are available as a paid service. We test voltage, frequency and load on site and hand over a commissioning report before leaving. Civil works, cabling and exhaust piping are normally handled by your local contractor."
+        "q": "L'installation et la formation des opérateurs sont-elles incluses ?",
+        "a": "Les groupes standard sont livrés avec un guide vidéo gratuit. L'installation sur site, la mise en service et la formation pratique des opérateurs (démarrage/arrêt, reconnaissance des alarmes, entretien de routine) sont disponibles en tant que service payant."
       },
       {
-        "q": "Do you test every set before shipment?",
-        "a": "Yes. Every set runs on our 2 MW digital load bank through a four-step sequence – 20%, 50%, 75% and 100% rated load – for at least 2 hours total. The whole test is recorded on video and shared with you before the set leaves the factory, so you can verify the real output and protection trip settings before you receive the goods."
+        "q": "Testez-vous chaque groupe avant expédition ?",
+        "a": "Oui. Chaque groupe fonctionne sur notre banc de charge numérique de 2 MW selon une séquence en quatre étapes – 20 %, 50 %, 75 % et 100 % de charge nominale – pendant au moins 2 heures au total. Tout le test est enregistré en vidéo et partagé avec vous avant que le groupe ne quitte l'usine."
       }
     ]
   }

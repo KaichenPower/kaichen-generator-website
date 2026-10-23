@@ -11,7 +11,7 @@
     "blog": "المدونة",
     "contact": "اتصل بنا",
     "getQuote": "اطلب عرض سعر",
-    "faq": "FAQ"
+    "faq": "الأسئلة الشائعة"
   },
   "common": {
     "requestQuote": "اطلب عرض سعر",
@@ -817,49 +817,49 @@
     "kva": "كيلو فولت أمبير"
   },
   "faqPage": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Answers to common questions about diesel generator sets.",
-    "askQuestion": "Ask Us a Question",
+    "title": "الأسئلة الشائعة",
+    "subtitle": "إجابات مباشرة حول الضمان، تحديد الحجم، مهلة التسليم، النوع الكاتم للصوت مقابل المفتوح، طاقة الاحتياط مقابل الطاقة الرئيسية، دعم التصدير وخدمة ما بعد البيع.",
+    "askQuestion": "اسألنا سؤالاً",
     "faqs": [
       {
-        "q": "What warranty do you offer on a new generator set?",
-        "a": "A standard new set carries a 1-year or 1,000-hour warranty (whichever comes first), measured from commissioning or invoice date. The engine, alternator and control panel can be extended to 2 years under our extended-warranty option. Wear items such as oil, filters, belts and batteries are excluded. The exact terms are written into the purchase contract."
+        "q": "ما هو الضمان الذي تقدمونه على مولد جديد؟",
+        "a": "يأتي المولد القياسي الجديد بضمان لمدة سنة واحدة أو 1000 ساعة عمل (أيهما يأتي أولاً)، مقاساً من تاريخ التشغيل أو تاريخ الفاتورة. يمكن تمديد الضمان على المحرك والمولد ولوحة التحكم إلى سنتين ضمن خيار الضمان الممتد لدينا."
       },
       {
-        "q": "How long is the lead time?",
-        "a": "Standard power ranges (20–500 kVA) are usually in stock and ship within 7–15 days. Custom configurations, high-voltage parallel systems or special canopies typically take 25–45 days. We keep finished stock of common Weichai, Yuchai and SDEC sets to shorten lead time for urgent projects."
+        "q": "ما هي مدة التسليم؟",
+        "a": "عادةً ما تكون نطاقات الطاقة القياسية (20–500 كيلو فولت أمبير) متوفرة في المخزون وتُشحن خلال 7–15 يوماً. عادةً ما تستغرق التكوينات المخصصة أو الأنظمة المتوازية عالية الجهد أو المظلات الخاصة 25–45 يوماً."
       },
       {
-        "q": "How do I choose the right generator size for my site?",
-        "a": "Add the running kW of every load the set must carry at the same time, then add 20–30% margin for motor starting current and future expansion. As a rule of thumb, a small office or shop needs 20–50 kVA, a factory floor or a mid-size hotel needs 100–300 kVA, and a data center or hospital moves up to 500 kVA and above. Send us your load list and we will size the set for free."
+        "q": "كيف أختار حجم المولد المناسب لموقعي؟",
+        "a": "اجمع الكيلوواط التشغيلي لكل حمل يجب أن يحمله المولد في نفس الوقت، ثم أضف 20–30 % هامش لتيار بدء تشغيل المحرك والتوسع المستقبلي. كقاعدة عامة، يحتاج مكتب صغير أو متجر إلى 20–50 كيلو فولت أمبير، وطابق مصنع أو فندق متوسط الحجم يحتاج إلى 100–300 كيلو فولت أمبير، ومركز بيانات أو مستشفى يصل إلى 500 كيلو فولت أمبير وما فوق."
       },
       {
-        "q": "Silent type or open type – which one should I pick?",
-        "a": "Choose a silent canopy set if the unit sits near people (office floor, hospital, residential area, rooftop) and you need to keep noise around 65–75 dB(A) at 7 meters. Choose an open-type set if the unit goes into a dedicated machine room that already has acoustic treatment, because the canopy adds cost and reduces service access. Containerized and trailer-mounted options are available for outdoor or mobile duty."
+        "q": "النوع الكاتم للصوت أم المفتوح – أيهما يجب أن أختار؟",
+        "a": "اختر مجموعة مظلة كاتمة للصوت إذا كانت الوحدة تقع بالقرب من الأشخاص (مكتب، مستشفى، منطقة سكنية، سطح) وتحتاج إلى الحفاظ على الضوضاء حوالي 65–75 ديسيبل (A) على بعد 7 أمتار. اختر مجموعة من النوع المفتوح إذا كانت الوحدة تذهب إلى غرفة آلات مخصصة لديها بالفعل معالجة صوتية."
       },
       {
-        "q": "What is the difference between standby power and prime power?",
-        "a": "Standby power is for occasional emergency use during grid outages, typically up to 200 hours a year at 70% average load, with no overload allowed. Prime (continuous) power runs the site as the main power source, 24 hours a day, with 10% overload allowed for one hour in twelve. If you are buying for a site without a stable grid, always specify prime power – buying a standby set for continuous duty shortens its life and voids the warranty."
+        "q": "ما هو الفرق بين طاقة الاحتياط والطاقة الرئيسية؟",
+        "a": "طاقة الاحتياط مخصصة للاستخدام الطارئ العرضي أثناء انقطاع الشبكة، عادةً حتى 200 ساعة في السنة عند 70 % متوسط الحمل، دون السماح بالحمل الزائد. الطاقة الرئيسية (المستمرة) تشغل الموقع كمصدر الطاقة الرئيسي، 24 ساعة في اليوم، مع السماح بحمل زائد 10 % لمدة ساعة واحدة من كل اثني عشر."
       },
       {
-        "q": "Do you support custom voltage, frequency and special environments?",
-        "a": "Yes. We build 50 Hz / 60 Hz sets, from 220V single-phase up to 11kV three-phase, and tailor the set for high altitude (derating), cold climates (jacket water heater, arctic coolant), coastal sites (anti-corrosion treatment) and dusty environments (pre-filters). Remote monitoring via 4G and cloud, ATS auto-transfer and multi-machine paralleling are all available."
+        "q": "هل تدعمون الجهد والتردد والبيئات الخاصة المخصصة؟",
+        "a": "نعم. نحن نبني مجموعات 50 هرتز / 60 هرتز، من 220 فولت أحادي الطور حتى 11 كيلوفولت ثلاثي الطور، ونصمم المجموعة خصيصاً للمرتفعات العالية (تخفيض القدرة)، والمناخات الباردة (سخان سترة الماء، سائل التبريد القطبي)، والمواقع الساحلية (معالجة مقاومة للتآكل) والبيئات المتربة (مرشحات مسبقة)."
       },
       {
-        "q": "Can you export overseas and handle documentation?",
-        "a": "We have an export department at the Yangzhou Innovation Center and have shipped to Southeast Asia, the Middle East, Africa, South America and Eastern Europe. We provide commercial invoice, packing list, bill of lading, CE/ISO certificates, test report and (on request) a third-party inspection report from SGS, BV or TUV. Export-standard anti-corrosion packaging is used by default."
+        "q": "هل يمكنكم التصدير إلى الخارج والتعامل مع الوثائق؟",
+        "a": "لدينا قسم تصدير في مركز الابتكار بيانغتشو وقمنا بالشحن إلى جنوب شرق آسيا والشرق الأوسط وأفريقيا وأمريكا الجنوبية وأوروبا الشرقية. نحن نقدم الفاتورة التجارية وقائمة التعبئة وبوليصة الشحن وشهادات CE/ISO وتقرير الاختبار و (عند الطلب) تقرير فحص طرف ثالث من SGS أو BV أو TUV."
       },
       {
-        "q": "What does the after-sales response look like?",
-        "a": "We maintain more than 2,000 authorized service points across China. On the same day, engineers arrive on site within 2–4 hours in cities, 4–8 hours within the province and within 24 hours in other provinces. Overseas buyers get remote video support, a spare-parts kit and local partner contacts. The hotline runs 24/7/365. After the warranty expires, we keep supplying parts at cost plus labor for the life of the set."
+        "q": "كيف تبدو استجابة خدمة ما بعد البيع؟",
+        "a": "نحن نحافظ على أكثر من 2000 نقطة خدمة معتمدة في جميع أنحاء الصين. في نفس اليوم، يصل المهندسون إلى الموقع خلال 2–4 ساعات في المدن، و4–8 ساعات داخل المقاطعة، وخلال 24 ساعة في المقاطعات الأخرى. يحصل المشترون الأجانب على دعم فيديو عن بعد، وطقم قطع غيار، وجهات اتصال للشركاء المحليين."
       },
       {
-        "q": "Is installation and operator training included?",
-        "a": "Standard sets ship with free video guidance. On-site installation, commissioning and hands-on operator training (start/stop, alarm recognition, routine maintenance) are available as a paid service. We test voltage, frequency and load on site and hand over a commissioning report before leaving. Civil works, cabling and exhaust piping are normally handled by your local contractor."
+        "q": "هل يتم تضمين التثبيت وتدريب المشغل؟",
+        "a": "يتم شحن المجموعات القياسية مع دليل فيديو مجاني. التثبيت في الموقع والتشغيل التجريبي والتدريب العملي للمشغل (بدء/إيقاف، التعرف على الإنذارات، الصيانة الدورية) متاحة كخدمة مدفوعة."
       },
       {
-        "q": "Do you test every set before shipment?",
-        "a": "Yes. Every set runs on our 2 MW digital load bank through a four-step sequence – 20%, 50%, 75% and 100% rated load – for at least 2 hours total. The whole test is recorded on video and shared with you before the set leaves the factory, so you can verify the real output and protection trip settings before you receive the goods."
+        "q": "هل تختبرون كل مجموعة قبل الشحن؟",
+        "a": "نعم. تعمل كل مجموعة على بنك الحمل الرقمي الخاص بنا بقدرة 2 ميجاوات من خلال تسلسل من أربع خطوات – 20 %، 50 %، 75 % و 100 % من الحمل المقنن – لمدة لا تقل عن ساعتين إجمالاً. يتم تسجيل الاختبار بأكمله على فيديو ومشاركته معك قبل أن تغادر المجموعة المصنع."
       }
     ]
   }

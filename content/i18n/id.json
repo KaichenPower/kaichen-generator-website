@@ -817,49 +817,49 @@
     "kva": "kVA"
   },
   "faqPage": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Answers to common questions about diesel generator sets.",
-    "askQuestion": "Ask Us a Question",
+    "title": "Pertanyaan yang Sering Diajukan",
+    "subtitle": "Jawaban langsung tentang garansi, ukuran, waktu tunggu, tipe sunyi vs terbuka, daya cadangan vs daya utama, dukungan ekspor dan purna jual.",
+    "askQuestion": "Ajukan Pertanyaan kepada Kami",
     "faqs": [
       {
-        "q": "What warranty do you offer on a new generator set?",
-        "a": "A standard new set carries a 1-year or 1,000-hour warranty (whichever comes first), measured from commissioning or invoice date. The engine, alternator and control panel can be extended to 2 years under our extended-warranty option. Wear items such as oil, filters, belts and batteries are excluded. The exact terms are written into the purchase contract."
+        "q": "Garansi apa yang Anda tawarkan pada genset baru?",
+        "a": "Genset standar baru memiliki garansi 1 tahun atau 1.000 jam (mana yang lebih dulu), dihitung sejak commissioning atau tanggal faktur. Mesin, alternator dan panel kontrol dapat diperpanjang hingga 2 tahun di bawah opsi garansi diperpanjang kami."
       },
       {
-        "q": "How long is the lead time?",
-        "a": "Standard power ranges (20–500 kVA) are usually in stock and ship within 7–15 days. Custom configurations, high-voltage parallel systems or special canopies typically take 25–45 days. We keep finished stock of common Weichai, Yuchai and SDEC sets to shorten lead time for urgent projects."
+        "q": "Berapa lama waktu tunggu?",
+        "a": "Rentang daya standar (20–500 kVA) biasanya ada dalam stok dan dikirim dalam 7–15 hari. Konfigurasi kustom, sistem paralel tegangan tinggi atau kanopi khusus biasanya memakan waktu 25–45 hari."
       },
       {
-        "q": "How do I choose the right generator size for my site?",
-        "a": "Add the running kW of every load the set must carry at the same time, then add 20–30% margin for motor starting current and future expansion. As a rule of thumb, a small office or shop needs 20–50 kVA, a factory floor or a mid-size hotel needs 100–300 kVA, and a data center or hospital moves up to 500 kVA and above. Send us your load list and we will size the set for free."
+        "q": "Bagaimana cara memilih ukuran genset yang tepat untuk lokasi saya?",
+        "a": "Jumlahkan kW operasi dari setiap beban yang harus ditahan genset secara bersamaan, kemudian tambahkan 20–30 % margin untuk arus start motor dan ekspansi di masa depan. Sebagai aturan praktis, kantor kecil atau toko membutuhkan 20–50 kVA, lantai pabrik atau hotel menengah membutuhkan 100–300 kVA, dan pusat data atau rumah sakit membutuhkan 500 kVA ke atas."
       },
       {
-        "q": "Silent type or open type – which one should I pick?",
-        "a": "Choose a silent canopy set if the unit sits near people (office floor, hospital, residential area, rooftop) and you need to keep noise around 65–75 dB(A) at 7 meters. Choose an open-type set if the unit goes into a dedicated machine room that already has acoustic treatment, because the canopy adds cost and reduces service access. Containerized and trailer-mounted options are available for outdoor or mobile duty."
+        "q": "Tipe sunyi atau tipe terbuka – mana yang harus saya pilih?",
+        "a": "Pilih genset kanopi sunyi jika unit berada dekat dengan orang (lantai kantor, rumah sakit, area perumahan, atap) dan Anda perlu menjaga kebisingan sekitar 65–75 dB(A) pada jarak 7 meter. Pilih genset tipe terbuka jika unit masuk ke ruang mesin khusus yang sudah memiliki perlakuan akustik."
       },
       {
-        "q": "What is the difference between standby power and prime power?",
-        "a": "Standby power is for occasional emergency use during grid outages, typically up to 200 hours a year at 70% average load, with no overload allowed. Prime (continuous) power runs the site as the main power source, 24 hours a day, with 10% overload allowed for one hour in twelve. If you are buying for a site without a stable grid, always specify prime power – buying a standby set for continuous duty shortens its life and voids the warranty."
+        "q": "Apa perbedaan antara daya cadangan dan daya utama?",
+        "a": "Daya cadangan untuk penggunaan darurat sesekali saat pemadaman jaringan, biasanya hingga 200 jam per tahun pada beban rata-rata 70 %, tanpa overload yang diizinkan. Daya utama (berkelanjutan) menjalankan lokasi sebagai sumber daya utama, 24 jam sehari, dengan 10 % overload diizinkan selama satu jam dalam dua belas jam."
       },
       {
-        "q": "Do you support custom voltage, frequency and special environments?",
-        "a": "Yes. We build 50 Hz / 60 Hz sets, from 220V single-phase up to 11kV three-phase, and tailor the set for high altitude (derating), cold climates (jacket water heater, arctic coolant), coastal sites (anti-corrosion treatment) and dusty environments (pre-filters). Remote monitoring via 4G and cloud, ATS auto-transfer and multi-machine paralleling are all available."
+        "q": "Apakah Anda mendukung tegangan, frekuensi, dan lingkungan khusus kustom?",
+        "a": "Ya. Kami membuat genset 50 Hz / 60 Hz, dari 220V satu fasa hingga 11kV tiga fasa, dan menyesuaikan genset untuk dataran tinggi (penurunan daya), iklim dingin (pemanas jaket air, cairan pendingin Arktik), lokasi pesisir (perlakuan anti-korosi) dan lingkungan berdebu (filter awal)."
       },
       {
-        "q": "Can you export overseas and handle documentation?",
-        "a": "We have an export department at the Yangzhou Innovation Center and have shipped to Southeast Asia, the Middle East, Africa, South America and Eastern Europe. We provide commercial invoice, packing list, bill of lading, CE/ISO certificates, test report and (on request) a third-party inspection report from SGS, BV or TUV. Export-standard anti-corrosion packaging is used by default."
+        "q": "Bisakah Anda mengekspor ke luar negeri dan menangani dokumentasi?",
+        "a": "Kami memiliki departemen ekspor di Pusat Inovasi Yangzhou dan telah mengirim ke Asia Tenggara, Timur Tengah, Afrika, Amerika Selatan dan Eropa Timur. Kami menyediakan faktur komersial, daftar pengepakan, bill of lading, sertifikat CE/ISO, laporan uji dan (atas permintaan) laporan inspeksi pihak ketiga dari SGS, BV atau TUV."
       },
       {
-        "q": "What does the after-sales response look like?",
-        "a": "We maintain more than 2,000 authorized service points across China. On the same day, engineers arrive on site within 2–4 hours in cities, 4–8 hours within the province and within 24 hours in other provinces. Overseas buyers get remote video support, a spare-parts kit and local partner contacts. The hotline runs 24/7/365. After the warranty expires, we keep supplying parts at cost plus labor for the life of the set."
+        "q": "Bagaimana tanggapan layanan purna jual?",
+        "a": "Kami memelihara lebih dari 2.000 titik layanan resmi di seluruh Tiongkok. Pada hari yang sama, insinyur tiba di lokasi dalam 2–4 jam di kota-kota, 4–8 jam dalam provinsi dan dalam 24 jam di provinsi lain. Pembeli luar negeri mendapatkan dukungan video jarak jauh, kit suku cadang dan kontak mitra lokal."
       },
       {
-        "q": "Is installation and operator training included?",
-        "a": "Standard sets ship with free video guidance. On-site installation, commissioning and hands-on operator training (start/stop, alarm recognition, routine maintenance) are available as a paid service. We test voltage, frequency and load on site and hand over a commissioning report before leaving. Civil works, cabling and exhaust piping are normally handled by your local contractor."
+        "q": "Apakah instalasi dan pelatihan operator sudah termasuk?",
+        "a": "Genset standar dikirim dengan panduan video gratis. Instalasi di lokasi, commissioning dan pelatihan operator praktis (start/stop, pengenalan alarm, perawatan rutin) tersedia sebagai layanan berbayar."
       },
       {
-        "q": "Do you test every set before shipment?",
-        "a": "Yes. Every set runs on our 2 MW digital load bank through a four-step sequence – 20%, 50%, 75% and 100% rated load – for at least 2 hours total. The whole test is recorded on video and shared with you before the set leaves the factory, so you can verify the real output and protection trip settings before you receive the goods."
+        "q": "Apakah Anda menguji setiap genset sebelum pengiriman?",
+        "a": "Ya. Setiap genset berjalan di bank beban digital 2 MW kami melalui urutan empat langkah – 20 %, 50 %, 75 % dan 100 % beban terukur – selama minimal 2 jam total. Seluruh tes direkam dalam video dan dibagikan kepada Anda sebelum genset meninggalkan pabrik."
       }
     ]
   }
