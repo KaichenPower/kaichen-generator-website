@@ -1,7 +1,6 @@
 {
   "publishedProducts": [
     { "slug": "cummins-100-silent", "image": "cummins-100kw-silent.jpg", "sourceNode": "MboqwAHUJijitLkUFuZcM2Lz6jb" },
-    { "slug": "doosan-500-silent", "image": "doosan-500kw-silent.jpg", "sourceNode": "DeAJw90FNiplgPkVyw1cCFac6le" },
     { "slug": "mitsubishi-100-open", "image": "mitsubishi-100kw-open.jpg", "sourceNode": "QxoNw21cRiRevPkp9bIcUq456Tc" },
     { "slug": "perkins-400-silent", "image": "perkins-400kw-silent.jpg", "sourceNode": "APbmwB9YNirqbIkmdalcBsMb6wb" },
     { "slug": "scania-250-open", "image": "scania-250kw-open.png", "sourceNode": "YD2ew7IvLi6ew5kwUeOcPjIU6bf" },

@@ -21,12 +21,12 @@ engineBrands:
   - Cummins
   - Perkins
   - Volvo
-  - Doosan
   - Weichai
   - Yuchai
   - SDEC
   - Mitsubishi
   - Scania
+  - Shangchai
 unitTypes:
   - Open Type
   - Silent Type
