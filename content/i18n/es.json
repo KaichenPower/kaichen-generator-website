@@ -10,7 +10,8 @@
     "solutions": "Soluciones sectoriales",
     "blog": "Blog",
     "contact": "Contacto",
-    "getQuote": "Solicitar presupuesto"
+    "getQuote": "Solicitar presupuesto",
+    "faq": "Preguntas frecuentes"
   },
   "common": {
     "requestQuote": "Solicitar cotización",
@@ -814,5 +815,52 @@
   "powerUnits": {
     "kw": "kW",
     "kva": "kVA"
+  },
+  "faqPage": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas directas sobre garantía, dimensionamiento, plazo de entrega, tipo silencioso vs abierto, potencia de reserva vs principal, soporte de exportación y posventa.",
+    "askQuestion": "Háganos una pregunta",
+    "faqs": [
+      {
+        "q": "¿Qué garantía ofrecen en un grupo electrógeno nuevo?",
+        "a": "Un grupo nuevo estándar lleva una garantía de 1 año o 1.000 horas (lo que ocurra primero), medida desde la puesta en servicio o la fecha de factura. El motor, el alternador y el panel de control pueden extenderse a 2 años bajo nuestra opción de garantía ampliada."
+      },
+      {
+        "q": "¿Cuál es el plazo de entrega?",
+        "a": "Los rangos de potencia estándar (20–500 kVA) suelen estar en stock y se envían en 7–15 días. Las configuraciones personalizadas, los sistemas paralelos de alto voltaje o las carpas especiales suelen tardar 25–45 días."
+      },
+      {
+        "q": "¿Cómo elijo el tamaño adecuado de generador para mi sitio?",
+        "a": "Sume los kW en funcionamiento de cada carga que el grupo debe soportar al mismo tiempo, luego agregue un margen del 20–30% para la corriente de arranque del motor y la expansión futura. Como regla general, una oficina pequeña o tienda necesita 20–50 kVA, un piso de fábrica o un hotel mediano necesita 100–300 kVA, y un centro de datos u hospital pasa a 500 kVA y más."
+      },
+      {
+        "q": "¿Tipo silencioso o abierto, cuál debo elegir?",
+        "a": "Elija un conjunto de carpa silenciosa si la unidad se encuentra cerca de personas (oficina, hospital, zona residencial, azotea) y necesita mantener el ruido alrededor de 65–75 dB(A) a 7 metros. Elija un conjunto de tipo abierto si la unidad va a una sala de máquinas dedicada que ya tiene tratamiento acústico."
+      },
+      {
+        "q": "¿Cuál es la diferencia entre potencia de reserva y potencia principal?",
+        "a": "La energía de reserva es para uso de emergencia ocasional durante cortes de red, típicamente hasta 200 horas al año al 70% de carga promedio, sin sobrecarga permitida. La energía principal (continua) funciona como fuente de alimentación principal del sitio, 24 horas al día, con un 10% de sobrecarga permitida durante una hora de cada doce."
+      },
+      {
+        "q": "¿Admiten voltaje, frecuencia y entornos especiales personalizados?",
+        "a": "Sí. Construimos conjuntos de 50 Hz / 60 Hz, desde 220V monofásico hasta 11kV trifásico, y adaptamos el conjunto para gran altitud (reducción de potencia), climas fríos (calentador de agua de camisa, refrigerante ártico), sitios costeros (tratamiento anticorrosión) y entornos polvorientos (prefiltros)."
+      },
+      {
+        "q": "¿Pueden exportar al extranjero y manejar la documentación?",
+        "a": "Tenemos un departamento de exportación en el Centro de Innovación de Yangzhou y hemos enviado a Sudeste Asiático, Medio Oriente, África, Sudamérica y Europa del Este. Proporcionamos factura comercial, lista de empaque, conocimiento de embarque, certificados CE/ISO, informe de prueba y (a pedido) un informe de inspección de terceros de SGS, BV o TUV."
+      },
+      {
+        "q": "¿Cómo es la respuesta posventa?",
+        "a": "Mantenemos más de 2.000 puntos de servicio autorizados en toda China. El mismo día, los ingenieros llegan al sitio en 2–4 horas en ciudades, 4–8 horas dentro de la provincia y dentro de las 24 horas en otras provincias. Los compradores extranjeros reciben soporte de video remoto, un kit de repuestos y contactos de socios locales."
+      },
+      {
+        "q": "¿Están incluidos la instalación y la capacitación del operador?",
+        "a": "Los conjuntos estándar se envían con guía de video gratuita. La instalación en el sitio, la puesta en servicio y la capacitación práctica del operador (arranque/parada, reconocimiento de alarmas, mantenimiento de rutina) están disponibles como servicio de pago."
+      },
+      {
+        "q": "¿Prueban cada conjunto antes del envío?",
+        "a": "Sí. Cada conjunto funciona en nuestro banco de carga digital de 2 MW a través de una secuencia de cuatro pasos — 20%, 50%, 75% y 100% de carga nominal — durante al menos 2 horas en total. Toda la prueba se graba en video y se comparte con usted antes de que el conjunto salga de la fábrica."
+      }
+    ]
   }
 }

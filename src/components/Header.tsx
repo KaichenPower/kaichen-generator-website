@@ -10,6 +10,7 @@ const navItems = [
   { key: 'products', href: '/products' },
   { key: 'solutions', href: '/solutions' },
   { key: 'blog', href: '/blog' },
+  { key: 'faq', href: '/faq' },
   { key: 'contact', href: '/contact' },
 ] as const;
 
