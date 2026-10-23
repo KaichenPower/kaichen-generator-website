@@ -82,8 +82,9 @@ export function getPostBySlug(slug: string, locale: string = 'en'): BlogPost | n
  * Markdown 渲染器：把博客正文转为 HTML。
  * 支持 ## / ### 标题、- 无序列表、1. 有序列表、加粗 **text**、行内代码、
  * 图片 ![alt](src)、表格（| a | b | + 分隔行）、链接 [text](url) 与段落。
+ * 内部链接自动加上 locale 前缀。
  */
-export function renderMarkdownToHtml(md: string): string {
+export function renderMarkdownToHtml(md: string, locale: string = 'en'): string {
   const lines = md.split('\n');
   const html: string[] = [];
   let inUl = false;
@@ -98,8 +99,16 @@ export function renderMarkdownToHtml(md: string): string {
     let out = s;
     // images inline: ![alt](src)
     out = out.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" loading="lazy" class="post-inline-img" />');
-    // links: [text](url)
-    out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+    // links: [text](url) - 内部链接自动加 locale 前缀
+    out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, text, url) => {
+      // 外部链接（http/https）保持原样，加 target="_blank"
+      if (url.startsWith('http://') || url.startsWith('https://') || url.startsWith('#')) {
+        return `<a href="${url}" target="_blank" rel="noopener">${text}</a>`;
+      }
+      // 内部链接加上 locale 前缀
+      const normalizedUrl = url.startsWith('/') ? url : `/${url}`;
+      return `<a href="/${locale}${normalizedUrl}">${text}</a>`;
+    });
     out = out.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     out = out.replace(/`(.+?)`/g, '<code>$1</code>');
     return out;

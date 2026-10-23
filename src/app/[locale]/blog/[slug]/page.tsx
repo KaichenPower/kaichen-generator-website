@@ -33,7 +33,7 @@ export default async function BlogPostPage({ params }: Props) {
   const post = getPostBySlug(slug, locale);
   if (!post) notFound();
 
-  const bodyHtml = renderMarkdownToHtml(post.content);
+  const bodyHtml = renderMarkdownToHtml(post.content, locale);
 
   // 估算阅读时长：约 200 词/分钟
   const wordCount = post.content.trim().split(/\s+/).length;
