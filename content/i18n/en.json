@@ -126,7 +126,9 @@
       "Sheet Metal & Fabrication"
     ],
     "workshopTitle": "Manufacturing in Action",
-    "workshopText": "From sheet-metal fabrication to final assembly and load testing, every Kaichen generator set is built and verified in our own Yangzhou workshop."
+    "workshopText": "From sheet-metal fabrication to final assembly and load testing, every Kaichen generator set is built and verified in our own Yangzhou workshop.",
+    "workshopCta": "Visit Our Factory",
+    "aboutPreviewCta": "Learn About Kaichen Power"
   },
   "aboutPage": {
     "title": "About Kaichen Power",

@@ -79,7 +79,7 @@ export default async function HomePage({ params }: Props) {
           <p>{t('workshopText')}</p>
           <div className="hero-actions">
             <Link href="/about" className="btn-link btn-link--light">
-              {common('learnMore')}
+              {t('workshopCta')}
             </Link>
             <Link href="/products" className="btn btn-accent">
               {t('viewAllProducts')}
@@ -175,7 +175,7 @@ export default async function HomePage({ params }: Props) {
           </div>
           <div style={{ textAlign: 'center' }}>
             <Link href="/about" className="btn btn-accent">
-              {common('learnMore')}
+              {t('aboutPreviewCta')}
             </Link>
           </div>
         </div>
