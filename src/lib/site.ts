@@ -42,7 +42,9 @@ export const companyStats = [
 export function getAlternates(path: string = '') {
   const alternates: Record<string, string> = {};
   locales.forEach((l) => {
-    alternates[l] = `${siteConfig.domain}/${l}${path}/`;
+    // 避免双斜杠：path 为空时加一个斜杠，path 以斜杠开头时直接拼接
+    const normalizedPath = path === '/' ? '' : path;
+    alternates[l] = `${siteConfig.domain}/${l}${normalizedPath}/`;
   });
   return alternates;
 }
