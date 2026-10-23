@@ -42,7 +42,7 @@ export const companyStats = [
 export function getAlternates(path: string = '') {
   const alternates: Record<string, string> = {};
   locales.forEach((l) => {
-    alternates[l] = `${siteConfig.domain}/${l}${path}`;
+    alternates[l] = `${siteConfig.domain}/${l}${path}/`;
   });
   return alternates;
 }
