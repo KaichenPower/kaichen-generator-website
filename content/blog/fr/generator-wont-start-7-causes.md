@@ -5,6 +5,10 @@ excerpt: "A diesel generator that refuses to start is one of the most frustratin
 image: "/images/blog/generator-wont-start.jpg"
 ---
 
+![A diesel generator set in our Yangzhou factory test cell](/images/blog/generator-wont-start.jpg)
+
+
+
 # Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes
 
 A diesel generator that won't start is every site manager's worst nightmare. Whether it's a hospital, a data center, or a remote construction site, a standby generator that fails to start when the grid goes down can mean lost production, spoiled inventory, or even life-safety issues.

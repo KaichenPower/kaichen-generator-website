@@ -5,6 +5,10 @@ excerpt: "Un generador diésel que se niega a arrancar es uno de los problemas m
 image: "/images/blog/generator-wont-start.jpg"
 ---
 
+![A diesel generator set in our Yangzhou factory test cell](/images/blog/generator-wont-start.jpg)
+
+
+
 # Por qué su generador diésel no arranca: 7 causas comunes y soluciones
 
 Un generador diésel que no arranca es la peor pesadilla de todo gestor de instalaciones. Ya sea un hospital, un centro de datos o una obra remota, un generador de reserva que no arranca cuando se corta la red puede significar pérdida de producción, mercancía estropeada o incluso problemas de seguridad vital.
