@@ -43,12 +43,13 @@
 
 ### 2.1 选题方向与内容来源
 **内容必须紧紧围绕飞书知识库创作，禁止脱离知识库凭空编造。**
+- **选题流程**：先读取 `SEO-KEYWORDS.md` 关键词库，选一个还没写过的关键词
 - 主题来源：从知识库问答库 / 售后问题 / 客户案例中选主题
 - 必须提到凯晨电力的优势、经验、技术能力等有利于用户选择的内容
 - 可以提：Yangzhou factory、2 MW load bank test、10+ years experience、24/7 technical support、1-year warranty、OEM/ODM partner 等
 - 禁止：编造没有依据的数据、案例、客户名
 
-可选主题方向：
+可选主题方向（从关键词库选）：
 - 选型类："How to choose a xxx kW generator"
 - 故障类："Why your generator won't start / overheats / uses too much fuel"
 - 对比类："Standby vs Prime power"、"Silent vs Open type"
