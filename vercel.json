@@ -42,12 +42,12 @@
       "permanent": true
     },
     {
-      "source": "/:locale(ar|de|es|fr|id|pt|ru|th|tr|vi)",
+      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)",
       "destination": "/:locale/",
       "permanent": true
     },
     {
-      "source": "/:locale(ar|de|es|fr|id|pt|ru|th|tr|vi)/:path",
+      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path",
       "destination": "/:locale/:path/",
       "permanent": true
     }
