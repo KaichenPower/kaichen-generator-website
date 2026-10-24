@@ -40,6 +40,16 @@
       "source": "/privacy",
       "destination": "/en/privacy/",
       "permanent": true
+    },
+    {
+      "source": "/:locale(ar|de|es|fr|id|pt|ru|th|tr|vi)",
+      "destination": "/:locale/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(ar|de|es|fr|id|pt|ru|th|tr|vi)/:path",
+      "destination": "/:locale/:path/",
+      "permanent": true
     }
   ]
 }
