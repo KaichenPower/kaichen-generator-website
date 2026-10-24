@@ -39,8 +39,14 @@
 
 ## 二、博客发布规范（Blog Day）
 
-### 2.1 选题方向
-从知识库问答库 / 售后问题 / 客户痛点中选主题：
+### 2.1 选题方向与内容来源
+**内容必须紧紧围绕飞书知识库创作，禁止脱离知识库凭空编造。**
+- 主题来源：从知识库问答库 / 售后问题 / 客户案例中选主题
+- 必须提到凯晨电力的优势、经验、技术能力等有利于用户选择的内容
+- 可以提：Yangzhou factory、2 MW load bank test、10+ years experience、24/7 technical support、1-year warranty、OEM/ODM partner 等
+- 禁止：编造没有依据的数据、案例、客户名
+
+可选主题方向：
 - 选型类："How to choose a xxx kW generator"
 - 故障类："Why your generator won't start / overheats / uses too much fuel"
 - 对比类："Standby vs Prime power"、"Silent vs Open type"
@@ -69,10 +75,16 @@
 
 ## 三、产品发布规范（Product Day）
 
-### 3.1 产品来源
-- 从 `D:/projects/知识库/产品参数库/` 读取真实产品参数
-- 产品图片从产品图片库选择，不要重复
-- 东康/重康统一归为 Cummins
+### 3.1 产品来源与内容原则
+**内容必须紧紧围绕产品图片与产品中心、产品参数知识库，禁止乱编乱造。**
+- 产品参数：从 `D:/projects/知识库/产品参数库/` 读取真实参数，一个数字都不能编
+- 产品图片：从产品图片库选择，必须与产品名称匹配（silent 配 silent 图，open 配 open 图）
+- 东康/重康统一归为 Cummins 品牌
+- 产品描述只需要把参数描述清楚，加上以下内容：
+  - **负载测试**：出厂前 2 MW digital load bank test、0–110% load test
+  - **交付**：warranty 1 year / 1000 hours、OEM/ODM、packaging、delivery time
+  - **行业解决方案**：适用行业（医院、工厂、数据中心、矿山、农业等）
+- 禁止：编造没有依据的参数、功率、尺寸、重量
 
 ### 3.2 YAML 规范
 - 文件位置：`content/products/xxx.yaml`
@@ -82,8 +94,10 @@
 ### 3.3 产品描述要求
 - 从用户选型痛点切入，不是罗列参数
 - 说明适用场景（医院、工厂、数据中心、矿山等）
-- 包含具体技术参数（功率、电压、频率、噪音、尺寸、重量）
-- 包含工厂背书和质保信息
+- 包含具体技术参数（功率、电压、频率、噪音、尺寸、重量）——**必须与知识库一致，不能编**
+- 包含负载测试信息：出厂前 2 MW load bank test
+- 包含交付信息：warranty 1 year / 1000 hours、OEM/ODM
+- 包含行业解决方案：该功率段适合哪些行业、典型应用
 
 ---
 
