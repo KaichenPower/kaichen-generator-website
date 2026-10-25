@@ -703,24 +703,24 @@
     },
     "weichai-500-silent": {
       "name": "Weichai 500kW schallisolierter Dieselgenerator",
-      "description": "Leistungsstarker Weichai 500kW (625kVA) Dieselgenerator im Schallschutzgehäuse für große Fabriken, Rechenzentren, Krankenhäuser und Gewerbebauten.",
+      "description": "Leistungsstarker Weichai 500kW (625kVA) Dieselgenerator im Schallschutzgehäuse für große Fabriken, Rechenzentren, Krankenhäuser und Geschäftsgebäude, die zuverlässige Not- oder Dauerstromversorgung mit geringem Geräuschpegel und einfacher Wartung benötigen.",
       "features": [
-        "Weichai WP13 series 6-cylinder turbocharged engine",
-        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
-        "Deep Sea digital control panel with remote monitoring option",
-        "Integrated baseframe fuel tank for 6+ hours continuous running",
-        "Automatic mains failure (AMF) start within 10 seconds",
-        "Parallel operation capability for N+1 redundancy"
+        "Weichai WP13 Reihe 6-Zylinder Turbomotor",
+        "Verstärktes Schallschutzgehäuse reduziert Geräusch auf 72-78 dB(A) in 7 Metern Entfernung",
+        "Deep Sea digitales Bedienpanel mit Option zur Fernüberwachung",
+        "Integrierter Kraftstofftank auf Grundrahmen für 6+ Stunden Dauerbetrieb",
+        "Automatischer Netzausfallstart (AMF) innerhalb von 10 Sekunden",
+        "Parallelbetriebsfähigkeit für N+1 Redundanz"
       ],
       "applications": [
-        "Large factories & manufacturing plants",
-        "Data centers & critical infrastructure",
-        "Hospitals & healthcare facilities"
+        "Große Fabriken und Produktionsstätten",
+        "Rechenzentren und kritische Infrastruktur",
+        "Krankenhäuser und Gesundheitseinrichtungen"
       ],
       "problems": [
-        "Reliable standby power for large critical loads",
-        "Low noise operation in urban and suburban areas",
-        "Scalable N+1 redundancy for mission-critical facilities"
+        "Zuverlässige Notstromversorgung für große kritische Lasten",
+        "Geräuscharmer Betrieb in städtischen und vorstädtischen Gebieten",
+        "Skalierbare N+1 Redundanz für unternehmenskritische Einrichtungen"
       ]
     }
   },

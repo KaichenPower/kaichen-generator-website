@@ -703,24 +703,24 @@
     },
     "weichai-500-silent": {
       "name": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai 500 กิโลวัตต์ แบบเงียบ",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai ขนาดใหญ่ 500 กิโลวัตต์ (625 กิโลโวลต์แอมแปร์) ในตู้กันเสียง สำหรับโรงงานขนาดใหญ่ ศูนย์ข้อมูล โรงพยาบาล และอาคารพาณิชย์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai ขนาดใหญ่ 500 กิโลวัตต์ (625 กิโลโวลต์แอมแปร์) ในตู้กันเสียง สำหรับโรงงานขนาดใหญ่ ศูนย์ข้อมูล โรงพยาบาล และอาคารพาณิชย์ที่ต้องการพลังงานสำรองหรือพลังงานหลักที่เชื่อถือได้ พร้อมเสียงรบกวนต่ำและบำรุงรักษาง่าย",
       "features": [
-        "Weichai WP13 series 6-cylinder turbocharged engine",
-        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
-        "Deep Sea digital control panel with remote monitoring option",
-        "Integrated baseframe fuel tank for 6+ hours continuous running",
-        "Automatic mains failure (AMF) start within 10 seconds",
-        "Parallel operation capability for N+1 redundancy"
+        "เครื่องยนต์ Weichai ซีรีส์ WP13 แบบ 6 สูบเทอร์โบชาร์จ",
+        "ตู้กันเสียงหนักลดเสียงรบกวนเหลือ 72-78 เดซิเบล(A) ที่ระยะ 7 เมตร",
+        "แผงควบคุมดิจิทัล Deep Sea พร้อมตัวเลือกตรวจสอบระยะไกล",
+        "ถังน้ำมันในตัวบนฐานรองรับสำหรับการทำงานต่อเนื่อง 6+ ชั่วโมง",
+        "สตาร์ทอัตโนมัติเมื่อไฟฟ้าดับ (AMF) ภายใน 10 วินาที",
+        "ความสามารถในการทำงานแบบขนานสำหรับความซ้ำซ้อน N+1"
       ],
       "applications": [
-        "Large factories & manufacturing plants",
-        "Data centers & critical infrastructure",
-        "Hospitals & healthcare facilities"
+        "โรงงานขนาดใหญ่และโรงงานผลิต",
+        "ศูนย์ข้อมูลและโครงสร้างพื้นฐานที่สำคัญ",
+        "โรงพยาบาลและสถานพยาบาล"
       ],
       "problems": [
-        "Reliable standby power for large critical loads",
-        "Low noise operation in urban and suburban areas",
-        "Scalable N+1 redundancy for mission-critical facilities"
+        "พลังงานสำรองที่เชื่อถือได้สำหรับโหลดสำคัญขนาดใหญ่",
+        "การทำงานเสียงรบกวนต่ำในเขตเมืองและชานเมือง",
+        "ความซ้ำซ้อน N+1 ที่ปรับขนาดได้สำหรับสิ่งอำนวยความสะดวกที่สำคัญ"
       ]
     }
   },

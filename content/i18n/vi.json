@@ -703,24 +703,24 @@
     },
     "weichai-500-silent": {
       "name": "Máy phát điện diesel Weichai 500kW siêu êm",
-      "description": "Máy phát điện diesel Weichai công suất lớn 500kW (625kVA) trong buồng cách âm cho nhà máy lớn, trung tâm dữ liệu, bệnh viện và tòa nhà thương mại.",
+      "description": "Máy phát điện diesel Weichai công suất lớn 500kW (625kVA) trong buồng cách âm cho nhà máy lớn, trung tâm dữ liệu, bệnh viện và tòa nhà thương mại cần nguồn điện dự phòng hoặc chính đáng tin cậy với độ ồn thấp và dễ bảo trì.",
       "features": [
-        "Weichai WP13 series 6-cylinder turbocharged engine",
-        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
-        "Deep Sea digital control panel with remote monitoring option",
-        "Integrated baseframe fuel tank for 6+ hours continuous running",
-        "Automatic mains failure (AMF) start within 10 seconds",
-        "Parallel operation capability for N+1 redundancy"
+        "Động cơ Weichai dòng WP13 6 xi-lanh tăng áp",
+        "Buồng cách âm hạng nặng giảm ồn xuống 72-78 dB(A) ở khoảng cách 7 mét",
+        "Bảng điều khiển kỹ thuật số Deep Sea với tùy chọn giám sát từ xa",
+        "Bể nhiên liệu tích hợp trên khung đế cho 6+ giờ chạy liên tục",
+        "Khởi động tự động khi mất lưới (AMF) trong 10 giây",
+        "Khả năng chạy song song cho dự phòng N+1"
       ],
       "applications": [
-        "Large factories & manufacturing plants",
-        "Data centers & critical infrastructure",
-        "Hospitals & healthcare facilities"
+        "Nhà máy lớn và cơ sở sản xuất",
+        "Trung tâm dữ liệu và cơ sở hạ tầng quan trọng",
+        "Bệnh viện và cơ sở y tế"
       ],
       "problems": [
-        "Reliable standby power for large critical loads",
-        "Low noise operation in urban and suburban areas",
-        "Scalable N+1 redundancy for mission-critical facilities"
+        "Nguồn điện dự phòng đáng tin cậy cho tải trọng lớn quan trọng",
+        "Hoạt động ồn thấp ở khu vực đô thị và ngoại ô",
+        "Dự phòng N+1 có thể mở rộng cho các cơ sở quan trọng"
       ]
     }
   },

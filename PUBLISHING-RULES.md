@@ -97,6 +97,8 @@
 - 文件位置：`content/products/xxx.yaml`
 - 必须包含：slug、title、brand、power_kva、power_kw、engine_model、alternator_model、dimensions、weight、description、specs
 - 所有规格标签和值必须翻译到 11 个语种（i18n 文件）
+- ✅ **必须**：i18n 文件里每个产品的 name、description、features、applications、problems 都必须翻译到所有 11 个语种，不能只翻译英语，其他 10 个语言留英文
+- ✅ **必须**：build 完成后，必须抽查至少 2 个非英语语种的产品列表页和产品详情页，确认所有文本都已翻译
 
 ### 3.3 产品描述要求
 - 从用户选型痛点切入，不是罗列参数

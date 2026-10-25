@@ -703,24 +703,24 @@
     },
     "weichai-500-silent": {
       "name": "Groupe électrogène diesel Weichai 500kW silencieux",
-      "description": "Groupe électrogène diesel Weichai 500kW (625kVA) insonorisé pour grandes usines, centres de données, hôpitaux et bâtiments commerciaux.",
+      "description": "Groupe électrogène diesel Weichai 500kW (625kVA) insonorisé pour grandes usines, centres de données, hôpitaux et bâtiments commerciaux nécessitant une alimentation de secours ou principale fiable avec faible bruit et entretien facile.",
       "features": [
-        "Weichai WP13 series 6-cylinder turbocharged engine",
-        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
-        "Deep Sea digital control panel with remote monitoring option",
-        "Integrated baseframe fuel tank for 6+ hours continuous running",
-        "Automatic mains failure (AMF) start within 10 seconds",
-        "Parallel operation capability for N+1 redundancy"
+        "Moteur Weichah série WP13 6 cylindres turbocompressé",
+        "Cabine acoustique renforcée réduisant le bruit à 72-78 dB(A) à 7 mètres",
+        "Panneau de contrôle numérique Deep Sea avec option de surveillance à distance",
+        "Réservoir de carburant intégré sur le châssis pour plus de 6 heures de fonctionnement continu",
+        "Démarrage automatique sur coupure secteur (AMF) en 10 secondes",
+        "Capacité de fonctionnement en parallèle pour redondance N+1"
       ],
       "applications": [
-        "Large factories & manufacturing plants",
-        "Data centers & critical infrastructure",
-        "Hospitals & healthcare facilities"
+        "Grandes usines et sites de production",
+        "Centres de données et infrastructures critiques",
+        "Hôpitaux et établissements de santé"
       ],
       "problems": [
-        "Reliable standby power for large critical loads",
-        "Low noise operation in urban and suburban areas",
-        "Scalable N+1 redundancy for mission-critical facilities"
+        "Alimentation de secours fiable pour grandes charges critiques",
+        "Fonctionnement à faible bruit en zone urbaine et suburbaine",
+        "Redondance N+1 évolutive pour installations critiques"
       ]
     }
   },
