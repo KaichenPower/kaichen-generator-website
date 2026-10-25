@@ -700,6 +700,28 @@
         "Leiser Betrieb in städtischen und vorstädtischen Gebieten",
         "Stabile Leistung bei langen Stromausfällen"
       ]
+    },
+    "weichai-500-silent": {
+      "name": "Weichai 500kW schallisolierter Dieselgenerator",
+      "description": "Leistungsstarker Weichai 500kW (625kVA) Dieselgenerator im Schallschutzgehäuse für große Fabriken, Rechenzentren, Krankenhäuser und Gewerbebauten.",
+      "features": [
+        "Weichai WP13 series 6-cylinder turbocharged engine",
+        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
+        "Deep Sea digital control panel with remote monitoring option",
+        "Integrated baseframe fuel tank for 6+ hours continuous running",
+        "Automatic mains failure (AMF) start within 10 seconds",
+        "Parallel operation capability for N+1 redundancy"
+      ],
+      "applications": [
+        "Large factories & manufacturing plants",
+        "Data centers & critical infrastructure",
+        "Hospitals & healthcare facilities"
+      ],
+      "problems": [
+        "Reliable standby power for large critical loads",
+        "Low noise operation in urban and suburban areas",
+        "Scalable N+1 redundancy for mission-critical facilities"
+      ]
     }
   },
   "cookie": {

@@ -700,6 +700,28 @@
         "การทำงานแบบเงียบในเขตเมืองและชานเมือง",
         "เอาต์พุตเสถียรในช่วงที่ไฟดับนาน"
       ]
+    },
+    "weichai-500-silent": {
+      "name": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai 500 กิโลวัตต์ แบบเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai ขนาดใหญ่ 500 กิโลวัตต์ (625 กิโลโวลต์แอมแปร์) ในตู้กันเสียง สำหรับโรงงานขนาดใหญ่ ศูนย์ข้อมูล โรงพยาบาล และอาคารพาณิชย์",
+      "features": [
+        "Weichai WP13 series 6-cylinder turbocharged engine",
+        "Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters",
+        "Deep Sea digital control panel with remote monitoring option",
+        "Integrated baseframe fuel tank for 6+ hours continuous running",
+        "Automatic mains failure (AMF) start within 10 seconds",
+        "Parallel operation capability for N+1 redundancy"
+      ],
+      "applications": [
+        "Large factories & manufacturing plants",
+        "Data centers & critical infrastructure",
+        "Hospitals & healthcare facilities"
+      ],
+      "problems": [
+        "Reliable standby power for large critical loads",
+        "Low noise operation in urban and suburban areas",
+        "Scalable N+1 redundancy for mission-critical facilities"
+      ]
     }
   },
   "cookie": {

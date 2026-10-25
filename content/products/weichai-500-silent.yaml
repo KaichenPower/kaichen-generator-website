@@ -1,0 +1,24 @@
+name: Weichai 500kW Silent Diesel Generator
+image: /images/products/weichai-500kw-silent.jpg
+brand: Weichai
+powerKVA: 625
+type: silent
+description: Heavy-duty 500kW (625kVA) Weichai soundproof diesel generator set for large factories, data centers, hospitals and commercial buildings needing reliable standby or prime power with low noise and easy maintenance.
+features:
+  - Weichai WP13 series 6-cylinder turbocharged engine
+  - Heavy-duty acoustic canopy reducing noise to 72–78 dB(A) at 7 meters
+  - Deep Sea digital control panel with remote monitoring option
+  - Integrated baseframe fuel tank for 6+ hours continuous running
+  - Automatic mains failure (AMF) start within 10 seconds
+  - Parallel operation capability for N+1 redundancy
+specs:
+  Prime power: 450 kW / 562.5 kVA
+  Standby power: 500 kW / 625 kVA
+  Engine: Weichai WP13D500E200 series
+  Alternator: Brushless self-excited, 100% copper
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Deep Sea digital controller with AMF
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 72–78 dB(A) at 7m
+  Fuel tank: 600L built-in baseframe
