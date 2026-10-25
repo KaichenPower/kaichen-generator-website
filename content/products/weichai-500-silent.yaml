@@ -15,10 +15,8 @@ specs:
   Prime power: 450 kW / 562.5 kVA
   Standby power: 500 kW / 625 kVA
   Engine: Weichai WP13D500E200 series
-  Alternator: Brushless self-excited, 100% copper
-  Voltage: 400/230V, 50Hz, 3-phase
-  Control: Deep Sea digital controller with AMF
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz
+  Control: Digital controller
   Starting: Electric start, 24V
-  Cooling: Water-cooled radiator
   Noise level: 72-78 dB(A) at 7m
-  Fuel tank: 600L built-in baseframe
