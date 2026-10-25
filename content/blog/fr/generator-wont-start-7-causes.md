@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "Pourquoi votre groupe électrogène diesel ne démarre pas : 7 causes courantes et solutions"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "Un groupe électrogène diesel qui refuse de démarrer est l'un des problèmes les plus frustrants. Voici les 7 causes les plus courantes et comment les résoudre."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

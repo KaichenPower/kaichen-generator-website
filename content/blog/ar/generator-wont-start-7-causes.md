@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "لماذا لا يعمل مولد الديزل الخاص بك: 7 أسباب شائعة وحلول"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "المولد الذي يرفض العمل هو أحد أكثر المشاكل إحباطًا. إليك 7 أسباب شائعة وكيفية إصلاحها."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

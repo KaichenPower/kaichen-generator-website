@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "Por que seu gerador a diesel não liga: 7 causas comuns e soluções"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "Um gerador a diesel que se recusa a ligar é um dos problemas mais frustrantes. Aqui estão as 7 causas mais comuns e como resolvê-las."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

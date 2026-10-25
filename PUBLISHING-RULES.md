@@ -21,12 +21,15 @@
 - **其他 8 个语种**：至少完整翻译标题、关键参数表、核心结论（800+ 字）
 - ❌ **禁止**：硬编码英文残留，所有可见文本必须翻译
 - ❌ **禁止**：日期字段不加引号（必须写成 `date: "2026-10-24"`，否则 YAML 解析成 Date 对象导致 build 失败）
+- ✅ **必须**：frontmatter 里的 title 和 excerpt 必须翻译到所有 11 个语种，不能只翻译正文（博客列表页显示的就是 frontmatter 的 title 和 excerpt）
+- ✅ **必须**：每次新增内容后，build 完成后必须人工验证至少 2 个非英语语种的博客列表页和产品列表页，确认标题和描述已翻译
 
 ### 1.3 图片规范
 - 正文开头**必须**有 Markdown 图片引用：`![alt text](/images/blog/xxx.jpg)`
-- 图片从 `D:/projects/知识库/blog产品图片/` 或产品图片库选择
-- 图片命名：用博客 slug 命名，不要重复使用已用过的图片
-- 图片必须复制到 `public/images/blog/` 目录
+- **产品图片**：必须从 `D:/projects/知识库/产品图片抠图/` 目录选择（Silent Type / Open Type / Mobile Trailer / Containerized Type 子目录）
+- **博客配图**：从 `D:/projects/知识库/blog产品图片/` 选择
+- 图片命名：用产品/博客 slug 命名，不要重复使用已用过的图片
+- 图片必须复制到 `public/images/products/` 或 `public/images/blog/` 目录
 
 ### 1.4 SEO 标准
 - **Title 长度**：控制在 50–60 字符，避免被 SERP 截断

@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "Tại sao máy phát điện diesel của bạn không khởi động: 7 nguyên nhân phổ biến và cách khắc phục"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "Máy phát điện diesel không chịu khởi động là một trong những vấn đề khó chịu nhất. Đây là 7 nguyên nhân phổ biến và cách khắc phục."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "Warum Ihr Dieselgenerator nicht startet: 7 häufige Ursachen und Lösungen"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "Ein Dieselgenerator, der nicht startet, ist eines der frustrierendsten Probleme. Hier sind die 7 häufigsten Ursachen und Lösungen."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

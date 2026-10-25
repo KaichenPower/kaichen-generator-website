@@ -1,7 +1,7 @@
 ---
-title: "Por qué su generador diesel no arranca: 7 causas comunes y soluciones"
+title: "Por qué su generador diésel no arranca: 7 causas comunes y soluciones"
 date: "2026-10-24"
-excerpt: "Un generador diésel que se niega a arrancar es uno de los problemas más frustrantes para los gestores de instalaciones. Aquí están las 7 causas más comunes y cómo solucionarlas antes de llamar a un técnico."
+excerpt: "Un generador diésel que se niega a arrancar es uno de los problemas más frustrantes. Aquí están las 7 causas más comunes y cómo solucionarlas."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 

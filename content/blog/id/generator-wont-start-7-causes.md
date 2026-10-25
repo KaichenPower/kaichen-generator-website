@@ -1,7 +1,7 @@
 ---
-title: "Why Your Diesel Generator Won't Start: 7 Common Causes and Fixes"
+title: "Mengapa Genset Diesel Anda Tidak Menyala: 7 Penyebab Umum dan Solusi"
 date: "2026-10-24"
-excerpt: "A diesel generator that refuses to start is one of the most frustrating problems for site managers."
+excerpt: "Genset diesel yang menolak untuk menyala adalah salah satu masalah paling frustrating. Berikut 7 penyebab umum dan cara mengatasinya."
 image: "/images/blog/generator-wont-start.jpg"
 ---
 
