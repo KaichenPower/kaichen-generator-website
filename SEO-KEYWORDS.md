@@ -119,6 +119,7 @@
 | Why Data Centers Choose 500kW Backup Generators | generator for data center |
 | How Much Fuel Does a Diesel Generator Use? | generator fuel consumption |
 | How to Choose the Right 200kW Silent Diesel Generator | how to choose silent generator |
+| Silent vs Open Type Diesel Generator: Which One Should You Choose? | silent vs open type generator |
 
 ---
 
