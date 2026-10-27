@@ -722,6 +722,29 @@
         "Şehir ve banliyö bölgelerinde düşük gürültülü çalışma",
         "Kritik öneme sahip tesisler için ölçeklenebilir N+1 yedekliliği"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Mitsubishi 1000 kW açık tip dizel jeneratör",
+      "description": "1000 kW aktif ve 1100 kW yedek gücü 400/230 V ve 1800 A'da sunan, 197 g/kWh yakıt tüketimli açık tip Mitsubishi dizel jeneratör; veri merkezleri, fabrikalar ve sürekli güç sahaları için.",
+      "features": [
+        "Mitsubishi S12R-PTA-C 12 silindirli V tipi motor, 49,03 L hacim, 1500 dev/dk",
+        "400/230 V, 50 Hz'de 1000 kW sürekli / 1100 kW yedek güç, 1800 A nominal akım",
+        "Fırçasız senkron alternatör, IP23 koruma, H sınıfı izolasyon, AVR regülasyonu",
+        "Elektronik regülatör, kararlı durumda frekans sapmasını ±%0,5 içinde tutar",
+        "Titreşim önleyici takozlu açık şasi, iç mekân makine odası kurulumuna hazır"
+      ],
+      "applications": [
+        "Veri merkezleri ve telekom tesisleri",
+        "Üretim fabrikaları ve üretim hatları",
+        "Hastaneler ve büyük ticari binalar",
+        "Madencilik ve endüstriyel sürekli güç sahaları"
+      ],
+      "problems": [
+        "Şalt odasını yeniden yapmadan tam bir megavat yedek güç eklemek",
+        "Şebeke kapasitesi sınırlıyken pik yükleri karşılamak",
+        "Kritik tesisler için N+1 yedeklilik",
+        "Şebeke bağlantısının zayıf veya olmadığı yerlerde sürekli güç"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, 3 fazlı",
     "tank120": "120L dahili",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "7 m'de 102 dB(A)",
+    "fuel197g": "100% yükte yaklaşık 197 g/kWh",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10.500 kg"
   },
   "powerUnits": {
     "kw": "kW",

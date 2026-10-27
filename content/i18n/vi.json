@@ -722,6 +722,29 @@
         "Hoạt động ồn thấp ở khu vực đô thị và ngoại ô",
         "Dự phòng N+1 có thể mở rộng cho các cơ sở quan trọng"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Máy phát điện diesel Mitsubishi 1000 kW kiểu hở",
+      "description": "Máy phát điện diesel Mitsubishi kiểu hở 1000 kW, dự phòng 1100 kW tại 400/230 V và 1800 A, tiêu hao 197 g/kWh, dùng cho trung tâm dữ liệu, nhà máy và điểm nguồn điện chính.",
+      "features": [
+        "Động cơ Mitsubishi S12R-PTA-C 12 xi-lanh kiểu V, dung tích 49,03 L, 1500 vòng/phút",
+        "1000 kW liên tục / 1100 kW dự phòng tại 400/230 V, 50 Hz, dòng định mức 1800 A",
+        "Máy phát đồng bộ không chổi than, bảo vệ IP23, cách điện cấp H, điều chỉnh AVR",
+        "Bộ điều tốc điện tử giữ độ lệch tần số ở chế độ ổn định trong ±0,5%",
+        "Khung đế hở có đệm chống rung, sẵn sàng lắp trong phòng máy trong nhà"
+      ],
+      "applications": [
+        "Trung tâm dữ liệu và cơ sở viễn thông",
+        "Nhà máy sản xuất và dây chuyền",
+        "Bệnh viện và tòa nhà thương mại lớn",
+        "Khai thác mỏ và các điểm nguồn điện công nghiệp"
+      ],
+      "problems": [
+        "Bổ sung đủ một megawatt công suất dự phòng mà không phải xây lại phòng tủ điện",
+        "Đáp ứng phụ tải đỉnh khi công suất lưới bị giới hạn",
+        "Dự phòng N+1 cho cơ sở trọng yếu",
+        "Nguồn điện chính nơi kết nối lưới yếu hoặc không có"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, 3 pha",
     "tank120": "120L tích hợp",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "102 dB(A) ở 7 m",
+    "fuel197g": "khoảng 197 g/kWh ở tải 100%",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10.500 kg"
   },
   "powerUnits": {
     "kw": "kW",

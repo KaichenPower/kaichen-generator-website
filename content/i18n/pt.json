@@ -722,6 +722,29 @@
         "Operação de baixo ruído em áreas urbanas e suburbanas",
         "Redundância N+1 escalável para instalações de missão crítica"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Gerador diesel Mitsubishi 1000 kW tipo aberto",
+      "description": "Gerador diesel Mitsubishi tipo aberto de 1000 kW com 1100 kW de reserva a 400/230 V e 1800 A, consumo de 197 g/kWh, para data centers, fábricas e locais de potência base.",
+      "features": [
+        "Motor Mitsubishi S12R-PTA-C de 12 cilindros em V, cilindrada 49,03 L, 1500 rpm",
+        "1000 kW prime / 1100 kW de reserva a 400/230 V, 50 Hz, corrente nominal 1800 A",
+        "Alternador síncrono sem escovas, proteção IP23, isolamento classe H, regulação AVR",
+        "Regulador eletrônico mantendo o desvio de frequência em regime permanente dentro de ±0,5%",
+        "Base aberta tipo skid com montagens antivibratórias, pronta para sala de máquinas interna"
+      ],
+      "applications": [
+        "Data centers e instalações de telecomunicações",
+        "Plantas de fabricação e linhas de produção",
+        "Hospitais e grandes edifícios comerciais",
+        "Mineração e locais de potência base industrial"
+      ],
+      "problems": [
+        "Adicionar um megawatt inteiro de reserva sem refazer a sala de painéis",
+        "Cobrir picos de carga quando a rede limita a potência",
+        "Redundância N+1 para instalações críticas",
+        "Potência base onde a ligação à rede é fraca ou inexistente"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, trifásico",
     "tank120": "120L integrado",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "102 dB(A) a 7 m",
+    "fuel197g": "aprox. 197 g/kWh a 100% de carga",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10.500 kg"
   },
   "powerUnits": {
     "kw": "kW",

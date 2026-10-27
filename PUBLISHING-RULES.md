@@ -44,7 +44,10 @@
 
 ### 1.3 图片规范
 - 正文开头**必须**有 Markdown 图片引用：`![alt text](/images/blog/xxx.jpg)`
-- **产品图片**：必须从 `D:/projects/知识库/产品图片抠图/` 目录选择（Silent Type / Open Type / Mobile Trailer / Containerized Type 子目录）
+- **产品图片（硬性规则）**：只能从知识库素材库的**抠图成品**中选择，即 `D:/projects/知识库/产品图片抠图/`（Silent Type / Open Type / Mobile Trailer / Containerized Type 子目录）
+  - ❌ **禁止**从「产品中心」页面的现有图片里挑，或直接复用 `public/images/products/` 里已有的图片
+  - ❌ **禁止**使用未抠图的原始照片：`产品照片/`、`幻灯片图片/`、`客户参观图片/`、`工厂图片/`、`blog产品图片/` 都不能作为产品图
+  - ✅ 选的图必须是白底、已去背景的产品抠图，且与产品类型匹配（silent 配 silent 图、open 配 open 图、mobile 配 mobile 图、container 配 container 图）
 - **博客配图**：从 `D:/projects/知识库/blog产品图片/` 选择
 - 图片命名：用产品/博客 slug 命名，不要重复使用已用过的图片
 - 图片必须复制到 `public/images/products/` 或 `public/images/blog/` 目录
@@ -56,7 +59,9 @@
 - **Meta Description**：150–160 字符，包含核心关键词
 - **H2/H3 层级**：清晰结构，包含关键词变体
 - **内部链接**：每篇博客至少 2 个内链（指向产品页或其他博客）
-- **URL slug**：自动生成，不需要手动指定
+- **URL slug**：从 frontmatter 的 title 字段自动 slugify 生成，不是从文件名来的！
+  - ⚠️ **发布后必须从 `out/en/blog/` 目录确认正确的 URL，再告诉用户**
+  - ❌ 不要自己猜 URL（如 silent-vs-open-type-generator），这样会 404
 
 ---
 
@@ -103,7 +108,7 @@
 ### 3.1 产品来源与内容原则
 **内容必须紧紧围绕产品图片与产品中心、产品参数知识库，禁止乱编乱造。**
 - 产品参数：从 `D:/projects/知识库/产品参数库/` 读取真实参数，一个数字都不能编
-- 产品图片：从产品图片库选择，必须与产品名称匹配（silent 配 silent 图，open 配 open 图）
+- 产品图片：**只能**从 `D:/projects/知识库/产品图片抠图/` 的抠图成品中选择，必须与产品类型匹配（silent 配 silent 图，open 配 open 图）；禁止从产品中心、原始照片、幻灯片或已有 public 图片中取图
 - 东康/重康统一归为 Cummins 品牌
 - 产品描述只需要把参数描述清楚，加上以下内容：
   - **负载测试**：出厂前 2 MW digital load bank test、0–110% load test

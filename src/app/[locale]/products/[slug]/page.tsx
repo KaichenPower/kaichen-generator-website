@@ -82,6 +82,10 @@ const VALUE_MAP: Record<string, string> = {
   '120L built-in': 'tank120',
   '≤68 dB(A) @ 7m': 'noiseLe68',
   'Cummins 4BT3.9-G2': 'engine4bt',
+  'approx. 197 g/kWh at 100% load': 'fuel197g',
+  '102 dB(A) at 7m': 'noise102',
+  '4900 × 2050 × 2600 mm': 'dimsMhi',
+  '10,500 kg': 'weightMhi',
 };
 
 export function generateStaticParams() {

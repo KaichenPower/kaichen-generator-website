@@ -722,6 +722,29 @@
         "Fonctionnement à faible bruit en zone urbaine et suburbaine",
         "Redondance N+1 évolutive pour installations critiques"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Groupe électrogène diesel Mitsubishi 1000 kW ouvert",
+      "description": "Groupe électrogène diesel Mitsubishi ouvert de 1000 kW, 1100 kW en secours à 400/230 V et 1800 A, consommation 197 g/kWh, pour datacenters, usines et sites en production de base.",
+      "features": [
+        "Moteur Mitsubishi S12R-PTA-C à 12 cylindres en V, cylindrée 49,03 L, 1500 tr/min",
+        "1000 kW en régime permanent / 1100 kW en secours à 400/230 V, 50 Hz, courant nominal 1800 A",
+        "Alternateur synchrone sans balais, protection IP23, isolation classe H, régulation AVR",
+        "Régulateur électronique maintenant l'écart de fréquence en régime établi dans ±0,5 %",
+        "Châssis ouvert sur patins avec supports antivibratiles, prêt pour une salle des machines"
+      ],
+      "applications": [
+        "Datacenters et installations télécom",
+        "Usines de production et lignes de fabrication",
+        "Hôpitaux et grands bâtiments commerciaux",
+        "Mines et sites en production de base industrielle"
+      ],
+      "problems": [
+        "Ajouter un mégawatt complet de secours sans refaire la salle des tableaux",
+        "Couvrir les pointes de charge lorsque la puissance réseau est limitée",
+        "Redondance N+1 pour les installations critiques",
+        "Production de base là où le réseau est faible ou absent"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, triphasé",
     "tank120": "120L intégré",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "102 dB(A) à 7 m",
+    "fuel197g": "env. 197 g/kWh à 100 % de charge",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10 500 kg"
   },
   "powerUnits": {
     "kw": "kW",

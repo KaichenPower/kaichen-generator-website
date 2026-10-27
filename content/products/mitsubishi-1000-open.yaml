@@ -1,0 +1,25 @@
+name: Mitsubishi 1000kW Open Diesel Generator
+image: /images/products/mitsubishi-1000kw-open.png
+brand: Mitsubishi
+powerKVA: 1250
+type: open
+description: A 1000 kW open-skid Mitsubishi diesel generator delivering 1100 kW standby at 400/230 V and 1800 A, with 197 g/kWh fuel consumption, for data centers, plants and prime power sites that need a full megawatt without a new switchgear room.
+features:
+  - Mitsubishi S12R-PTA-C 12-cylinder V-type engine, 49.03 L displacement, 1500 rpm
+  - 1000 kW prime / 1100 kW standby at 400/230 V, 50 Hz, 1800 A rated current
+  - Brushless synchronous alternator, IP23 protection, Class H insulation, AVR regulated
+  - Electronic governor holding steady-state frequency deviation within ±0.5%
+  - Open skid baseframe with anti-vibration mounts, ready for indoor plant room installation
+specs:
+  Prime power: 1000 kW / 1250 kVA
+  Standby power: 1100 kW / 1375 kVA
+  Engine: Mitsubishi S12R-PTA-C series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Fuel consumption: approx. 197 g/kWh at 100% load
+  Noise level: 102 dB(A) at 7m
+  Dimensions: 4900 × 2050 × 2600 mm
+  Weight: 10,500 kg

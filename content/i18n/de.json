@@ -722,6 +722,29 @@
         "Geräuscharmer Betrieb in städtischen und vorstädtischen Gebieten",
         "Skalierbare N+1 Redundanz für unternehmenskritische Einrichtungen"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Mitsubishi 1000 kW Dieselgenerator, offene Bauart",
+      "description": "Offener Mitsubishi-Dieselgenerator mit 1000 kW und 1100 kW Reserve bei 400/230 V und 1800 A, 197 g/kWh Verbrauch, für Rechenzentren, Werke und Grundlaststandorte.",
+      "features": [
+        "Mitsubishi S12R-PTA-C 12-Zylinder-V-Motor, 49,03 l Hubraum, 1500 U/min",
+        "1000 kW Dauerleistung / 1100 kW Reserve bei 400/230 V, 50 Hz, Nennstrom 1800 A",
+        "Bürstenloser Synchrongenerator, Schutzart IP23, Isolationsklasse H, AVR-Regelung",
+        "Elektronischer Drehzahlregler hält die Frequenzabweichung im Beharrungszustand innerhalb ±0,5 %",
+        "Offener Grundrahmen mit Schwingungsdämpfern, bereit für den Maschinenraum"
+      ],
+      "applications": [
+        "Rechenzentren und Telekommunikationsanlagen",
+        "Produktionswerke und Fertigungslinien",
+        "Krankenhäuser und große Geschäftsgebäude",
+        "Bergbau und Industrieanlagen mit Grundlaststrom"
+      ],
+      "problems": [
+        "Ein volles Megawatt Reserve ergänzen, ohne den Schaltraum umzubauen",
+        "Lastspitzen decken, wenn die Netzleistung begrenzt ist",
+        "N+1-Redundanz für kritische Anlagen",
+        "Grundlaststrom, wo der Netzanschluss schwach oder nicht vorhanden ist"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, 3-phasig",
     "tank120": "120L integriert",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "102 dB(A) in 7 m",
+    "fuel197g": "ca. 197 g/kWh bei 100 % Last",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10.500 kg"
   },
   "powerUnits": {
     "kw": "kW",

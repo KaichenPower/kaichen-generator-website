@@ -9,6 +9,7 @@
     { "slug": "weichai-400-silent", "image": "weichai-400kw-silent.png", "sourceNode": "G5hjwgvwXiaYSjkbK8scMBSy6cb" },
     { "slug": "yuchai-300-silent", "image": "yuchai-300kw-silent.jpg", "sourceNode": "NISawVfD7iZIZkk6R1BcstTY6ff" },
     { "slug": "yuchai-100-mobile", "image": "yuchai-100kw-mobile.png", "sourceNode": "S1GAwz2cPiVJWYkJj9ycb9636ce" },
-    { "slug": "weichai-500-silent", "image": "weichai-500kw-silent.jpg", "sourceNode": "" }
+    { "slug": "weichai-500-silent", "image": "weichai-500kw-silent.jpg", "sourceNode": "" },
+    { "slug": "mitsubishi-1000-open", "image": "mitsubishi-1000kw-open.png", "sourceNode": "产品参数库/6.上海菱重/菱重1000KW（S12R-PTA-C）" }
   ]
 }

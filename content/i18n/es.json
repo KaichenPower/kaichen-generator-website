@@ -722,6 +722,29 @@
         "Funcionamiento de bajo ruido en áreas urbanas y suburbanas",
         "Redundancia N+1 escalable para instalaciones de misión crítica"
       ]
+    },
+    "mitsubishi-1000-open": {
+      "name": "Generador diésel Mitsubishi 1000 kW tipo abierto",
+      "description": "Generador diésel Mitsubishi tipo abierto de 1000 kW con 1100 kW de respaldo a 400/230 V y 1800 A, consumo de 197 g/kWh, para centros de datos, plantas y sitios que necesitan un megavatio completo.",
+      "features": [
+        "Motor Mitsubishi S12R-PTA-C de 12 cilindros en V, cilindrada 49,03 L, 1500 rpm",
+        "1000 kW primarios / 1100 kW de respaldo a 400/230 V, 50 Hz, corriente nominal 1800 A",
+        "Alternador síncrono sin escobillas, protección IP23, aislamiento clase H, regulación AVR",
+        "Regulador electrónico que mantiene la desviación de frecuencia en régimen permanente dentro de ±0,5%",
+        "Bastidor abierto tipo patín con montajes antivibratorios, listo para sala de máquinas interior"
+      ],
+      "applications": [
+        "Centros de datos e instalaciones de telecomunicaciones",
+        "Plantas de fabricación y líneas de producción",
+        "Hospitales y grandes edificios comerciales",
+        "Minería y emplazamientos de potencia base industrial"
+      ],
+      "problems": [
+        "Añadir un megavatio completo de respaldo sin rehacer la sala de cuadros eléctricos",
+        "Cubrir picos de carga cuando la red limita la potencia contratada",
+        "Redundancia N+1 para instalaciones críticas",
+        "Potencia base donde la conexión de red es débil o inexistente"
+      ]
     }
   },
   "cookie": {
@@ -834,7 +857,11 @@
     "voltage3phase": "400/230V, 50Hz, trifásico",
     "tank120": "120L integrado",
     "noiseLe68": "≤68 dB(A) @ 7m",
-    "engine4bt": "Cummins 4BT3.9-G2"
+    "engine4bt": "Cummins 4BT3.9-G2",
+    "noise102": "102 dB(A) a 7 m",
+    "fuel197g": "aprox. 197 g/kWh a plena carga",
+    "dimsMhi": "4900 × 2050 × 2600 mm",
+    "weightMhi": "10.500 kg"
   },
   "powerUnits": {
     "kw": "kW",
