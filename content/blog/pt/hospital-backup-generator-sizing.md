@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Gerador diesel silenciado para emergência hospitalar em nossa fábrica em Yangzhou](/images/blog/hospital-generator-sizing.jpg)
 
-# Gerador diesel para energia de emergência em hospitais: guia de dimensionamento
-
 Uma queda de rede em um hospital não é um incômodo. Em segundos, o centro cirúrgico perde a iluminação, os ventiladores da UTI passam para baterias que duram minutos e não horas, as geladeiras do banco de sangue começam a passar de 6 °C, os elevadores param entre andares com pacientes dentro e o sistema de chamada de enfermagem apaga.
 
 Por isso um **gerador diesel para emergência hospitalar** é especificado de forma diferente de um gerador para fábrica ou obra. Não é “o maior conjunto que cabe no orçamento”, mas uma máquina de segurança de vida cuja potência, comportamento de partida, autonomia de combustível, acústica e registros de teste precisam ser defensáveis diante de um auditor de acreditação.

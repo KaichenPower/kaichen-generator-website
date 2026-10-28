@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Yangzhou fabrikamızda hastane yedek gücü için sessiz dizel jeneratör grubu](/images/blog/hospital-generator-sizing.jpg)
 
-# Hastaneler için yedek güç dizel jeneratörü: güç seçimi rehberi
-
 Hastanede şebeke kesintisi bir rahatsızlık değildir. Kesintiden saniyeler sonra ameliyathanenin ışığı söner, yoğun bakımdaki ventilatörler saatler değil dakikalar dayanan akülere düşer, kan bankası dolapları 6 °C'yi aşmaya başlar, asansörler hastalarla kat arasında kalır ve hemşire çağrı sistemi kararır.
 
 Bu yüzden **hastane yedek gücü için dizel jeneratör**, fabrika veya şantiye jeneratöründen farklı şekilde belirlenir. Bütçeye sığan en büyük grup değil, gücü, yol alma davranışı, yakıt otonomisi, akustiği ve test kayıtları bir akreditasyon denetçisine karşı savunulabilir olması gereken bir yaşam güvenliği makinesidir.

@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Groupe électrogène insonorisé pour secours hospitalier dans notre usine de Yangzhou](/images/blog/hospital-generator-sizing.jpg)
 
-# Groupe électrogène diesel pour hôpital : guide de dimensionnement
-
 Une coupure de réseau dans un hôpital n'est pas une gêne. En quelques secondes, le bloc opératoire perd son éclairage, les respirateurs de réanimation passent sur des batteries qui tiennent des minutes et non des heures, les enceintes de la banque du sang dépassent les 6 °C, les ascenseurs s'arrêtent entre deux étages avec des patients à bord et l'appel malade s'éteint.
 
 C'est pourquoi un **groupe électrogène diesel pour hôpital** se spécifie autrement qu'un groupe pour une usine ou un chantier. Ce n'est pas « le plus gros groupe qui rentre dans le budget », mais une machine de sécurité des personnes dont la puissance, le comportement au démarrage, l'autonomie, l'acoustique et les procès-verbaux d'essai doivent tenir devant un auditeur d'accréditation.

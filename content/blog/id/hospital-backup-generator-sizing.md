@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Genset diesel berperedam suara untuk daya cadangan rumah sakit di pabrik kami di Yangzhou](/images/blog/hospital-generator-sizing.jpg)
 
-# Genset diesel untuk daya cadangan rumah sakit: panduan penentuan kapasitas
-
 Pemadaman listrik di rumah sakit bukan sekadar gangguan. Dalam hitungan detik, kamar operasi kehilangan penerangan, ventilator di ICU beralih ke baterai yang bertahan menit bukan jam, lemari bank darah mulai melewati 6 °C, lift berhenti di antara lantai dengan pasien di dalamnya, dan sistem panggilan perawat padam.
 
 Karena itu **genset diesel untuk daya cadangan rumah sakit** ditentukan berbeda dari genset pabrik atau lokasi proyek. Bukan “unit terbesar yang masuk anggaran”, melainkan mesin keselamatan jiwa yang kapasitas, perilaku starting, ketahanan bahan bakar, akustik, dan catatan ujinya harus dapat dipertanggungjawabkan di hadapan auditor akreditasi.

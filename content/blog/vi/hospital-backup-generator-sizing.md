@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Máy phát điện diesel cách âm dự phòng bệnh viện tại nhà máy Yangzhou của chúng tôi](/images/blog/hospital-generator-sizing.jpg)
 
-# Máy phát điện diesel dự phòng cho bệnh viện: hướng dẫn chọn công suất
-
 Mất điện trong bệnh viện không phải là bất tiện. Trong vài giây, phòng mổ mất đèn, máy thở ở hồi sức chuyển sang pin chỉ trụ được vài phút chứ không phải vài giờ, tủ bảo quản máu bắt đầu vượt 6 °C, thang máy dừng giữa hai tầng với bệnh nhân bên trong, và hệ thống gọi điều dưỡng tắt ngấm.
 
 Vì vậy **máy phát điện diesel dự phòng cho bệnh viện** được chỉ định khác với máy cho nhà xưởng hay công trường. Nó không phải “tổ máy lớn nhất vừa ngân sách”, mà là một cỗ máy an toàn tính mạng, với công suất, hành vi khởi động, dự trữ nhiên liệu, độ ồn và hồ sơ kiểm tra phải bảo vệ được trước thanh tra cấp chứng nhận.

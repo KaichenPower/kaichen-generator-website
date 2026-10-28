@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Schallgedämpfter Dieselgenerator für Krankenhaus-Notstrom in unserem Werk in Yangzhou](/images/blog/hospital-generator-sizing.jpg)
 
-# Dieselgenerator für die Notstromversorgung von Krankenhäusern: Auslegungsleitfaden
-
 Ein Netzausfall im Krankenhaus ist keine Unannehmlichkeit. Innerhalb von Sekunden verliert der OP sein Licht, die Beatmungsgeräte auf der Intensivstation fallen auf Akkus zurück, die Minuten statt Stunden halten, die Kühlschränke der Blutbank beginnen über 6 °C zu steigen, die Aufzüge bleiben mit Patienten zwischen den Etagen stehen, und die Rufanlage wird dunkel.
 
 Deshalb wird ein **Dieselgenerator für Krankenhaus-Notstrom** anders ausgelegt als ein Generator für eine Fabrik oder eine Baustelle. Er ist nicht „das größte Aggregat, das ins Budget passt“, sondern eine sicherheitsrelevante Maschine, deren Leistung, Anlaufverhalten, Kraftstoffautonomie, Akustik und Prüfprotokolle gegenüber einem Akkreditierungsprüfer belegbar sein müssen.

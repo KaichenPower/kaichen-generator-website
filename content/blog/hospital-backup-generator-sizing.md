@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Silent diesel generator set built for hospital standby power in our Yangzhou factory](/images/blog/hospital-generator-sizing.jpg)
 
-# Diesel Generator for Hospital Backup Power: Sizing Guide
-
 A hospital blackout is not an inconvenience. Within seconds of the mains dropping, the operating theatre loses its lighting, the ventilators in ICU fall back on batteries that last minutes rather than hours, the blood bank refrigerators start to drift above 6 °C, the lifts stop between floors with patients inside, and the nurse call system goes dark.
 
 That is why a **diesel generator for hospital backup power** is specified differently from a generator for a factory or a construction site. It is not simply "the biggest set that fits the budget". It is a life-safety machine whose capacity, starting behaviour, fuel autonomy, acoustic performance and test record all have to be defensible to an accreditation inspector.

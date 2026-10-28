@@ -7,8 +7,6 @@ image: "/images/blog/hospital-generator-sizing.jpg"
 
 ![Generador diésel insonorizado para respaldo hospitalario en nuestra fábrica de Yangzhou](/images/blog/hospital-generator-sizing.jpg)
 
-# Generador diésel para respaldo eléctrico de hospitales: guía de dimensionamiento
-
 Un corte de red en un hospital no es una molestia. En segundos, el quirófano pierde la iluminación, los ventiladores de la UCI pasan a baterías que duran minutos y no horas, las neveras del banco de sangre empiezan a superar los 6 °C, los ascensores se detienen entre plantas con pacientes dentro y el sistema de llamada de enfermería se apaga.
 
 Por eso un **generador diésel para respaldo de hospital** se especifica de forma distinta a un generador para una fábrica o una obra. No es «el equipo más grande que entra en el presupuesto», sino una máquina de seguridad de vida cuya potencia, comportamiento de arranque, autonomía de combustible, acústica y registro de pruebas deben poder defenderse ante un auditor de acreditación.
