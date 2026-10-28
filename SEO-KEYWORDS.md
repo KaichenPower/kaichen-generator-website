@@ -120,6 +120,7 @@
 | How Much Fuel Does a Diesel Generator Use? | generator fuel consumption |
 | How to Choose the Right 200kW Silent Diesel Generator | how to choose silent generator |
 | Silent vs Open Type Diesel Generator: Which One Should You Choose? | silent vs open type generator |
+| Diesel Generator for Hospital Backup Power: Sizing Guide | diesel generator for hospital |
 
 ---
 
@@ -128,4 +129,4 @@
 - 避免重复发布相同关键词的博客
 - 新关键词从知识库内容中补充
 
-**最后更新：2026-10-24**
+**最后更新：2026-10-28**
