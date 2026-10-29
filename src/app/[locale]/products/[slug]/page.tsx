@@ -86,6 +86,9 @@ const VALUE_MAP: Record<string, string> = {
   '102 dB(A) at 7m': 'noise102',
   '4900 × 2050 × 2600 mm': 'dimsMhi',
   '10,500 kg': 'weightMhi',
+  'approx. 200 g/kWh at 100% load': 'fuel200g',
+  '4450 × 1800 × 2350 mm': 'dimsC800',
+  '8,000 kg': 'weightC800',
 };
 
 export function generateStaticParams() {

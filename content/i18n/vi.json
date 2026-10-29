@@ -745,6 +745,29 @@
         "Dự phòng N+1 cho cơ sở trọng yếu",
         "Nguồn điện chính nơi kết nối lưới yếu hoặc không có"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Máy phát điện diesel Cummins 800 kW kiểu hở",
+      "description": "Máy phát diesel Cummins kiểu hở 800 kW (dự phòng 880 kW / 1100 kVA), lắp ráp tại nhà máy Yangzhou của chúng tôi: 1440 A tại 400/230 V và 50 Hz, alternator đồng không chổi than KCI-800 dây đồng (IP23, cấp H), tiêu hao 200 g/kWh; dùng cho tải công nghiệp liên tục, trung tâm dữ liệu và nguồn dự phòng nhà máy.",
+      "features": [
+        "Động cơ Cummins KTA38-G5, V12, dung tích 38 L, 1500 vòng/phút, tăng áp, bộ điều tốc điện tử",
+        "800 kW liên tục / 880 kW dự phòng tại 400/230 V, 50 Hz, dòng định mức 1440 A",
+        "Máy phát đồng bộ KCI-800 không chổi than, bảo vệ IP23, cách điện cấp H, dây quấn đồng, điều chỉnh AVR",
+        "Làm mát nước tuần hoàn kín; ổn định điện áp ở chế độ đứng yên ≤0,5%, sai lệch điện áp tức thời ≤15%, khôi phục điện áp và tần số trong ≤3 s",
+        "Khung đế hở có đệm chống rung, sẵn sàng cho phòng máy hoặc lắp thêm vỏ cách âm về sau"
+      ],
+      "applications": [
+        "Nhà máy sản xuất và dây chuyền công nghệ",
+        "Trung tâm dữ liệu và trạm viễn thông",
+        "Nhà máy xử lý nước, trạm bơm và hạ tầng công cộng",
+        "Khai thác mỏ, mỏ dầu và các điểm nguồn chính ở vùng xa"
+      ],
+      "problems": [
+        "Đáp ứng 800 kW tải liên tục hoặc dự phòng trên một cụm skid đã kiểm định",
+        "Vận hành liên tục nơi lưới điện không ổn định, yếu hoặc bị giới hạn dòng",
+        "Dự phòng N+1 cho các nhà máy công nghiệp lớn",
+        "Phòng máy sẵn sàng lắp vỏ cách âm về sau mà không phải làm lại khung đế"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) ở 7 m",
     "fuel197g": "khoảng 197 g/kWh ở tải 100%",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "khoảng 200 g/kWh ở tải 100%",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",

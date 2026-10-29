@@ -745,6 +745,29 @@
         "Redundância N+1 para instalações críticas",
         "Potência base onde a ligação à rede é fraca ou inexistente"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Gerador diesel Cummins 800 kW tipo aberto",
+      "description": "Gerador diesel Cummins tipo aberto de 800 kW (880 kW de reserva, 1100 kVA de reserva), fabricado em nossa fábrica em Yangzhou: 1440 A a 400/230 V e 50 Hz, alternador de cobre sem escovas KCI-800 (IP23, classe H), consumo de 200 g/kWh; para carga industrial contínua, data centers e reserva de plantas.",
+      "features": [
+        "Motor Cummins KTA38-G5, V12, cilindrada 38 L, 1500 rpm, turboalimentado e regulador eletrônico",
+        "800 kW em regime contínuo / 880 kW de reserva a 400/230 V, 50 Hz, corrente nominal 1440 A",
+        "Alternador síncrono sem escovas KCI-800, proteção IP23, isolamento classe H, enrolamento de cobre, regulação AVR",
+        "Resfriamento a água em circuito fechado; regulação de tensão estável ≤0,5%, desvio transitório ≤15%, retorno de tensão e frequência ≤3 s",
+        "Base aberta tipo skid com montagens antivibratórias, pronta para sala de máquinas ou posterior cabine acústica"
+      ],
+      "applications": [
+        "Fábricas de manufatura e linhas de processo",
+        "Data centers e estações de telecom",
+        "Tratamento de água, estações de bombeamento e infraestrutura pública",
+        "Mineração, campos de petróleo e locais remotos de potência base"
+      ],
+      "problems": [
+        "Atender 800 kW de carga prime ou reserva em um único conjunto comprovado sobre skid",
+        "Operação contínua onde a rede é pouco confiável, fraca ou limitada em corrente",
+        "Redundância N+1 para grandes instalações industriais",
+        "Sala preparada para receber depois uma cabine acústica sem reconstruir a base"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) a 7 m",
     "fuel197g": "aprox. 197 g/kWh a 100% de carga",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "aprox. 200 g/kWh a 100% de carga",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",

@@ -745,6 +745,29 @@
         "Redundancia N+1 para instalaciones críticas",
         "Potencia base donde la conexión de red es débil o inexistente"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Generador diésel Cummins 800 kW tipo abierto",
+      "description": "Generador diésel Cummins tipo abierto de 800 kW (880 kW de respaldo, 1100 kVA de respaldo), fabricado en nuestra fábrica de Yangzhou: 1440 A a 400/230 V y 50 Hz, alternador de cobre sin escobillas KCI-800 (IP23, clase H) y consumo de 200 g/kWh; para carga industrial continua, centros de datos y reserva de plantas.",
+      "features": [
+        "Motor Cummins KTA38-G5, V12, cilindrada 38 L, 1500 rpm, turbocompresor y regulador electrónico",
+        "800 kW primarios / 880 kW de respaldo a 400/230 V, 50 Hz, corriente nominal 1440 A",
+        "Alternador síncrono sin escobillas KCI-800, protección IP23, aislamiento clase H, bobinado de cobre, regulación AVR",
+        "Refrigeración por agua en circuito cerrado; regulación de tensión en estable ≤0,5%, desviación transitoria ≤15%, recuperación de tensión y frecuencia ≤3 s",
+        "Bastidor abierto tipo patín con montajes antivibratorios, preparado para sala de máquinas o cabina insonorizada posterior"
+      ],
+      "applications": [
+        "Plantas de fabricación y líneas de proceso",
+        "Centros de datos y estaciones de telecomunicaciones",
+        "Tratamiento de agua, estaciones de bombeo e infraestructura pública",
+        "Minería, campos petroleros y emplazamientos remotos de potencia base"
+      ],
+      "problems": [
+        "Cubrir 800 kW de carga primaria o de respaldo con un solo conjunto probado sobre patines",
+        "Funcionamiento continuo donde la red es poco fiable, débil o limitada en corriente",
+        "Redundancia N+1 para grandes instalaciones industriales",
+        "Sala preparada para añadir después una cabina insonorizada sin reconstruir el bastidor"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) a 7 m",
     "fuel197g": "aprox. 197 g/kWh a plena carga",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "aprox. 200 g/kWh a plena carga",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",

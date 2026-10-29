@@ -745,6 +745,29 @@
         "N+1-Redundanz für kritische Anlagen",
         "Grundlaststrom, wo der Netzanschluss schwach oder nicht vorhanden ist"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Cummins 800 kW Dieselgenerator, offene Bauart",
+      "description": "Offener Cummins-Dieselgenerator mit 800 kW Dauerleistung (880 kW Reserve, 1100 kVA Reserve), gebaut in unserem Yangzhou-Werk: 1440 A bei 400/230 V und 50 Hz, KCI-800-Kupferlichtmaschine bürstenlos (IP23, Klasse H), 200 g/kWh Verbrauch; für industrielle Dauerlast, Rechenzentren und Anlagenreserve.",
+      "features": [
+        "Cummins-KTA38-G5-V12-Motor, 38 L Hubraum, 1500 U/min, turboaufgeladen, elektronischer Regler",
+        "800 kW Dauerleistung / 880 kW Reserve bei 400/230 V, 50 Hz, Nennstrom 1440 A",
+        "Bürstenloser Synchrongenerator KCI-800, Schutzart IP23, Isolationsklasse H, Kupferwicklung, AVR-Regelung",
+        "Geschlossener Wasserkreislauf; Spannungsregelung im Beharrungszustand ≤0,5 %, transienter Spannungswert ≤15 %, Rückkehr von Spannung und Frequenz ≤3 s",
+        "Offener Grundrahmen mit Schwingungsdämpfern, bereit für den Maschinenraum oder nachträglichen Schallschutzhaubenanbau"
+      ],
+      "applications": [
+        "Produktionswerke und Fertigungslinien",
+        "Rechenzentren und Telekommunikationsstationen",
+        "Wasseraufbereitung, Pumpwerke und öffentliche Infrastruktur",
+        "Bergbau, Ölfelder und abgelegene Grundlaststandorte"
+      ],
+      "problems": [
+        "800 kW Dauer- oder Notlast auf einem bewährten Skid abdecken",
+        "Dauerbetrieb bei unzuverlässigem, schwachem oder strombegrenztem Netz",
+        "N+1-Redundanz für große Industrieanlagen",
+        "Maschinenraum, der nachträglich eine Schallschutzhaube ohne Rahmenumbau aufnehmen kann"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) in 7 m",
     "fuel197g": "ca. 197 g/kWh bei 100 % Last",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "ca. 200 g/kWh bei 100 % Last",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",

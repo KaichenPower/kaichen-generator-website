@@ -745,6 +745,29 @@
         "Redondance N+1 pour les installations critiques",
         "Production de base là où le réseau est faible ou absent"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Groupe électrogène diesel Cummins 800 kW ouvert",
+      "description": "Groupe électrogène diesel Cummins ouvert de 800 kW (880 kW en secours, 1100 kVA en secours), assemblé dans notre usine de Yangzhou : 1440 A à 400/230 V et 50 Hz, alternateur cuivre sans balais KCI-800 (IP23, classe H), consommation 200 g/kWh ; pour la charge industrielle continue, les datacenters et la réserve d'usines.",
+      "features": [
+        "Moteur Cummins KTA38-G5, V12, cylindrée 38 L, 1500 tr/min, turbocompressé, régulateur électronique",
+        "800 kW en régime permanent / 880 kW en secours à 400/230 V, 50 Hz, courant nominal 1440 A",
+        "Alternateur synchrone sans balais KCI-800, protection IP23, isolation classe H, bobinage cuivre, régulation AVR",
+        "Refroidissement à eau en circuit fermé ; régulation de tension établie ≤0,5 %, écart transitoire de tension ≤15 %, retour tension-fréquence ≤3 s",
+        "Châssis ouvert sur patins avec supports antivibratiles, prêt pour salle des machines ou ajout ultérieur de capot insonorisé"
+      ],
+      "applications": [
+        "Usines de fabrication et lignes de process",
+        "Datacenters et stations télécom",
+        "Traitement de l'eau, stations de pompage et infrastructures publiques",
+        "Mines, champs pétroliers et sites éloignés en production de base"
+      ],
+      "problems": [
+        "Couvrir 800 kW de charge continue ou de secours sur un seul ensemble éprouvé sur patins",
+        "Fonctionnement continu là où le réseau est peu fiable, faible ou limité en courant",
+        "Redondance N+1 pour grandes installations industrielles",
+        "Local préparé pour recevoir ultérieurement un capot insonorisé sans reconstruire le châssis"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) à 7 m",
     "fuel197g": "env. 197 g/kWh à 100 % de charge",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10 500 kg"
+    "weightMhi": "10 500 kg",
+    "fuel200g": "env. 200 g/kWh à 100 % de charge",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8 000 kg"
   },
   "powerUnits": {
     "kw": "kW",

@@ -1,0 +1,25 @@
+name: Cummins 800kW Open Diesel Generator
+image: /images/products/cummins-800kw-open.png
+brand: Cummins
+powerKVA: 1100
+type: open
+description: An 800 kW prime (880 kW standby, 1100 kVA standby) open-skid Cummins KTA38-G5 diesel generator set built at our Yangzhou factory, delivering 1440 A at 400/230 V and 50 Hz with a KCI-800 brushless copper alternator (IP23, Class H) and 200 g/kWh fuel consumption; built for continuous industrial prime power, data centers and plant standby duties.
+features:
+  - Cummins KTA38-G5 V12 engine, 38 L displacement, 1500 rpm, turbocharged with electronic governor
+  - 800 kW prime / 880 kW standby at 400/230 V, 50 Hz, rated current 1440 A
+  - KCI-800 brushless synchronous alternator, IP23 protection, Class H insulation, copper winding, AVR regulated
+  - Closed-loop water cooling; steady-state voltage regulation ≤0.5%, transient voltage deviation ≤15%, voltage and frequency recovery within ≤3 s
+  - Open skid baseframe with anti-vibration mounts, ready for indoor plant room installation or later acoustic canopy conversion
+specs:
+  Prime power: 800 kW / 1000 kVA
+  Standby power: 880 kW / 1100 kVA
+  Engine: Cummins KTA38-G5 series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Fuel consumption: approx. 200 g/kWh at 100% load
+  Noise level: 102 dB(A) at 7m
+  Dimensions: 4450 × 1800 × 2350 mm
+  Weight: 8,000 kg

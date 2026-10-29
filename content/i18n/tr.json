@@ -745,6 +745,29 @@
         "Kritik tesisler için N+1 yedeklilik",
         "Şebeke bağlantısının zayıf veya olmadığı yerlerde sürekli güç"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Cummins 800 kW açık tip dizel jeneratör",
+      "description": "Yangzhou fabrikamızda üretilen açık tip Cummins dizel jeneratör: 800 kW sürekli (880 kW yedek, 1100 kVA yedek), 400/230 V ve 50 Hz'de 1440 A, fırçasız bakır KCI-800 alternatör (IP23, H sınıfı), 200 g/kWh tüketim; endüstriyel sürekli yük, veri merkezleri ve fabrika yedeği için.",
+      "features": [
+        "Cummins KTA38-G5 V12 motor, 38 L hacim, 1500 dev/dk, turbo şarjlı, elektronik regülatör",
+        "400/230 V, 50 Hz'de 800 kW sürekli / 880 kW yedek güç, 1440 A nominal akım",
+        "Fırçasız senkron KCI-800 alternatör, IP23 koruma, H sınıfı izolasyon, bakır sargı, AVR regülasyonu",
+        "Kapalı devre su soğutma; kararlı gerilim regülasyonu ≤%0,5, transient gerilim sapması ≤%15, gerilim ve frekans geri dönüşü ≤3 sn",
+        "Titreşim önleyici takozlu açık şasi; makine odasına ya da sonradan akustik kabin eklenmesine hazır"
+      ],
+      "applications": [
+        "Üretim fabrikaları ve proses hatları",
+        "Veri merkezleri ve telekom istasyonları",
+        "Su arıtma, pompa istasyonları ve kamu altyapısı",
+        "Madencilik, petrol sahaları ve uzak sürekli güç sahaları"
+      ],
+      "problems": [
+        "800 kW sürekli ya da yedek yükü tek kanıtlanmış skid üzerinde karşılamak",
+        "Şebekenin güvenilir, güçlü ya da akım sınırlı olmadığı yerlerde kesintisiz çalışma",
+        "Büyük endüstriyel tesisler için N+1 yedeklilik",
+        "Çerçeveyi yeniden yapmadan sonradan akustik kabin alabilecek makine odası"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "7 m'de 102 dB(A)",
     "fuel197g": "100% yükte yaklaşık 197 g/kWh",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "%100 yükte yaklaşık 200 g/kWh",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",

@@ -716,6 +716,29 @@
         "N+1 redundancy for mission-critical facilities",
         "Prime power where the grid connection is weak or unavailable"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Cummins 800kW Open Diesel Generator",
+      "description": "An 800 kW prime (880 kW standby, 1100 kVA standby) open-skid Cummins KTA38-G5 diesel generator set built at our Yangzhou factory, delivering 1440 A at 400/230 V and 50 Hz with a KCI-800 brushless copper alternator (IP23, Class H) and 200 g/kWh fuel consumption; built for continuous industrial prime power, data centers and plant standby duties.",
+      "features": [
+        "Cummins KTA38-G5 V12 engine, 38 L displacement, 1500 rpm, turbocharged with electronic governor",
+        "800 kW prime / 880 kW standby at 400/230 V, 50 Hz, rated current 1440 A",
+        "KCI-800 brushless synchronous alternator, IP23 protection, Class H insulation, copper winding, AVR regulated",
+        "Closed-loop water cooling; steady-state voltage regulation ≤0.5%, transient voltage deviation ≤15%, voltage and frequency recovery within ≤3 s",
+        "Open skid baseframe with anti-vibration mounts, ready for indoor plant room installation or later acoustic canopy conversion"
+      ],
+      "applications": [
+        "Manufacturing plants and process lines",
+        "Data centers and telecom stations",
+        "Water treatment plants, pumping stations and public infrastructure",
+        "Mining, oilfields and remote prime-power sites"
+      ],
+      "problems": [
+        "Delivering 800 kW of prime or standby load on a single proven skid",
+        "Running continuously where the public grid is unreliable, weak or current-capped",
+        "Building N+1 redundancy for large industrial facilities",
+        "Preparing a plant room that can later receive an acoustic canopy without rebuilding the frame"
+      ]
     }
   },
   "aboutExtended": {
@@ -904,7 +927,10 @@
     "noise102": "102 dB(A) at 7m",
     "fuel197g": "approx. 197 g/kWh at 100% load",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10,500 kg"
+    "weightMhi": "10,500 kg",
+    "fuel200g": "approx. 200 g/kWh at 100% load",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8,000 kg"
   },
   "powerUnits": {
     "kw": "kW",

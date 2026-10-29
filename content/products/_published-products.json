@@ -1,15 +1,64 @@
 {
   "publishedProducts": [
-    { "slug": "cummins-100-silent", "image": "cummins-100kw-silent.jpg", "sourceNode": "MboqwAHUJijitLkUFuZcM2Lz6jb" },
-    { "slug": "mitsubishi-100-open", "image": "mitsubishi-100kw-open.jpg", "sourceNode": "QxoNw21cRiRevPkp9bIcUq456Tc" },
-    { "slug": "perkins-400-silent", "image": "perkins-400kw-silent.jpg", "sourceNode": "APbmwB9YNirqbIkmdalcBsMb6wb" },
-    { "slug": "scania-250-open", "image": "scania-250kw-open.png", "sourceNode": "YD2ew7IvLi6ew5kwUeOcPjIU6bf" },
-    { "slug": "shangchai-300-silent", "image": "shangchai-300kw-silent.jpg", "sourceNode": "O2B2wpzofihioYkUHGtc5LGW6GX" },
-    { "slug": "volvo-400-silent", "image": "volvo-400kw-silent.png", "sourceNode": "INjKwPfaRiDtaJkeRPvcoxrg6pd" },
-    { "slug": "weichai-400-silent", "image": "weichai-400kw-silent.png", "sourceNode": "G5hjwgvwXiaYSjkbK8scMBSy6cb" },
-    { "slug": "yuchai-300-silent", "image": "yuchai-300kw-silent.jpg", "sourceNode": "NISawVfD7iZIZkk6R1BcstTY6ff" },
-    { "slug": "yuchai-100-mobile", "image": "yuchai-100kw-mobile.png", "sourceNode": "S1GAwz2cPiVJWYkJj9ycb9636ce" },
-    { "slug": "weichai-500-silent", "image": "weichai-500kw-silent.jpg", "sourceNode": "" },
-    { "slug": "mitsubishi-1000-open", "image": "mitsubishi-1000kw-open.png", "sourceNode": "产品参数库/6.上海菱重/菱重1000KW（S12R-PTA-C）" }
+    {
+      "slug": "cummins-100-silent",
+      "image": "cummins-100kw-silent.jpg",
+      "sourceNode": "MboqwAHUJijitLkUFuZcM2Lz6jb"
+    },
+    {
+      "slug": "mitsubishi-100-open",
+      "image": "mitsubishi-100kw-open.jpg",
+      "sourceNode": "QxoNw21cRiRevPkp9bIcUq456Tc"
+    },
+    {
+      "slug": "perkins-400-silent",
+      "image": "perkins-400kw-silent.jpg",
+      "sourceNode": "APbmwB9YNirqbIkmdalcBsMb6wb"
+    },
+    {
+      "slug": "scania-250-open",
+      "image": "scania-250kw-open.png",
+      "sourceNode": "YD2ew7IvLi6ew5kwUeOcPjIU6bf"
+    },
+    {
+      "slug": "shangchai-300-silent",
+      "image": "shangchai-300kw-silent.jpg",
+      "sourceNode": "O2B2wpzofihioYkUHGtc5LGW6GX"
+    },
+    {
+      "slug": "volvo-400-silent",
+      "image": "volvo-400kw-silent.png",
+      "sourceNode": "INjKwPfaRiDtaJkeRPvcoxrg6pd"
+    },
+    {
+      "slug": "weichai-400-silent",
+      "image": "weichai-400kw-silent.png",
+      "sourceNode": "G5hjwgvwXiaYSjkbK8scMBSy6cb"
+    },
+    {
+      "slug": "yuchai-300-silent",
+      "image": "yuchai-300kw-silent.jpg",
+      "sourceNode": "NISawVfD7iZIZkk6R1BcstTY6ff"
+    },
+    {
+      "slug": "yuchai-100-mobile",
+      "image": "yuchai-100kw-mobile.png",
+      "sourceNode": "S1GAwz2cPiVJWYkJj9ycb9636ce"
+    },
+    {
+      "slug": "weichai-500-silent",
+      "image": "weichai-500kw-silent.jpg",
+      "sourceNode": ""
+    },
+    {
+      "slug": "mitsubishi-1000-open",
+      "image": "mitsubishi-1000kw-open.png",
+      "sourceNode": "产品参数库/6.上海菱重/菱重1000KW（S12R-PTA-C）"
+    },
+    {
+      "slug": "cummins-800-open",
+      "image": "cummins-800kw-open.png",
+      "sourceNode": "产品参数库/15.重康/1.重康国二/800KW重康KTA38-G5-凯晨电力KC-C800.docx"
+    }
   ]
 }

@@ -745,6 +745,29 @@
         "Redundansi N+1 untuk fasilitas kritis",
         "Daya utama di lokasi dengan sambungan listrik lemah atau tidak ada"
       ]
+    },
+    "cummins-800-open": {
+      "name": "Genset diesel Cummins 800 kW tipe terbuka",
+      "description": "Genset diesel Cummins tipe terbuka 800 kW (cadangan 880 kW / 1100 kVA), dirakit di pabrik kami di Yangzhou: 1440 A pada 400/230 V dan 50 Hz, alternator tembaga tanpa sikat KCI-800 (IP23, kelas H), konsumsi 200 g/kWh; untuk beban industri berkelanjutan, data center dan cadangan pabrik.",
+      "features": [
+        "Mesin Cummins KTA38-G5, V12, kapasitas 38 L, 1500 rpm, turbocharger, governor elektronik",
+        "800 kW daya utama / 880 kW cadangan pada 400/230 V, 50 Hz, arus nominal 1440 A",
+        "Alternator sinkron KCI-800 tanpa sikat, proteksi IP23, isolasi kelas H, belitan tembaga, regulasi AVR",
+        "Pendingin air sirkuit tertutup; regulasi tegangan tunak ≤0,5%, deviasi tegangan transien ≤15%, pemulihan tegangan dan frekuensi ≤3 dtk",
+        "Rangka skid terbuka dengan dudukan anti-getaran, siap untuk ruang mesin atau penambahan kabin akustik kemudian"
+      ],
+      "applications": [
+        "Pabrik manufaktur dan lini proses",
+        "Data center dan stasiun telekomunikasi",
+        "Pengolahan air, stasiun pompa dan infrastruktur publik",
+        "Pertambangan, ladang minyak dan lokasi daya utama terpencil"
+      ],
+      "problems": [
+        "Menutup beban prime atau cadangan 800 kW pada satu skid teruji",
+        "Operasi berkelanjutan di lokasi jaringan tidak andal, lemah atau dibatasi arus",
+        "Redundansi N+1 untuk fasilitas industri besar",
+        "Ruang mesin yang siap menerima kabin akustik kemudian tanpa membangun ulang rangka"
+      ]
     }
   },
   "cookie": {
@@ -861,7 +884,10 @@
     "noise102": "102 dB(A) pada 7 m",
     "fuel197g": "sekitar 197 g/kWh pada beban 100%",
     "dimsMhi": "4900 × 2050 × 2600 mm",
-    "weightMhi": "10.500 kg"
+    "weightMhi": "10.500 kg",
+    "fuel200g": "sekitar 200 g/kWh pada beban 100%",
+    "dimsC800": "4450 × 1800 × 2350 mm",
+    "weightC800": "8.000 kg"
   },
   "powerUnits": {
     "kw": "kW",
