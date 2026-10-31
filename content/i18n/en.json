@@ -739,6 +739,29 @@
         "Building N+1 redundancy for large industrial facilities",
         "Preparing a plant room that can later receive an acoustic canopy without rebuilding the frame"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Cummins 450kW Open Diesel Generator",
+      "description": "A 450 kW prime (500 kW standby, 625 kVA standby) open-skid Cummins KTA19-G8E diesel generator set built at our Yangzhou factory, delivering 810 A at 400/230 V and 50 Hz with a KCI-450 brushless copper alternator (IP23, Class H) and about 196 g/kWh fuel consumption; built for industrial prime power, process plants, water pumping stations and reliable standby duty.",
+      "features": [
+        "Cummins KTA19-G8E inline-six engine, 19 L displacement, 1500 rpm, turbocharged with electronic injection speed control",
+        "450 kW prime / 500 kW standby at 400/230 V, 50 Hz, rated current 810 A",
+        "KCI-450 brushless synchronous alternator, IP23 protection, Class H insulation, copper winding, self-excited AVR regulation",
+        "Closed-loop water cooling; steady-state voltage regulation ≤0.5%, transient voltage deviation ≤15%, voltage and frequency recovery within ≤3 s",
+        "Open steel skid with anti-vibration mounts and forklift points, suitable for dedicated plant rooms or later silent-canopy conversion"
+      ],
+      "applications": [
+        "Manufacturing plants and process lines",
+        "Water treatment works and pumping stations",
+        "Commercial buildings, schools and logistics facilities",
+        "Remote prime-power sites and backup for processing equipment"
+      ],
+      "problems": [
+        "Supplying 450 kW continuous or 500 kW standby load from one proven Cummins skid",
+        "Keeping process equipment running when utility supply fails or is current-capped",
+        "Balancing reliable output with compact dimensions of 3300 × 1400 × 1970 mm",
+        "Building a room-ready open set that can later receive a silent canopy without changing the core frame"
+      ]
     }
   },
   "aboutExtended": {
@@ -930,7 +953,10 @@
     "weightMhi": "10,500 kg",
     "fuel200g": "approx. 200 g/kWh at 100% load",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8,000 kg"
+    "weightC800": "8,000 kg",
+    "fuel196g": "approx. 196 g/kWh at 100% load",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3,900 kg"
   },
   "powerUnits": {
     "kw": "kW",

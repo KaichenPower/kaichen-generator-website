@@ -768,6 +768,29 @@
         "Dự phòng N+1 cho các nhà máy công nghiệp lớn",
         "Phòng máy sẵn sàng lắp vỏ cách âm về sau mà không phải làm lại khung đế"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Máy phát điện diesel Cummins 450 kW kiểu hở",
+      "description": "Máy phát diesel Cummins kiểu hở 450 kW (dự phòng 500 kW / 625 kVA), lắp ráp tại nhà máy Yangzhou của chúng tôi: 810 A tại 400/230 V và 50 Hz, alternator đồng không chổi than KCI-450 dây đồng (IP23, cấp H), tiêu hao khoảng 196 g/kWh; dùng cho tải công nghiệp liên tục, dây chuyền công nghệ, trạm bơm và nguồn dự phòng đáng tin cậy.",
+      "features": [
+        "Động cơ Cummins KTA19-G8E thẳng hàng 6 xi-lanh, dung tích 19 L, 1500 vòng/phút, tăng áp, điều khiển phun điện tử",
+        "450 kW liên tục / 500 kW dự phòng tại 400/230 V, 50 Hz, dòng định mức 810 A",
+        "Máy phát đồng bộ KCI-450 không chổi than, bảo vệ IP23, cách điện cấp H, dây quấn đồng, tự kích hoạt điều chỉnh AVR",
+        "Làm mát nước tuần hoàn kín; ổn định điện áp ở chế độ đứng yên ≤0,5%, sai lệch điện áp tức thời ≤15%, khôi phục điện áp và tần số trong ≤3 s",
+        "Khung thép hở có đệm chống rung và điểm nâng cho xe nâng, sẵn sàng cho phòng máy hoặc lắp thêm vỏ cách âm về sau"
+      ],
+      "applications": [
+        "Nhà máy sản xuất và dây chuyền công nghệ",
+        "Nhà máy xử lý nước và trạm bơm",
+        "Tòa nhà thương mại, trường học và khu logistics",
+        "Các điểm nguồn chính ở vùng xa và nguồn dự phòng cho thiết bị công nghệ"
+      ],
+      "problems": [
+        "Đáp ứng 450 kW tải liên tục hoặc 500 kW dự phòng trên một cụm Cummins đã kiểm định",
+        "Giữ thiết bị công nghệ hoạt động khi lưới điện mất hoặc bị giới hạn dòng",
+        "Kết hợp công suất ổn định với kích thước gọn 3300 × 1400 × 1970 mm",
+        "Chuẩn bị cụm mở sẵn sàng cho phòng máy, có thể lắp vỏ cách âm về sau mà không làm lại khung đế"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10.500 kg",
     "fuel200g": "khoảng 200 g/kWh ở tải 100%",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8.000 kg"
+    "weightC800": "8.000 kg",
+    "fuel196g": "khoảng 196 g/kWh ở tải 100%",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3.900 kg"
   },
   "powerUnits": {
     "kw": "kW",

@@ -59,6 +59,12 @@
       "slug": "cummins-800-open",
       "image": "cummins-800kw-open.png",
       "sourceNode": "产品参数库/15.重康/1.重康国二/800KW重康KTA38-G5-凯晨电力KC-C800.docx"
+    },
+    {
+      "slug": "cummins-450-open",
+      "image": "cummins-450kw-open.png",
+      "sourceNode": "产品参数库/15.重康/2.重康国三/50HZ/450KW重康KTA19-G8E-凯晨电力KC-C450.docx",
+      "sourceImage": "产品图片抠图/Open Type/H33fd51be66254b36b0c870a3b8f1b339I.png"
     }
   ]
 }

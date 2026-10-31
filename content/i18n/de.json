@@ -768,6 +768,29 @@
         "N+1-Redundanz für große Industrieanlagen",
         "Maschinenraum, der nachträglich eine Schallschutzhaube ohne Rahmenumbau aufnehmen kann"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Cummins 450 kW Dieselgenerator, offene Bauart",
+      "description": "Offener Cummins-Dieselgenerator mit 450 kW Dauerleistung (500 kW Reserve, 625 kVA Reserve), gebaut in unserem Yangzhou-Werk: 810 A bei 400/230 V und 50 Hz, bürstenlose Kupferlichtmaschine KCI-450 (IP23, Klasse H), rund 196 g/kWh Verbrauch; für industrielle Dauerlast, Prozessanlagen, Pumpwerke und zuverlässige Reserve.",
+      "features": [
+        "Cummins KTA19-G8E Reihensechszylinder, 19 L Hubraum, 1500 U/min, turboaufgeladen, elektronische Einspritzregelung",
+        "450 kW Dauerleistung / 500 kW Reserve bei 400/230 V, 50 Hz, Nennstrom 810 A",
+        "Bürstenloser Synchrongenerator KCI-450, Schutzart IP23, Isolationsklasse H, Kupferwicklung, AVR-Selbstregelung",
+        "Geschlossener Wasserkreislauf; Spannungsregelung im Beharrungszustand ≤0,5 %, transienter Spannungswert ≤15 %, Rückkehr von Spannung und Frequenz ≤3 s",
+        "Offener Stahl-Grundrahmen mit Schwingungsdämpfern und Gabelstaplerpunkten, für Maschinenräume oder nachträglichen Schallschutzeinbau"
+      ],
+      "applications": [
+        "Produktionswerke und Fertigungslinien",
+        "Wasserwerke und Pumpstationen",
+        "Gewerbebauten, Schulen und Logistikstandorte",
+        "Abgelegene Grundlaststandorte und Reserve für Prozessanlagen"
+      ],
+      "problems": [
+        "450 kW Dauerlast oder 500 kW Notlast mit einem bewährten Cummins-Skid abdecken",
+        "Prozesstechnik bei Netzausfall oder Leistungsbegrenzung weiter betreiben",
+        "Zuverlässige Leistung mit kompakten Abmessungen 3300 × 1400 × 1970 mm vereinen",
+        "Ein maschinenraumfertiges offenes Aggregat schaffen, das später ohne Rahmenumbau eine Schallschutzhaube erhält"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10.500 kg",
     "fuel200g": "ca. 200 g/kWh bei 100 % Last",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8.000 kg"
+    "weightC800": "8.000 kg",
+    "fuel196g": "ca. 196 g/kWh bei 100 % Last",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3.900 kg"
   },
   "powerUnits": {
     "kw": "kW",

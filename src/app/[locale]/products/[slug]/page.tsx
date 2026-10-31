@@ -89,6 +89,9 @@ const VALUE_MAP: Record<string, string> = {
   'approx. 200 g/kWh at 100% load': 'fuel200g',
   '4450 × 1800 × 2350 mm': 'dimsC800',
   '8,000 kg': 'weightC800',
+  'approx. 196 g/kWh at 100% load': 'fuel196g',
+  '3300 × 1400 × 1970 mm': 'dimsC450',
+  '3,900 kg': 'weightC450',
 };
 
 export function generateStaticParams() {

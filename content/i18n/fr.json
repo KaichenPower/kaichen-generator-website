@@ -768,6 +768,29 @@
         "Redondance N+1 pour grandes installations industrielles",
         "Local préparé pour recevoir ultérieurement un capot insonorisé sans reconstruire le châssis"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Groupe électrogène diesel Cummins 450 kW ouvert",
+      "description": "Groupe électrogène diesel Cummins ouvert de 450 kW (500 kW en secours, 625 kVA en secours), assemblé dans notre usine de Yangzhou : 810 A à 400/230 V et 50 Hz, alternateur cuivre sans balais KCI-450 (IP23, classe H), consommation d’environ 196 g/kWh ; pour la puissance industrielle continue, les lignes de process, les stations de pompage et le secours fiable.",
+      "features": [
+        "Moteur Cummins KTA19-G8E, six cylindres en ligne, cylindrée 19 L, 1500 tr/min, turbocompressé, régulation électronique de l’injection",
+        "450 kW en régime permanent / 500 kW en secours à 400/230 V, 50 Hz, courant nominal 810 A",
+        "Alternateur synchrone sans balais KCI-450, protection IP23, isolation classe H, bobinage cuivre, auto-excitation AVR",
+        "Refroidissement à eau en circuit fermé ; régulation de tension établie ≤0,5 %, écart transitoire ≤15 %, retour tension-fréquence ≤3 s",
+        "Châssis acier ouvert avec supports antivibratiles et points de levage pour chariot élévateur, adapté à une salle des machines ou une capotisation acoustique ultérieure"
+      ],
+      "applications": [
+        "Usines de fabrication et lignes de process",
+        "Usines de traitement de l’eau et stations de pompage",
+        "Bâtiments commerciaux, établissements scolaires et sites logistiques",
+        "Sites isolés en puissance de base et secours pour équipements de process"
+      ],
+      "problems": [
+        "Porter 450 kW en charge continue ou 500 kW en secours sur un seul ensemble Cummins éprouvé sur patins",
+        "Maintenir les équipements de process en marche lors d’une panne ou d’une limitation du réseau public",
+        "Allier sortie fiable et encombrement contenu : 3300 × 1400 × 1970 mm",
+        "Réaliser un groupe prêt pour salle des machines, avec possibilité ultérieure d’ajouter un capot silencieux sans modifier le châssis principal"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10 500 kg",
     "fuel200g": "env. 200 g/kWh à 100 % de charge",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8 000 kg"
+    "weightC800": "8 000 kg",
+    "fuel196g": "env. 196 g/kWh à 100 % de charge",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3 900 kg"
   },
   "powerUnits": {
     "kw": "kW",

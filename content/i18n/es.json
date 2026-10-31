@@ -768,6 +768,29 @@
         "Redundancia N+1 para grandes instalaciones industriales",
         "Sala preparada para añadir después una cabina insonorizada sin reconstruir el bastidor"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Generador diésel Cummins 450 kW tipo abierto",
+      "description": "Generador diésel Cummins tipo abierto de 450 kW (500 kW de respaldo, 625 kVA de respaldo), fabricado en nuestra fábrica de Yangzhou: 810 A a 400/230 V y 50 Hz, alternador de cobre sin escobillas KCI-450 (IP23, clase H), consumo de aprox. 196 g/kWh; para potencia industrial continua, líneas de proceso, estaciones de bombeo y reserva fiable.",
+      "features": [
+        "Motor Cummins KTA19-G8E de seis cilindros en línea, cilindrada 19 L, 1500 rpm, turbocompresor y control electrónico de inyección",
+        "450 kW primarios / 500 kW de respaldo a 400/230 V, 50 Hz, corriente nominal 810 A",
+        "Alternador síncrono sin escobillas KCI-450, protección IP23, aislamiento clase H, bobinado de cobre, autoexcitación con AVR",
+        "Refrigeración por agua en circuito cerrado; regulación de tensión en estable ≤0,5%, desviación transitoria ≤15%, recuperación de tensión y frecuencia ≤3 s",
+        "Bastidor abierto de acero con montajes antivibratorios y puntos para carretilla elevadora, apto para sala de máquinas o cabina insonorizada posterior"
+      ],
+      "applications": [
+        "Plantas de fabricación y líneas de proceso",
+        "Tratamiento de agua y estaciones de bombeo",
+        "Edificios comerciales, escuelas e instalaciones logísticas",
+        "Emplazamientos remotos de potencia base y respaldo para equipos de proceso"
+      ],
+      "problems": [
+        "Cubrir 450 kW de carga continua o 500 kW de respaldo con un único conjunto Cummins probado sobre patines",
+        "Mantener los equipos de proceso en marcha ante un fallo o límite de la red pública",
+        "Equilibrar una salida fiable con dimensiones compactas de 3300 × 1400 × 1970 mm",
+        "Preparar un conjunto abierto listo para sala de máquinas que pueda recibir después una cabina silenciosa sin reconstruir el bastidor"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10.500 kg",
     "fuel200g": "aprox. 200 g/kWh a plena carga",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8.000 kg"
+    "weightC800": "8.000 kg",
+    "fuel196g": "aprox. 196 g/kWh a plena carga",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3.900 kg"
   },
   "powerUnits": {
     "kw": "kW",

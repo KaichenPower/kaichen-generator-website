@@ -768,6 +768,29 @@
         "Redundância N+1 para grandes instalações industriais",
         "Sala preparada para receber depois uma cabine acústica sem reconstruir a base"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Gerador diesel Cummins 450 kW tipo aberto",
+      "description": "Gerador diesel Cummins tipo aberto de 450 kW (500 kW de reserva, 625 kVA de reserva), fabricado em nossa fábrica em Yangzhou: 810 A a 400/230 V e 50 Hz, alternador de cobre sem escovas KCI-450 (IP23, classe H), consumo de cerca de 196 g/kWh; para potência industrial contínua, linhas de processo, estações de bombeamento e reserva confiável.",
+      "features": [
+        "Motor Cummins KTA19-G8E de seis cilindros em linha, cilindrada 19 L, 1500 rpm, turboalimentado e controle eletrônico da injeção",
+        "450 kW em regime contínuo / 500 kW de reserva a 400/230 V, 50 Hz, corrente nominal 810 A",
+        "Alternador síncrono sem escovas KCI-450, proteção IP23, isolamento classe H, enrolamento de cobre, excitação própria com AVR",
+        "Resfriamento a água em circuito fechado; regulação de tensão estável ≤0,5%, desvio transitório ≤15%, retorno de tensão e frequência ≤3 s",
+        "Base aberta em aço com montagens antivibratórias e pontos para empilhadeira, pronta para sala de máquinas ou cabine acústica posterior"
+      ],
+      "applications": [
+        "Fábricas de manufatura e linhas de processo",
+        "Estações de tratamento de água e bombeamento",
+        "Edifícios comerciais, escolas e unidades logísticas",
+        "Locais remotos de potência base e reserva para equipamentos de processo"
+      ],
+      "problems": [
+        "Atender 450 kW contínuos ou 500 kW de reserva em um único skid Cummins comprovado",
+        "Manter equipamentos de processo em operação durante falha ou limite da rede pública",
+        "Equilibrar saída confiável com dimensões compactas de 3300 × 1400 × 1970 mm",
+        "Preparar um conjunto aberto pronto para sala de máquinas, que depois possa receber cabine silenciosa sem reconstruir a base"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10.500 kg",
     "fuel200g": "aprox. 200 g/kWh a 100% de carga",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8.000 kg"
+    "weightC800": "8.000 kg",
+    "fuel196g": "aprox. 196 g/kWh a 100% de carga",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3.900 kg"
   },
   "powerUnits": {
     "kw": "kW",

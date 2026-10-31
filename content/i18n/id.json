@@ -768,6 +768,29 @@
         "Redundansi N+1 untuk fasilitas industri besar",
         "Ruang mesin yang siap menerima kabin akustik kemudian tanpa membangun ulang rangka"
       ]
+    },
+    "cummins-450-open": {
+      "name": "Genset diesel Cummins 450 kW tipe terbuka",
+      "description": "Genset diesel Cummins tipe terbuka 450 kW (cadangan 500 kW / 625 kVA), dirakit di pabrik kami di Yangzhou: 810 A pada 400/230 V dan 50 Hz, alternator tembaga tanpa sikat KCI-450 (IP23, kelas H), konsumsi sekitar 196 g/kWh; untuk daya industri berkelanjutan, lini proses, stasiun pompa dan cadangan andal.",
+      "features": [
+        "Mesin Cummins KTA19-G8E enam silinder segaris, kapasitas 19 L, 1500 rpm, turbocharger, kontrol injeksi elektronik",
+        "450 kW daya utama / 500 kW cadangan pada 400/230 V, 50 Hz, arus nominal 810 A",
+        "Alternator sinkron KCI-450 tanpa sikat, proteksi IP23, isolasi kelas H, belitan tembaga, eksitasi sendiri dengan AVR",
+        "Pendingin air sirkuit tertutup; regulasi tegangan tunak ≤0,5%, deviasi tegangan transien ≤15%, pemulihan tegangan dan frekuensi ≤3 dtk",
+        "Rangka baja terbuka dengan dudukan anti-getaran dan titik angkat forklift, siap untuk ruang mesin atau kabin akustik kemudian"
+      ],
+      "applications": [
+        "Pabrik manufaktur dan lini proses",
+        "Pengolahan air dan stasiun pompa",
+        "Gedung komersial, sekolah dan fasilitas logistik",
+        "Lokasi daya utama terpencil dan cadangan peralatan proses"
+      ],
+      "problems": [
+        "Menutup beban utama 450 kW atau cadangan 500 kW pada satu skid Cummins teruji",
+        "Menjaga peralatan proses tetap beroperasi saat jaringan listrik padam atau dibatasi arus",
+        "Menggabungkan keluaran andal dengan dimensi ringkas 3300 × 1400 × 1970 mm",
+        "Menyiapkan unit terbuka siap ruang mesin yang dapat menerima kabin senyap kemudian tanpa membangun ulang rangka"
+      ]
     }
   },
   "cookie": {
@@ -887,7 +910,10 @@
     "weightMhi": "10.500 kg",
     "fuel200g": "sekitar 200 g/kWh pada beban 100%",
     "dimsC800": "4450 × 1800 × 2350 mm",
-    "weightC800": "8.000 kg"
+    "weightC800": "8.000 kg",
+    "fuel196g": "sekitar 196 g/kWh pada beban 100%",
+    "dimsC450": "3300 × 1400 × 1970 mm",
+    "weightC450": "3.900 kg"
   },
   "powerUnits": {
     "kw": "kW",
