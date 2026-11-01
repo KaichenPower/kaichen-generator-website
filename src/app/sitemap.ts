@@ -20,7 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
 
     // Product category landing pages
-    for (const category of ['cummins','sdec','weichai','volvo','yuchai','kaichen','silent-canopy','rainproof-canopy','containerized-silent','mobile-silent','mobile-trailer','other-oem']) {
+    for (const category of ['cummins','sdec','weichai','volvo','yuchai','kaichen','silent-canopy','rainproof-canopy','containerized-silent','mobile-silent','mobile-trailer']) {
       urls.push({ url: `${domain}/${locale}/products/categories/${category}/`, changeFrequency: 'monthly', priority: 0.7 });
     }
 

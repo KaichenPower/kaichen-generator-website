@@ -21,7 +21,6 @@ const categorySlugs = [
   'containerized-silent',
   'mobile-silent',
   'mobile-trailer',
-  'other-oem',
 ] as const;
 
 type Props = { params: Promise<{ locale: string; category: string }> };

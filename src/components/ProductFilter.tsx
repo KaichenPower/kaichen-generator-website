@@ -23,6 +23,19 @@ const powerRanges = [
 ];
 
 const PER_PAGE = 12;
+const visibleCategorySlugs = [
+  'cummins',
+  'sdec',
+  'weichai',
+  'volvo',
+  'yuchai',
+  'kaichen',
+  'silent-canopy',
+  'rainproof-canopy',
+  'containerized-silent',
+  'mobile-silent',
+  'mobile-trailer',
+];
 
 export default function ProductFilter({ products }: { products: Product[] }) {
   const pp = useTranslations('productsPage');
@@ -45,7 +58,7 @@ export default function ProductFilter({ products }: { products: Product[] }) {
 
   const brands = Array.from(new Set(products.map((p) => p.brand))).sort();
   const types = Array.from(new Set(products.map((p) => p.type)));
-  const categories = Array.from(new Set(products.map((p) => p.category || 'other-oem'))).sort();
+  const categories = visibleCategorySlugs;
   const categoryLabel = (c: string) => {
     try { return pc(`${c}.title`); } catch { return c; }
   };
