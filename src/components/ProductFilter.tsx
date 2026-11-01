@@ -60,7 +60,7 @@ export default function ProductFilter({ products }: { products: Product[] }) {
   const types = Array.from(new Set(products.map((p) => p.type)));
   const categories = visibleCategorySlugs;
   const categoryLabel = (c: string) => {
-    try { return pc(`${c}.title`); } catch { return c; }
+    try { return pc(`${c}.short`); } catch { return c; }
   };
 
   const filtered = products.filter((p) => {
@@ -92,29 +92,6 @@ export default function ProductFilter({ products }: { products: Product[] }) {
   return (
     <>
       <div className="filter-bar">
-        <div className="filter-group">
-          <label>{pp('filterByBrand')}</label>
-          <div className="filter-options">
-            <button
-              type="button"
-              className={`filter-option${brand === 'all' ? ' is-active' : ''}`}
-              onClick={() => change(setBrand)('all')}
-            >
-              {pp('all')}
-            </button>
-            {brands.map((b) => (
-              <button
-                key={b}
-                type="button"
-                className={`filter-option${brand === b ? ' is-active' : ''}`}
-                onClick={() => change(setBrand)(b)}
-              >
-                {b}
-              </button>
-            ))}
-          </div>
-        </div>
-
         <div className="filter-group">
           <label>{pp('filterByCategory')}</label>
           <div className="filter-options">

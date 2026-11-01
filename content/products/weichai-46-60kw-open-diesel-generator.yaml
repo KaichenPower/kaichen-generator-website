@@ -1,0 +1,24 @@
+name: Weichai 46-60kW Open Diesel Generator
+image: /images/products/weichai-46-60kw-open-diesel-generator.jpg
+brand: Weichai
+powerKVA: 75
+type: open
+category: weichai
+description: Weichai 46-60 kW diesel generator set built at our Yangzhou factory, supplied under the weichai product family for export standby and prime power projects.
+features:
+  - Weichai engine series, 1500 rpm, 50Hz, 3-phase output
+  - 46-60 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 46 kW / 58 kVA
+  Standby power: 60 kW / 75 kVA
+  Engine: Weichai series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 102 dB(A) at 7m
+  Frame: Heavy-duty skid with anti-vibration mounts

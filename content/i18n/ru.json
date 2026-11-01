@@ -793,6 +793,1084 @@
         "Сбалансировать надёжную мощность и компактные габариты 3300 × 1400 × 1970 мм",
         "Подготовить открытый агрегат, который можно позднее оборудовать бесшумным кожухом без переделки основной рамы"
       ]
+    },
+    "sdec-100-130kw-open-diesel-generator": {
+      "name": "SDEC 100-130 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 100-130 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1200-1500kw-open-diesel-generator": {
+      "name": "SDEC 1200-1500 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 1200-1500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1200-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-140-200kw-open-diesel-generator": {
+      "name": "SDEC 140-200 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 140-200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "140-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1600-2000kw-open-diesel-generator": {
+      "name": "SDEC 1600-2000 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 1600-2000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-20-30kw-open-diesel-generator": {
+      "name": "SDEC 20-30 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 20-30 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "20-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-210-320kw-open-diesel-generator": {
+      "name": "SDEC 210-320 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 210-320 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "210-320 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-330-400kw-open-diesel-generator": {
+      "name": "SDEC 330-400 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 330-400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "330-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-40-60kw-open-diesel-generator": {
+      "name": "SDEC 40-60 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 40-60 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-410-550kw-open-diesel-generator": {
+      "name": "SDEC 410-550 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 410-550 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-560-650kw-open-diesel-generator": {
+      "name": "SDEC 560-650 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 560-650 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-650 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-660-860kw-open-diesel-generator": {
+      "name": "SDEC 660-860 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 660-860 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "660-860 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-70-90kw-open-diesel-generator": {
+      "name": "SDEC 70-90 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 70-90 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "70-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-870-1100kw-open-diesel-generator": {
+      "name": "SDEC 870-1100 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор SDEC 870-1100 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы SDEC для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "870-1100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-100-140kw-open-diesel-generator": {
+      "name": "Cummins 100-140 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 100-140 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-150-190kw-open-diesel-generator": {
+      "name": "Cummins 150-190 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 150-190 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-190 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-290kw-open-diesel-generator": {
+      "name": "Cummins 200-290 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 200-290 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-290 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-300-350kw-open-diesel-generator": {
+      "name": "Cummins 300-350 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 300-350 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-30-50kw-open-diesel-generator": {
+      "name": "Cummins 30-50 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-360-400kw-open-diesel-generator": {
+      "name": "Cummins 360-400 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 360-400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "360-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-60-90kw-open-diesel-generator": {
+      "name": "Cummins 60-90 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 60-90 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1000-1200kw-open-diesel-generator": {
+      "name": "Cummins 1000-1200 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 1000-1200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1210-1600kw-open-diesel-generator": {
+      "name": "Cummins 1210-1600 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 1210-1600 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1210-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1700-2000kw-open-diesel-generator": {
+      "name": "Cummins 1700-2000 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 1700-2000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-300kw-open-diesel-generator": {
+      "name": "Cummins 200-300 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 200-300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-320-500kw-open-diesel-generator": {
+      "name": "Cummins 320-500 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 320-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "320-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-600-800kw-open-diesel-generator": {
+      "name": "Cummins 600-800 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 600-800 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-810-900kw-open-diesel-generator": {
+      "name": "Cummins 810-900 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Cummins 810-900 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Cummins для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150kw-open-diesel-generator": {
+      "name": "Kaichen 150 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 150-150 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-350kw-open-diesel-generator": {
+      "name": "Kaichen 200-350 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 200-350 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-open-diesel-generator": {
+      "name": "Kaichen 30-50 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-open-diesel-generator": {
+      "name": "Kaichen 400-500 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 400-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-700kw-open-diesel-generator": {
+      "name": "Kaichen 500-700 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 500-700 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-700 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-700-900kw-open-diesel-generator": {
+      "name": "Kaichen 700-900 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 700-900 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "700-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-80-120kw-open-diesel-generator": {
+      "name": "Kaichen 80-120 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 80-120 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "80-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-900-1000kw-open-diesel-generator": {
+      "name": "Kaichen 900-1000 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Kaichen 900-1000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Kaichen для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-200-250kw-open-diesel-generator": {
+      "name": "Volvo 200-250 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Volvo 200-250 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Volvo Penta для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-260-360kw-open-diesel-generator": {
+      "name": "Volvo 260-360 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Volvo 260-360 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Volvo Penta для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "260-360 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-370-500kw-open-diesel-generator": {
+      "name": "Volvo 370-500 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Volvo 370-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Volvo Penta для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "370-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-110-130kw-open-diesel-generator": {
+      "name": "Weichai 110-130 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 110-130 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "110-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-132-160kw-open-diesel-generator": {
+      "name": "Weichai 132-160 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 132-160 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "132-160 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-1600-2400kw-open-diesel-generator": {
+      "name": "Weichai 1600-2400 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 1600-2400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-165-260kw-open-diesel-generator": {
+      "name": "Weichai 165-260 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 165-260 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "165-260 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-16-30kw-open-diesel-generator": {
+      "name": "Weichai 16-30 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 16-30 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-270-400kw-open-diesel-generator": {
+      "name": "Weichai 270-400 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 270-400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "270-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-32-45kw-open-diesel-generator": {
+      "name": "Weichai 32-45 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 32-45 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "32-45 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-46-60kw-open-diesel-generator": {
+      "name": "Weichai 46-60 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 46-60 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "46-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-500-600kw-open-diesel-generator": {
+      "name": "Weichai 500-600 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 500-600 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-610-890kw-open-diesel-generator": {
+      "name": "Weichai 610-890 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 610-890 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "610-890 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-62-90kw-open-diesel-generator": {
+      "name": "Weichai 62-90 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 62-90 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "62-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-900-1500kw-open-diesel-generator": {
+      "name": "Weichai 900-1500 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 900-1500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-91-100kw-open-diesel-generator": {
+      "name": "Weichai 91-100 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Weichai 91-100 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Weichai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "91-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1100-1300kw-open-diesel-generator": {
+      "name": "Yuchai 1100-1300 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 1100-1300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1100-1300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-125-140kw-open-diesel-generator": {
+      "name": "Yuchai 125-140 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 125-140 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "125-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1400-1600kw-open-diesel-generator": {
+      "name": "Yuchai 1400-1600 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 1400-1600 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1400-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-145-180kw-open-diesel-generator": {
+      "name": "Yuchai 145-180 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 145-180 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "145-180 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-16-30kw-open-diesel-generator": {
+      "name": "Yuchai 16-30 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 16-30 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1700-2200kw-open-diesel-generator": {
+      "name": "Yuchai 1700-2200 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 1700-2200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-190-300kw-open-diesel-generator": {
+      "name": "Yuchai 190-300 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 190-300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "190-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-2300-3000kw-open-diesel-generator": {
+      "name": "Yuchai 2300-3000 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 2300-3000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "2300-3000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-310-400kw-open-diesel-generator": {
+      "name": "Yuchai 310-400 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 310-400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "310-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-40-60kw-open-diesel-generator": {
+      "name": "Yuchai 40-60 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 40-60 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-410-550kw-open-diesel-generator": {
+      "name": "Yuchai 410-550 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 410-550 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-560-610kw-open-diesel-generator": {
+      "name": "Yuchai 560-610 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 560-610 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-610 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-620-800kw-open-diesel-generator": {
+      "name": "Yuchai 620-800 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 620-800 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "620-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-65-90kw-open-diesel-generator": {
+      "name": "Yuchai 65-90 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 65-90 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "65-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-810-1000kw-open-diesel-generator": {
+      "name": "Yuchai 810-1000 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 810-1000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-92-120kw-open-diesel-generator": {
+      "name": "Yuchai 92-120 kW Открытый дизель-генератор",
+      "description": "Дизель-генератор Yuchai 92-120 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Дизель-генераторы Yuchai для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "92-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1200kw-silent-diesel-generator": {
+      "name": "Kaichen 1000-1200 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 1000-1200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-silent-diesel-generator": {
+      "name": "Kaichen 100-150 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 100-150 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-200kw-silent-diesel-generator": {
+      "name": "Kaichen 160-200 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 160-200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-250kw-silent-diesel-generator": {
+      "name": "Kaichen 250 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 250-250 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "250-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-400kw-silent-diesel-generator": {
+      "name": "Kaichen 300-400 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 300-400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-silent-diesel-generator": {
+      "name": "Kaichen 400-500 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 400-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-600kw-silent-diesel-generator": {
+      "name": "Kaichen 500-600 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 500-600 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator": {
+      "name": "Kaichen 600-800 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 600-800 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-100kw-silent-diesel-generator": {
+      "name": "Kaichen 60-100 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 60-100 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Бесшумные дизель-генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 300-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Всепогодные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Всепогодные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator-2": {
+      "name": "Kaichen 600-800 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 600-800 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Всепогодные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-200kw-silent-diesel-generator": {
+      "name": "Kaichen 60-200 kW Бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 60-200 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Всепогодные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1500kw-containerized-diesel-generator": {
+      "name": "Kaichen 1000-1500 kW Контейнерный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 1000-1500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Контейнерные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-containerized-diesel-generator": {
+      "name": "Kaichen 100-150 kW Контейнерный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 100-150 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Контейнерные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1500-2400kw-containerized-diesel-generator": {
+      "name": "Kaichen 1500-2400 kW Контейнерный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 1500-2400 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Контейнерные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1500-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-300kw-containerized-diesel-generator": {
+      "name": "Kaichen 160-300 kW Контейнерный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 160-300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Контейнерные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-900kw-containerized-diesel-generator": {
+      "name": "Kaichen 400-900 kW Контейнерный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 400-900 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Контейнерные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-120kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 100-120 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 100-120 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-120-150kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 120-150 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 120-150 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "120-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-300kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 200-300 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 200-300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-3": {
+      "name": "Kaichen 30-50 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 400-500 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 400-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 800-1000 kW Передвижной дизель-генератор",
+      "description": "Дизель-генератор Kaichen 800-1000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные генераторы на прицепе для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150-300kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 150-300 kW Передвижной бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 150-300 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные бесшумные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW Передвижной бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 30-50 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные бесшумные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW Передвижной бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 300-500 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные бесшумные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-75-120kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 75-120 kW Передвижной бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 75-120 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные бесшумные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "75-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 800-1000 kW Передвижной бесшумный дизель-генератор",
+      "description": "Дизель-генератор Kaichen 800-1000 кВт, собранный на нашем заводе в Янчжоу и поставляемый в семействе Передвижные бесшумные генераторы для экспортного резерва и основного электроснабжения.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
     }
   },
   "cookie": {
@@ -983,47 +2061,58 @@
   "productCategories": {
     "cummins": {
       "title": "Дизель-генераторы Cummins",
-      "description": "Открытые и резервные дизель-генераторы Cummins для объектов 50–2000 кВт, единый бренд для экспортных запросов."
+      "description": "Открытые и резервные дизель-генераторы Cummins для объектов 50–2000 кВт, единый бренд для экспортных запросов.",
+      "short": "Cummins"
     },
     "sdec": {
       "title": "Дизель-генераторы SDEC",
-      "description": "Дизель-генераторы SDEC мощностью от 20 до 2000 кВт для промышленного и коммерческого резервирования."
+      "description": "Дизель-генераторы SDEC мощностью от 20 до 2000 кВт для промышленного и коммерческого резервирования.",
+      "short": "SDEC"
     },
     "weichai": {
       "title": "Дизель-генераторы Weichai",
-      "description": "Дизель-генераторы Weichai мощностью 16–2400 кВт с широким диапазоном мощности для промышленности."
+      "description": "Дизель-генераторы Weichai мощностью 16–2400 кВт с широким диапазоном мощности для промышленности.",
+      "short": "Weichai"
     },
     "volvo": {
       "title": "Дизель-генераторы Volvo Penta",
-      "description": "Дизель-генераторы Volvo Penta 200–500 кВт для надёжного коммерческого и промышленного резерва."
+      "description": "Дизель-генераторы Volvo Penta 200–500 кВт для надёжного коммерческого и промышленного резерва.",
+      "short": "Volvo"
     },
     "yuchai": {
       "title": "Дизель-генераторы Yuchai",
-      "description": "Дизель-генераторы Yuchai мощностью 16–3000 кВт для строительства, промышленности и мобильной энергетики."
+      "description": "Дизель-генераторы Yuchai мощностью 16–3000 кВт для строительства, промышленности и мобильной энергетики.",
+      "short": "Yuchai"
     },
     "kaichen": {
       "title": "Дизель-генераторы Kaichen",
-      "description": "Дизель-генераторы Kaichen мощностью 30–1000 кВт с балансом цены, сроков и экспортной поддержки."
+      "description": "Дизель-генераторы Kaichen мощностью 30–1000 кВт с балансом цены, сроков и экспортной поддержки.",
+      "short": "Kaichen"
     },
     "silent-canopy": {
       "title": "Бесшумные дизель-генераторы",
-      "description": "Дизель-генераторы в шумозащитном кожухе для городских объектов, больниц, ритейла и мест с низкими требованиями к шуму."
+      "description": "Дизель-генераторы в шумозащитном кожухе для городских объектов, больниц, ритейла и мест с низкими требованиями к шуму.",
+      "short": "Тихий"
     },
     "rainproof-canopy": {
       "title": "Всепогодные генераторы",
-      "description": "Всепогодные генераторы для открытых площадок, где нужна защита от дождя без полного шумозащитного кожуха."
+      "description": "Всепогодные генераторы для открытых площадок, где нужна защита от дождя без полного шумозащитного кожуха.",
+      "short": "Всепогодный"
     },
     "containerized-silent": {
       "title": "Контейнерные генераторы",
-      "description": "Контейнерные генераторные станции 100–2400 кВт для экспортных проектов, удалённых объектов и непрерывной работы."
+      "description": "Контейнерные генераторные станции 100–2400 кВт для экспортных проектов, удалённых объектов и непрерывной работы.",
+      "short": "Контейнер"
     },
     "mobile-silent": {
       "title": "Передвижные бесшумные генераторы",
-      "description": "Передвижные генераторные установки в шумозащитном кожухе для аренды, мероприятий и временного электроснабжения."
+      "description": "Передвижные генераторные установки в шумозащитном кожухе для аренды, мероприятий и временного электроснабжения.",
+      "short": "Моб. тихий"
     },
     "mobile-trailer": {
       "title": "Передвижные генераторы на прицепе",
-      "description": "Дизель-генераторы на прицепе для дорожного строительства, горнодобычи, мероприятий и полевого электроснабжения."
+      "description": "Дизель-генераторы на прицепе для дорожного строительства, горнодобычи, мероприятий и полевого электроснабжения.",
+      "short": "Прицеп"
     },
     "other-oem": {
       "title": "Другие OEM-бренды двигателей",

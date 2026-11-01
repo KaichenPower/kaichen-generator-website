@@ -1,0 +1,25 @@
+name: Kaichen 1500-2400kW Containerized Diesel Generator
+image: /images/products/kaichen-1500-2400kw-containerized-diesel-generator.jpg
+brand: Kaichen
+powerKVA: 3000
+type: container
+category: containerized-silent
+description: Kaichen 1500-2400 kW diesel generator set built at our Yangzhou factory, supplied under the containerized-silent product family for export standby and prime power projects.
+features:
+  - Kaichen engine series, 1500 rpm, 50Hz, 3-phase output
+  - 1500-2400 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 1500 kW / 1875 kVA
+  Standby power: 2400 kW / 3000 kVA
+  Engine: Kaichen series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: ≤75 dB(A) @ 7m
+  Container: 40ft ISO container
+  Fuel tank: 900L built-in

@@ -1,0 +1,24 @@
+name: Kaichen 80-120kW Open Diesel Generator
+image: /images/products/kaichen-80-120kw-open-diesel-generator.jpg
+brand: Kaichen
+powerKVA: 150
+type: open
+category: kaichen
+description: Kaichen 80-120 kW diesel generator set built at our Yangzhou factory, supplied under the kaichen product family for export standby and prime power projects.
+features:
+  - Kaichen engine series, 1500 rpm, 50Hz, 3-phase output
+  - 80-120 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 80 kW / 100 kVA
+  Standby power: 120 kW / 150 kVA
+  Engine: Kaichen series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 102 dB(A) at 7m
+  Frame: Heavy-duty skid with anti-vibration mounts

@@ -1,0 +1,24 @@
+name: Yuchai 125-140kW Open Diesel Generator
+image: /images/products/yuchai-125-140kw-open-diesel-generator.jpg
+brand: Yuchai
+powerKVA: 175
+type: open
+category: yuchai
+description: Yuchai 125-140 kW diesel generator set built at our Yangzhou factory, supplied under the yuchai product family for export standby and prime power projects.
+features:
+  - Yuchai engine series, 1500 rpm, 50Hz, 3-phase output
+  - 125-140 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 125 kW / 156 kVA
+  Standby power: 140 kW / 175 kVA
+  Engine: Yuchai series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 102 dB(A) at 7m
+  Frame: Heavy-duty skid with anti-vibration mounts

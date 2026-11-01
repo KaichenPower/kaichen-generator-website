@@ -1,0 +1,24 @@
+name: Kaichen 1000-1200kW Silent Diesel Generator
+image: /images/products/kaichen-1000-1200kw-silent-diesel-generator.jpg
+brand: Kaichen
+powerKVA: 1500
+type: silent
+category: silent-canopy
+description: Kaichen 1000-1200 kW diesel generator set built at our Yangzhou factory, supplied under the silent-canopy product family for export standby and prime power projects.
+features:
+  - Kaichen engine series, 1500 rpm, 50Hz, 3-phase output
+  - 1000-1200 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 1000 kW / 1250 kVA
+  Standby power: 1200 kW / 1500 kVA
+  Engine: Kaichen series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: ≤78 dB(A) @ 7m
+  Fuel tank: 600L built-in

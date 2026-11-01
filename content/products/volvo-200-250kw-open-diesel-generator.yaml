@@ -1,0 +1,24 @@
+name: Volvo 200-250kW Open Diesel Generator
+image: /images/products/volvo-200-250kw-open-diesel-generator.jpg
+brand: Volvo
+powerKVA: 312
+type: open
+category: volvo
+description: Volvo 200-250 kW diesel generator set built at our Yangzhou factory, supplied under the volvo product family for export standby and prime power projects.
+features:
+  - Volvo engine series, 1500 rpm, 50Hz, 3-phase output
+  - 200-250 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 200 kW / 250 kVA
+  Standby power: 250 kW / 312 kVA
+  Engine: Volvo series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 102 dB(A) at 7m
+  Frame: Heavy-duty skid with anti-vibration mounts

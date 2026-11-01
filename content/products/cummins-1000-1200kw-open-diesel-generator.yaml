@@ -1,0 +1,24 @@
+name: Cummins 1000-1200kW Open Diesel Generator
+image: /images/products/cummins-1000-1200kw-open-diesel-generator.jpg
+brand: Cummins
+powerKVA: 1500
+type: open
+category: cummins
+description: Cummins 1000-1200 kW diesel generator set built at our Yangzhou factory, supplied under the cummins product family for export standby and prime power projects.
+features:
+  - Cummins engine series, 1500 rpm, 50Hz, 3-phase output
+  - 1000-1200 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 1000 kW / 1250 kVA
+  Standby power: 1200 kW / 1500 kVA
+  Engine: Cummins series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: 102 dB(A) at 7m
+  Frame: Heavy-duty skid with anti-vibration mounts

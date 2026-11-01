@@ -1,0 +1,25 @@
+name: Kaichen 400-500kW Mobile Trailer Diesel Generator
+image: /images/products/kaichen-400-500kw-mobile-trailer-diesel-generator.jpg
+brand: Kaichen
+powerKVA: 625
+type: mobile
+category: mobile-trailer
+description: Kaichen 400-500 kW diesel generator set built at our Yangzhou factory, supplied under the mobile-trailer product family for export standby and prime power projects.
+features:
+  - Kaichen engine series, 1500 rpm, 50Hz, 3-phase output
+  - 400-500 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 400 kW / 500 kVA
+  Standby power: 500 kW / 625 kVA
+  Engine: Kaichen series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: ≤78 dB(A) @ 7m
+  Trailer: Two-axle highway trailer
+  Fuel tank: 600L built-in

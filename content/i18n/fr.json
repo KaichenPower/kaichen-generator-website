@@ -793,6 +793,1084 @@
         "Allier sortie fiable et encombrement contenu : 3300 × 1400 × 1970 mm",
         "Réaliser un groupe prêt pour salle des machines, avec possibilité ultérieure d’ajouter un capot silencieux sans modifier le châssis principal"
       ]
+    },
+    "sdec-100-130kw-open-diesel-generator": {
+      "name": "SDEC 100-130 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 100-130 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1200-1500kw-open-diesel-generator": {
+      "name": "SDEC 1200-1500 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 1200-1500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1200-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-140-200kw-open-diesel-generator": {
+      "name": "SDEC 140-200 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 140-200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "140-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1600-2000kw-open-diesel-generator": {
+      "name": "SDEC 1600-2000 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 1600-2000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-20-30kw-open-diesel-generator": {
+      "name": "SDEC 20-30 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 20-30 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "20-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-210-320kw-open-diesel-generator": {
+      "name": "SDEC 210-320 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 210-320 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "210-320 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-330-400kw-open-diesel-generator": {
+      "name": "SDEC 330-400 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 330-400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "330-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-40-60kw-open-diesel-generator": {
+      "name": "SDEC 40-60 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 40-60 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-410-550kw-open-diesel-generator": {
+      "name": "SDEC 410-550 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 410-550 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-560-650kw-open-diesel-generator": {
+      "name": "SDEC 560-650 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 560-650 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-650 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-660-860kw-open-diesel-generator": {
+      "name": "SDEC 660-860 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 660-860 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "660-860 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-70-90kw-open-diesel-generator": {
+      "name": "SDEC 70-90 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 70-90 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "70-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-870-1100kw-open-diesel-generator": {
+      "name": "SDEC 870-1100 kW Groupe diesel ouvert",
+      "description": "Groupe diesel SDEC de 870-1100 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes SDEC pour secours et puissance principale à l’export.",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "870-1100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-100-140kw-open-diesel-generator": {
+      "name": "Cummins 100-140 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 100-140 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-150-190kw-open-diesel-generator": {
+      "name": "Cummins 150-190 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 150-190 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-190 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-290kw-open-diesel-generator": {
+      "name": "Cummins 200-290 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 200-290 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-290 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-300-350kw-open-diesel-generator": {
+      "name": "Cummins 300-350 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 300-350 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-30-50kw-open-diesel-generator": {
+      "name": "Cummins 30-50 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-360-400kw-open-diesel-generator": {
+      "name": "Cummins 360-400 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 360-400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "360-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-60-90kw-open-diesel-generator": {
+      "name": "Cummins 60-90 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 60-90 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1000-1200kw-open-diesel-generator": {
+      "name": "Cummins 1000-1200 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 1000-1200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1210-1600kw-open-diesel-generator": {
+      "name": "Cummins 1210-1600 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 1210-1600 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1210-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1700-2000kw-open-diesel-generator": {
+      "name": "Cummins 1700-2000 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 1700-2000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-300kw-open-diesel-generator": {
+      "name": "Cummins 200-300 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 200-300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-320-500kw-open-diesel-generator": {
+      "name": "Cummins 320-500 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 320-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "320-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-600-800kw-open-diesel-generator": {
+      "name": "Cummins 600-800 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 600-800 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-810-900kw-open-diesel-generator": {
+      "name": "Cummins 810-900 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Cummins de 810-900 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Cummins pour secours et puissance principale à l’export.",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150kw-open-diesel-generator": {
+      "name": "Kaichen 150 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 150-150 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-350kw-open-diesel-generator": {
+      "name": "Kaichen 200-350 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 200-350 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-open-diesel-generator": {
+      "name": "Kaichen 30-50 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-open-diesel-generator": {
+      "name": "Kaichen 400-500 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 400-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-700kw-open-diesel-generator": {
+      "name": "Kaichen 500-700 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 500-700 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-700 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-700-900kw-open-diesel-generator": {
+      "name": "Kaichen 700-900 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 700-900 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "700-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-80-120kw-open-diesel-generator": {
+      "name": "Kaichen 80-120 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 80-120 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "80-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-900-1000kw-open-diesel-generator": {
+      "name": "Kaichen 900-1000 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Kaichen de 900-1000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Kaichen pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-200-250kw-open-diesel-generator": {
+      "name": "Volvo 200-250 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Volvo de 200-250 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Volvo Penta pour secours et puissance principale à l’export.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-260-360kw-open-diesel-generator": {
+      "name": "Volvo 260-360 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Volvo de 260-360 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Volvo Penta pour secours et puissance principale à l’export.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "260-360 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-370-500kw-open-diesel-generator": {
+      "name": "Volvo 370-500 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Volvo de 370-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Volvo Penta pour secours et puissance principale à l’export.",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "370-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-110-130kw-open-diesel-generator": {
+      "name": "Weichai 110-130 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 110-130 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "110-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-132-160kw-open-diesel-generator": {
+      "name": "Weichai 132-160 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 132-160 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "132-160 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-1600-2400kw-open-diesel-generator": {
+      "name": "Weichai 1600-2400 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 1600-2400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-165-260kw-open-diesel-generator": {
+      "name": "Weichai 165-260 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 165-260 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "165-260 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-16-30kw-open-diesel-generator": {
+      "name": "Weichai 16-30 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 16-30 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-270-400kw-open-diesel-generator": {
+      "name": "Weichai 270-400 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 270-400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "270-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-32-45kw-open-diesel-generator": {
+      "name": "Weichai 32-45 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 32-45 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "32-45 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-46-60kw-open-diesel-generator": {
+      "name": "Weichai 46-60 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 46-60 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "46-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-500-600kw-open-diesel-generator": {
+      "name": "Weichai 500-600 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 500-600 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-610-890kw-open-diesel-generator": {
+      "name": "Weichai 610-890 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 610-890 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "610-890 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-62-90kw-open-diesel-generator": {
+      "name": "Weichai 62-90 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 62-90 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "62-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-900-1500kw-open-diesel-generator": {
+      "name": "Weichai 900-1500 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 900-1500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-91-100kw-open-diesel-generator": {
+      "name": "Weichai 91-100 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Weichai de 91-100 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Weichai pour secours et puissance principale à l’export.",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "91-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1100-1300kw-open-diesel-generator": {
+      "name": "Yuchai 1100-1300 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 1100-1300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1100-1300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-125-140kw-open-diesel-generator": {
+      "name": "Yuchai 125-140 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 125-140 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "125-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1400-1600kw-open-diesel-generator": {
+      "name": "Yuchai 1400-1600 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 1400-1600 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1400-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-145-180kw-open-diesel-generator": {
+      "name": "Yuchai 145-180 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 145-180 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "145-180 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-16-30kw-open-diesel-generator": {
+      "name": "Yuchai 16-30 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 16-30 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1700-2200kw-open-diesel-generator": {
+      "name": "Yuchai 1700-2200 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 1700-2200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-190-300kw-open-diesel-generator": {
+      "name": "Yuchai 190-300 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 190-300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "190-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-2300-3000kw-open-diesel-generator": {
+      "name": "Yuchai 2300-3000 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 2300-3000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "2300-3000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-310-400kw-open-diesel-generator": {
+      "name": "Yuchai 310-400 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 310-400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "310-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-40-60kw-open-diesel-generator": {
+      "name": "Yuchai 40-60 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 40-60 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-410-550kw-open-diesel-generator": {
+      "name": "Yuchai 410-550 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 410-550 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-560-610kw-open-diesel-generator": {
+      "name": "Yuchai 560-610 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 560-610 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-610 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-620-800kw-open-diesel-generator": {
+      "name": "Yuchai 620-800 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 620-800 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "620-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-65-90kw-open-diesel-generator": {
+      "name": "Yuchai 65-90 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 65-90 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "65-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-810-1000kw-open-diesel-generator": {
+      "name": "Yuchai 810-1000 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 810-1000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-92-120kw-open-diesel-generator": {
+      "name": "Yuchai 92-120 kW Groupe diesel ouvert",
+      "description": "Groupe diesel Yuchai de 92-120 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes électrogènes Yuchai pour secours et puissance principale à l’export.",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "92-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1200kw-silent-diesel-generator": {
+      "name": "Kaichen 1000-1200 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 1000-1200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-silent-diesel-generator": {
+      "name": "Kaichen 100-150 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 100-150 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-200kw-silent-diesel-generator": {
+      "name": "Kaichen 160-200 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 160-200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-250kw-silent-diesel-generator": {
+      "name": "Kaichen 250 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 250-250 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "250-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-400kw-silent-diesel-generator": {
+      "name": "Kaichen 300-400 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 300-400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-silent-diesel-generator": {
+      "name": "Kaichen 400-500 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 400-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-600kw-silent-diesel-generator": {
+      "name": "Kaichen 500-600 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 500-600 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator": {
+      "name": "Kaichen 600-800 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 600-800 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-100kw-silent-diesel-generator": {
+      "name": "Kaichen 60-100 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 60-100 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 300-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes capot pluie pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes capot pluie pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator-2": {
+      "name": "Kaichen 600-800 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 600-800 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes capot pluie pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-200kw-silent-diesel-generator": {
+      "name": "Kaichen 60-200 kW Groupe diesel silencieux",
+      "description": "Groupe diesel Kaichen de 60-200 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes capot pluie pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1500kw-containerized-diesel-generator": {
+      "name": "Kaichen 1000-1500 kW Groupe diesel conteneurisé",
+      "description": "Groupe diesel Kaichen de 1000-1500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes en conteneur pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-containerized-diesel-generator": {
+      "name": "Kaichen 100-150 kW Groupe diesel conteneurisé",
+      "description": "Groupe diesel Kaichen de 100-150 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes en conteneur pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1500-2400kw-containerized-diesel-generator": {
+      "name": "Kaichen 1500-2400 kW Groupe diesel conteneurisé",
+      "description": "Groupe diesel Kaichen de 1500-2400 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes en conteneur pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1500-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-300kw-containerized-diesel-generator": {
+      "name": "Kaichen 160-300 kW Groupe diesel conteneurisé",
+      "description": "Groupe diesel Kaichen de 160-300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes en conteneur pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-900kw-containerized-diesel-generator": {
+      "name": "Kaichen 400-900 kW Groupe diesel conteneurisé",
+      "description": "Groupe diesel Kaichen de 400-900 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes en conteneur pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-120kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 100-120 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 100-120 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-120-150kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 120-150 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 120-150 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "120-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-300kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 200-300 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 200-300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-3": {
+      "name": "Kaichen 30-50 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 400-500 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 400-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 800-1000 kW Groupe diesel mobile sur remorque",
+      "description": "Groupe diesel Kaichen de 800-1000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes sur remorque pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150-300kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 150-300 kW Groupe mobile silencieux",
+      "description": "Groupe diesel Kaichen de 150-300 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes mobiles silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW Groupe mobile silencieux",
+      "description": "Groupe diesel Kaichen de 30-50 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes mobiles silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW Groupe mobile silencieux",
+      "description": "Groupe diesel Kaichen de 300-500 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes mobiles silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-75-120kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 75-120 kW Groupe mobile silencieux",
+      "description": "Groupe diesel Kaichen de 75-120 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes mobiles silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "75-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 800-1000 kW Groupe mobile silencieux",
+      "description": "Groupe diesel Kaichen de 800-1000 kW assemblé dans notre usine de Yangzhou, fourni dans la famille Groupes mobiles silencieux pour secours et puissance principale à l’export.",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
     }
   },
   "cookie": {
@@ -983,47 +2061,58 @@
   "productCategories": {
     "cummins": {
       "title": "Groupes électrogènes Cummins",
-      "description": "Groupes électrogènes diesel Cummins ouverts et de secours pour des projets de 50 à 2000 kW, marque unifiée à l'export."
+      "description": "Groupes électrogènes diesel Cummins ouverts et de secours pour des projets de 50 à 2000 kW, marque unifiée à l'export.",
+      "short": "Cummins"
     },
     "sdec": {
       "title": "Groupes électrogènes SDEC",
-      "description": "Groupes électrogènes diesel SDEC de 20 à 2000 kW pour secours industriel et commercial."
+      "description": "Groupes électrogènes diesel SDEC de 20 à 2000 kW pour secours industriel et commercial.",
+      "short": "SDEC"
     },
     "weichai": {
       "title": "Groupes électrogènes Weichai",
-      "description": "Groupes diesel Weichai de 16 à 2400 kW, large plage de puissance pour usage industriel."
+      "description": "Groupes diesel Weichai de 16 à 2400 kW, large plage de puissance pour usage industriel.",
+      "short": "Weichai"
     },
     "volvo": {
       "title": "Groupes électrogènes Volvo Penta",
-      "description": "Groupes diesel Volvo Penta de 200 à 500 kW pour secours commercial et industriel fiable."
+      "description": "Groupes diesel Volvo Penta de 200 à 500 kW pour secours commercial et industriel fiable.",
+      "short": "Volvo"
     },
     "yuchai": {
       "title": "Groupes électrogènes Yuchai",
-      "description": "Groupes diesel Yuchai de 16 à 3000 kW pour chantiers, industrie et énergie mobile."
+      "description": "Groupes diesel Yuchai de 16 à 3000 kW pour chantiers, industrie et énergie mobile.",
+      "short": "Yuchai"
     },
     "kaichen": {
       "title": "Groupes électrogènes Kaichen",
-      "description": "Groupes diesel Kaichen de 30 à 1000 kW, équilibre coût, délai et support export."
+      "description": "Groupes diesel Kaichen de 30 à 1000 kW, équilibre coût, délai et support export.",
+      "short": "Kaichen"
     },
     "silent-canopy": {
       "title": "Groupes silencieux",
-      "description": "Groupes diesel en capot insonorisé pour sites urbains, hôpitaux, commerces et contraintes de bruit."
+      "description": "Groupes diesel en capot insonorisé pour sites urbains, hôpitaux, commerces et contraintes de bruit.",
+      "short": "Silencieux"
     },
     "rainproof-canopy": {
       "title": "Groupes capot pluie",
-      "description": "Groupes protégés contre la pluie pour usage extérieur sans enceinte acoustique complète."
+      "description": "Groupes protégés contre la pluie pour usage extérieur sans enceinte acoustique complète.",
+      "short": "Pluie"
     },
     "containerized-silent": {
       "title": "Groupes en conteneur",
-      "description": "Centrales silencieuses en conteneur de 100 à 2400 kW pour export, sites isolés et service continu."
+      "description": "Centrales silencieuses en conteneur de 100 à 2400 kW pour export, sites isolés et service continu.",
+      "short": "Conteneur"
     },
     "mobile-silent": {
       "title": "Groupes mobiles silencieux",
-      "description": "Groupes mobiles silencieux sur remorque pour location, événements, chantiers et power temporaire."
+      "description": "Groupes mobiles silencieux sur remorque pour location, événements, chantiers et power temporaire.",
+      "short": "Mobile silencieux"
     },
     "mobile-trailer": {
       "title": "Groupes sur remorque",
-      "description": "Groupes diesel sur remorque pour chantiers routiers, mines, événements et puissance temporaire."
+      "description": "Groupes diesel sur remorque pour chantiers routiers, mines, événements et puissance temporaire.",
+      "short": "Remorque"
     },
     "other-oem": {
       "title": "Autres marques OEM",

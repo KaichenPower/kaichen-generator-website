@@ -793,6 +793,1084 @@
         "ผสานประสิทธิภาพที่เชื่อถือได้กับขนาดกะทัดรัด 3300 × 1400 × 1970 มม.",
         "เตรียมชุดเปิดพร้อมใช้ในห้องเครื่อง และสามารถเพิ่มตู้กันเสียงในภายหลังได้โดยไม่ต้องสร้างฐานใหม่"
       ]
+    },
+    "sdec-100-130kw-open-diesel-generator": {
+      "name": "SDEC 100-130 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 100-130 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1200-1500kw-open-diesel-generator": {
+      "name": "SDEC 1200-1500 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 1200-1500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1200-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-140-200kw-open-diesel-generator": {
+      "name": "SDEC 140-200 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 140-200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "140-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-1600-2000kw-open-diesel-generator": {
+      "name": "SDEC 1600-2000 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 1600-2000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-20-30kw-open-diesel-generator": {
+      "name": "SDEC 20-30 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 20-30 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "20-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-210-320kw-open-diesel-generator": {
+      "name": "SDEC 210-320 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 210-320 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "210-320 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-330-400kw-open-diesel-generator": {
+      "name": "SDEC 330-400 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 330-400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "330-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-40-60kw-open-diesel-generator": {
+      "name": "SDEC 40-60 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 40-60 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-410-550kw-open-diesel-generator": {
+      "name": "SDEC 410-550 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 410-550 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-560-650kw-open-diesel-generator": {
+      "name": "SDEC 560-650 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 560-650 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-650 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-660-860kw-open-diesel-generator": {
+      "name": "SDEC 660-860 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 660-860 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "660-860 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-70-90kw-open-diesel-generator": {
+      "name": "SDEC 70-90 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 70-90 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "70-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "sdec-870-1100kw-open-diesel-generator": {
+      "name": "SDEC 870-1100 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 870-1100 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า SDEC สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "SDEC engine series, 1500 rpm, 50Hz, 3-phase",
+        "870-1100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-100-140kw-open-diesel-generator": {
+      "name": "Cummins 100-140 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 100-140 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-150-190kw-open-diesel-generator": {
+      "name": "Cummins 150-190 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 150-190 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-190 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-290kw-open-diesel-generator": {
+      "name": "Cummins 200-290 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 200-290 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-290 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-300-350kw-open-diesel-generator": {
+      "name": "Cummins 300-350 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 300-350 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-30-50kw-open-diesel-generator": {
+      "name": "Cummins 30-50 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-360-400kw-open-diesel-generator": {
+      "name": "Cummins 360-400 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 360-400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "360-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-60-90kw-open-diesel-generator": {
+      "name": "Cummins 60-90 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 60-90 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1000-1200kw-open-diesel-generator": {
+      "name": "Cummins 1000-1200 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 1000-1200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1210-1600kw-open-diesel-generator": {
+      "name": "Cummins 1210-1600 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 1210-1600 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1210-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-1700-2000kw-open-diesel-generator": {
+      "name": "Cummins 1700-2000 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 1700-2000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-200-300kw-open-diesel-generator": {
+      "name": "Cummins 200-300 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 200-300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-320-500kw-open-diesel-generator": {
+      "name": "Cummins 320-500 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 320-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "320-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-600-800kw-open-diesel-generator": {
+      "name": "Cummins 600-800 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 600-800 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "cummins-810-900kw-open-diesel-generator": {
+      "name": "Cummins 810-900 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins กำลัง 810-900 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Cummins สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Cummins engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150kw-open-diesel-generator": {
+      "name": "Kaichen 150 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 150-150 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-350kw-open-diesel-generator": {
+      "name": "Kaichen 200-350 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 200-350 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-350 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-open-diesel-generator": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-open-diesel-generator": {
+      "name": "Kaichen 400-500 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 400-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-700kw-open-diesel-generator": {
+      "name": "Kaichen 500-700 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 500-700 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-700 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-700-900kw-open-diesel-generator": {
+      "name": "Kaichen 700-900 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 700-900 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "700-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-80-120kw-open-diesel-generator": {
+      "name": "Kaichen 80-120 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 80-120 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "80-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-900-1000kw-open-diesel-generator": {
+      "name": "Kaichen 900-1000 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 900-1000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Kaichen สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-200-250kw-open-diesel-generator": {
+      "name": "Volvo 200-250 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Volvo กำลัง 200-250 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Volvo Penta สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-260-360kw-open-diesel-generator": {
+      "name": "Volvo 260-360 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Volvo กำลัง 260-360 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Volvo Penta สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "260-360 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "volvo-370-500kw-open-diesel-generator": {
+      "name": "Volvo 370-500 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Volvo กำลัง 370-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Volvo Penta สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Volvo engine series, 1500 rpm, 50Hz, 3-phase",
+        "370-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-110-130kw-open-diesel-generator": {
+      "name": "Weichai 110-130 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 110-130 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "110-130 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-132-160kw-open-diesel-generator": {
+      "name": "Weichai 132-160 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 132-160 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "132-160 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-1600-2400kw-open-diesel-generator": {
+      "name": "Weichai 1600-2400 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 1600-2400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1600-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-165-260kw-open-diesel-generator": {
+      "name": "Weichai 165-260 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 165-260 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "165-260 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-16-30kw-open-diesel-generator": {
+      "name": "Weichai 16-30 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 16-30 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-270-400kw-open-diesel-generator": {
+      "name": "Weichai 270-400 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 270-400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "270-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-32-45kw-open-diesel-generator": {
+      "name": "Weichai 32-45 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 32-45 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "32-45 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-46-60kw-open-diesel-generator": {
+      "name": "Weichai 46-60 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 46-60 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "46-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-500-600kw-open-diesel-generator": {
+      "name": "Weichai 500-600 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 500-600 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-610-890kw-open-diesel-generator": {
+      "name": "Weichai 610-890 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 610-890 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "610-890 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-62-90kw-open-diesel-generator": {
+      "name": "Weichai 62-90 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 62-90 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "62-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-900-1500kw-open-diesel-generator": {
+      "name": "Weichai 900-1500 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 900-1500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "900-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "weichai-91-100kw-open-diesel-generator": {
+      "name": "Weichai 91-100 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 91-100 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Weichai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Weichai engine series, 1500 rpm, 50Hz, 3-phase",
+        "91-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1100-1300kw-open-diesel-generator": {
+      "name": "Yuchai 1100-1300 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 1100-1300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1100-1300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-125-140kw-open-diesel-generator": {
+      "name": "Yuchai 125-140 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 125-140 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "125-140 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1400-1600kw-open-diesel-generator": {
+      "name": "Yuchai 1400-1600 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 1400-1600 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1400-1600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-145-180kw-open-diesel-generator": {
+      "name": "Yuchai 145-180 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 145-180 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "145-180 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-16-30kw-open-diesel-generator": {
+      "name": "Yuchai 16-30 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 16-30 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "16-30 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-1700-2200kw-open-diesel-generator": {
+      "name": "Yuchai 1700-2200 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 1700-2200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "1700-2200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-190-300kw-open-diesel-generator": {
+      "name": "Yuchai 190-300 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 190-300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "190-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-2300-3000kw-open-diesel-generator": {
+      "name": "Yuchai 2300-3000 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 2300-3000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "2300-3000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-310-400kw-open-diesel-generator": {
+      "name": "Yuchai 310-400 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 310-400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "310-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-40-60kw-open-diesel-generator": {
+      "name": "Yuchai 40-60 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 40-60 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "40-60 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-410-550kw-open-diesel-generator": {
+      "name": "Yuchai 410-550 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 410-550 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "410-550 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-560-610kw-open-diesel-generator": {
+      "name": "Yuchai 560-610 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 560-610 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "560-610 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-620-800kw-open-diesel-generator": {
+      "name": "Yuchai 620-800 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 620-800 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "620-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-65-90kw-open-diesel-generator": {
+      "name": "Yuchai 65-90 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 65-90 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "65-90 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-810-1000kw-open-diesel-generator": {
+      "name": "Yuchai 810-1000 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 810-1000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "810-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "yuchai-92-120kw-open-diesel-generator": {
+      "name": "Yuchai 92-120 kW เครื่องกำเนิดดีเซลแบบเปิด",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 92-120 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้า Yuchai สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Yuchai engine series, 1500 rpm, 50Hz, 3-phase",
+        "92-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1200kw-silent-diesel-generator": {
+      "name": "Kaichen 1000-1200 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 1000-1200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-silent-diesel-generator": {
+      "name": "Kaichen 100-150 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 100-150 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-200kw-silent-diesel-generator": {
+      "name": "Kaichen 160-200 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 160-200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-250kw-silent-diesel-generator": {
+      "name": "Kaichen 250 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 250-250 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "250-250 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-400kw-silent-diesel-generator": {
+      "name": "Kaichen 300-400 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 300-400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-silent-diesel-generator": {
+      "name": "Kaichen 400-500 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 400-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-500-600kw-silent-diesel-generator": {
+      "name": "Kaichen 500-600 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 500-600 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "500-600 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator": {
+      "name": "Kaichen 600-800 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 600-800 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-100kw-silent-diesel-generator": {
+      "name": "Kaichen 60-100 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 60-100 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-100 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 300-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบหลังคากันฝน สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-silent-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบหลังคากันฝน สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-600-800kw-silent-diesel-generator-2": {
+      "name": "Kaichen 600-800 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 600-800 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบหลังคากันฝน สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "600-800 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-60-200kw-silent-diesel-generator": {
+      "name": "Kaichen 60-200 kW เครื่องกำเนิดดีเซลห้องเงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 60-200 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าแบบหลังคากันฝน สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "60-200 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1000-1500kw-containerized-diesel-generator": {
+      "name": "Kaichen 1000-1500 kW เครื่องกำเนิดดีเซลตู้คอนเทนเนอร์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 1000-1500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1000-1500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-150kw-containerized-diesel-generator": {
+      "name": "Kaichen 100-150 kW เครื่องกำเนิดดีเซลตู้คอนเทนเนอร์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 100-150 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-1500-2400kw-containerized-diesel-generator": {
+      "name": "Kaichen 1500-2400 kW เครื่องกำเนิดดีเซลตู้คอนเทนเนอร์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 1500-2400 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "1500-2400 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-160-300kw-containerized-diesel-generator": {
+      "name": "Kaichen 160-300 kW เครื่องกำเนิดดีเซลตู้คอนเทนเนอร์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 160-300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "160-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-900kw-containerized-diesel-generator": {
+      "name": "Kaichen 400-900 kW เครื่องกำเนิดดีเซลตู้คอนเทนเนอร์",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 400-900 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-900 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-100-120kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 100-120 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 100-120 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "100-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-120-150kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 120-150 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 120-150 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "120-150 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-200-300kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 200-300 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 200-300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "200-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-trailer-diesel-generator-3": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-400-500kw-mobile-trailer-diesel-generator": {
+      "name": "Kaichen 400-500 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 400-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "400-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-trailer-diesel-generator-2": {
+      "name": "Kaichen 800-1000 kW เครื่องกำเนิดดีเซลติดรถพ่วง",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 800-1000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-150-300kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 150-300 kW เครื่องกำเนิดดีเซลเคลื่อนที่เงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 150-300 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "150-300 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-30-50kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 30-50 kW เครื่องกำเนิดดีเซลเคลื่อนที่เงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30-50 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "30-50 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-300-500kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 300-500 kW เครื่องกำเนิดดีเซลเคลื่อนที่เงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 300-500 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "300-500 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-75-120kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 75-120 kW เครื่องกำเนิดดีเซลเคลื่อนที่เงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 75-120 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "75-120 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
+    },
+    "kaichen-800-1000kw-mobile-silent-diesel-generator": {
+      "name": "Kaichen 800-1000 kW เครื่องกำเนิดดีเซลเคลื่อนที่เงียบ",
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 800-1000 กิโลวัตต์ ประกอบที่โรงงานหยางโจว จัดอยู่ในกลุ่ม เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ สำหรับไฟสำรองและไฟหลักส่งออก",
+      "features": [
+        "Kaichen engine series, 1500 rpm, 50Hz, 3-phase",
+        "800-1000 kW power range, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Kaichen export assembly, Yangzhou factory"
+      ]
     }
   },
   "cookie": {
@@ -983,47 +2061,58 @@
   "productCategories": {
     "cummins": {
       "title": "เครื่องกำเนิดไฟฟ้า Cummins",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins แบบเปิดและสำรอง สำหรับโครงการ 50–2000 กิโลวัตต์ ใช้แบรนด์ Cummins เดียวสำหรับส่งออก"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Cummins แบบเปิดและสำรอง สำหรับโครงการ 50–2000 กิโลวัตต์ ใช้แบรนด์ Cummins เดียวสำหรับส่งออก",
+      "short": "Cummins"
     },
     "sdec": {
       "title": "เครื่องกำเนิดไฟฟ้า SDEC",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 20–2000 กิโลวัตต์ สำหรับไฟสำรองภาคอุตสาหกรรมและพาณิชย์"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล SDEC กำลัง 20–2000 กิโลวัตต์ สำหรับไฟสำรองภาคอุตสาหกรรมและพาณิชย์",
+      "short": "SDEC"
     },
     "weichai": {
       "title": "เครื่องกำเนิดไฟฟ้า Weichai",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 16–2400 กิโลวัตต์ ครอบคลุมการใช้งานอุตสาหกรรม"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Weichai กำลัง 16–2400 กิโลวัตต์ ครอบคลุมการใช้งานอุตสาหกรรม",
+      "short": "Weichai"
     },
     "volvo": {
       "title": "เครื่องกำเนิดไฟฟ้า Volvo Penta",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Volvo Penta กำลัง 200–500 กิโลวัตต์ สำหรับไฟสำรองเชิงพาณิชย์และอุตสาหกรรม"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Volvo Penta กำลัง 200–500 กิโลวัตต์ สำหรับไฟสำรองเชิงพาณิชย์และอุตสาหกรรม",
+      "short": "Volvo"
     },
     "yuchai": {
       "title": "เครื่องกำเนิดไฟฟ้า Yuchai",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 16–3000 กิโลวัตต์ สำหรับงานก่อสร้าง อุตสาหกรรมและระบบไฟเคลื่อนที่"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Yuchai กำลัง 16–3000 กิโลวัตต์ สำหรับงานก่อสร้าง อุตสาหกรรมและระบบไฟเคลื่อนที่",
+      "short": "Yuchai"
     },
     "kaichen": {
       "title": "เครื่องกำเนิดไฟฟ้า Kaichen",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30–1000 กิโลวัตต์ สมดุลต้นทุน การส่งมอบ และการสนับสนุนส่งออก"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซล Kaichen กำลัง 30–1000 กิโลวัตต์ สมดุลต้นทุน การส่งมอบ และการสนับสนุนส่งออก",
+      "short": "Kaichen"
     },
     "silent-canopy": {
       "title": "เครื่องกำเนิดไฟฟ้าแบบห้องเงียบ",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซลห้องเก็บเสียง สำหรับพื้นที่ในเมือง โรงพยาบาล ร้านค้า และพื้นที่ต้องการเสียงรบกวนต่ำ"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซลห้องเก็บเสียง สำหรับพื้นที่ในเมือง โรงพยาบาล ร้านค้า และพื้นที่ต้องการเสียงรบกวนต่ำ",
+      "short": "เงียบ"
     },
     "rainproof-canopy": {
       "title": "เครื่องกำเนิดไฟฟ้าแบบหลังคากันฝน",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซลหลังคากันฝน สำหรับงานกลางแจ้งที่ต้องการป้องกันฝนแต่ไม่ต้องใช้ห้องเก็บเสียงเต็มรูปแบบ"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซลหลังคากันฝน สำหรับงานกลางแจ้งที่ต้องการป้องกันฝนแต่ไม่ต้องใช้ห้องเก็บเสียงเต็มรูปแบบ",
+      "short": "กันฝน"
     },
     "containerized-silent": {
       "title": "เครื่องกำเนิดไฟฟ้าตู้คอนเทนเนอร์กันเสียง",
-      "description": "สถานีไฟฟ้าคอนเทนเนอร์กันเสียง กำลัง 100–2400 กิโลวัตต์ สำหรับโครงการส่งออก พื้นที่ห่างไกล และการทำงานต่อเนื่อง"
+      "description": "สถานีไฟฟ้าคอนเทนเนอร์กันเสียง กำลัง 100–2400 กิโลวัตต์ สำหรับโครงการส่งออก พื้นที่ห่างไกล และการทำงานต่อเนื่อง",
+      "short": "ตู้คอนเทนเนอร์"
     },
     "mobile-silent": {
       "title": "เครื่องกำเนิดไฟฟ้าเคลื่อนที่แบบห้องเงียบ",
-      "description": "เครื่องกำเนิดไฟฟ้าเคลื่อนที่บนรถพ่วงห้องเก็บเสียง สำหรับงานเช่า อีเวนต์ งานก่อสร้าง และไฟชั่วคราวเสียงรบกวนต่ำ"
+      "description": "เครื่องกำเนิดไฟฟ้าเคลื่อนที่บนรถพ่วงห้องเก็บเสียง สำหรับงานเช่า อีเวนต์ งานก่อสร้าง และไฟชั่วคราวเสียงรบกวนต่ำ",
+      "short": "เคลื่อนที่เงียบ"
     },
     "mobile-trailer": {
       "title": "เครื่องกำเนิดไฟฟ้าติดรถพ่วงเคลื่อนที่",
-      "description": "เครื่องกำเนิดไฟฟ้าดีเซลติดรถพ่วง สำหรับงานก่อสร้างถนน เหมืองแร่ อีเวนต์ และไฟสนามชั่วคราว"
+      "description": "เครื่องกำเนิดไฟฟ้าดีเซลติดรถพ่วง สำหรับงานก่อสร้างถนน เหมืองแร่ อีเวนต์ และไฟสนามชั่วคราว",
+      "short": "รถพ่วง"
     },
     "other-oem": {
       "title": "แบรนด์เครื่องยนต์ OEM อื่นๆ",

@@ -1,0 +1,25 @@
+name: Kaichen 400-900kW Containerized Diesel Generator
+image: /images/products/kaichen-400-900kw-containerized-diesel-generator.jpg
+brand: Kaichen
+powerKVA: 1125
+type: container
+category: containerized-silent
+description: Kaichen 400-900 kW diesel generator set built at our Yangzhou factory, supplied under the containerized-silent product family for export standby and prime power projects.
+features:
+  - Kaichen engine series, 1500 rpm, 50Hz, 3-phase output
+  - 400-900 kW power range with 400/230V rated voltage
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric starting and monitoring
+  - Kaichen export assembly at our Yangzhou factory
+specs:
+  Prime power: 400 kW / 500 kVA
+  Standby power: 900 kW / 1125 kVA
+  Engine: Kaichen series
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: ≤75 dB(A) @ 7m
+  Container: 20ft ISO container
+  Fuel tank: 900L built-in
