@@ -3,6 +3,7 @@ image: /images/products/cummins-450kw-open.png
 brand: Cummins
 powerKVA: 625
 type: open
+category: cummins
 description: A 450 kW prime (500 kW standby, 625 kVA standby) open-skid Cummins KTA19-G8E diesel generator set built at our Yangzhou factory, delivering 810 A at 400/230 V and 50 Hz with a KCI-450 brushless copper alternator (IP23, Class H) and about 196 g/kWh fuel consumption; built for industrial prime power, process plants, water pumping stations and reliable standby duty.
 features:
   - Cummins KTA19-G8E inline-six engine, 19 L displacement, 1500 rpm, turbocharged with electronic injection speed control

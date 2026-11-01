@@ -3,6 +3,7 @@ image: /images/products/mitsubishi-400kw-open.jpg
 brand: Mitsubishi
 powerKVA: 500
 type: open
+category: other-oem
 description: High-performance 600kVA open type diesel generator set powered by a Mitsubishi engine, suited for data centers, mining and heavy industry.
 features:
   - Mitsubishi engine with high power density and low emissions

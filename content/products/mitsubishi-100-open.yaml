@@ -3,6 +3,7 @@ image: /images/products/mitsubishi-100kw-open.jpg
 brand: Mitsubishi
 powerKVA: 125
 type: open
+category: other-oem
 description: Open-frame 100kW Mitsubishi diesel generator for plant rooms, workshops and industrial sites where a dedicated machine room already provides weather and noise protection.
 features:
   - Mitsubishi industrial engine with durable performance

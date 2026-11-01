@@ -216,7 +216,9 @@
     "prev": "Précédent",
     "next": "Suivant",
     "page": "Page",
-    "detailTag": "Détail du produit"
+    "detailTag": "Détail du produit",
+    "filterByCategory": "Filtrer par catégorie de produit",
+    "contactCta": "Contactez notre équipe ingénierie"
   },
   "solutions": {
     "title": "Solutions énergétiques par secteur",
@@ -963,7 +965,69 @@
       {
         "q": "Testez-vous chaque groupe avant expédition ?",
         "a": "Oui. Chaque groupe fonctionne sur notre banc de charge numérique de 2 MW selon une séquence en quatre étapes – 20 %, 50 %, 75 % et 100 % de charge nominale – pendant au moins 2 heures au total. Tout le test est enregistré en vidéo et partagé avec vous avant que le groupe ne quitte l'usine."
+      },
+      {
+        "q": "Quels éléments faut-il avant un devis de groupe électrogène ?",
+        "a": "Indiquez la puissance en kW ou kVA, la marque moteur souhaitée, le type (ouvert, insonorisé, sur remorque ou conteneur), la quantité, le port ou ville de destination, la tension et la fréquence. La configuration par défaut est 380/220V, 50 Hz, triphasé."
+      },
+      {
+        "q": "Quelles marques moteur Kaichen fournit-elle ?",
+        "a": "Nous fournissons Cummins, y compris Dongfeng et Chongqing Cummins sous la marque unifiée Cummins, ainsi que Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai et Shanghai Mitsubishi. À l'export, Dongfeng et Chongqing sont regroupés sous Cummins."
+      },
+      {
+        "q": "Quels documents d'exportation et certificats sont fournis ?",
+        "a": "Nous fournissons facture commerciale, liste de colisage, assistance connaissement, certificats CE/ISO, rapport d'essai usine et inspection SGS/BV/TUV sur demande. Chaque groupe est testé sur banc de charge avant expédition."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Groupes électrogènes Cummins",
+      "description": "Groupes électrogènes diesel Cummins ouverts et de secours pour des projets de 50 à 2000 kW, marque unifiée à l'export."
+    },
+    "sdec": {
+      "title": "Groupes électrogènes SDEC",
+      "description": "Groupes électrogènes diesel SDEC de 20 à 2000 kW pour secours industriel et commercial."
+    },
+    "weichai": {
+      "title": "Groupes électrogènes Weichai",
+      "description": "Groupes diesel Weichai de 16 à 2400 kW, large plage de puissance pour usage industriel."
+    },
+    "volvo": {
+      "title": "Groupes électrogènes Volvo Penta",
+      "description": "Groupes diesel Volvo Penta de 200 à 500 kW pour secours commercial et industriel fiable."
+    },
+    "yuchai": {
+      "title": "Groupes électrogènes Yuchai",
+      "description": "Groupes diesel Yuchai de 16 à 3000 kW pour chantiers, industrie et énergie mobile."
+    },
+    "kaichen": {
+      "title": "Groupes électrogènes Kaichen",
+      "description": "Groupes diesel Kaichen de 30 à 1000 kW, équilibre coût, délai et support export."
+    },
+    "silent-canopy": {
+      "title": "Groupes silencieux",
+      "description": "Groupes diesel en capot insonorisé pour sites urbains, hôpitaux, commerces et contraintes de bruit."
+    },
+    "rainproof-canopy": {
+      "title": "Groupes capot pluie",
+      "description": "Groupes protégés contre la pluie pour usage extérieur sans enceinte acoustique complète."
+    },
+    "containerized-silent": {
+      "title": "Groupes en conteneur",
+      "description": "Centrales silencieuses en conteneur de 100 à 2400 kW pour export, sites isolés et service continu."
+    },
+    "mobile-silent": {
+      "title": "Groupes mobiles silencieux",
+      "description": "Groupes mobiles silencieux sur remorque pour location, événements, chantiers et power temporaire."
+    },
+    "mobile-trailer": {
+      "title": "Groupes sur remorque",
+      "description": "Groupes diesel sur remorque pour chantiers routiers, mines, événements et puissance temporaire."
+    },
+    "other-oem": {
+      "title": "Autres marques OEM",
+      "description": "Certains groupes Perkins, Mitsubishi et Scania sont disponibles en version OEM assemblée par Kaichen."
+    }
   }
 }

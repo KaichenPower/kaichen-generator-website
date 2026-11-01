@@ -3,6 +3,7 @@ image: /images/products/container-1000.png
 brand: Cummins
 powerKVA: 1000
 type: container
+category: containerized-silent
 description: 1000kVA containerized power plant module, ideal for large-scale rental fleets, mining and grid support projects.
 features:
   - 40ft container module with full acoustic and thermal insulation

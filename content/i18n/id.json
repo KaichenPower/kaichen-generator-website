@@ -216,7 +216,9 @@
     "prev": "Sebelumnya",
     "next": "Berikutnya",
     "page": "Halaman",
-    "detailTag": "Detail Produk"
+    "detailTag": "Detail Produk",
+    "filterByCategory": "Filter berdasarkan kategori produk",
+    "contactCta": "Hubungi tim engineering kami"
   },
   "solutions": {
     "title": "Solusi Daya Industri",
@@ -963,7 +965,69 @@
       {
         "q": "Apakah Anda menguji setiap genset sebelum pengiriman?",
         "a": "Ya. Setiap genset berjalan di bank beban digital 2 MW kami melalui urutan empat langkah – 20 %, 50 %, 75 % dan 100 % beban terukur – selama minimal 2 jam total. Seluruh tes direkam dalam video dan dibagikan kepada Anda sebelum genset meninggalkan pabrik."
+      },
+      {
+        "q": "Apa data yang Anda perlukan sebelum penawaran genset diesel?",
+        "a": "Mohon informasikan daya yang dibutuhkan dalam kW atau kVA, merek mesin pilihan, tipe unit (open, silent, trailer atau kontainer), jumlah, pelabuhan atau kota tujuan, tegangan dan frekuensi. Konfigurasi standar adalah 380/220V, 50Hz, tiga fase."
+      },
+      {
+        "q": "Merek mesin apa saja yang disediakan Kaichen?",
+        "a": "Kami menyediakan Cummins, termasuk Dongfeng dan Chongqing Cummins di bawah merek terpadu Cummins, juga Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai dan Shanghai Mitsubishi. Untuk ekspor, Dongfeng dan Chongqing disatukan sebagai Cummins."
+      },
+      {
+        "q": "Dokumen ekspor dan sertifikasi apa saja yang biasanya disertakan?",
+        "a": "Kami menyediakan faktur komersial, packing list, bantuan bill of lading, sertifikat CE/ISO, laporan uji pabrik, dan inspeksi SGS/BV/TUV bila diminta. Setiap unit diuji pada load bank sebelum pengiriman."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Genset Cummins",
+      "description": "Genset diesel Cummins tipe open dan standby untuk proyek 50–2000 kW, merek terpadu untuk ekspor."
+    },
+    "sdec": {
+      "title": "Genset SDEC",
+      "description": "Genset diesel bền máy SDEC dari 20 hingga 2000 kW untuk daya cadangan industri dan komersial."
+    },
+    "weichai": {
+      "title": "Genset Weichai",
+      "description": "Genset diesel Weichai 16–2400 kW, cakupan daya luas untuk kebutuhan industri."
+    },
+    "volvo": {
+      "title": "Genset Volvo Penta",
+      "description": "Genset diesel Volvo Penta 200–500 kW untuk daya cadangan komersial dan industri yang andal."
+    },
+    "yuchai": {
+      "title": "Genset Yuchai",
+      "description": "Genset diesel Yuchai 16–3000 kW untuk konstruksi, industri dan proyek daya bergerak."
+    },
+    "kaichen": {
+      "title": "Genset Kaichen",
+      "description": "Genset diesel Kaichen 30–1000 kW dengan keseimbangan biaya, pengiriman dan dukungan ekspor."
+    },
+    "silent-canopy": {
+      "title": "Genset Kanap Senyap",
+      "description": "Genset diesel kanap peredam bising untuk area perkotaan, rumah sakit, ritel dan lokasi berisik rendah."
+    },
+    "rainproof-canopy": {
+      "title": "Genset Kanap Anti Hujan",
+      "description": "Genset berkanap pelindung cuaca untuk daya cadangan luar ruangan tanpa kabin akustik penuh."
+    },
+    "containerized-silent": {
+      "title": "Genset Kontainer Senyap",
+      "description": "Pusat daya kontainer senyap 100–2400 kW untuk proyek ekspor, lokasi remote dan tugas berkelanjutan."
+    },
+    "mobile-silent": {
+      "title": "Genset Mobil Senyap",
+      "description": "Genset mobil kanap senyap di atas trailer untuk sewa, acara, konstruksi dan daya sementara."
+    },
+    "mobile-trailer": {
+      "title": "Genset Trailer Mobile",
+      "description": "Genset diesel di atas trailer untuk konstruksi jalan, pertambangan, acara dan daya lapangan sementara."
+    },
+    "other-oem": {
+      "title": "Merek OEM Lainnya",
+      "description": "Unit Perkins, Mitsubishi dan Scania pilihan tersedia sebagai opsi mesin OEM rakitan Kaichen."
+    }
   }
 }

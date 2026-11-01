@@ -10,6 +10,7 @@ export type Product = {
   brand: string;
   powerKVA: number;
   type: string;
+  category?: string;
   image?: string;
 };
 
@@ -25,10 +26,12 @@ const PER_PAGE = 12;
 
 export default function ProductFilter({ products }: { products: Product[] }) {
   const pp = useTranslations('productsPage');
+  const pc = useTranslations('productCategories');
   const pu = useTranslations('powerUnits');
   const ptype = useTranslations('productType');
   const [brand, setBrand] = useState('all');
   const [type, setType] = useState('all');
+  const [category, setCategory] = useState('all');
   const [range, setRange] = useState('all');
   const [page, setPage] = useState(1);
 
@@ -42,10 +45,15 @@ export default function ProductFilter({ products }: { products: Product[] }) {
 
   const brands = Array.from(new Set(products.map((p) => p.brand))).sort();
   const types = Array.from(new Set(products.map((p) => p.type)));
+  const categories = Array.from(new Set(products.map((p) => p.category || 'other-oem'))).sort();
+  const categoryLabel = (c: string) => {
+    try { return pc(`${c}.title`); } catch { return c; }
+  };
 
   const filtered = products.filter((p) => {
     if (brand !== 'all' && p.brand !== brand) return false;
     if (type !== 'all' && p.type !== type) return false;
+    if (category !== 'all' && (p.category || 'other-oem') !== category) return false;
     if (range !== 'all') {
       const r = powerRanges.find((x) => x.id === range);
       if (r && (p.powerKVA < r.min || p.powerKVA >= r.max)) return false;
@@ -89,6 +97,29 @@ export default function ProductFilter({ products }: { products: Product[] }) {
                 onClick={() => change(setBrand)(b)}
               >
                 {b}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="filter-group">
+          <label>{pp('filterByCategory')}</label>
+          <div className="filter-options">
+            <button
+              type="button"
+              className={`filter-option${category === 'all' ? ' is-active' : ''}`}
+              onClick={() => change(setCategory)('all')}
+            >
+              {pp('all')}
+            </button>
+            {categories.map((c) => (
+              <button
+                key={c}
+                type="button"
+                className={`filter-option${category === c ? ' is-active' : ''}`}
+                onClick={() => change(setCategory)(c)}
+              >
+                {categoryLabel(c)}
               </button>
             ))}
           </div>

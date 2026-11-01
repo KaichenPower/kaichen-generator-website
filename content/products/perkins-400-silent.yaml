@@ -3,6 +3,7 @@ image: /images/products/perkins-400kw-silent.jpg
 brand: Perkins
 powerKVA: 500
 type: silent
+category: silent-canopy
 description: 400kW Perkins soundproof diesel generator for commercial buildings, factories and data facilities needing reliable standby power with controlled noise.
 features:
   - Perkins 6-cylinder engine with strong transient response

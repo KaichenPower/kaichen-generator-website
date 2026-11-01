@@ -3,6 +3,7 @@ image: /images/products/container-sdec.png
 brand: SDEC
 powerKVA: 300
 type: container
+category: containerized-silent
 description: 300kVA containerized diesel generator set, fully equipped and ready for deployment in remote and harsh environments.
 features:
   - 20ft container housing with full acoustic treatment

@@ -3,6 +3,7 @@ image: /images/products/cummins-400kw-open.jpg
 brand: Cummins
 powerKVA: 500
 type: open
+category: cummins
 description: Heavy-duty 500kVA open-type diesel generator set with Cummins engine, built for continuous industrial and commercial power.
 features:
   - Cummins NT-series engine, globally recognized reliability

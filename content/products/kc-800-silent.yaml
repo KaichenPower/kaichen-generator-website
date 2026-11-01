@@ -3,6 +3,7 @@ image: /images/products/volvo-300kw-silent.jpg
 brand: Volvo
 powerKVA: 375
 type: silent
+category: silent-canopy
 description: High-capacity 800kVA silenced diesel generator with Volvo Penta engine for data centers, hospitals and large facilities.
 features:
   - Volvo Penta engine with excellent fuel efficiency

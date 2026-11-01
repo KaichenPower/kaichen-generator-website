@@ -216,7 +216,9 @@
     "prev": "Prev",
     "next": "Next",
     "page": "Page",
-    "detailTag": "Product Detail"
+    "detailTag": "Product Detail",
+    "filterByCategory": "Filter by Product Category",
+    "contactCta": "Contact our engineering team"
   },
   "solutions": {
     "title": "Industry Power Solutions",
@@ -1006,7 +1008,69 @@
       {
         "q": "Do you test every set before shipment?",
         "a": "Yes. Every set runs on our 2 MW digital load bank through a four-step sequence – 20%, 50%, 75% and 100% rated load – for at least 2 hours total. The whole test is recorded on video and shared with you before the set leaves the factory, so you can verify the real output and protection trip settings before you receive the goods."
+      },
+      {
+        "q": "What details do you need before sending a diesel generator quotation?",
+        "a": "Please tell us the required power in kW or kVA, preferred engine brand, unit type (open, silent, trailer or container), quantity, destination port or city, and voltage/frequency. The default configuration is 380/220V, 50Hz, 3-phase 4-wire. With these details we can prepare an accurate FOB or CIF quotation faster."
+      },
+      {
+        "q": "Which engine brands can Kaichen supply?",
+        "a": "We supply Cummins (including Dongfeng and Chongqing Cummins under the unified Cummins brand), Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai and Shanghai Mitsubishi. For export display, Dongfeng Cummins and Chongqing Cummins are unified as Cummins. We can also match alternators such as Stamford, Mecc Alte or Leroy Somer to your project."
+      },
+      {
+        "q": "What export documents and certifications are normally included?",
+        "a": "We provide commercial invoice, packing list, bill of lading cooperation, CE/ISO certificates, factory test report and, on request, SGS/BV/TUV third-party inspection. Each set is tested on a load bank before shipment and the test video can be shared with your team."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Cummins Generator Sets",
+      "description": "Open and standby Cummins diesel generator sets for 50–2000 kW projects, unified under the Cummins brand for export enquiries."
+    },
+    "sdec": {
+      "title": "SDEC Generator Sets",
+      "description": "SDEC-powered diesel generator sets from 20 kW to 2000 kW for industrial and commercial standby power."
+    },
+    "weichai": {
+      "title": "Weichai Generator Sets",
+      "description": "Weichai diesel generators covering 16–2400 kW, selected for broad power range and cost-effective industrial duty."
+    },
+    "volvo": {
+      "title": "Volvo Penta Generator Sets",
+      "description": "Volvo Penta diesel generator sets from 200 to 500 kW for reliable commercial and industrial standby power."
+    },
+    "yuchai": {
+      "title": "Yuchai Generator Sets",
+      "description": "Yuchai diesel generators from 16 to 3000 kW for construction, industrial and mobile power projects."
+    },
+    "kaichen": {
+      "title": "Kaichen Brand Generator Sets",
+      "description": "Kaichen-engineered diesel generator sets from 30 to 1000 kW for balanced cost, delivery and export support."
+    },
+    "silent-canopy": {
+      "title": "Silent Canopy Generators",
+      "description": "Soundproof canopy diesel generators for urban sites, hospitals, retail and locations where low noise is required."
+    },
+    "rainproof-canopy": {
+      "title": "Rainproof Canopy Generators",
+      "description": "Weather-protected canopy generators for outdoor standby where rain protection is needed without full acoustic enclosure."
+    },
+    "containerized-silent": {
+      "title": "Containerized Silent Generators",
+      "description": "Containerized silent power stations from 100 to 2400 kW for export projects, remote sites and continuous duty."
+    },
+    "mobile-silent": {
+      "title": "Mobile Silent Generators",
+      "description": "Trailer-mounted silent generator sets for rental, events, construction and temporary low-noise power."
+    },
+    "mobile-trailer": {
+      "title": "Mobile Trailer Generators",
+      "description": "Trailer-mounted diesel generator sets for road construction, mining, events and temporary field power."
+    },
+    "other-oem": {
+      "title": "Other OEM Engine Brands",
+      "description": "Selected Perkins, Mitsubishi and Scania powered sets remain available as OEM-engine options under Kaichen assembly."
+    }
   }
 }

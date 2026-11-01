@@ -216,7 +216,9 @@
     "prev": "Anterior",
     "next": "Próximo",
     "page": "Página",
-    "detailTag": "Detalhe do produto"
+    "detailTag": "Detalhe do produto",
+    "filterByCategory": "Filtrar por categoria de produto",
+    "contactCta": "Fale com nossa equipe de engenharia"
   },
   "solutions": {
     "title": "Soluções de energia por setor",
@@ -963,7 +965,69 @@
       {
         "q": "Vocês testam cada gerador antes do envio?",
         "a": "Sim. Cada gerador funciona em nossa banco de carga digital de 2 MW através de uma sequência de quatro passos – 20 %, 50 %, 75 % e 100 % de carga nominal – por pelo menos 2 horas no total. Todo o teste é gravado em vídeo e compartilhado com você antes que o gerador saia da fábrica."
+      },
+      {
+        "q": "Quais dados você precisa antes de enviar uma cotação?",
+        "a": "Informe a potência em kW ou kVA, a marca do motor preferida, o tipo (aberto, silenciado, sobre reboque ou container), a quantidade, o porto ou cidade de destino, tensão e frequência. A configuração padrão é 380/220V, 50 Hz, trifásico."
+      },
+      {
+        "q": "Quais marcas de motor a Kaichen fornece?",
+        "a": "Fornecemos Cummins, incluindo Dongfeng e Chongqing Cummins sob a marca unificada Cummins, além de Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai e Shanghai Mitsubishi. Para exportação, Dongfeng e Chongqing são unificados como Cummins."
+      },
+      {
+        "q": "Quais documentos de exportação e certificações são incluídos?",
+        "a": "Incluímos fatura comercial, lista de embalagem, apoio com conhecimento de embarque, certificados CE/ISO, relatório de teste de fábrica e, sob solicitação, inspeção SGS/BV/TUV. Cada grupo é testado em banco de carga antes do envio."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Grupos geradores Cummins",
+      "description": "Grupos geradores a diesel Cummins abertos e de reserva para projetos de 50–2000 kW, marca unificada para exportação."
+    },
+    "sdec": {
+      "title": "Grupos geradores SDEC",
+      "description": "Grupos geradores a diesel SDEC de 20 a 2000 kW para reserva industrial e comercial."
+    },
+    "weichai": {
+      "title": "Grupos geradores Weichai",
+      "description": "Grupos a diesel Weichai de 16 a 2400 kW, ampla faixa de potência e bom custo industrial."
+    },
+    "volvo": {
+      "title": "Grupos geradores Volvo Penta",
+      "description": "Grupos a diesel Volvo Penta de 200 a 500 kW para reserva comercial e industrial confiável."
+    },
+    "yuchai": {
+      "title": "Grupos geradores Yuchai",
+      "description": "Grupos a diesel Yuchai de 16 a 3000 kW para construção, indústria e energia móvel."
+    },
+    "kaichen": {
+      "title": "Grupos geradores Kaichen",
+      "description": "Grupos a diesel Kaichen de 30 a 1000 kW com equilíbrio de custo, entrega e suporte de exportação."
+    },
+    "silent-canopy": {
+      "title": "Geradores silenciados",
+      "description": "Grupos a diesel em cabine silenciada para centros urbanos, hospitais, varejo e baixo ruído."
+    },
+    "rainproof-canopy": {
+      "title": "Geradores guarda-chuva",
+      "description": "Grupos com proteção contra chuva para exteriores sem cabine acústica completa."
+    },
+    "containerized-silent": {
+      "title": "Geradores containerizados",
+      "description": "Usinas silenciosas containerizadas de 100 a 2400 kW para exportação, locais remotos e serviço contínuo."
+    },
+    "mobile-silent": {
+      "title": "Geradores móveis silenciados",
+      "description": "Grupos móveis silenciados sobre reboque para aluguel, eventos, construção e energia temporária."
+    },
+    "mobile-trailer": {
+      "title": "Geradores sobre reboque",
+      "description": "Grupos a diesel sobre reboque para rodovias, mineração, eventos e energia temporária."
+    },
+    "other-oem": {
+      "title": "Outras marcas OEM",
+      "description": "Sets selecionados Perkins, Mitsubishi e Scania disponíveis como opções OEM montados pela Kaichen."
+    }
   }
 }

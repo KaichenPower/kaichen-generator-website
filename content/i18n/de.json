@@ -216,7 +216,9 @@
     "prev": "Zurück",
     "next": "Weiter",
     "page": "Seite",
-    "detailTag": "Produktdetail"
+    "detailTag": "Produktdetail",
+    "filterByCategory": "Nach Produktkategorie filtern",
+    "contactCta": "Kontaktieren Sie unser Engineering-Team"
   },
   "solutions": {
     "title": "Branchenspezifische Stromlösungen",
@@ -963,7 +965,69 @@
       {
         "q": "Testen Sie jedes Aggregat vor dem Versand?",
         "a": "Ja. Jedes Aggregat läuft auf unserer 2 MW digitalen Lastbank durch eine vierstufige Sequenz – 20 %, 50 %, 75 % und 100 % Nennlast – für insgesamt mindestens 2 Stunden. Der gesamte Test wird auf Video aufgezeichnet und vor dem Verlassen des Werks mit Ihnen geteilt."
+      },
+      {
+        "q": "Welche Angaben brauchen Sie vor einem Stromerzeuger-Angebot?",
+        "a": "Bitte nennen Sie die gewünschte Leistung in kW oder kVA, die bevorzugte Motormarke, den Typ (offen, schallgedämmt, Anhänger oder Container), die Stückzahl, den Zielhafen oder Zielort sowie Spannung und Frequenz. Standard ist 380/220V, 50 Hz, dreiphasig."
+      },
+      {
+        "q": "Welche Motormarken liefert Kaichen?",
+        "a": "Wir liefern Cummins, einschließlich Dongfeng und Chongqing Cummins unter der einheitlichen Marke Cummins, sowie Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai und Shanghai Mitsubishi. Im Export werden Dongfeng und Chongqing als Cummins geführt."
+      },
+      {
+        "q": "Welche Exportdokumente und Zertifikate gehören dazu?",
+        "a": "Wir stellen Handelsrechnung, Packliste, Unterstützung beim Frachtbrief, CE/ISO-Zertifikate, Werks-Prüfbericht und auf Wunsch SGS-/BV-/TUV-Inspektion. Jedes Aggregat wird vor dem Versand auf dem Lastprüfstand getestet."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Cummins Stromerzeuger",
+      "description": "Offene und Cummins Notstromaggregate für 50–2000-kW-Projekte, einheitliche Marke für Exportanfragen."
+    },
+    "sdec": {
+      "title": "SDEC Stromerzeuger",
+      "description": "SDEC-Dieselstromerzeuger von 20 bis 2000 kW für industrielle und gewerbliche Notstromversorgung."
+    },
+    "weichai": {
+      "title": "Weichai Stromerzeuger",
+      "description": "Weichai-Dieselstromerzeuger mit 16–2400 kW für breite Leistungsklassen und industriellen Einsatz."
+    },
+    "volvo": {
+      "title": "Volvo Penta Stromerzeuger",
+      "description": "Volvo Penta Dieselstromerzeuger 200–500 kW für zuverlässige gewerbliche und industrielle Notstrom."
+    },
+    "yuchai": {
+      "title": "Yuchai Stromerzeuger",
+      "description": "Yuchai-Dieselstromerzeuger 16–3000 kW für Bau, Industrie und mobile Stromversorgung."
+    },
+    "kaichen": {
+      "title": "Kaichen Stromerzeuger",
+      "description": "Kaichen-Dieselstromerzeuger 30–1000 kW mit ausgewogenem Preis, Lieferzeit und Exportunterstützung."
+    },
+    "silent-canopy": {
+      "title": "Schallschutzgeneratoren",
+      "description": "Dieselstromerzeuger im Schallschutzgehäuse für Standorte mit niedrigen Geräuschgrenzwerten."
+    },
+    "rainproof-canopy": {
+      "title": "Regenschutz-Generatoren",
+      "description": "Wettergeschützte Generatoren für Außenstandorte mit Regenschutz ohne volles Schallschutzgehäuse."
+    },
+    "containerized-silent": {
+      "title": "Container-Stromerzeuger",
+      "description": "Containerisierte schallgedämmte Stromstationen 100–2400 kW für Exportprojekte und Dauerbetrieb."
+    },
+    "mobile-silent": {
+      "title": "Mobile Schallschutzgeneratoren",
+      "description": "Fahrbare schallgedämmte Stromerzeuger für Vermietung, Events, Baustellen und temporäre Niedriglärmversorgung."
+    },
+    "mobile-trailer": {
+      "title": "Anhänger-Generatoren",
+      "description": "Dieselstromerzeuger auf Anhängern für Straßenbau, Bergbau, Events und temporäre Feldversorgung."
+    },
+    "other-oem": {
+      "title": "Andere OEM-Marken",
+      "description": "Ausgewählte Perkins-, Mitsubishi- und Scania-Gruppen sind als OEM-Motoroptionen in Kaichen-Aufbau verfügbar."
+    }
   }
 }

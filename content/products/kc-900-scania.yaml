@@ -3,6 +3,7 @@ image: /images/products/scania-500kw-silent.jpg
 brand: Scania
 powerKVA: 625
 type: silent
+category: silent-canopy
 description: Powerful yet quiet 900kVA silent type diesel generator set powered by a Scania engine for critical facilities and large commercial projects.
 features:
   - Scania 16-litre industrial engine with excellent fuel economy

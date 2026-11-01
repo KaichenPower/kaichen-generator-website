@@ -19,6 +19,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       urls.push({ url: `${domain}/${locale}${p}/`, changeFrequency: 'monthly', priority: 0.7 });
     }
 
+    // Product category landing pages
+    for (const category of ['cummins','sdec','weichai','volvo','yuchai','kaichen','silent-canopy','rainproof-canopy','containerized-silent','mobile-silent','mobile-trailer','other-oem']) {
+      urls.push({ url: `${domain}/${locale}/products/categories/${category}/`, changeFrequency: 'monthly', priority: 0.7 });
+    }
+
     // 产品列表 + 详情（用英文全名 urlSlug）
     for (const prod of getAllProducts()) {
       urls.push({

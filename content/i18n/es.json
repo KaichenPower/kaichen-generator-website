@@ -216,7 +216,9 @@
     "prev": "Anterior",
     "next": "Siguiente",
     "page": "Página",
-    "detailTag": "Detalle del producto"
+    "detailTag": "Detalle del producto",
+    "filterByCategory": "Filtrar por categoría de producto",
+    "contactCta": "Contacte con nuestro equipo de ingeniería"
   },
   "solutions": {
     "title": "Soluciones energéticas por sector",
@@ -963,7 +965,69 @@
       {
         "q": "¿Prueban cada conjunto antes del envío?",
         "a": "Sí. Cada conjunto funciona en nuestro banco de carga digital de 2 MW a través de una secuencia de cuatro pasos — 20%, 50%, 75% y 100% de carga nominal — durante al menos 2 horas en total. Toda la prueba se graba en video y se comparte con usted antes de que el conjunto salga de la fábrica."
+      },
+      {
+        "q": "¿Qué datos necesita antes de enviarnos una cotización?",
+        "a": "Indique la potencia en kW o kVA, marca de motor preferida, tipo de grupo (abierto, insonorizado, sobre remolque o contenedor), cantidad, puerto o ciudad de destino, voltaje y frecuencia. La configuración estándar es 380/220V, 50 Hz, trifásico."
+      },
+      {
+        "q": "¿Qué marcas de motor suministra Kaichen?",
+        "a": "Suministramos Cummins, incluidos Dongfeng y Chongqing Cummins bajo la marca unificada Cummins, además de Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai y Shanghai Mitsubishi. Para exportación, Dongfeng y Chongqing se unifican como Cummins."
+      },
+      {
+        "q": "¿Qué documentos de exportación y certificaciones se incluyen?",
+        "a": "Incluimos factura comercial, lista de empaque, apoyo con conocimiento de embarque, certificados CE/ISO, informe de prueba de fábrica y, si se solicita, inspección SGS/BV/TUV. Cada equipo se prueba en banco de cargas antes del envío."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Grupos electrógenos Cummins",
+      "description": "Grupos electrógenos diésel Cummins abiertos y de reserva para proyectos de 50–2000 kW, con marca unificada para exportación."
+    },
+    "sdec": {
+      "title": "Grupos electrógenos SDEC",
+      "description": "Grupos electrógenos diésel SDEC de 20 a 2000 kW para reserva industrial y comercial."
+    },
+    "weichai": {
+      "title": "Grupos electrógenos Weichai",
+      "description": "Grupos diésel Weichai de 16 a 2400 kW, con amplia cobertura de potencia y buen coste para industria."
+    },
+    "volvo": {
+      "title": "Grupos electrógenos Volvo Penta",
+      "description": "Grupos diésel Volvo Penta de 200 a 500 kW para reserva comercial e industrial fiable."
+    },
+    "yuchai": {
+      "title": "Grupos electrógenos Yuchai",
+      "description": "Grupos diésel Yuchai de 16 a 3000 kW para construcción, industria y proyectos móviles."
+    },
+    "kaichen": {
+      "title": "Grupos electrógenos Kaichen",
+      "description": "Grupos diésel Kaichen de 30 a 1000 kW con equilibrio entre coste, entrega y soporte de exportación."
+    },
+    "silent-canopy": {
+      "title": "Generadores insonorizados",
+      "description": "Grupos diésel en cabina insonorizada para ciudades, hospitales, comercios y zonas con bajo ruido."
+    },
+    "rainproof-canopy": {
+      "title": "Generadores intemperie",
+      "description": "Grupos con toldo protector para exteriores que necesitan protección contra lluvia sin cabina acústica completa."
+    },
+    "containerized-silent": {
+      "title": "Generadores en contenedor",
+      "description": "Centrales insonorizadas en contenedor de 100 a 2400 kW para proyectos de exportación y trabajo continuo."
+    },
+    "mobile-silent": {
+      "title": "Generadores móviles insonorizados",
+      "description": "Grupos móviles en cabina insonorizada para alquiler, eventos, construcción y potencia temporal."
+    },
+    "mobile-trailer": {
+      "title": "Generadores móviles sobre remolque",
+      "description": "Grupos diésel sobre remolque para obras viales, minería, eventos y energía temporal de campo."
+    },
+    "other-oem": {
+      "title": "Otras marcas OEM",
+      "description": "Sets seleccionados Perkins, Mitsubishi y Scania disponibles como opciones OEM ensambladas por Kaichen."
+    }
   }
 }

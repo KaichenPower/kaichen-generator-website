@@ -3,6 +3,7 @@ image: /images/products/cummins-200kw-silent.jpg
 brand: Cummins
 powerKVA: 250
 type: silent
+category: silent-canopy
 description: Reliable 200kW soundproof Cummins diesel generator for medium factories, hospitals, data centers and commercial buildings needing stable backup power.
 features:
   - Cummins NTA855 series engine with proven durability worldwide

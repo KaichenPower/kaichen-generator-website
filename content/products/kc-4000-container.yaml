@@ -3,6 +3,7 @@ image: /images/products/container-4000.png
 brand: Mitsubishi
 powerKVA: 4000
 type: container
+category: containerized-silent
 description: 4000kVA containerized power plant module with MTU engine, designed for large-scale industrial and utility power projects.
 features:
   - High-capacity MTU engine with exceptional reliability

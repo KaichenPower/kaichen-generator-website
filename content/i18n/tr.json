@@ -216,7 +216,9 @@
     "prev": "Önceki",
     "next": "Sonraki",
     "page": "Sayfa",
-    "detailTag": "Ürün Detayı"
+    "detailTag": "Ürün Detayı",
+    "filterByCategory": "Ürün kategorisine göre filtrele",
+    "contactCta": "Mühendislik ekibimizle görüşün"
   },
   "solutions": {
     "title": "Sektörel Güç Çözümleri",
@@ -963,7 +965,69 @@
       {
         "q": "Her seti sevkıyattan önce test ediyor musunuz?",
         "a": "Evet. Her set, 2 MW dijital yük bankamızda dört aşamalı bir sekansla – %20, %50, %75 ve %100 anma yükü – toplam en az 2 saat boyunca çalışır. Tüm test video kaydedilir ve set fabrikadan ayrılmadan önce sizinle paylaşılır."
+      },
+      {
+        "q": "Dizel jeneratör teklifi için hangi bilgiler gerekir?",
+        "a": "Gerekli gücü kW veya kVA, tercih edilen motor markasını, tipi (açık, sessiz, römorklu veya konteynerli), adedi, varış limanını veya şehrini, voltaj ve frekansı bildirin. Varsayılan yapı 380/220V, 50 Hz, üç fazdır."
+      },
+      {
+        "q": "Kaichen hangi motor markalarını tedarik ediyor?",
+        "a": "Dongfeng ve Chongqing Cummins'i birleşik Cummins markası altında dahil ederek Cummins; ayrıca Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai ve Shanghai Mitsubishi tedarik ediyoruz. İhracatta Dongfeng ve Chongqing Cummins olarak birleştirilir."
+      },
+      {
+        "q": "Hangi ihracat belgeleri ve sertifikalar dahildir?",
+        "a": "Ticari fatura, paket listesi, konşimento desteği, CE/ISO sertifikaları, fabrika test raporu ve talep halinde SGS/BV/TUV muayenesi sunuyoruz. Her set sevk öncesi yük bankasında test edilir."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Cummins Jeneratör Setleri",
+      "description": "50–2000 kW projeleri için açık ve yedek Cummins dizel jeneratör setleri, ihracat için tek marka."
+    },
+    "sdec": {
+      "title": "SDEC Jeneratör Setleri",
+      "description": "20–2000 kW aralığında SDEC motorlu dizel jeneratör setleri, endüstriyel ve ticari yedek güç için."
+    },
+    "weichai": {
+      "title": "Weichai Jeneratör Setleri",
+      "description": "16–2400 kW aralığında Weichai dizel jeneratörleri, geniş güç skalası ve endüstriyel kullanım için."
+    },
+    "volvo": {
+      "title": "Volvo Penta Jeneratör Setleri",
+      "description": "200–500 kW Volvo Penta dizel jeneratör setleri, güvenilir ticari ve endüstriyel yedek güç için."
+    },
+    "yuchai": {
+      "title": "Yuchai Jeneratör Setleri",
+      "description": "16–3000 kW Yuchai dizel jeneratörleri, şantiye, sanayi ve mobil güç projeleri için."
+    },
+    "kaichen": {
+      "title": "Kaichen Jeneratör Setleri",
+      "description": "30–1000 kW Kaichen dizel jeneratör setleri, maliyet, teslimat ve ihracat desteği dengesi."
+    },
+    "silent-canopy": {
+      "title": "Sessiz Kabinli Jeneratörler",
+      "description": "Şehir içi hastane, perakende ve düşük gürültü gereken alanlar için ses izole kabinli dizel jeneratörler."
+    },
+    "rainproof-canopy": {
+      "title": "Yağmurdan Koruma Kaportalı Jeneratörler",
+      "description": "Tam akustik kabin gerektirmeyen dış mekan yedek güç için hava koşullarına kaporta korumalı jeneratörler."
+    },
+    "containerized-silent": {
+      "title": "Konteyner Sessiz Jeneratörler",
+      "description": "100–2400 kW konteyner sessiz güç santralleri, ihracat projeleri, uzak sahalar ve sürekli çalışma için."
+    },
+    "mobile-silent": {
+      "title": "Mobil Sessiz Jeneratörler",
+      "description": "Kiralama, etkinlik, şantiye ve geçici düşük gürültülü güç için römork üstü sessiz jeneratör setleri."
+    },
+    "mobile-trailer": {
+      "title": "Römorklu Mobil Jeneratörler",
+      "description": "Karayolu inşaatı, madencilik, etkinlik ve geçici saha gücü için römork üstü dizel jeneratör setleri."
+    },
+    "other-oem": {
+      "title": "Diğer OEM Motor Markaları",
+      "description": "Seçili Perkins, Mitsubishi ve Scania setleri Kaichen montajında OEM motor seçeneği olarak sunulur."
+    }
   }
 }

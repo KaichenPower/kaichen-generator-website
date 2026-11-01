@@ -216,7 +216,9 @@
     "prev": "Trước",
     "next": "Tiếp",
     "page": "Trang",
-    "detailTag": "Chi tiết sản phẩm"
+    "detailTag": "Chi tiết sản phẩm",
+    "filterByCategory": "Lọc theo danh mục sản phẩm",
+    "contactCta": "Liên hệ đội ngũ kỹ thuật"
   },
   "solutions": {
     "title": "Giải pháp năng lượng theo ngành nghề",
@@ -963,7 +965,69 @@
       {
         "q": "Bạn có kiểm tra từng bộ trước khi giao hàng không?",
         "a": "Có. Mỗi bộ chạy trên ngân hàng tải điện tử 2 MW của chúng tôi qua chu trình bốn bước – 20 %, 50 %, 75 % và 100 % tải định mức – tổng cộng ít nhất 2 giờ. Toàn bộ bài kiểm tra được ghi video và chia sẻ với bạn trước khi bộ rời khỏi nhà máy."
+      },
+      {
+        "q": "Trước khi báo giá máy phát diesel, bạn cần những thông tin gì?",
+        "a": "Vui lòng cho biết công suất cần tính bằng kW hoặc kVA, thương hiệu động cơ mong muốn, kiểu máy (mở, chống ồn, rơ moóc hoặc container), số lượng, cảng hoặc thành phố đích, điện áp và tần số. Cấu hình mặc định là 380/220V, 50Hz, 3 pha."
+      },
+      {
+        "q": "Kaichen cung cấp những thương hiệu động cơ nào?",
+        "a": "Chúng tôi cung cấp Cummins, gồm cả Dongfeng và Chongqing Cummins dưới thương hiệu thống nhất Cummins, cùng Perkins, Volvo Penta, Scania, Weichai, SDEC, Yuchai và Shanghai Mitsubishi. Khi xuất khẩu, Dongfeng và Chongqing được thống nhất là Cummins."
+      },
+      {
+        "q": "Các giấy tờ xuất khẩu và chứng nhận nào thường được cung cấp?",
+        "a": "Chúng tôi cung cấp hóa đơn thương mại, packing list, hỗ trợ vận đơn, chứng chỉ CE/ISO, biên bản thử nghiệm nhà máy và kiểm định SGS/BV/TUV theo yêu cầu. Mỗi tổ máy được thử trên load bank trước khi xuất xưởng."
       }
     ]
+  },
+  "productCategories": {
+    "cummins": {
+      "title": "Tổ máy phát Cummins",
+      "description": "Tổ máy phát diesel Cummins kiểu mở và dự phòng cho công suất 50–2000 kW, thống nhất thương hiệu Cummins khi xuất khẩu."
+    },
+    "sdec": {
+      "title": "Tổ máy phát SDEC",
+      "description": "Tổ máy phát diesel SDEC công suất 20–2000 kW cho nguồn dự phòng công nghiệp và thương mại."
+    },
+    "weichai": {
+      "title": "Tổ máy phát Weichai",
+      "description": "Tổ máy phát diesel Weichai công suất 16–2400 kW, dải công suất rộng cho công nghiệp."
+    },
+    "volvo": {
+      "title": "Tổ máy phát Volvo Penta",
+      "description": "Tổ máy phát diesel Volvo Penta công suất 200–500 kW cho nguồn dự phòng thương mại và công nghiệp đáng tin cậy."
+    },
+    "yuchai": {
+      "title": "Tổ máy phát Yuchai",
+      "description": "Tổ máy phát diesel Yuchai công suất 16–3000 kW cho xây dựng, công nghiệp và điện di động."
+    },
+    "kaichen": {
+      "title": "Tổ máy phát Kaichen",
+      "description": "Tổ máy phát diesel Kaichen công suất 30–1000 kW, cân bằng chi phí, giao hàng và hỗ trợ xuất khẩu."
+    },
+    "silent-canopy": {
+      "title": "Máy phát chống ồn",
+      "description": "Máy phát diesel khoang chống ồn cho khu đô thị, bệnh viện, bán lẻ và nơi yêu cầu tiếng ồn thấp."
+    },
+    "rainproof-canopy": {
+      "title": "Máy phát mưa che",
+      "description": "Máy phát diesel mái che mưa cho ngoài trời, cần chống mưa nhưng không cần khoang cách âm hoàn toàn."
+    },
+    "containerized-silent": {
+      "title": "Máy phát container chống ồn",
+      "description": "Trạm điện container chống ồn công suất 100–2400 kW cho dự án xuất khẩu, địa điểm xa và vận hành liên tục."
+    },
+    "mobile-silent": {
+      "title": "Máy phát di động chống ồn",
+      "description": "Tổ máy phát di động trên rơ moóc chống ồn cho cho thuê, sự kiện, xây dựng và điện tạm thời."
+    },
+    "mobile-trailer": {
+      "title": "Máy phát di động trên moóc",
+      "description": "Tổ máy phát diesel gắn moóc cho thi công đường, mỏ, sự kiện và điện trường tạm thời."
+    },
+    "other-oem": {
+      "title": "Thương hiệu OEM khác",
+      "description": "Một số tổ máy Perkins, Mitsubishi và Scania vẫn có sẵn dưới dạng phương án động cơ OEM do Kaichen lắp ráp."
+    }
   }
 }

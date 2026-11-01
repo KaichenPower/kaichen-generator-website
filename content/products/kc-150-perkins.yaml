@@ -3,6 +3,7 @@ image: /images/products/perkins-150kw-open.jpg
 brand: Perkins
 powerKVA: 188
 type: open
+category: other-oem
 description: Reliable 150kVA open type diesel generator set powered by a Perkins engine, ideal for industrial and construction backup power.
 features:
   - Perkins 1106 series engine with proven reliability

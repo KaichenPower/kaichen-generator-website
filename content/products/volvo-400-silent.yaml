@@ -3,6 +3,7 @@ image: /images/products/volvo-400kw-silent.png
 brand: Volvo
 powerKVA: 500
 type: silent
+category: silent-canopy
 description: 400kW Volvo Penta soundproof diesel generator for office complexes, hotels and industrial sites where low noise, fuel economy and clean running are priorities.
 features:
   - Volvo Penta 6-cylinder engine, fuel-efficient at partial load

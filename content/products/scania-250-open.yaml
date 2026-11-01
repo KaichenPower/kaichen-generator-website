@@ -3,6 +3,7 @@ image: /images/products/scania-250kw-open.png
 brand: Scania
 powerKVA: 312
 type: open
+category: other-oem
 description: Open-frame 250kW Scania diesel generator for industrial plants and sites with motor-heavy loads, where strong engine transient response is required.
 features:
   - Scania industrial engine with excellent step-load acceptance
