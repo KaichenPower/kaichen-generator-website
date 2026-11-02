@@ -52,6 +52,7 @@ export function getAllProducts(): ProductData[] {
       const name = (data.name as string) || slug;
       return { slug, urlSlug: slugify(name), ...data, name } as ProductData;
     })
+    .filter((p) => p.source === 'knowledge_base')
     .sort((a, b) => (Number(a.powerKVA) || 0) - (Number(b.powerKVA) || 0));
 }
 
