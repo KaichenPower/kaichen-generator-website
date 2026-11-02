@@ -116,29 +116,6 @@ export default function ProductFilter({ products }: { products: Product[] }) {
         </div>
 
         <div className="filter-group">
-          <label>{pp('filterByType')}</label>
-          <div className="filter-options">
-            <button
-              type="button"
-              className={`filter-option${type === 'all' ? ' is-active' : ''}`}
-              onClick={() => change(setType)('all')}
-            >
-              {pp('all')}
-            </button>
-            {types.map((t) => (
-              <button
-                key={t}
-                type="button"
-                className={`filter-option${type === t ? ' is-active' : ''}`}
-                onClick={() => change(setType)(t)}
-              >
-                {typeLabel(t)}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        <div className="filter-group">
           <label>{pp('filterByPower')}</label>
           <div className="filter-options">
             <button
