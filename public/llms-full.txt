@@ -1,0 +1,145 @@
+# Kaichen Power Full Site Context
+
+This file lists the current exported product catalog and main page inventory for AI assistants.
+
+## containerized-silent
+
+- Kaichen 100-150kW Containerized Diesel Generator — 188 kVA standby, image /images/products/kaichen-100-150kw-containerized-diesel-generator.jpg
+- Kaichen 1000-1500kW Containerized Diesel Generator — 1875 kVA standby, image /images/products/kaichen-1000-1500kw-containerized-diesel-generator.jpg
+- Kaichen 1500-2400kW Containerized Diesel Generator — 3000 kVA standby, image /images/products/kaichen-1500-2400kw-containerized-diesel-generator.jpg
+- Kaichen 160-300kW Containerized Diesel Generator — 375 kVA standby, image /images/products/kaichen-160-300kw-containerized-diesel-generator.jpg
+- Kaichen 400-900kW Containerized Diesel Generator — 1125 kVA standby, image /images/products/kaichen-400-900kw-containerized-diesel-generator.jpg
+
+## cummins
+
+- Cummins 100-140kW Open Diesel Generator — 175 kVA standby, image /images/products/cummins-100-140kw-open-diesel-generator.jpg
+- Cummins 1000-1200kW Open Diesel Generator — 1500 kVA standby, image /images/products/cummins-1000-1200kw-open-diesel-generator.jpg
+- Cummins 1210-1600kW Open Diesel Generator — 2000 kVA standby, image /images/products/cummins-1210-1600kw-open-diesel-generator.jpg
+- Cummins 150-190kW Open Diesel Generator — 238 kVA standby, image /images/products/cummins-150-190kw-open-diesel-generator.jpg
+- Cummins 1700-2000kW Open Diesel Generator — 2500 kVA standby, image /images/products/cummins-1700-2000kw-open-diesel-generator.jpg
+- Cummins 200-290kW Open Diesel Generator — 362 kVA standby, image /images/products/cummins-200-290kw-open-diesel-generator.jpg
+- Cummins 200-300kW Open Diesel Generator — 375 kVA standby, image /images/products/cummins-200-300kw-open-diesel-generator.jpg
+- Cummins 30-50kW Open Diesel Generator — 62 kVA standby, image /images/products/cummins-30-50kw-open-diesel-generator.jpg
+- Cummins 300-350kW Open Diesel Generator — 438 kVA standby, image /images/products/cummins-300-350kw-open-diesel-generator.jpg
+- Cummins 320-500kW Open Diesel Generator — 625 kVA standby, image /images/products/cummins-320-500kw-open-diesel-generator.jpg
+- Cummins 360-400kW Open Diesel Generator — 500 kVA standby, image /images/products/cummins-360-400kw-open-diesel-generator.jpg
+- Cummins 60-90kW Open Diesel Generator — 112 kVA standby, image /images/products/cummins-60-90kw-open-diesel-generator.jpg
+- Cummins 600-800kW Open Diesel Generator — 1000 kVA standby, image /images/products/cummins-600-800kw-open-diesel-generator.jpg
+- Cummins 810-900kW Open Diesel Generator — 1125 kVA standby, image /images/products/cummins-810-900kw-open-diesel-generator.jpg
+
+## kaichen
+
+- Kaichen 150kW Open Diesel Generator — 188 kVA standby, image /images/products/kaichen-150kw-open-diesel-generator.jpg
+- Kaichen 200-350kW Open Diesel Generator — 438 kVA standby, image /images/products/kaichen-200-350kw-open-diesel-generator.jpg
+- Kaichen 30-50kW Open Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-open-diesel-generator.jpg
+- Kaichen 400-500kW Open Diesel Generator — 625 kVA standby, image /images/products/kaichen-400-500kw-open-diesel-generator.jpg
+- Kaichen 500-700kW Open Diesel Generator — 875 kVA standby, image /images/products/kaichen-500-700kw-open-diesel-generator.jpg
+- Kaichen 700-900kW Open Diesel Generator — 1125 kVA standby, image /images/products/kaichen-700-900kw-open-diesel-generator.jpg
+- Kaichen 80-120kW Open Diesel Generator — 150 kVA standby, image /images/products/kaichen-80-120kw-open-diesel-generator.jpg
+- Kaichen 900-1000kW Open Diesel Generator — 1250 kVA standby, image /images/products/kaichen-900-1000kw-open-diesel-generator.jpg
+
+## mobile-silent
+
+- Kaichen 150-300kW Mobile Silent Diesel Generator — 375 kVA standby, image /images/products/kaichen-150-300kw-mobile-silent-diesel-generator.jpg
+- Kaichen 30-50kW Mobile Silent Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-mobile-silent-diesel-generator.jpg
+- Kaichen 300-500kW Mobile Silent Diesel Generator — 625 kVA standby, image /images/products/kaichen-300-500kw-mobile-silent-diesel-generator.jpg
+- Kaichen 75-120kW Mobile Silent Diesel Generator — 150 kVA standby, image /images/products/kaichen-75-120kw-mobile-silent-diesel-generator.jpg
+- Kaichen 800-1000kW Mobile Silent Diesel Generator — 1250 kVA standby, image /images/products/kaichen-800-1000kw-mobile-silent-diesel-generator.jpg
+
+## mobile-trailer
+
+- Kaichen 100-120kW Mobile Trailer Diesel Generator — 150 kVA standby, image /images/products/kaichen-100-120kw-mobile-trailer-diesel-generator.jpg
+- Kaichen 120-150kW Mobile Trailer Diesel Generator — 188 kVA standby, image /images/products/kaichen-120-150kw-mobile-trailer-diesel-generator.jpg
+- Kaichen 200-300kW Mobile Trailer Diesel Generator — 375 kVA standby, image /images/products/kaichen-200-300kw-mobile-trailer-diesel-generator.jpg
+- Kaichen 30-50kW Mobile Trailer Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-mobile-trailer-diesel-generator-2.jpg
+- Kaichen 30-50kW Mobile Trailer Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-mobile-trailer-diesel-generator-3.jpg
+- Kaichen 400-500kW Mobile Trailer Diesel Generator — 625 kVA standby, image /images/products/kaichen-400-500kw-mobile-trailer-diesel-generator.jpg
+- Kaichen 800-1000kW Mobile Trailer Diesel Generator — 1250 kVA standby, image /images/products/kaichen-800-1000kw-mobile-trailer-diesel-generator-2.jpg
+
+## rainproof-canopy
+
+- Kaichen 30-50kW Silent Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-silent-diesel-generator-2.jpg
+- Kaichen 300-500kW Silent Diesel Generator — 625 kVA standby, image /images/products/kaichen-300-500kw-silent-diesel-generator.jpg
+- Kaichen 60-200kW Silent Diesel Generator — 250 kVA standby, image /images/products/kaichen-60-200kw-silent-diesel-generator.jpg
+- Kaichen 600-800kW Silent Diesel Generator — 1000 kVA standby, image /images/products/kaichen-600-800kw-silent-diesel-generator-2.jpg
+
+## sdec
+
+- SDEC 100-130kW Open Diesel Generator — 162 kVA standby, image /images/products/sdec-100-130kw-open-diesel-generator.jpg
+- SDEC 1200-1500kW Open Diesel Generator — 1875 kVA standby, image /images/products/sdec-1200-1500kw-open-diesel-generator.jpg
+- SDEC 140-200kW Open Diesel Generator — 250 kVA standby, image /images/products/sdec-140-200kw-open-diesel-generator.jpg
+- SDEC 1600-2000kW Open Diesel Generator — 2500 kVA standby, image /images/products/sdec-1600-2000kw-open-diesel-generator.jpg
+- SDEC 20-30kW Open Diesel Generator — 38 kVA standby, image /images/products/sdec-20-30kw-open-diesel-generator.jpg
+- SDEC 210-320kW Open Diesel Generator — 400 kVA standby, image /images/products/sdec-210-320kw-open-diesel-generator.jpg
+- SDEC 330-400kW Open Diesel Generator — 500 kVA standby, image /images/products/sdec-330-400kw-open-diesel-generator.jpg
+- SDEC 40-60kW Open Diesel Generator — 75 kVA standby, image /images/products/sdec-40-60kw-open-diesel-generator.jpg
+- SDEC 410-550kW Open Diesel Generator — 688 kVA standby, image /images/products/sdec-410-550kw-open-diesel-generator.jpg
+- SDEC 560-650kW Open Diesel Generator — 812 kVA standby, image /images/products/sdec-560-650kw-open-diesel-generator.jpg
+- SDEC 660-860kW Open Diesel Generator — 1075 kVA standby, image /images/products/sdec-660-860kw-open-diesel-generator.jpg
+- SDEC 70-90kW Open Diesel Generator — 112 kVA standby, image /images/products/sdec-70-90kw-open-diesel-generator.jpg
+- SDEC 870-1100kW Open Diesel Generator — 1375 kVA standby, image /images/products/sdec-870-1100kw-open-diesel-generator.jpg
+
+## silent-canopy
+
+- Kaichen 100-150kW Silent Diesel Generator — 188 kVA standby, image /images/products/kaichen-100-150kw-silent-diesel-generator.jpg
+- Kaichen 1000-1200kW Silent Diesel Generator — 1500 kVA standby, image /images/products/kaichen-1000-1200kw-silent-diesel-generator.jpg
+- Kaichen 160-200kW Silent Diesel Generator — 250 kVA standby, image /images/products/kaichen-160-200kw-silent-diesel-generator.jpg
+- Kaichen 250kW Silent Diesel Generator — 312 kVA standby, image /images/products/kaichen-250kw-silent-diesel-generator.jpg
+- Kaichen 30-50kW Silent Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-silent-diesel-generator.jpg
+- Kaichen 300-400kW Silent Diesel Generator — 500 kVA standby, image /images/products/kaichen-300-400kw-silent-diesel-generator.jpg
+- Kaichen 400-500kW Silent Diesel Generator — 625 kVA standby, image /images/products/kaichen-400-500kw-silent-diesel-generator.jpg
+- Kaichen 500-600kW Silent Diesel Generator — 750 kVA standby, image /images/products/kaichen-500-600kw-silent-diesel-generator.jpg
+- Kaichen 60-100kW Silent Diesel Generator — 125 kVA standby, image /images/products/kaichen-60-100kw-silent-diesel-generator.jpg
+- Kaichen 600-800kW Silent Diesel Generator — 1000 kVA standby, image /images/products/kaichen-600-800kw-silent-diesel-generator.jpg
+
+## volvo
+
+- Volvo 200-250kW Open Diesel Generator — 312 kVA standby, image /images/products/volvo-200-250kw-open-diesel-generator.jpg
+- Volvo 260-360kW Open Diesel Generator — 450 kVA standby, image /images/products/volvo-260-360kw-open-diesel-generator.jpg
+- Volvo 370-500kW Open Diesel Generator — 625 kVA standby, image /images/products/volvo-370-500kw-open-diesel-generator.jpg
+
+## weichai
+
+- Weichai 110-130kW Open Diesel Generator — 162 kVA standby, image /images/products/weichai-110-130kw-open-diesel-generator.jpg
+- Weichai 132-160kW Open Diesel Generator — 200 kVA standby, image /images/products/weichai-132-160kw-open-diesel-generator.jpg
+- Weichai 16-30kW Open Diesel Generator — 38 kVA standby, image /images/products/weichai-16-30kw-open-diesel-generator.jpg
+- Weichai 1600-2400kW Open Diesel Generator — 3000 kVA standby, image /images/products/weichai-1600-2400kw-open-diesel-generator.jpg
+- Weichai 165-260kW Open Diesel Generator — 325 kVA standby, image /images/products/weichai-165-260kw-open-diesel-generator.jpg
+- Weichai 270-400kW Open Diesel Generator — 500 kVA standby, image /images/products/weichai-270-400kw-open-diesel-generator.jpg
+- Weichai 32-45kW Open Diesel Generator — 56 kVA standby, image /images/products/weichai-32-45kw-open-diesel-generator.jpg
+- Weichai 46-60kW Open Diesel Generator — 75 kVA standby, image /images/products/weichai-46-60kw-open-diesel-generator.jpg
+- Weichai 500-600kW Open Diesel Generator — 750 kVA standby, image /images/products/weichai-500-600kw-open-diesel-generator.jpg
+- Weichai 610-890kW Open Diesel Generator — 1112 kVA standby, image /images/products/weichai-610-890kw-open-diesel-generator.jpg
+- Weichai 62-90kW Open Diesel Generator — 112 kVA standby, image /images/products/weichai-62-90kw-open-diesel-generator.jpg
+- Weichai 900-1500kW Open Diesel Generator — 1875 kVA standby, image /images/products/weichai-900-1500kw-open-diesel-generator.jpg
+- Weichai 91-100kW Open Diesel Generator — 125 kVA standby, image /images/products/weichai-91-100kw-open-diesel-generator.jpg
+
+## yuchai
+
+- Yuchai 1100-1300kW Open Diesel Generator — 1625 kVA standby, image /images/products/yuchai-1100-1300kw-open-diesel-generator.jpg
+- Yuchai 125-140kW Open Diesel Generator — 175 kVA standby, image /images/products/yuchai-125-140kw-open-diesel-generator.jpg
+- Yuchai 1400-1600kW Open Diesel Generator — 2000 kVA standby, image /images/products/yuchai-1400-1600kw-open-diesel-generator.jpg
+- Yuchai 145-180kW Open Diesel Generator — 225 kVA standby, image /images/products/yuchai-145-180kw-open-diesel-generator.jpg
+- Yuchai 16-30kW Open Diesel Generator — 38 kVA standby, image /images/products/yuchai-16-30kw-open-diesel-generator.jpg
+- Yuchai 1700-2200kW Open Diesel Generator — 2750 kVA standby, image /images/products/yuchai-1700-2200kw-open-diesel-generator.jpg
+- Yuchai 190-300kW Open Diesel Generator — 375 kVA standby, image /images/products/yuchai-190-300kw-open-diesel-generator.jpg
+- Yuchai 2300-3000kW Open Diesel Generator — 3750 kVA standby, image /images/products/yuchai-2300-3000kw-open-diesel-generator.jpg
+- Yuchai 310-400kW Open Diesel Generator — 500 kVA standby, image /images/products/yuchai-310-400kw-open-diesel-generator.jpg
+- Yuchai 40-60kW Open Diesel Generator — 75 kVA standby, image /images/products/yuchai-40-60kw-open-diesel-generator.jpg
+- Yuchai 410-550kW Open Diesel Generator — 688 kVA standby, image /images/products/yuchai-410-550kw-open-diesel-generator.jpg
+- Yuchai 560-610kW Open Diesel Generator — 762 kVA standby, image /images/products/yuchai-560-610kw-open-diesel-generator.jpg
+- Yuchai 620-800kW Open Diesel Generator — 1000 kVA standby, image /images/products/yuchai-620-800kw-open-diesel-generator.jpg
+- Yuchai 65-90kW Open Diesel Generator — 112 kVA standby, image /images/products/yuchai-65-90kw-open-diesel-generator.jpg
+- Yuchai 810-1000kW Open Diesel Generator — 1250 kVA standby, image /images/products/yuchai-810-1000kw-open-diesel-generator.jpg
+- Yuchai 92-120kW Open Diesel Generator — 150 kVA standby, image /images/products/yuchai-92-120kw-open-diesel-generator.jpg
+
+## Main pages
+
+- /en/ home
+- /en/products/ catalog
+- /en/products/categories/ 11 brand and enclosure categories
+- /en/solutions/ industry applications
+- /en/blog/ buying guides and maintenance articles
+- /en/faq/ technical questions
+- /en/about/ factory profile
+- /en/contact/ enquiry form
