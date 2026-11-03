@@ -68,3 +68,14 @@ Menos de 60 kW y el camión se siente sobredimensionado para la salida. Más de 
 
 Si tu necesidad de energía se mueve — un sitio de trabajo, un evento, una misión de ayuda — cuéntanos la lista de cargas y las reglas viales de tu país. Especificaremos el vehículo de energía adecuado, y te diremos honestamente si comprar o alquilar tiene más sentido en el próximo año.
 
+## Lista de verificación antes de pedir
+
+Antes de elegir un generador, reúna la carga conectada exacta, el motor más grande, altitud, temperatura ambiente y lógica ATS necesaria. Un equipo muy pequeño dispara la protección con carga escalonada; uno muy grande trabaja con baja carga, forma hollín y gasta combustible. Pida un informe de prueba de carga de una hora, no solo una foto de la placa.
+
+## Cómo nuestra fábrica de Yangzhou arma equipos de exportación
+
+Cada equipo de exportación recibe circuitos de control cableados, interruptores de batería, soportes antivibración y prueba de presión de agua, aceite y combustible. El alternador se ajusta al par del motor para que la carga escalonada no caiga la frecuencia. La documentación incluye esquemas, plan de mantenimiento, opciones de voltaje y números de serie. Cabina, contenedor o remolque se configuran en fábrica.
+
+## Preguntas para la llamada
+
+Envíe la lista de cargas, diagrama unifilar, objetivo de ruido, autonomía de combustible y estándar local de enchufe/voltaje. Responderemos con recomendación dimensionada, plazo y cotización que separa motor, alternador, cabina, ATS y monitoreo.

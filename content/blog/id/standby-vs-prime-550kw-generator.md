@@ -68,3 +68,14 @@ Sebelum Anda membandingkan harga, tanyakan pada diri Anda satu hal:
 
 Jika jawabannya "beberapa puluh, hanya saat badai", beli standby. Jika jawabannya "beberapa ribu, karena jaringan tidak bisa dipercaya", beli prime. Beri tahu kami angkanya dan kami akan memberi penawaran rating yang cocok — bukan yang lebih murah yang akan mengecewakan Anda dalam tiga tahun.
 
+## Daftar periksa rekayasa sebelum pesan
+
+Sebelum memilih generator, kumpulkan beban terhubung nyata, motor terbesar, ketinggian, suhu lingkungan dan logika ATS yang dibutuhkan. Unit terlalu kecil akan trip pada beban bertahap; unit terlalu besar berbeban rendah, membentuk kerak dan boros bahan bakar. Minta laporan uji beban satu jam, bukan sekadar foto nameplate.
+
+## Bagaimana pabrik Yangzhou merakit unit ekspor
+
+Setiap unit ekspor menerima sirkuit kontrol terpasang, pemutus baterai, dudukan anti getar dan uji tekanan air/oli/bahan bakar. Alternator dicocokkan dengan torsi mesin agar beban bertahap tidak menurunkan frekuensi. Dokumentasi meliputi diagram, jadwal servis, opsi tegangan dan nomor seri. Kanap, kontainer atau trailer dikonfigurasi di pabrik.
+
+## Pertanyaan saat panggilan
+
+Kirim daftar beban, diagram satu jalur, target kebisingan, otonomi bahan bakar dan standar stopkontak/tegangan lokal. Kami akan membalas dengan rekomendasi berukuran tepat, waktu tunggu dan kutipan yang memisahkan mesin, alternator, kanap, ATS dan pemantauan.

@@ -225,39 +225,48 @@
     "subtitle": "Sanayi ve ticaret uygulamaları için özel dizel jeneratörler",
     "commercial-community": {
       "name": "Ticaret ve Konut Siteleri",
-      "desc": "Alışveriş merkezleri, konut ve ofis binaları için güvenilir yedek güç kaynağı."
+      "desc": "Alışveriş merkezleri, konut ve ofis binaları için güvenilir yedek güç kaynağı.",
+      "body": "Ticari binalar ve siteler saniyeler içinde devreye giren ve sessiz çalışan yedeğe ihtiyaç duyar. Ortak alanlar, asansörler, acil aydınlatma, pompalar ve yangın sistemleri için hesaplama yapar, ATS panosunu koordine ederiz. Sessiz kabin veya konteynerler emlekte gürültüyü azaltır. Bakım yoğunluğa göre planlanır, uzaktan izleme arızadan önce uyarır."
     },
     "data-center": {
       "name": "Veri Merkezleri",
-      "desc": "Veri merkezi acil güç için kararlı jeneratörler, N+1 paralel çalışma desteği."
+      "desc": "Veri merkezi acil güç için kararlı jeneratörler, N+1 paralel çalışma desteği.",
+      "body": "Veri merkezleri anlık, stabil ve paralel çalışan güce ihtiyaç duyar. N+1 veya 2N konfigürasyonları için Deepsea/ComAp kontrolörlü, günlük yakıt depolu, soğutucu sıcak tutuculu ve titreşim önlemeli setler hazırlarız. BT yükü, yedeklilik ve çalışma süresi tahmininde yardım eder, havalandırma, egzoz ve yakıt depolamayı yönetmeliklere uydururuz. Hedef: transferde sıfır kesinti ve stabil frekans."
     },
     "medical": {
       "name": "Sağlık ve Hastaneler",
-      "desc": "Hastane, klinik ve sağlık kuruluşları için kesintisiz güç temini."
+      "desc": "Hastane, klinik ve sağlık kuruluşları için kesintisiz güç temini.",
+      "body": "Hastaneler ameliyathane, yoğun bakım, görüntüleme ve soğutmada kesinti tolore etmez. Otomatik marşlı, düşük gürültülü, yedek akülü ve hassas medikal yükler için temiz gerilimli acil setleri sunarız. Hesaplama yaşamsal devreleri ve gelecek genişlemeyi içerir. Tesiste yük bankası testi ve servis planı vardır."
     },
     "factory": {
       "name": "Fabrikalar ve Üretim",
-      "desc": "Üretim tesisleri için ana veya yedek güç kaynağı."
+      "desc": "Üretim tesisleri için ana veya yedek güç kaynağı.",
+      "body": "Fabrikalar ya zayıf şebekede ana güce ya da pahalı duruşlara karşı yedeğe ihtiyaç duyar. Proses yükünü, büyük motorların kalkış akımlarını ve tepeyi analiz eder, açık, sessiz veya konteynerli setler öneririz. Paralel üniteler aşamalı büyüme sağlar. Yakıt tankları ve uzaktan izleme sürekliliği korur."
     },
     "mining-oil": {
       "name": "Madencilik ve Petrol Sahaları",
-      "desc": "Zor çalışma koşullarında madencilik ve petrol‑gaz projeleri için kararlı dizel jeneratörler."
+      "desc": "Zor çalışma koşullarında madencilik ve petrol‑gaz projeleri için kararlı dizel jeneratörler.",
+      "body": "Uzak maden ve petrol sahaları toz, sıcaklık ve titreşim altında çalışır. Uzun devirler için ağır hava filtreleri, büyük radyatörler, şasiler ve dayanıklı kabinler seçeriz. Hesaplama ekskavatör, pompa, kamp ve atölyeleri kapsar. Konteyner modülleri nakliye ve montajı basitleştirir."
     },
     "transportation": {
       "name": "Ulaşım Altyapısı",
-      "desc": "Liman, demiryolu ve ulaşım merkezleri için güç çözümleri."
+      "desc": "Liman, demiryolu ve ulaşım merkezleri için güç çözümleri.",
+      "body": "Limanlar, demiryolu sahaları ve lojistik merkezleri konveyör, aydınlatma, vinç ve soğuk zincir için güce ihtiyaç duyar. Setler genellikle mobil veya konteynerlidir. Kalkış akımlarını, kamu alanlarındaki gürültüyü ve birkaç günlük yakıt özerkliğini koordine ederiz. Paralellenebilir kontrolörler trafik büyüdükçe genişler."
     },
     "agriculture": {
       "name": "Tarım",
-      "desc": "Sulama, tahıl işleme ve kırsal alan yedek güç için jeneratörler."
+      "desc": "Sulama, tahıl işleme ve kırsal alan yedek güç için jeneratörler.",
+      "body": "Çiftlikler ve tahıl işleme sulama, havalandırma, değirmen ve soğutmaya bağlıdır. Kırsal şebeke zayıf ve mevsimliktir. Pompalar, kurutucular ve ofisler için ana güç setleri, korunmuş mahfazalar ve kolay erişim öneririz. Mobil römorklar mevsimlik tarlaları takip eder."
     },
     "construction-site": {
       "name": "Şantiyeler",
-      "desc": "Şantiye geçici güç ihtiyacı için mobil ve sabit jeneratörler."
+      "desc": "Şantiye geçici güç ihtiyacı için mobil ve sabit jeneratörler.",
+      "body": "Şantiyeler hızlı geçici güce ihtiyaç duyar ve sık yer değiştirir. Römorklu setler ışık, alet, vinç ve beton pompalarını besler. Sağlam kabinler, karayolu römorkları ve uzun depolar seçer, kaynak, kule ve vinç yüklerini hesaplarız. Gürültü ve egzoz işçileri ve komşuları koruyacak şekilde planlanır."
     },
     "home-backup-power": {
       "name": "Ev İçin Yedek Güç",
-      "desc": "Konut acil durumları için sessiz dizel jeneratörler."
+      "desc": "Konut acil durumları için sessiz dizel jeneratörler.",
+      "body": "Ev yedeği sessiz, temiz ve basit olmalı. Isıtma, kuyu pompası, buzdolabı, ışık ve temel devreleri boyutlandırırız, tüm cihazları değil. Sessiz kabinler aileyi korur, ATS manuel çalıştırmayı ortadan kaldırır. Yangzhou fabrikamız yerel fiş/voltaj ve açık dokümantasyonla ihracata hazır setler üretir."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Diğer OEM Motor Markaları",
       "description": "Seçili Perkins, Mitsubishi ve Scania setleri Kaichen montajında OEM motor seçeneği olarak sunulur."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Cummins jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "sdec": {
+      "heading": "SDEC jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "weichai": {
+      "heading": "Weichai jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "volvo": {
+      "heading": "Volvo Penta jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "yuchai": {
+      "heading": "Yuchai jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "kaichen": {
+      "heading": "Kaichen paketleri jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "silent-canopy": {
+      "heading": "sessiz kabin jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "rainproof-canopy": {
+      "heading": "yağmurdan korumalı kabin jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "containerized-silent": {
+      "heading": "konteyner sessiz modül jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "mobile-silent": {
+      "heading": "mobil sessiz treyler jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
+    },
+    "mobile-trailer": {
+      "heading": "mobil treyler açık ünite jeneratör grupları için mühendislik notları",
+      "p1": "Bu kategori, saha belirli bir motor markası, kabin tipi veya hareket özelliği istediğinde seçilir. Yangzhou fabrikamız sevkiyattan önce motor, alternatör, kontrolör ve yakıt sistemini koordine eder, yük testi yapar. Sayfada seçilen aralık için birincil ve yedek güç, voltaj, soğutma, gürültü ve yakıt deposu listelenir.",
+      "p2": "İhracat projelerinde karar, gerçek bağlı yük, motor kalkış akımı, ortam sıcaklığı ve planlanan çalışma süresine dayanır, kaba bir kW tahminine değil. Mühendislik ekibimiz saha tek çizim diyagramını gözden geçirir ve ATS, günlük depo, uzaktan izleme veya paralel çalışma önerir. Set, şema, bakım planı ve komisyon belgeleriyle teslim edilir; Yangzhou fabrikası yedek parça ve teknik destek sağlar.",
+      "bullet1": "ATS, uzaktan izleme ve yakıt tankı seçenekleri mevcut",
+      "bullet2": "Sevkiyat öncesi fabrikada test edilir"
     }
   }
 }

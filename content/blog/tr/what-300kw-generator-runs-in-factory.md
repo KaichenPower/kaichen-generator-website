@@ -53,3 +53,14 @@ Bunlar başlangıç noktaları, satınalma emri değil. Motor başlatma listesi,
 
 Bize yük listesini ve kaba bir layout gönderirseniz, 300 kW'ın doğru adım olup olmadığını ve sessiz kanopinin yeterli olup olmadığını ya da konteynerli versiyonun mekana daha uygun olup olmadığını söyleriz.
 
+## Siparişten önce mühendislik kontrol listesi
+
+Jeneratör seçmeden önce bağlı yükü, en büyük motoru, rakımı, ortam sıcaklığını ve gereken ATS mantığını toplayın. Çok küçük ünite kademeli yükte triplenir; çok büyük ünite düşük yükte çalışır, kurumlaşır ve yakıt israf eder. Sadece plaka fotoğrafı değil, bir saatlik yük test raporu isteyin.
+
+## Yangzhou fabrikamız ihracat setlerini nasıl kurar
+
+Her ihracat seti kablolu kontrol devreleri, akü şalterleri, titreşim önleyici takozlar ve su/yağ/yakıt basınç testi alır. Alternatör, motor torkuna eşleştirilir; böylece kademeli yük frekansı düşürmez. Dokümantasyonda şemalar, bakım planı, voltaj seçenekleri ve seri numaraları bulunur. Kabin, konteyner veya treyler fabrikada yapılandırılır.
+
+## Görüşmede sorulacaklar
+
+Yük listesini, tek çizim diyagramını, gürültü hedefini, yakıt özerkliğini ve yerel fiş/voltaj standardını gönderin. Boyutlandırılmış öneri, teslim süresi ve motor, alternatör, kabin, ATS ve izlemeyi ayıran bir teklifle yanıtlayacağız.

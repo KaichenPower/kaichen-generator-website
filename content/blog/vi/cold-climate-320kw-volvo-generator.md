@@ -57,3 +57,14 @@ Nếu công trình của bạn không bao giờ thấy băng giá, gói này là
 
 Hãy cho chúng tôi biết nhiệt độ thấp nhất công trình thấy trong một năm điển hình, và tổ máy là dự phòng hay liên tục. Chúng tôi sẽ đặc tả gói khí hậu lạnh phù hợp — không hơn mức bạn cần, không ít hơn mức bạn sẽ hối tiếc.
 
+## Danh sách kiểm tra kỹ thuật trước khi đặt hàng
+
+Trước khi chọn máy, thu thập tải thực tế, động cơ lớn nhất, cao độ, nhiệt độ môi trường và logic ATS cần thiết. Máy quá nhỏ sẽ cắt bảo vệ khi tải bậc; máy quá lớn chạy non tải, tạo cặn và lãng phí nhiên liệu. Hãy yêu cầu báo cáo thử tải 1 giờ, không chỉ ảnh plate.
+
+## Nhà máy Dương Châu lắp ráp bộ xuất khẩu thế nào
+
+Mỗi bộ xuất khẩu nhận mạch điều khiển đi dây sẵn, aptomat ắc quy, đệm chống rung và thử áp nước/dầu/nhiên liệu. Máy phát được ghép với moment động cơ để tải bậc không làm tần số tụt. Hồ sơ gồm sơ đồ, lịch bảo dưỡng, tùy chọn điện áp và số seri. Buồng, container hoặc rơ moóc cấu hình tại nhà máy.
+
+## Câu hỏi khi trao đổi
+
+Gửi danh sách tải, sơ đồ một tuyến, mục tiêu ồn, nhiên liệu tự chủ và tiêu chuẩn phích/điện áp địa phương. Chúng tôi sẽ trả lời với khuyến nghị tính đúng công suất, thời gian giao và báo giá tách động cơ, máy phát, buồng, ATS và giám sát.

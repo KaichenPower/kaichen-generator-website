@@ -131,6 +131,7 @@ export default async function ProductDetailPage({ params }: Props) {
   const pe = await getTranslations({ locale, namespace: 'aboutExtended' });
   const sv = await getTranslations({ locale, namespace: 'specValues' });
   const pu = await getTranslations({ locale, namespace: 'powerUnits' });
+  const dd = await getTranslations({ locale, namespace: 'productDeepDive' });
 
   const product = getProductByUrlSlug(slug);
   if (!product) notFound();

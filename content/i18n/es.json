@@ -225,39 +225,48 @@
     "subtitle": "Grupos electrógenos diésel personalizados para escenarios industriales y comerciales",
     "commercial-community": {
       "name": "Comercio y comunidades residenciales",
-      "desc": "Suministro de energía de respaldo para centros comerciales, edificios residenciales y oficinas."
+      "desc": "Suministro de energía de respaldo para centros comerciales, edificios residenciales y oficinas.",
+      "body": "Edificios comerciales y comunidades necesitan reserva que arranque en segundos y funcione en silencio. Dimensionamos grupos para zonas comunes, ascensores, iluminación de emergencia, bombas y sistemas contra incendios, coordinando el cuadro ATS. Cabinas insonorizadas o contenedores reducen el ruido en el límite de la propiedad. El mantenimiento se planifica con la ocupación y el monitoreo remoto avisa antes de una avería."
     },
     "data-center": {
       "name": "Centros de datos",
-      "desc": "Grupos electrógenos estables para emergencia de centros de datos, soporte paralelo N+1."
+      "desc": "Grupos electrógenos estables para emergencia de centros de datos, soporte paralelo N+1.",
+      "body": "Los centros de datos requieren potencia instantánea, estable y con operación en paralelo. Preparamos grupos N+1 o 2N con controladores Deepsea/ComAp, tanos diarios, calentadores de refrigerante y antivibración. Ayudamos a estimar carga TI, redundancia y autonomía, y alineamos ventilación, escape y almacenamiento según normativa. El objetivo es cero apagón en la transferencia y frecuencia estable."
     },
     "medical": {
       "name": "Salud y hospitales",
-      "desc": "Suministro continuo para hospitales, clínicas e instalaciones médicas."
+      "desc": "Suministro continuo para hospitales, clínicas e instalaciones médicas.",
+      "body": "Hospitales no admiten cortes en quirófanos, UCI, imagenología y frío. Entregamos grupos de emergencia con arranque automático, bajo ruido, baterías redundantes y tensión limpia. El dimensionamiento incluye circuitos esenciales y expansión futura. La entrega prueba banco de carga y plan de servicio."
     },
     "factory": {
       "name": "Fábricas e industria",
-      "desc": "Energía principal o de respaldo para plantas y talleres de fabricación."
+      "desc": "Energía principal o de respaldo para plantas y talleres de fabricación.",
+      "body": "Plantas manufactureras necesitan potencia primaria en red débil o reserva ante paradas caras. Analizamos carga de proceso, corriente de arranque de motores y punta, luego recomendamos grupos abiertos, insonorizados o containerizados. Unidades en paralelo permiten ampliar por etapas. Tanques y monitoreo protegen la continuidad."
     },
     "mining-oil": {
       "name": "Minería y campos petroleros",
-      "desc": "Grupos electrógenos estables para minas y proyectos de petróleo y gas bajo condiciones complejas."
+      "desc": "Grupos electrógenos estables para minas y proyectos de petróleo y gas bajo condiciones complejas.",
+      "body": "Minas remotas y campos petroleros operan con polvo, calor y vibración. Elegimos filtros de aire pesados, radiadores sobredimensionados, bastidores y cabinas duraderas para ciclos largos. El cálculo cubre palas, bombas, campamentos y talleres. Los módulos containerizados facilitan transporte y montaje."
     },
     "transportation": {
       "name": "Infraestructura de transporte",
-      "desc": "Soluciones energéticas para puertos, ferrocarriles y terminales."
+      "desc": "Soluciones energéticas para puertos, ferrocarriles y terminales.",
+      "body": "Puertos, terminales ferroviarias y hubs logísticos necesitan energía para cintas, iluminación, grúas y cadena de frío. Los grupos suelen ser móviles o containerizados. Coordinamos corrientes de arranque, ruido cerca de zonas públicas y autonomía de varios días. Los controles paralelables permiten crecer con el tráfico."
     },
     "agriculture": {
       "name": "Agricultura",
-      "desc": "Generadores para riego, procesamiento de grano y energía rural de respaldo."
+      "desc": "Generadores para riego, procesamiento de grano y energía rural de respaldo.",
+      "body": "Explotaciones y procesado de grano dependen de riego, ventilación, molienda y frío. La red rural es débil y estacional. Recomendamos grupos de potencia primaria para bombas, secaderos y oficinas, con carcasas protegidas y fácil acceso. Los remolques móviles siguen campos de temporada."
     },
     "construction-site": {
       "name": "Obras de construcción",
-      "desc": "Grupos móviles y fijos para suministro temporal en obras."
+      "desc": "Grupos móviles y fijos para suministro temporal en obras.",
+      "body": "Obras necesitan energía temporal rápido y suele moverse. Los grupos sobre remolque dan luz, herramientas, grúas y bombas de hormigón. Elegimos cabinas robustas, remolques carretera y tanques largos, calculando soldadura, torres y polipastos. Ruido y escape se planifican para proteger trabajadores y vecinos."
     },
     "home-backup-power": {
       "name": "Respaldo doméstico",
-      "desc": "Generadores silenciosos diésel para emergencia en viviendas."
+      "desc": "Generadores silenciosos diésel para emergencia en viviendas.",
+      "body": "Un grupo doméstico debe ser silencioso, limpio y simple. Dimensionamos calefacción, bomba, refrigeración, luces y circuitos esenciales, no todos los aparatos. Las cabinas silenciosas protegen la familia y el ATS evita maniobras manuales. Nuestra fábrica de Yangzhou entrega grupos de exportación con enchufes/tensión locales y documentación clara."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Otras marcas OEM",
       "description": "Sets seleccionados Perkins, Mitsubishi y Scania disponibles como opciones OEM ensambladas por Kaichen."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Notas de ingeniería para grupos electrógenos Cummins",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "sdec": {
+      "heading": "Notas de ingeniería para grupos electrógenos SDEC",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "weichai": {
+      "heading": "Notas de ingeniería para grupos electrógenos Weichai",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "volvo": {
+      "heading": "Notas de ingeniería para grupos electrógenos Volvo Penta",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "yuchai": {
+      "heading": "Notas de ingeniería para grupos electrógenos Yuchai",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "kaichen": {
+      "heading": "Notas de ingeniería para grupos electrógenos paquetes Kaichen",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "silent-canopy": {
+      "heading": "Notas de ingeniería para grupos electrógenos cabina insonorizada",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "rainproof-canopy": {
+      "heading": "Notas de ingeniería para grupos electrógenos cabina impermeable",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "containerized-silent": {
+      "heading": "Notas de ingeniería para grupos electrógenos módulo containerizado",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "mobile-silent": {
+      "heading": "Notas de ingeniería para grupos electrógenos remolque móvil silencioso",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
+    },
+    "mobile-trailer": {
+      "heading": "Notas de ingeniería para grupos electrógenos unidad móvil abierta sobre remolque",
+      "p1": "Esta categoría se elige cuando el sitio requiere una marca de motor, tipo de cabina o movilidad específicos. Nuestra fábrica de Yangzhou coordina motor, alternador, controlador y combustible antes del envío y realiza una prueba de carga. La página muestra potencia primaria y reserva, voltaje, refrigeración, ruido y tanque para el rango seleccionado.",
+      "p2": "Para proyectos de exportación, la decisión se basa en carga conectada real, corriente de arranque, temperatura ambiente y tiempo de operación planeado, no en una estimación aproximada. Nuestro equipo puede revisar un diagrama unifilar y recomendar ATS, tanque diario, monitoreo remoto o operación paralela. El grupo se entrega con esquemas, plan de mantenimiento y documentos, y la fábrica de Yangzhou da soporte de repuestos.",
+      "bullet1": "ATS, monitoreo remoto y opciones de tanque disponibles",
+      "bullet2": "Probado en fábrica antes del envío"
     }
   }
 }

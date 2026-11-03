@@ -44,3 +44,15 @@ If the machine stays local and your own team services it, price matters more and
 ## Tell us where it will run
 
 Share the country and site where the set will be installed. We will recommend an engine that your on-site team can actually keep running — and quote it.
+
+## Engineering checklist before you order
+
+Before choosing a generator, collect the exact connected load, the largest motor kW, the site altitude, ambient temperature and the ATS logic you need. A unit sized too small will trip under step load; a unit sized too large will run at low load, wet-stack and waste fuel. Ask the supplier for a one-hour factory load test report, not just a nameplate photo.
+
+## How our Yangzhou factory assembles export sets
+
+Every export set receives pre-wired control circuits, battery breakers, anti-vibration mounts and a water-oil-fuel pressure test. The alternator is matched to engine torque so step loads do not drag the frequency down. Documentation includes wiring diagrams, maintenance schedule, voltage options and serial-number records. If you need a silent canopy, container or mobile trailer, those are configured at the factory, not improvised on site.
+
+## Questions to ask on the call
+
+Send the load list, single-line diagram, noise target, fuel autonomy and local plug/voltage standard. We will reply with a sized recommendation, lead time and a quotation that separates engine, alternator, enclosure, ATS and optional monitoring.

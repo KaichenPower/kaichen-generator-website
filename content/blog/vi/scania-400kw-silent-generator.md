@@ -47,3 +47,14 @@ Nếu máy phát của bạn chạy nhiều, hãy mua động cơ hiệu quả. 
 
 Hãy cho chúng tôi biết bao nhiêu giờ một năm bộ này có khả năng chạy và tải trung bình của bạn. Chúng tôi sẽ ước tính tiêu thụ nhiên liệu và cho bạn xem điểm hòa vốn, để bạn chọn bằng con số thay vì đoán.
 
+## Danh sách kiểm tra kỹ thuật trước khi đặt hàng
+
+Trước khi chọn máy, thu thập tải thực tế, động cơ lớn nhất, cao độ, nhiệt độ môi trường và logic ATS cần thiết. Máy quá nhỏ sẽ cắt bảo vệ khi tải bậc; máy quá lớn chạy non tải, tạo cặn và lãng phí nhiên liệu. Hãy yêu cầu báo cáo thử tải 1 giờ, không chỉ ảnh plate.
+
+## Nhà máy Dương Châu lắp ráp bộ xuất khẩu thế nào
+
+Mỗi bộ xuất khẩu nhận mạch điều khiển đi dây sẵn, aptomat ắc quy, đệm chống rung và thử áp nước/dầu/nhiên liệu. Máy phát được ghép với moment động cơ để tải bậc không làm tần số tụt. Hồ sơ gồm sơ đồ, lịch bảo dưỡng, tùy chọn điện áp và số seri. Buồng, container hoặc rơ moóc cấu hình tại nhà máy.
+
+## Câu hỏi khi trao đổi
+
+Gửi danh sách tải, sơ đồ một tuyến, mục tiêu ồn, nhiên liệu tự chủ và tiêu chuẩn phích/điện áp địa phương. Chúng tôi sẽ trả lời với khuyến nghị tính đúng công suất, thời gian giao và báo giá tách động cơ, máy phát, buồng, ATS và giám sát.

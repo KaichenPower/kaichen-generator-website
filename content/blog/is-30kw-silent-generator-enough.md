@@ -53,3 +53,15 @@ For a small business, that difference usually decides the purchase. A cheaper op
 You have a compact business, the essential load sits near 20 kW, and you want something that starts by itself and does not require a dedicated operator. A 30 kW Cummins-based silent set, installed with an automatic transfer switch, is the kind of purchase that disappears into the building and quietly does its job for years.
 
 If your list is longer than that, tell us the numbers and we will tell you the next size up — no pressure, just an honest fit.
+
+## Engineering checklist before you order
+
+Before choosing a generator, collect the exact connected load, the largest motor kW, the site altitude, ambient temperature and the ATS logic you need. A unit sized too small will trip under step load; a unit sized too large will run at low load, wet-stack and waste fuel. Ask the supplier for a one-hour factory load test report, not just a nameplate photo.
+
+## How our Yangzhou factory assembles export sets
+
+Every export set receives pre-wired control circuits, battery breakers, anti-vibration mounts and a water-oil-fuel pressure test. The alternator is matched to engine torque so step loads do not drag the frequency down. Documentation includes wiring diagrams, maintenance schedule, voltage options and serial-number records. If you need a silent canopy, container or mobile trailer, those are configured at the factory, not improvised on site.
+
+## Questions to ask on the call
+
+Send the load list, single-line diagram, noise target, fuel autonomy and local plug/voltage standard. We will reply with a sized recommendation, lead time and a quotation that separates engine, alternator, enclosure, ATS and optional monitoring.

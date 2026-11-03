@@ -60,3 +60,14 @@ Motores Weichai na faixa de 400–500 kW são comuns para instalações de potê
 
 Se você está decidindo entre uma conexão de rede e um grupo de potência primária, envie-nos a lista de cargas, as horas de operação por dia e o preço local do combustível. Faremos as contas e mostraremos qual opção realmente vence em cinco anos.
 
+## Lista de verificação antes de pedir
+
+Antes de escolher um gerador, reúna a carga conectada exata, o maior motor, altitude, temperatura ambiente e a lógica de ATS necessária. Um conjunto pequeno demais dispara proteção em carga degrau; um grande demais trabalha com pouca carga, forma fuligem e desperdiça combustível. Peça relatório de teste de carga de uma hora, não apenas foto da placa.
+
+## Como nossa fábrica de Yangzhou monta conjuntos de exportação
+
+Cada conjunto de exportação recebe circuitos de controle com fiação, disjuntores de bateria, suportes antivibração e teste de pressão de água, óleo e combustível. O alternador é casado ao torque do motor para que cargas degrau não derrubem a frequência. A documentação inclui diagramas, plano de manutenção, opções de tensão e números de série. Cabine, contêiner ou reboque são configurados na fábrica.
+
+## Perguntas para a conversa
+
+Envie a lista de cargas, diagrama unifilar, meta de ruído, autonomia de combustível e padrão local de tomada/tensão. Responderemos com recomendação dimensionada, prazo e cotação separando motor, alternador, cabine, ATS e monitoramento.

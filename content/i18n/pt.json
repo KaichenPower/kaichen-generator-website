@@ -225,39 +225,48 @@
     "subtitle": "Geradores a diesel personalizados para cenários industriais e comerciais",
     "commercial-community": {
       "name": "Comércio e condomínios",
-      "desc": "Energia de reserva confiável para shoppings, residências e escritórios."
+      "desc": "Energia de reserva confiável para shoppings, residências e escritórios.",
+      "body": "Prédios comerciais e condomínios precisam de reserva que parta em segundos e funcione silenciosamente. Dimensionamos conjuntos para áreas comuns, elevadores, iluminação de emergência, bombas e sistemas contra incêndio, coordenando o quadro ATS. Cabines silenciosas ou containerizadas reduzem ruído na divisa. Manutenção é planejada conforme ocupação e monitoramento remoto avisa antes de falha."
     },
     "data-center": {
       "name": "Centros de dados",
-      "desc": "Geradores estáveis para emergência de data centers, suporte a operação paralela N+1."
+      "desc": "Geradores estáveis para emergência de data centers, suporte a operação paralela N+1.",
+      "body": "Data centers exigem energia instantânea, estável e paralelizável. Preparamos conjuntos N+1 ou 2N com controladores Deepsea/ComAp, tanques diários, aquecedores de líquido de arrefecimento e antivibração. Ajudamos a estimar carga de TI, redundância e autonomia e alinhamos ventilação, exaustão e armazenamento conforme normas. Objetivo: zero blecaute na transferência e frequência estável."
     },
     "medical": {
       "name": "Saúde e hospitais",
-      "desc": "Fornecimento contínuo para hospitais, clínicas e unidades médicas."
+      "desc": "Fornecimento contínuo para hospitais, clínicas e unidades médicas.",
+      "body": "Hospitais não admitem interrupção em centro cirúrgico, UTI, imagem e refrigeração. Fornecemos conjuntos de emergência com partida automática, baixo ruído, baterias redundantes e tensão limpa. Dimensionamento inclui circuitos essenciais e expansão futura. Entrega com teste de banco de carga e plano de serviço."
     },
     "factory": {
       "name": "Fábricas e indústria",
-      "desc": "Energia principal ou reserva para plantas industriais."
+      "desc": "Energia principal ou reserva para plantas industriais.",
+      "body": "Fábricas precisam de energia primária em rede fraca ou reserva contra paradas caras. Analisamos carga de processo, corrente de partida de motores e ponta e recomendamos conjuntos abertos, silenciados ou containerizados. Unidades paralelas permitem expansão gradual. Tanques e monitoramento protegem a continuidade."
     },
     "mining-oil": {
       "name": "Mineração e campos de petróleo",
-      "desc": "Geradores estáveis para projetos de mineração e petróleo‑gás em condições operacionais complexas."
+      "desc": "Geradores estáveis para projetos de mineração e petróleo‑gás em condições operacionais complexas.",
+      "body": "Minas remotas e campos de petróleo operam com poeira, calor e vibração. Escolhemos filtros de ar reforçados, radiadores sobredimensionados, bases e cabines duráveis para ciclos longos. O cálculo cobre pás, bombas, acampamentos e oficinas. Módulos containerizados simplificam transporte e montagem."
     },
     "transportation": {
       "name": "Infraestrutura de transporte",
-      "desc": "Soluções energéticas para portos, ferrovias e terminais."
+      "desc": "Soluções energéticas para portos, ferrovias e terminais.",
+      "body": "Portos, ferrovias e hubs logísticos precisam de energia para correias, iluminação, guindastes e cadeia fria. Os conjuntos costumam ser móveis ou containerizados. Coordenamos correntes de partida, ruído perto de áreas públicas e autonomia de vários dias. Controladores paralelizáveis acompanham o crescimento do tráfego."
     },
     "agriculture": {
       "name": "Agricultura",
-      "desc": "Geradores para irrigação, processamento de grãos e energia rural reserva."
+      "desc": "Geradores para irrigação, processamento de grãos e energia rural reserva.",
+      "body": "Fazendas e processamento de grãos dependem de irrigação, ventilação, moagem e refrigeração. A rede rural é fraca e sazonal. Recomendamos conjuntos de potência principal para bombas, secadores e escritórios, com carenagens protegidas e fácil acesso. Reboques móveis acompanham campos sazonais."
     },
     "construction-site": {
       "name": "Obras civis",
-      "desc": "Geradores móveis e fixos para energia temporária em canteiros."
+      "desc": "Geradores móveis e fixos para energia temporária em canteiros.",
+      "body": "Obras precisam de energia temporária rápido e ela costuma mudar de lugar. Conjuntos sobre reboque dão luz, ferramentas, guindastes e bombas de concreto. Escolhemos cabines robustas, reboques rodoviários e tanques longos, dimensionando solda, torres e talhas. Ruído e exaustão são planejados para proteger trabalhadores e vizinhos."
     },
     "home-backup-power": {
       "name": "Energia reserva residencial",
-      "desc": "Geradores silenciosos a diesel para emergência em residências."
+      "desc": "Geradores silenciosos a diesel para emergência em residências.",
+      "body": "Uma residencial deve ser silenciosa, limpa e simples. Dimensionamos aquecimento, bomba de poço, refrigeração, luz e circuitos essenciais, não todos os aparelhos. Cabines silenciosas protegem a família e o ATS dispensa operação manual. Nossa fábrica em Yangzhou monta conjuntos de exportação com tomadas/tensão locais e documentação clara."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Outras marcas OEM",
       "description": "Sets selecionados Perkins, Mitsubishi e Scania disponíveis como opções OEM montados pela Kaichen."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Notas de engenharia para geradores Cummins",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "sdec": {
+      "heading": "Notas de engenharia para geradores SDEC",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "weichai": {
+      "heading": "Notas de engenharia para geradores Weichai",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "volvo": {
+      "heading": "Notas de engenharia para geradores Volvo Penta",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "yuchai": {
+      "heading": "Notas de engenharia para geradores Yuchai",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "kaichen": {
+      "heading": "Notas de engenharia para geradores pacotes Kaichen",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "silent-canopy": {
+      "heading": "Notas de engenharia para geradores cabine silenciosa",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "rainproof-canopy": {
+      "heading": "Notas de engenharia para geradores cabina à prova de chuva",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "containerized-silent": {
+      "heading": "Notas de engenharia para geradores módulo containerizado",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "mobile-silent": {
+      "heading": "Notas de engenharia para geradores reboque móvel silencioso",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
+    },
+    "mobile-trailer": {
+      "heading": "Notas de engenharia para geradores unidade móvel aberta em reboque",
+      "p1": "Esta categoria é escolhida quando o local precisa de marca de motor, tipo de caçamba ou mobilidade específicos. Nossa fábrica em Yangzhou coordena motor, alternador, controlador e combustível antes do envio e executa teste de carga. A página mostra potência principal e emergencial, tensão, resfriamento, ruído e tanque para a faixa selecionada.",
+      "p2": "Para projetos de exportação, a decisão se baseia na carga conectada real, corrente de partida, temperatura ambiente e tempo de operação planejado, não em uma estimativa. Nossa equipe revisa o diagrama unifilar e recomenda ATS, tanque diário, monitoramento remoto ou operação paralela. O conjunto é entregue com diagramas, cronograma e documentos, e a fábrica de Yangzhou dá suporte a peças.",
+      "bullet1": "ATS, monitoramento remoto e opções de tanque disponíveis",
+      "bullet2": "Testado na fábrica antes do envio"
     }
   }
 }

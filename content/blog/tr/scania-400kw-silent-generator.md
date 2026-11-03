@@ -48,3 +48,14 @@ Jeneratörünüz çok çalışıyorsa, verimli motoru alın. Neredeyse hiç çal
 
 Grupta yılda kaç saat çalışması beklendiğini ve ortalama yükünüzü söyleyin. Yakıt kullanımını sizin için tahmin edeceğiz ve başa baş noktasını göstereceğiz, böylece tahminlerle değil sayılarla seçersiniz.
 
+## Siparişten önce mühendislik kontrol listesi
+
+Jeneratör seçmeden önce bağlı yükü, en büyük motoru, rakımı, ortam sıcaklığını ve gereken ATS mantığını toplayın. Çok küçük ünite kademeli yükte triplenir; çok büyük ünite düşük yükte çalışır, kurumlaşır ve yakıt israf eder. Sadece plaka fotoğrafı değil, bir saatlik yük test raporu isteyin.
+
+## Yangzhou fabrikamız ihracat setlerini nasıl kurar
+
+Her ihracat seti kablolu kontrol devreleri, akü şalterleri, titreşim önleyici takozlar ve su/yağ/yakıt basınç testi alır. Alternatör, motor torkuna eşleştirilir; böylece kademeli yük frekansı düşürmez. Dokümantasyonda şemalar, bakım planı, voltaj seçenekleri ve seri numaraları bulunur. Kabin, konteyner veya treyler fabrikada yapılandırılır.
+
+## Görüşmede sorulacaklar
+
+Yük listesini, tek çizim diyagramını, gürültü hedefini, yakıt özerkliğini ve yerel fiş/voltaj standardını gönderin. Boyutlandırılmış öneri, teslim süresi ve motor, alternatör, kabin, ATS ve izlemeyi ayıran bir teklifle yanıtlayacağız.

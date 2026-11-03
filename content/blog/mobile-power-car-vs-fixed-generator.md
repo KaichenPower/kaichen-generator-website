@@ -67,3 +67,15 @@ Smaller than 60 kW and the truck feels oversized for the output. Larger than 150
 ## Tell us your moving load
 
 If your power need moves — a jobsite, an event, a relief mission — tell us the load list and the road rules of your country. We will spec the power car that fits, and tell you honestly whether buying or renting makes more sense over the year ahead.
+
+## Engineering checklist before you order
+
+Before choosing a generator, collect the exact connected load, the largest motor kW, the site altitude, ambient temperature and the ATS logic you need. A unit sized too small will trip under step load; a unit sized too large will run at low load, wet-stack and waste fuel. Ask the supplier for a one-hour factory load test report, not just a nameplate photo.
+
+## How our Yangzhou factory assembles export sets
+
+Every export set receives pre-wired control circuits, battery breakers, anti-vibration mounts and a water-oil-fuel pressure test. The alternator is matched to engine torque so step loads do not drag the frequency down. Documentation includes wiring diagrams, maintenance schedule, voltage options and serial-number records. If you need a silent canopy, container or mobile trailer, those are configured at the factory, not improvised on site.
+
+## Questions to ask on the call
+
+Send the load list, single-line diagram, noise target, fuel autonomy and local plug/voltage standard. We will reply with a sized recommendation, lead time and a quotation that separates engine, alternator, enclosure, ATS and optional monitoring.

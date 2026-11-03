@@ -77,6 +77,7 @@ export default async function SolutionsPage({ params }: Props) {
               </div>
               <h3>{t(`${slug}.name`)}</h3>
               <p>{t(`${slug}.desc`)}</p>
+              <p style={{ marginTop: '0.75rem' }}>{t(`${slug}.body`)}</p>
             </div>
           ))}
         </div>

@@ -53,3 +53,14 @@ Das sind Ausgangspunkte, kein Auftrag. Die Motorstart-Liste, Spannung und Umgebu
 
 Wenn Sie uns die Lastliste und einen groben Grundriss schicken, sagen wir Ihnen, ob 300 kW der richtige Schritt ist, und ob eine Schallhaube reicht oder eine containerisierte Version besser zum Standort passt.
 
+## Technische Checkliste vor der Bestellung
+
+Sammeln Sie vor der Wahl die exakte angeschlossene Last, den größten Motor, Höhe, Umgebungstemperatur und die gewünschte ATS-Logik. Ein zu kleines Aggregat schaltet bei Lastschritten ab; ein zu großes läuft mit Teillast, verkokt und verschwendet Kraftstoff. Verlangen Sie einen einstündigen Lasttestbericht, nicht nur ein Foto des Typenschilds.
+
+## So baut unser Werk Yangzhou Exportaggregate auf
+
+Jedes Exportset erhält verdrahtete Steuerkreise, Batterieschalter, Schwingungsdämpfer und eine Wasser-Öl-Kraftstoff-Druckprüfung. Der Generator ist auf das Motordrehmoment abgestimmt, damit Lastschritte die Frequenz nicht einbrechen lassen. Dokumente umfassen Schaltpläne, Wartungsplan, Spannungsoptionen und Seriennummern. Haube, Container oder Anhänger werden werkseitig konfiguriert.
+
+## Fragen für das Gespräch
+
+Senden Sie die Lastliste, den Einlinienschaltplan, das Lärmziel, die Kraftstoffautonomie und den lokalen Stecker-/Spannungsstandard. Wir antworten mit dimensionierter Empfehlung, Lieferzeit und Angebot, das Motor, Generator, Haube, ATS und Überwachung trennt.

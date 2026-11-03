@@ -68,3 +68,14 @@ Antes de comparar precios, pregúntese una cosa:
 
 Si la respuesta es "unas cuantas docenas, solo durante tormentas", compre standby. Si la respuesta es "varios miles, porque la red no es de fiar", compre prime. Díganos el número y le cotizaremos la clasificación que encaja — no la más barata que le decepcionará en tres años.
 
+## Lista de verificación antes de pedir
+
+Antes de elegir un generador, reúna la carga conectada exacta, el motor más grande, altitud, temperatura ambiente y lógica ATS necesaria. Un equipo muy pequeño dispara la protección con carga escalonada; uno muy grande trabaja con baja carga, forma hollín y gasta combustible. Pida un informe de prueba de carga de una hora, no solo una foto de la placa.
+
+## Cómo nuestra fábrica de Yangzhou arma equipos de exportación
+
+Cada equipo de exportación recibe circuitos de control cableados, interruptores de batería, soportes antivibración y prueba de presión de agua, aceite y combustible. El alternador se ajusta al par del motor para que la carga escalonada no caiga la frecuencia. La documentación incluye esquemas, plan de mantenimiento, opciones de voltaje y números de serie. Cabina, contenedor o remolque se configuran en fábrica.
+
+## Preguntas para la llamada
+
+Envíe la lista de cargas, diagrama unifilar, objetivo de ruido, autonomía de combustible y estándar local de enchufe/voltaje. Responderemos con recomendación dimensionada, plazo y cotización que separa motor, alternador, cabina, ATS y monitoreo.

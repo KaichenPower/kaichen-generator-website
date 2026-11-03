@@ -57,3 +57,14 @@ Wenn Ihr Standort nie Frost sieht, ist dieses Paket optional und Sie können es 
 
 Teilen Sie uns die niedrigste Temperatur mit, die der Standort in einem typischen Jahr sieht, und ob das Aggregat Not- oder Dauerbetrieb ist. Wir spezifizieren das Kaltklima-Paket passend — nicht mehr als nötig, nicht weniger, als Sie bereuen würden.
 
+## Technische Checkliste vor der Bestellung
+
+Sammeln Sie vor der Wahl die exakte angeschlossene Last, den größten Motor, Höhe, Umgebungstemperatur und die gewünschte ATS-Logik. Ein zu kleines Aggregat schaltet bei Lastschritten ab; ein zu großes läuft mit Teillast, verkokt und verschwendet Kraftstoff. Verlangen Sie einen einstündigen Lasttestbericht, nicht nur ein Foto des Typenschilds.
+
+## So baut unser Werk Yangzhou Exportaggregate auf
+
+Jedes Exportset erhält verdrahtete Steuerkreise, Batterieschalter, Schwingungsdämpfer und eine Wasser-Öl-Kraftstoff-Druckprüfung. Der Generator ist auf das Motordrehmoment abgestimmt, damit Lastschritte die Frequenz nicht einbrechen lassen. Dokumente umfassen Schaltpläne, Wartungsplan, Spannungsoptionen und Seriennummern. Haube, Container oder Anhänger werden werkseitig konfiguriert.
+
+## Fragen für das Gespräch
+
+Senden Sie die Lastliste, den Einlinienschaltplan, das Lärmziel, die Kraftstoffautonomie und den lokalen Stecker-/Spannungsstandard. Wir antworten mit dimensionierter Empfehlung, Lieferzeit und Angebot, das Motor, Generator, Haube, ATS und Überwachung trennt.

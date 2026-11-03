@@ -225,39 +225,48 @@
     "subtitle": "Máy phát diesel tùy chỉnh cho các tình huống công nghiệp và thương mại",
     "commercial-community": {
       "name": "Thương mại và Khu dân cư",
-      "desc": "Nguồn điện dự phòng đáng tin cậy cho trung tâm thương mại, khu dân cư và văn phòng."
+      "desc": "Nguồn điện dự phòng đáng tin cậy cho trung tâm thương mại, khu dân cư và văn phòng.",
+      "body": "Tòa nhà thương mại và khu cư dân cần nguồn dự trữ khởi động trong vài giây và chạy êm. Chúng tôi tính công suất cho khu vực chung, thang máy, chiếu sáng khẩn cấp, bơm và hệ thống PCCC, phối hợp tủ ATS. Buồng cách âm hoặc container giảm tiếng ồn tại ranh giới. Bảo trì được lập kế hoạch theo tần suất sử dụng, giám sát từ xa cảnh báo trước sự cố."
     },
     "data-center": {
       "name": "Trung tâm dữ liệu",
-      "desc": "Máy phát ổn định cấp điện khẩn cấp trung tâm dữ liệu, hỗ trợ vận hành song song N+1."
+      "desc": "Máy phát ổn định cấp điện khẩn cấp trung tâm dữ liệu, hỗ trợ vận hành song song N+1.",
+      "body": "Trung tâm dữ liệu cần nguồn tức thời, ổn định và chạy song song được. Chúng tôi chuẩn bị cụm N+1 hoặc 2N với bộ điều khiển Deepsea/ComAp, tank ngày, máy sưởi nước làm mát và đệm chống rung. Hỗ trợ ước tính tải IT, dự phòng và thời gian chạy, sau đó căn chỉnh thông gió, ống xả và lưu trữ nhiên liệu theo quy chuẩn. Mục tiêu: mất điện bằng không khi chuyển tải và tần số ổn định."
     },
     "medical": {
       "name": "Y tế & Bệnh viện",
-      "desc": "Cung cấp điện liên tục cho bệnh viện, phòng khám và cơ sở y tế."
+      "desc": "Cung cấp điện liên tục cho bệnh viện, phòng khám và cơ sở y tế.",
+      "body": "Bệnh viện không thể chịu gián đoạn ở phòng mổ, Hồi sức, chẩn đoán hình ảnh và kho lạnh. Cung cấp cụm khẩn cấp khởi động tự động, ồn thấp, ắc quy dự phòng và điện áp sạch cho thiết bị y tế. Tính toán bao gồm mạch thiết yếu và mở rộng tương lai. Bàn giao kèm thử tải ngân hàng và lịch bảo trì."
     },
     "factory": {
       "name": "Nhà máy & Sản xuất",
-      "desc": "Nguồn điện chính hoặc dự phòng cho xưởng sản xuất và nhà máy."
+      "desc": "Nguồn điện chính hoặc dự phòng cho xưởng sản xuất và nhà máy.",
+      "body": "Nhà máy cần hoặc nguồn chính ở lưới yếu, hoặc nguồn dự phòng chống dừng dây chuyền tốn kém. Phân tích tải quy trình, dòng khởi động động cơ lớn và đỉnh, sau đó đề xuất cụm hở, cách âm hoặc container. Các cụm chạy song song cho phép mở rộng theo giai đoạn. Bồn nhiên liệu và giám sát từ xa bảo vệ tính liên tục."
     },
     "mining-oil": {
       "name": "Khai thác mỏ & Dầu khí",
-      "desc": "Máy phát diesel ổn định phục vụ mỏ và dự án dầu‑khí trong điều kiện làm việc phức tạp."
+      "desc": "Máy phát diesel ổn định phục vụ mỏ và dự án dầu‑khí trong điều kiện làm việc phức tạp.",
+      "body": "Mỏ xa và mỏ dầu hoạt động trong bụi, nhiệt và rung động. Chọn lọc gió nặng, giàn nhiệt lớn, khung bệ và buồng bền cho chu kỳ dài. Tính toán bao gồm xẻng, bơm, trại và xưởng. Mô-đun container đơn giản hóa vận chuyển và lắp đặt."
     },
     "transportation": {
       "name": "Giao thông vận tải",
-      "desc": "Giải pháp năng lượng cho cảng, đường sắt và trung tâm giao thông."
+      "desc": "Giải pháp năng lượng cho cảng, đường sắt và trung tâm giao thông.",
+      "body": "Cảng, sân đường sắt và hub logistics cần nguồn cho băng tải, chiếu sáng, cần cẩu và chuỗi lạnh. Cụm thường di động hoặc container. Phối hợp dòng khởi động, tiếng ồn gần khu công cộng và nhiên liệu nhiều ngày. Bộ điều khiển song song theo kịp lưu lượng tăng trưởng."
     },
     "agriculture": {
       "name": "Nông nghiệp",
-      "desc": "Máy phát cho tưới tiêu, chế biến ngũ cốc và nguồn điện dự phòng nông thôn."
+      "desc": "Máy phát cho tưới tiêu, chế biến ngũ cốc và nguồn điện dự phòng nông thôn.",
+      "body": "Nông trại và xưởng xay xát phụ thuộc tưới, thông gió, xay xát và kho lạnh. Lưới nông thôn thường yếu và theo mùa. Đề xuất cụm công suất chính cho bơm, sấy ngũ cốc và văn phòng, vỏ bảo vệ và dễ bảo dưỡng. Rơ moóc di động theo ruộng vụ."
     },
     "construction-site": {
       "name": "Công trường xây dựng",
-      "desc": "Máy phát di động và cố định cấp điện tạm thời cho công trường."
+      "desc": "Máy phát di động và cố định cấp điện tạm thời cho công trường.",
+      "body": "Công trường cần nguồn tạm thời nhanh và thường di chuyển. Cụm trên rơ moóc cấp điện cho ánh sáng, dụng cụ, cần cẩu và bơm bê tông. Chọn buồng bền, rơ moóc đường bộ và bồn lớn, tính hàn, cột đèn và tời. Tiếng ồn và khí thải được bố trí để bảo vệ công nhân và dân cư."
     },
     "home-backup-power": {
       "name": "Điện dự phòng gia đình",
-      "desc": "Máy phát diesel êm ái cho nhu cầu cấp điện khẩn cấp gia đình."
+      "desc": "Máy phát diesel êm ái cho nhu cầu cấp điện khẩn cấp gia đình.",
+      "body": "Máy gia đình phải êm, sạch và đơn giản. Tính sưởi ấm, bơm giếng, tủ lạnh, ánh sáng và mạch thiết yếu, không phải mọi thiết bị. Buồng cách âm bảo vệ gia đình, ATS loại bỏ thao tác tay. Nhà máy Dương Châu lắp ráp cụm xuất khẩu với phích/điện áp địa phương và tài liệu rõ ràng."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Thương hiệu OEM khác",
       "description": "Một số tổ máy Perkins, Mitsubishi và Scania vẫn có sẵn dưới dạng phương án động cơ OEM do Kaichen lắp ráp."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy Cummins",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "sdec": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy SDEC",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "weichai": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy Weichai",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "volvo": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy Volvo Penta",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "yuchai": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy Yuchai",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "kaichen": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy bộ Kaichen",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "silent-canopy": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy buồng cách âm",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "rainproof-canopy": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy buồng chống mưa",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "containerized-silent": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy module container chống ồn",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "mobile-silent": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy rơ moóc di động cách âm",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
+    },
+    "mobile-trailer": {
+      "heading": "Ghi chú kỹ thuật cho tổ máy unit mở trên rơ moóc di động",
+      "p1": "Danh mục này được chọn khi công trình cần thương hiệu động cơ, kiểu vỏ hoặc tính di động cụ thể. Nhà máy Dương Châu phối hợp động cơ, máy phát, bộ điều khiển và hệ nhiên liệu trước khi xuất xưởng rồi chạy thử tải. Trang sản phẩm liệt kê công suất chính và dự phòng, điện áp, làm mát, ồn và thùng nhiên liệu cho dải đã chọn.",
+      "p2": "Với dự án xuất khẩu, quyết định dựa trên tải thực tế, dòng khởi động động cơ, nhiệt độ môi trường và thời gian chạy kế hoạch, không phải phỏng đoán kW thô. Đội kỹ thuật xem sơ đồ một tuyến và đề xuất ATS, tank ngày, giám sát từ xa hoặc chạy song song. Bộ máy giao kèm sơ đồ, lịch bảo dưỡng và hồ sơ, nhà máy Dương Châu hỗ trợ phụ tùng.",
+      "bullet1": "Có ATS, giám sát từ xa và tùy chọn thùng nhiên liệu",
+      "bullet2": "Kiểm tra tại nhà máy trước khi xuất xưởng"
     }
   }
 }

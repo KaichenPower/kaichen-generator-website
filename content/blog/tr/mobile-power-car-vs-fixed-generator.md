@@ -68,3 +68,14 @@ Yuchai tabanlı 100 kW'lık bir güç aracı (yaklaşık 125 kVA) yaygın bir bo
 
 Enerji ihtiyacınız hareket ediyorsa — şantiye, etkinlik, yardım görevi — bize yük listesini ve ülkenizin yol kurallarını söyleyin. Uygun güç aracını belirleyeceğiz ve önümüzdeki yıl satın almanın mı yoksa kiralamanın mı daha mantıklı olduğunu dürüstçe söyleyeceğiz.
 
+## Siparişten önce mühendislik kontrol listesi
+
+Jeneratör seçmeden önce bağlı yükü, en büyük motoru, rakımı, ortam sıcaklığını ve gereken ATS mantığını toplayın. Çok küçük ünite kademeli yükte triplenir; çok büyük ünite düşük yükte çalışır, kurumlaşır ve yakıt israf eder. Sadece plaka fotoğrafı değil, bir saatlik yük test raporu isteyin.
+
+## Yangzhou fabrikamız ihracat setlerini nasıl kurar
+
+Her ihracat seti kablolu kontrol devreleri, akü şalterleri, titreşim önleyici takozlar ve su/yağ/yakıt basınç testi alır. Alternatör, motor torkuna eşleştirilir; böylece kademeli yük frekansı düşürmez. Dokümantasyonda şemalar, bakım planı, voltaj seçenekleri ve seri numaraları bulunur. Kabin, konteyner veya treyler fabrikada yapılandırılır.
+
+## Görüşmede sorulacaklar
+
+Yük listesini, tek çizim diyagramını, gürültü hedefini, yakıt özerkliğini ve yerel fiş/voltaj standardını gönderin. Boyutlandırılmış öneri, teslim süresi ve motor, alternatör, kabin, ATS ve izlemeyi ayıran bir teklifle yanıtlayacağız.

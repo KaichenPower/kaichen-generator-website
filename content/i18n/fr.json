@@ -225,39 +225,48 @@
     "subtitle": "Groupes électrogènes diesel personnalisés pour des usages industriels et commerciaux",
     "commercial-community": {
       "name": "Commerces et résidences",
-      "desc": "Alimentation de secours fiable pour centres commerciaux, immeubles et bureaux."
+      "desc": "Alimentation de secours fiable pour centres commerciaux, immeubles et bureaux.",
+      "body": "Les bâtiments commerciaux et communautaires ont besoin d’une sauvegarde qui démarre en quelques secondes et fonctionne discrètement. Nous dimensionnons les groupes pour parties communes, ascenseurs, éclairage de secours, pompes et systèmes incendie, puis coordonnons l’ATS. Les cabines insonorisées ou conteneurisées réduisent le bruit en limite de propriété. La maintenance est planifiée autour de l’occupation et la télésurveillance alerte avant une panne."
     },
     "data-center": {
       "name": "Data centers",
-      "desc": "Groupes stables pour alimentation de secours, prise en charge du fonctionnement parallèle N+1."
+      "desc": "Groupes stables pour alimentation de secours, prise en charge du fonctionnement parallèle N+1.",
+      "body": "Les centres de données exigent une puissance instantanée, stable et parallélisable. Nous préparons des ensembles N+1 ou 2N avec contrôleurs Deepsea/ComAp, réservoirs journaliers, réchauffants et antivibrion. Nous aidons à estimer charge IT, redondance et autonomie, puis alignons ventilation, échappement et stockage selon codes. Objectif : coupure zéro au transfert et fréquence stable."
     },
     "medical": {
       "name": "Santé et hôpitaux",
-      "desc": "Alimentation continue pour hôpitaux, cliniques et établissements médicaux."
+      "desc": "Alimentation continue pour hôpitaux, cliniques et établissements médicaux.",
+      "body": "Hôpitaux et cliniques ne tolèrent aucune coupure au bloc, en réa, en imagerie et en froid. Nous fournissons des secours à démarrage auto, faible bruit, batteries redondantes et tension propre. Le dimensionnement intègre circuits vitaux et extension future. Livraison avec test banc de charge et plan de service."
     },
     "factory": {
       "name": "Usines et industrie",
-      "desc": "Alimentation principale ou de secours pour sites de production."
+      "desc": "Alimentation principale ou de secours pour sites de production.",
+      "body": "Usines et ateliers nécessitent soit une énergie principale en réseau faible, soit une sauvegarde contre les arrêts coûteux. Nous analysons charge process, courant de démarrage des moteurs et pointe, puis recommandons groupes ouverts, silencieux ou conteneurisés. Les unités parallèles permettent d’étendre par étapes. Réservoirs et supervision protègent la continuité."
     },
     "mining-oil": {
       "name": "Mines et sites pétroliers",
-      "desc": "Groupes diesel stables adaptés aux mines et projets pétrole‑gaz dans des conditions d'exploitation complexes."
+      "desc": "Groupes diesel stables adaptés aux mines et projets pétrole‑gaz dans des conditions d'exploitation complexes.",
+      "body": "Sites miniers et pétroliers isolés tournent dans poussière, chaleur et vibration. Nous choisissons filtres à air renforcés, radiateurs surdimensionnés, châssis et cabines durables pour cycles longs. Le calcul couvre engins, pompes, camps et ateliers. Les modules containerisés simplifient transport et assemblage."
     },
     "transportation": {
       "name": "Transport et ports",
-      "desc": "Solutions énergétiques pour ports, chemins de fer et plateformes logistiques."
+      "desc": "Solutions énergétiques pour ports, chemins de fer et plateformes logistiques.",
+      "body": "Ports, triages ferroviaires et hubs logistiques ont besoin d’énergie pour convoyeurs, éclairage, grues et chaîne du froid. Les groupes sont souvent mobiles ou conteneurisés. Nous coordonnant courants de démarrage, bruit près du public et autonomie plusieurs jours. Les commandes parallélisables accompagnent la croissance du trafic."
     },
     "agriculture": {
       "name": "Agriculture",
-      "desc": "Groupes pour irrigation, transformation céréalière et secours en milieu rural."
+      "desc": "Groupes pour irrigation, transformation céréalière et secours en milieu rural.",
+      "body": "Exploitations et stockage du grain dépendent de l’irrigation, ventilation, mouture et froid. Le réseau rural est faible et saisonnier. Nous recommandons des groupes en service principal pour pompes, séchoirs et bureaux, avec carters protégés et accès facile. Les remorques mobiles suivent les parcelles saisonnières."
     },
     "construction-site": {
       "name": "Chantiers de construction",
-      "desc": "Groupes mobiles et fixes pour alimentation temporaire sur chantier."
+      "desc": "Groupes mobiles et fixes pour alimentation temporaire sur chantier.",
+      "body": "Chantiers ont besoin d’énergie temporaire vite et elle bouge souvent. Les groupes sur remorque alimentent lumière, outils, grues et pompes à béton. Nous choisissons carters robustes, remorques routières et grands réservoirs, en dimensionnant soudage, mâts et palans. Bruit et échappement sont planifiés pour protéger équipes et riverains."
     },
     "home-backup-power": {
       "name": "Secours domestique",
-      "desc": "Générateurs diesel silencieux pour secours résidentiel."
+      "desc": "Générateurs diesel silencieux pour secours résidentiel.",
+      "body": "Une réserve domestique doit être silencieuse, propre et simple. Nous dimensionnons chauffage, pompe, réfrigération, éclairage et circuits essentiels, pas tous les appareils. Les cabines silencieuses protègent la famille et l’ATS supprime la manœuvre manuelle. Notre usine de Yangzhou assemble des ensembles export avec prises/tension locales et documentation claire."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Autres marques OEM",
       "description": "Certains groupes Perkins, Mitsubishi et Scania sont disponibles en version OEM assemblée par Kaichen."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes Cummins",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "sdec": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes SDEC",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "weichai": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes Weichai",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "volvo": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes Volvo Penta",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "yuchai": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes Yuchai",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "kaichen": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes ensembles Kaichen",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "silent-canopy": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes cabine insonorisée",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "rainproof-canopy": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes cabine anti-pluie",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "containerized-silent": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes module containerisé",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "mobile-silent": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes remorque mobile silencieuse",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
+    },
+    "mobile-trailer": {
+      "heading": "Notes d’ingénierie pour groupes électrogènes unité mobile ouverte sur remorque",
+      "p1": "Cette catégorie est retenue lorsque le site exige une marque moteur, un type de capot ou une mobilité précis. Notre usine de Yangzhou coordonne moteur, alternateur, contrôleur et carburant avant expédition, puis réalise un essai en charge. La page indique puissance principale et secours, tension, refroidissement, bruit et réservoir pour la plage choisie.",
+      "p2": "Pour les projets d’exportation, la décision repose sur la charge connectée réelle, le courant de démarrage, la température ambiante et la durée de fonctionnement prévue, non sur une estimation approximative. Notre équipe étudie un schéma unifilaire et recommande ATS, réservoir journalier, supervision ou parallélisme. L’ensemble est livré avec schémas, plan d’entretien et documents, et l’usine de Yangzhou assure pièces et support.",
+      "bullet1": "ATS, supervision et options de réservoir disponibles",
+      "bullet2": "Essai en usine avant expédition"
     }
   }
 }

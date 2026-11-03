@@ -225,39 +225,48 @@
     "subtitle": "Diesel genset khusus untuk berbagai skenario industri dan komersial",
     "commercial-community": {
       "name": "Komersial & Komunitas",
-      "desc": "Catu daya cadangan yang andal untuk pusat perbelanjaan, kompleks perumahan, dan gedung perkantoran."
+      "desc": "Catu daya cadangan yang andal untuk pusat perbelanjaan, kompleks perumahan, dan gedung perkantoran.",
+      "body": "Gedung komersial dan kompleks hunian membutuhkan daya cadangan yang start dalam hitungan detik dan beroperasi senyap. Kami menghitung unit untuk area umum, lift, penerangan darurat, pompa dan sistem kebakaran, lalu mengoordinasikan panel ATS. Kanap peredam atau kontainer mengurangi kebisingan di batas properti. Pemeliharaan direncanakan sesuai hunian, pemantauan jarak jauh memberi peringatan sebelum gagal."
     },
     "data-center": {
       "name": "Pusat Data",
-      "desc": "Diesel genset stabil untuk daya darurat pusat data, mendukung operasi paralel N+1."
+      "desc": "Diesel genset stabil untuk daya darurat pusat data, mendukung operasi paralel N+1.",
+      "body": "Pusat data membutuhkan daya seketika, stabil dan paralel. Kami menyiapkan set N+1 atau 2N dengan kontroler Deepsea/ComAp, tangki harian, pemanas coolant dan peredam getar. Membantu memperkirakan beban IT, redundansi dan durasi operasi, lalu menyesuaikan ventilasi, knalpot dan penyimpanan bahan bakar sesuai kode. Tujuan: blackout nol saat transfer dan frekuensi stabil."
     },
     "medical": {
       "name": "Medis & Kesehatan",
-      "desc": "Jaminan daya berkelanjutan untuk rumah sakit, klinik, dan fasilitas medis."
+      "desc": "Jaminan daya berkelanjutan untuk rumah sakit, klinik, dan fasilitas medis.",
+      "body": "Rumah sakit tidak tahan gangguan di ruang operasi, ICU, pencitraan dan pendinginan. Kami menyediakan unit darurat dengan start otomatis, kebisingan rendah, baterai redundan dan tegangan bersih untuk peralatan medis. Perhitungan mencakup sirkuit vital dan ekspansi mendatang. Penyerahan dengan uji beban bank dan jadwal servis."
     },
     "factory": {
       "name": "Pabrik & Manufaktur",
-      "desc": "Daya utama atau siaga untuk pabrik manufaktur dan bengkel."
+      "desc": "Daya utama atau siaga untuk pabrik manufaktur dan bengkel.",
+      "body": "Pabrik membutuhkan daya utama di jaringan lemah atau cadangan terhadap penghentian produksi yang mahal. Kami menganalisis beban proses, arus start motor besar dan puncak, lalu merekomendasikan unit terbuka, bising-redam atau kontainer. Unit paralel memungkinkan ekspansi bertahap. Tangki dan pemantauan jarak jauh melindungi kelangsungan."
     },
     "mining-oil": {
       "name": "Pertambangan & Ladang Minyak",
-      "desc": "Diesel generator stabil untuk lokasi tambang dan proyek minyak & gas dalam kondisi kerja kompleks."
+      "desc": "Diesel generator stabil untuk lokasi tambang dan proyek minyak & gas dalam kondisi kerja kompleks.",
+      "body": "Lokasi tambang dan minyak terpencil bekerja dalam debu, panas dan getar. Kami memilih filter udara berat, radiator diperbesar, rangka dan kanap tahan untuk siklus panjang. Perhitungan mencakup ekskavator, pompa, kamp dan bengkel. Modul kontainer menyederhanakan transportasi dan perakitan."
     },
     "transportation": {
       "name": "Transportasi",
-      "desc": "Solusi daya untuk pelabuhan, kereta api, dan hub transportasi."
+      "desc": "Solusi daya untuk pelabuhan, kereta api, dan hub transportasi.",
+      "body": "Pelabuhan, rel dan hub logistik membutuhkan daya untuk ban berjalan, penerangan, derek dan rantai dingin. Unit sering kali bergerak atau kontainer. Kami mengoordinasikan arus start, kebisingan dekat area publik dan otonomi bahan bakar beberapa hari. Kontroler paralel mengikuti pertumbuhan lalu lintas."
     },
     "agriculture": {
       "name": "Pertanian",
-      "desc": "Generator untuk irigasi pertanian, pengolahan biji-bijian, dan cadangan daya pedesaan."
+      "desc": "Generator untuk irigasi pertanian, pengolahan biji-bijian, dan cadangan daya pedesaan.",
+      "body": "Pertanian dan pengolahan biji-bijian bergantung pada irigasi, ventilasi, penggilingan dan pendinginan. Jaringan pedesaan sering lemah dan musiman. Kami merekomendasikan unit daya utama untuk pompa, pengering biji-bijian dan kantor, dengan penutup terlindung dan akses mudah. Trailer bergerak mengikuti ladang musiman."
     },
     "construction-site": {
       "name": "Lokasi Konstruksi",
-      "desc": "Genset mobile dan stasioner untuk daya konstruksi sementara."
+      "desc": "Genset mobile dan stasioner untuk daya konstruksi sementara.",
+      "body": "Lokasi konstruksi membutuhkan daya sementara cepat dan sering pindah. Unit trailer menyediakan lampu, perkakas, derek dan pompa beton. Kami memilih kanap kokoh, trailer jalan raya dan tangki panjang, menghitung pengelasan, menara dan katrol. Kebisingan dan knalpot direncanakan untuk melindungi pekerja dan warga sekitar."
     },
     "home-backup-power": {
       "name": "Cadangan Daya Rumah",
-      "desc": "Diesel generator senyap untuk catu daya darurat perumahan."
+      "desc": "Diesel generator senyap untuk catu daya darurat perumahan.",
+      "body": "Unit rumah harus senyap, bersih dan sederhana. Kami menghitung pemanas, pompa sumur, kulkas, lampu dan sirkuit penting, bukan semua perangkat. Kanap peredam melindungi keluarga, ATS menghilangkan operasi manual. Pabrik kami di Yangzhou merakit unit ekspor dengan stopkontak/tegangan lokal dan dokumentasi jelas."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Merek OEM Lainnya",
       "description": "Unit Perkins, Mitsubishi dan Scania pilihan tersedia sebagai opsi mesin OEM rakitan Kaichen."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Catatan rekayasa untuk set generator Cummins",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "sdec": {
+      "heading": "Catatan rekayasa untuk set generator SDEC",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "weichai": {
+      "heading": "Catatan rekayasa untuk set generator Weichai",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "volvo": {
+      "heading": "Catatan rekayasa untuk set generator Volvo Penta",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "yuchai": {
+      "heading": "Catatan rekayasa untuk set generator Yuchai",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "kaichen": {
+      "heading": "Catatan rekayasa untuk set generator paket Kaichen",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "silent-canopy": {
+      "heading": "Catatan rekayasa untuk set generator kanap peredam",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "rainproof-canopy": {
+      "heading": "Catatan rekayasa untuk set generator kanap anti-hujan",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "containerized-silent": {
+      "heading": "Catatan rekayasa untuk set generator modul kontainer peredam",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "mobile-silent": {
+      "heading": "Catatan rekayasa untuk set generator trailer bergerak peredam",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
+    },
+    "mobile-trailer": {
+      "heading": "Catatan rekayasa untuk set generator unit terbuka trailer bergerak",
+      "p1": "Kategori ini dipilih saat lokasi membutuhkan merek mesin, jenis kanap atau fitur mobilitas tertentu. Pabrik Yangzhou kami mengoordinasikan mesin, alternator, kontroler dan sistem bahan bakar sebelum pengiriman lalu uji beban. Halaman produk mencantumkan daya utama dan siaga, tegangan, pendinginan, kebisingan dan tangki untuk rentang yang dipilih.",
+      "p2": "Untuk proyek ekspor, keputusan didasarkan pada beban terhubung nyata, arus start motor, suhu lingkungan dan durasi operasi terencana, bukan perkiraan kW kasar. Tim rekayasa kami meninjau diagram satu jalur lokasi dan merekomendasikan ATS, tangki harian, pemantauan jarak jauh atau operasi paralel. Set dikirim dengan diagram, jadwal servis dan dokumen, pabrik Yangzhou mendukung suku cadang.",
+      "bullet1": "Tersedia ATS, pemantauan jarak jauh dan opsi tangki",
+      "bullet2": "Diuji di pabrik sebelum pengiriman"
     }
   }
 }

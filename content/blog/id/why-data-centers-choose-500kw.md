@@ -55,3 +55,14 @@ Perhatikan baris kedua. Aturan praktis di ukuran ini bukan mengukur grup dengan 
 
 Jika daftar beban Anda merayap melewati 300 kW dan bangunan adalah jenis di mana pemadaman adalah masalah serius, hubungi kami sebelum Anda menentukan spesifikasi. Kami akan melihat langkah beban, penyimpanan bahan bakar, dan ruangan yang Anda punya, dan jujur memberi tahu apakah satu grup 500 kW atau dua unit paralel yang lebih kecil adalah bentuk yang lebih baik.
 
+## Daftar periksa rekayasa sebelum pesan
+
+Sebelum memilih generator, kumpulkan beban terhubung nyata, motor terbesar, ketinggian, suhu lingkungan dan logika ATS yang dibutuhkan. Unit terlalu kecil akan trip pada beban bertahap; unit terlalu besar berbeban rendah, membentuk kerak dan boros bahan bakar. Minta laporan uji beban satu jam, bukan sekadar foto nameplate.
+
+## Bagaimana pabrik Yangzhou merakit unit ekspor
+
+Setiap unit ekspor menerima sirkuit kontrol terpasang, pemutus baterai, dudukan anti getar dan uji tekanan air/oli/bahan bakar. Alternator dicocokkan dengan torsi mesin agar beban bertahap tidak menurunkan frekuensi. Dokumentasi meliputi diagram, jadwal servis, opsi tegangan dan nomor seri. Kanap, kontainer atau trailer dikonfigurasi di pabrik.
+
+## Pertanyaan saat panggilan
+
+Kirim daftar beban, diagram satu jalur, target kebisingan, otonomi bahan bakar dan standar stopkontak/tegangan lokal. Kami akan membalas dengan rekomendasi berukuran tepat, waktu tunggu dan kutipan yang memisahkan mesin, alternator, kanap, ATS dan pemantauan.

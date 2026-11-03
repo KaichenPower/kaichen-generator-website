@@ -225,39 +225,48 @@
     "subtitle": "Custom diesel generator sets for different industrial and commercial scenarios",
     "commercial-community": {
       "name": "Commercial & Community",
-      "desc": "Reliable backup power supply for shopping malls, residential communities and office buildings."
+      "desc": "Reliable backup power supply for shopping malls, residential communities and office buildings.",
+      "body": "Commercial buildings and communities need backup power that starts within seconds and runs quietly. We size sets for common areas, elevators, emergency lighting, pumps and fire systems, then coordinate the ATS switchboard so tenants are not disturbed. Silent canopy or containerized options reduce noise at property lines. Maintenance intervals are planned around occupancy, and remote monitoring alerts the facility team before a failure."
     },
     "data-center": {
       "name": "Data Center",
-      "desc": "Stable diesel gensets for data center emergency power, support N+1 parallel operation."
+      "desc": "Stable diesel gensets for data center emergency power, support N+1 parallel operation.",
+      "body": "Data centers require instantaneous, stable and parallel-capable power. Our sets are prepared for N+1 or 2N configurations with deepsea or ComAp controllers, fuel-day tanks, coolant heaters and vibration isolation. We help estimate IT load, redundancy ratio and run time, then align the generator room ventilation, exhaust and fuel storage with local codes. The goal is zero blackout during transfer and stable frequency during step load."
     },
     "medical": {
       "name": "Medical & Healthcare",
-      "desc": "Continuous power guarantee for hospitals, clinics and medical facilities."
+      "desc": "Continuous power guarantee for hospitals, clinics and medical facilities.",
+      "body": "Hospitals cannot tolerate even a short interruption to surgery, ICU, imaging and refrigeration. We provide emergency sets with automatic start, low noise, redundant batteries and clean voltage for sensitive medical loads. Sizing considers essential circuits, life-safety systems and future expansion. Delivery coordination includes load bank testing before handover and a service schedule that protects uptime."
     },
     "factory": {
       "name": "Factory & Manufacturing",
-      "desc": "Main power or standby power for manufacturing plants and workshops."
+      "desc": "Main power or standby power for manufacturing plants and workshops.",
+      "body": "Manufacturing plants need either prime power in weak-grid areas or standby power for expensive production interruptions. We analyze process load, starting current of large motors and peak demand, then recommend open, silent or containerized sets. Parallel units allow phased expansion while reducing runtime on any one engine. Fuel tank sizing and remote monitoring protect continuous output."
     },
     "mining-oil": {
       "name": "Mining & Oilfield",
-      "desc": "Stable diesel generators for mining sites and oil & gas projects under complex working conditions."
+      "desc": "Stable diesel generators for mining sites and oil & gas projects under complex working conditions.",
+      "body": "Remote mining and oilfield sites run sets in dust, heat and vibration. We choose heavy-duty air filters, oversized radiators, skid frames and durable canopies suitable for long-duty cycles. Power calculations cover draglines, pumps, camps and workshops. Containerized modules simplify transport and site assembly, while long service intervals reduce field maintenance trips."
     },
     "transportation": {
       "name": "Transportation",
-      "desc": "Power solutions for ports, railways and transportation hubs."
+      "desc": "Power solutions for ports, railways and transportation hubs.",
+      "body": "Ports, rail yards and logistics hubs need reliable power for conveyors, lighting, cranes and cold-chain facilities. Sets are often mobile or containerized because worksites move. We coordinate starting load for large motors, noise limits near public areas and fuel autonomy for multi-day operation. Parallelable controls support gradual expansion as traffic grows."
     },
     "agriculture": {
       "name": "Agriculture",
-      "desc": "Generators for farm irrigation, grain processing and rural power backup."
+      "desc": "Generators for farm irrigation, grain processing and rural power backup.",
+      "body": "Farms and grain processing sites depend on irrigation, ventilation, milling and cold storage. Rural grids are often weak or seasonal. We recommend prime-rated sets sized for pump starts, continuous grain dryers and farm offices, with weather-protected enclosures and easy access for local technicians. Mobile trailers are useful when power must follow seasonal fields."
     },
     "construction-site": {
       "name": "Construction Site",
-      "desc": "Mobile and stationary gensets for temporary construction power."
+      "desc": "Mobile and stationary gensets for temporary construction power.",
+      "body": "Construction sites need temporary power fast and often move. Mobile trailer sets provide light, tools, cranes and concrete pumps. We select rugged canopies, road-ready trailers and long fuel tanks, and size generators for welding, tower lights and hoist starting currents. Noise and exhaust positioning are planned to protect workers and nearby residents."
     },
     "home-backup-power": {
       "name": "Home Backup Power",
-      "desc": "Silent diesel generators for residential emergency power supply."
+      "desc": "Silent diesel generators for residential emergency power supply.",
+      "body": "Home backup sets must be quiet, clean and simple. We size for heating, well pumps, refrigeration, lights and essential circuits rather than every appliance. Silent enclosures protect families from noise, and automatic transfer switches remove the need for manual operation. Our Yangzhou factory assembles export-ready sets with local plug/voltage options and clear commissioning documents."
     }
   },
   "contactPage": {
@@ -2160,6 +2169,85 @@
     "other-oem": {
       "title": "Other OEM Engine Brands",
       "description": "Selected Perkins, Mitsubishi and Scania powered sets remain available as OEM-engine options under Kaichen assembly."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Engineering notes for Cummins generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "sdec": {
+      "heading": "Engineering notes for SDEC generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "weichai": {
+      "heading": "Engineering notes for Weichai generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "volvo": {
+      "heading": "Engineering notes for Volvo Penta generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "yuchai": {
+      "heading": "Engineering notes for Yuchai generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "kaichen": {
+      "heading": "Engineering notes for Kaichen packages generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "silent-canopy": {
+      "heading": "Engineering notes for silent canopy generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "rainproof-canopy": {
+      "heading": "Engineering notes for rainproof canopy generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "containerized-silent": {
+      "heading": "Engineering notes for containerized silent module generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "mobile-silent": {
+      "heading": "Engineering notes for mobile silent trailer generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
+    },
+    "mobile-trailer": {
+      "heading": "Engineering notes for mobile trailer open unit generator sets",
+      "p1": "This category is chosen when the site needs a specific engine brand, enclosure style or mobility feature. Our Yangzhou factory matches engine output, alternator, controller and fuel system before shipment, then runs a load test so the buyer receives one wired package rather than loose components. The product page lists prime and standby power, voltage, cooling, noise level and fuel tank configuration as defined for the selected power range.",
+      "p2": "For export projects, the correct decision is based on actual connected load, motor starting current, ambient temperature and planned runtime rather than a rough kW guess. Our engineering team can review a one-line site diagram and recommend whether ATS, day tank, remote monitoring or parallel operation is needed. The set is delivered with wiring diagrams, maintenance schedule and commissioning documents, and our Yangzhou factory remains available for spare parts and technical support.",
+      "bullet1": "ATS, remote monitoring and fuel tank options available",
+      "bullet2": "Factory-tested before export shipment"
     }
   }
 }

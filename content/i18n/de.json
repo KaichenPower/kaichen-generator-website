@@ -225,39 +225,48 @@
     "subtitle": "Individuelle Dieselgeneratoren für Industrie‑ und Gewerbeanwendungen",
     "commercial-community": {
       "name": "Handel und Wohnkomplexe",
-      "desc": "Zuverlässige Notstromversorgung für Einkaufszentren, Wohn‑ und Bürogebäude."
+      "desc": "Zuverlässige Notstromversorgung für Einkaufszentren, Wohn‑ und Bürogebäude.",
+      "body": "Gewerbebauten und Wohnanlagen brauchen Notstrom, der in Sekunden startet und leise läuft. Wir dimensionieren Aggregate für Allgemeinflächen, Aufzüge, Notbeleuchtung, Pumpen und Brandschutz und koordinieren die ATS-Schaltung. Schallschutzhauben oder Container senken den Lärm an der Grundstücksgrenze. Wartung wird auf die Nutzung abgestimmt, Fernüberwachung warnt vor Ausfällen."
     },
     "data-center": {
       "name": "Rechenzentren",
-      "desc": "Stabile Dieselgeneratoren für Notstrom, Unterstützung von N+1 Parallelbetrieb."
+      "desc": "Stabile Dieselgeneratoren für Notstrom, Unterstützung von N+1 Parallelbetrieb.",
+      "body": "Rechenzentren brauchen sofortige, stabile und parallelschaltbare Energie. Wir bereiten Sätze für N+1 oder 2N mit Deepsea/ComAp-Steuerung, Tagestanks, Kühlmittlerhitzern und Schwingungsdämpfung. Wir helfen bei IT-Last, Redundanz und Autonomie und stimmen Lüftung, Abgas und Treibstofflager mit Vorschriften ab. Ziel: null Blackout beim Übergang und stabile Frequenz."
     },
     "medical": {
       "name": "Gesundheit und Krankenhäuser",
-      "desc": "Dauerversorgung für Krankenhäuser, Kliniken und medizinische Einrichtungen."
+      "desc": "Dauerversorgung für Krankenhäuser, Kliniken und medizinische Einrichtungen.",
+      "body": "Krankenhäuser vertragen keine Unterbrechungen in OP, Intensiv, Bildgebung und Kühlung. Wir liefern Notaggregate mit Autostart, niedrigem Geräusch, redundanten Batterien und sauberer Spannung. Die Dimensionierung berücksichtigt lebenswichtige Kreise und späteren Ausbau. Übergabe mit Lastbanktest und Wartungsplan."
     },
     "factory": {
       "name": "Fabriken und Fertigung",
-      "desc": "Haupt‑ oder Notstrom für Produktionswerke und Werkhallen."
+      "desc": "Haupt‑ oder Notstrom für Produktionswerke und Werkhallen.",
+      "body": "Fabriken brauchen either Dauerstrom in schwachem Netz oder Notstrom gegen teure Produktionsunterbrechungen. Wir analysieren Prozesslast, Anfahrströme großer Motoren und Spitzen und empfehlen offene, schallgedämmte oder Containeraggregate. Parallelschaltbare Einheiten erlauben stufenweisen Ausbau. Tanks und Fernüberwachung schaffen Kontinuität."
     },
     "mining-oil": {
       "name": "Bergbau und Ölfelder",
-      "desc": "Stabile Dieselgeneratoren für Bergbau‑ und Öl‑Gas‑Projekte bei anspruchsvollen Einsatzbedingungen."
+      "desc": "Stabile Dieselgeneratoren für Bergbau‑ und Öl‑Gas‑Projekte bei anspruchsvollen Einsatzbedingungen.",
+      "body": "Abgelegene Bergwerke und Ölfelder arbeiten in Staub, Hitze und Vibration. Wir wählen robuste Luftfilter, überdimensionierte Kühler, Rahmen und langlebige Hauben für Dauerbetrieb. Die Berechnung deckt Bagger, Pumpen, Camps und Werkstätten ab. Containermodule vereinfachen Transport und Montage."
     },
     "transportation": {
       "name": "Verkehrsinfrastruktur",
-      "desc": "Stromlösungen für Häfen, Eisenbahnen und Verkehrsknotenpunkte."
+      "desc": "Stromlösungen für Häfen, Eisenbahnen und Verkehrsknotenpunkte.",
+      "body": "Häfen, Bahnanlagen und Logistikhubs brauchen Energie für Förderer, Beleuchtung, Kräne und Kühlkette. Aggregate sind oft mobil oder containerisiert. Wir berücksichtigen Anfahrströme, Lärm im öffentlichen Bereich und Treibstoffautonomie für mehrere Tage. Parallelsteuerungen wachsen mit dem Verkehr."
     },
     "agriculture": {
       "name": "Landwirtschaft",
-      "desc": "Generatoren für Bewässerung, Getreideverarbeitung und ländliche Notstromversorgung."
+      "desc": "Generatoren für Bewässerung, Getreideverarbeitung und ländliche Notstromversorgung.",
+      "body": "Landwirtschaft und Getreideverarbeitung brauchen Bewässerung, Lüftung, Mühlen und Kühlung. Das ländliche Netz ist schwach und saisonal. Wir empfehlen Hauptbetriebssätze für Pumpen, Trockner und Büros mit geschützten Verkleidungen und leichtem Zugang. Mobile Anhänger folgen saisonalen Feldern."
     },
     "construction-site": {
       "name": "Baustellen",
-      "desc": "Mobile und stationäre Generatoren für temporären Baustellenstrom."
+      "desc": "Mobile und stationäre Generatoren für temporären Baustellenstrom.",
+      "body": "Baustellen brauchen schnell temporäre Energie, die oft umzieht. Mobile Anhängeraggregate versorgen Licht, Werkzeuge, Kräne und Betonpumpen. Wir wählen robuste Hauben, straßentaugliche Anhänger und große Tanks und dimensionieren Schweißen, Masten und Hebezeuge. Lärm und Abgas werden zum Schutz von Arbeitern und Anwohnern geplant."
     },
     "home-backup-power": {
       "name": "Haus‑Notstrom",
-      "desc": "Geräuschdämpfte Dieselgeneratoren für privaten Notstrombedarf."
+      "desc": "Geräuschdämpfte Dieselgeneratoren für privaten Notstrombedarf.",
+      "body": "Eine Hausreserve muss leise, sauber und einfach sein. Wir dimensionieren Heizung, Brunnenpumpe, Kühlung, Licht und wesentliche Kreise, nicht alle Geräte. Schallschutzhauben schützen die Familie, ATS ersetzt manuelles Starten. Unser Werk in Yangzhou bauen exportfertige Sätze mit lokalen Steckern/Spannungen und klarer Dokumentation."
     }
   },
   "contactPage": {
@@ -2117,6 +2126,85 @@
     "other-oem": {
       "title": "Andere OEM-Marken",
       "description": "Ausgewählte Perkins-, Mitsubishi- und Scania-Gruppen sind als OEM-Motoroptionen in Kaichen-Aufbau verfügbar."
+    }
+  },
+  "productDeepDive": {
+    "cummins": {
+      "heading": "Technische Hinweise für Cummins-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "sdec": {
+      "heading": "Technische Hinweise für SDEC-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "weichai": {
+      "heading": "Technische Hinweise für Weichai-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "volvo": {
+      "heading": "Technische Hinweise für Volvo Penta-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "yuchai": {
+      "heading": "Technische Hinweise für Yuchai-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "kaichen": {
+      "heading": "Technische Hinweise für Kaichen-Pakete-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "silent-canopy": {
+      "heading": "Technische Hinweise für Schallschutzhaube-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "rainproof-canopy": {
+      "heading": "Technische Hinweise für Regenschutzhaube-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "containerized-silent": {
+      "heading": "Technische Hinweise für Container-Modul-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "mobile-silent": {
+      "heading": "Technische Hinweise für mobiler Schallschutz-Anhänger-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
+    },
+    "mobile-trailer": {
+      "heading": "Technische Hinweise für mobile offene Anhänger-Einheit-Stromaggregate",
+      "p1": "Diese Kategorie wird gewählt, wenn die Baustelle eine bestimmte Motormarke, Haubenart oder Mobilität benötigt. Unser Werk in Yangzhou stimmt Motor, Lichtmaschine, Steuerung und Kraftstoffsystem ab und führt einen Lasttest durch. Die Seite zeigt Haupt- und Notleistung, Spannung, Kühlung, Geräusch und Tank für den gewählten Bereich.",
+      "p2": "Für Exportprojekte basiert die Entscheidung auf tatsächlicher Netzlast, Anfahrstrom, Umgebungstemperatur und geplanter Laufzeit, nicht auf einer groben kW-Schätzung. Unser Ingenieurteam prüft den Einlinienschaltplan und empfiehlt ATS, Tagestank, Fernüberwachung oder Parallelbetrieb. Das Set wird mit Schaltplänen, Wartungsplan und Dokumentation geliefert, das Werk Yangzhou unterstützt mit Ersatzteilen.",
+      "bullet1": "ATS, Fernüberwachung und Tankoptionen verfügbar",
+      "bullet2": "Werksprüfung vor Auslieferung"
     }
   }
 }

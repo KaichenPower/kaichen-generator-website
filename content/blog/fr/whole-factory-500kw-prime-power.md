@@ -60,3 +60,14 @@ Les moteurs Weichai dans la gamme 400–500 kW sont courants pour les installati
 
 Si vous hésitez entre un raccordement au réseau et un groupe en puissance principale, envoyez-nous la liste des charges, les heures de fonctionnement par jour et le prix local du carburant. Nous ferons les calculs et vous montrerons quelle option gagne réellement sur cinq ans.
 
+## Checklist ingénierie avant commande
+
+Avant de choisir un groupe, rassemblez la charge connectée exacte, le plus gros moteur, l’altitude, la température ambiante et la logique ATS voulue. Un sous-dimensionné disjoncte en charge, un surdimensionné tourne à vide, encrasse et gaspille du carburant. Demandez un rapport d’essai en charge d’une heure, pas une simple photo de plaque.
+
+## Comment notre usine de Yangzhou assemble les ensembles export
+
+Chaque ensemble export reçoit des circuits de contrôle câblés, disjoncteurs batterie, silentblocs et essai de pression eau/huile/gasoil. L’alternateur est adapté au couple moteur pour que les marches en charge ne fassent pas chuter la fréquence. Le dossier inclut schémas, plan d’entretien, options de tension et numéros de série. Cabine, conteneur ou remorque sont configurés en usine.
+
+## Questions à poser
+
+Envoyez la liste des charges, schéma unifilaire, bruit visé, autonomie carburant et norme prise/voltage locale. Nous répondons avec une recommandation dimensionnée, un délai et un devis séparant moteur, alternateur, capot, ATS et supervision.

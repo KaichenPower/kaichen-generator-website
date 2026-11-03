@@ -55,3 +55,14 @@ Chú ý hàng thứ hai. Quy tắc ngón tay ở cỡ này không phải kích t
 
 Nếu danh sách tải của bạn đang leo qua 300 kW và tòa nhà là kiểu mà mất điện là một vấn đề nghiêm trọng, hãy gọi cho chúng tôi trước khi bạn đặc tả. Chúng tôi sẽ nhìn vào các bậc tải, lưu trữ nhiên liệu, và phòng bạn có, và nói với bạn một cách trung thực liệu một bộ 500 kW hay hai đơn vị song song nhỏ hơn là hình dạng tốt hơn.
 
+## Danh sách kiểm tra kỹ thuật trước khi đặt hàng
+
+Trước khi chọn máy, thu thập tải thực tế, động cơ lớn nhất, cao độ, nhiệt độ môi trường và logic ATS cần thiết. Máy quá nhỏ sẽ cắt bảo vệ khi tải bậc; máy quá lớn chạy non tải, tạo cặn và lãng phí nhiên liệu. Hãy yêu cầu báo cáo thử tải 1 giờ, không chỉ ảnh plate.
+
+## Nhà máy Dương Châu lắp ráp bộ xuất khẩu thế nào
+
+Mỗi bộ xuất khẩu nhận mạch điều khiển đi dây sẵn, aptomat ắc quy, đệm chống rung và thử áp nước/dầu/nhiên liệu. Máy phát được ghép với moment động cơ để tải bậc không làm tần số tụt. Hồ sơ gồm sơ đồ, lịch bảo dưỡng, tùy chọn điện áp và số seri. Buồng, container hoặc rơ moóc cấu hình tại nhà máy.
+
+## Câu hỏi khi trao đổi
+
+Gửi danh sách tải, sơ đồ một tuyến, mục tiêu ồn, nhiên liệu tự chủ và tiêu chuẩn phích/điện áp địa phương. Chúng tôi sẽ trả lời với khuyến nghị tính đúng công suất, thời gian giao và báo giá tách động cơ, máy phát, buồng, ATS và giám sát.

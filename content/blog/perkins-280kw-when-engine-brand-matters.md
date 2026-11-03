@@ -54,3 +54,15 @@ The single most useful question on a quote: *"If a fuel pump fails next February
 The answer tells you more than the nameplate does. If the answer is "two days, on the shelf," the engine brand on the canopy is probably the right one for your site. If the answer is "six to eight weeks by sea," look again.
 
 We will answer that question openly, because we would rather size the right set now than service the wrong one later.
+
+## Engineering checklist before you order
+
+Before choosing a generator, collect the exact connected load, the largest motor kW, the site altitude, ambient temperature and the ATS logic you need. A unit sized too small will trip under step load; a unit sized too large will run at low load, wet-stack and waste fuel. Ask the supplier for a one-hour factory load test report, not just a nameplate photo.
+
+## How our Yangzhou factory assembles export sets
+
+Every export set receives pre-wired control circuits, battery breakers, anti-vibration mounts and a water-oil-fuel pressure test. The alternator is matched to engine torque so step loads do not drag the frequency down. Documentation includes wiring diagrams, maintenance schedule, voltage options and serial-number records. If you need a silent canopy, container or mobile trailer, those are configured at the factory, not improvised on site.
+
+## Questions to ask on the call
+
+Send the load list, single-line diagram, noise target, fuel autonomy and local plug/voltage standard. We will reply with a sized recommendation, lead time and a quotation that separates engine, alternator, enclosure, ATS and optional monitoring.
