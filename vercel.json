@@ -1,5 +1,6 @@
 {
   "outputDirectory": "out",
+  "trailingSlash": true,
   "redirects": [
     {
       "source": "/",
@@ -64,11 +65,6 @@
     {
       "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path*/index.txt/",
       "destination": "/:locale/:path*/",
-      "permanent": true
-    },
-    {
-      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path((?!.*\\.txt$).*)",
-      "destination": "/:locale/:path/",
       "permanent": true
     }
   ],
