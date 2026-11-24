@@ -62,9 +62,34 @@
       "permanent": true
     },
     {
-      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path",
+      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path*/index.txt/",
+      "destination": "/:locale/:path*/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path((?!.*\\.txt$).*)",
       "destination": "/:locale/:path/",
       "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/:locale(en|ar|de|es|fr|id|pt|ru|th|tr|vi)/:path*/index.txt",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive"
+        }
+      ]
+    },
+    {
+      "source": "/index.txt",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive"
+        }
+      ]
     }
   ]
 }
