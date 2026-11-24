@@ -1,6 +1,5 @@
 {
   "outputDirectory": "out",
-  "trailingSlash": true,
   "redirects": [
     {
       "source": "/",
