@@ -1851,6 +1851,17 @@
         "Digital controller with electric start",
         "Kaichen export assembly, Yangzhou factory"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Mobile Silent Diesel Generator",
+      "description": "Cummins 100 kW mobile silent diesel generator set assembled at our Yangzhou factory, supplied under the Mobile Silent Generators family for export standby and prime power projects.",
+      "features": [
+        "Cummins QSB5.9 engine series, 1500 rpm, 50Hz, 3-phase",
+        "100 kW prime power, 400/230V",
+        "Brushless self-excited alternator with AVR",
+        "Digital controller with electric start",
+        "Trailer-mounted silent canopy, Yangzhou factory assembly"
+      ]
     }
   },
   "aboutExtended": {

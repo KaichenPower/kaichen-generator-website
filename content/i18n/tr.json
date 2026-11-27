@@ -1880,6 +1880,17 @@
         "Elektrik marşlı dijital kontrol cihazı",
         "Kaichen ihracat montajı, Yangzhou fabrikası"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Mobil sessiz dizel jeneratör",
+      "description": "100 kW Cummins mobil sessiz dizel jeneratör seti Yangzhou fabrikamızda üretilir, ihracat yedek ve ana güç projeleri için sunulur.",
+      "features": [
+        "Cummins QSB5.9 motoru, 1500 d/dk, 50 Hz, 3 faz",
+        "Ana güç 100 kW, 400/230 V",
+        "AVR özellikli fırçasız kendinden uyarmalı alternatör",
+        "Elektrik marşlı dijital kontrol cihazı",
+        "Römork üzerinde sessiz kabin, Yangzhou fabrikası montajı"
+      ]
     }
   },
   "cookie": {

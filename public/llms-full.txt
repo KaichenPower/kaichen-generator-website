@@ -40,6 +40,7 @@ This file lists the current exported product catalog and main page inventory for
 
 ## mobile-silent
 
+- Cummins 100kW Mobile Silent Diesel Generator — 137.5 kVA standby, image /images/products/cummins-100kw-mobile-silent-diesel-generator.png
 - Kaichen 150-300kW Mobile Silent Diesel Generator — 375 kVA standby, image /images/products/kaichen-150-300kw-mobile-silent-diesel-generator.jpg
 - Kaichen 30-50kW Mobile Silent Diesel Generator — 62 kVA standby, image /images/products/kaichen-30-50kw-mobile-silent-diesel-generator.jpg
 - Kaichen 300-500kW Mobile Silent Diesel Generator — 625 kVA standby, image /images/products/kaichen-300-500kw-mobile-silent-diesel-generator.jpg

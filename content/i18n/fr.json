@@ -1880,6 +1880,17 @@
         "Contrôleur numérique avec démarrage électrique",
         "Assemblage export Kaichen, usine de Yangzhou"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Groupe mobile silencieux",
+      "description": "Groupe diesel mobile silencieux Cummins de 100 kW assemblé dans notre usine de Yangzhou, pour secours et puissance principale à l’export.",
+      "features": [
+        "Moteur Cummins QSB5.9, 1500 tr/min, 50 Hz, triphasé",
+        "Puissance principale 100 kW, 400/230 V",
+        "Alternateur sans balais auto-excité avec AVR",
+        "Contrôleur numérique avec démarrage électrique",
+        "Capot silencieux sur remorque, assemblage usine de Yangzhou"
+      ]
     }
   },
   "cookie": {

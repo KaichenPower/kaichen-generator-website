@@ -1,0 +1,26 @@
+source: knowledge_base
+name: Cummins 100kW Mobile Silent Diesel Generator
+image: /images/products/cummins-100kw-mobile-silent-diesel-generator.png
+brand: Cummins
+powerKVA: 137.5
+type: mobile
+category: mobile-silent
+description: Cummins 100 kW mobile silent diesel generator set assembled at our Yangzhou factory, supplied under the Mobile Silent Generators family for export standby and prime power projects.
+features:
+  - Cummins QSB5.9 engine series, 1500 rpm, 50Hz, 3-phase
+  - 100 kW prime power, 400/230V
+  - Brushless self-excited alternator with AVR
+  - Digital controller with electric start
+  - Trailer-mounted silent canopy, Yangzhou factory assembly
+specs:
+  Prime power: 100 kW / 125 kVA
+  Standby power: 110 kW / 137.5 kVA
+  Engine: Cummins QSB5.9-G3 / QSB5.9-G30 / B5.9CS4-GT1
+  Alternator: Brushless self-excited
+  Voltage: 400/230V, 50Hz, 3-phase
+  Control: Digital controller
+  Starting: Electric start, 24V
+  Cooling: Water-cooled radiator
+  Noise level: ≤ 78 dB(A) @ 7m
+  Trailer: Single-axle trailer, road-ready
+  Fuel tank: 300L built-in

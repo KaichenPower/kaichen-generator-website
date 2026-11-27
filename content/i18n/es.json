@@ -1880,6 +1880,17 @@
         "Controlador digital con arranque eléctrico",
         "Montaje de exportación Kaichen, fábrica de Yangzhou"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Generador móvil silencioso",
+      "description": "Grupo diésel móvil silencioso Cummins de 100 kW fabricado en nuestra fábrica de Yangzhou, para reserva y potencia principal de exportación.",
+      "features": [
+        "Motor Cummins QSB5.9, 1500 rpm, 50 Hz, trifásico",
+        "Potencia principal 100 kW, 400/230 V",
+        "Alternador sin escobillas autoexcitado con AVR",
+        "Controlador digital con arranque eléctrico",
+        "Carrocería silenciosa sobre remolque, fábrica de Yangzhou"
+      ]
     }
   },
   "cookie": {

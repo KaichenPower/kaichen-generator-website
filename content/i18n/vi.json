@@ -1880,6 +1880,17 @@
         "Bộ điều khiển số khởi động điện",
         "Lắp ráp xuất khẩu Kaichen, nhà máy Yangzhou"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Máy phát diesel di động chống ồn",
+      "description": "Tổ máy phát diesel di động chống ồn Cummins 100 kW lắp ráp tại nhà máy Yangzhou, dùng cho dự án điện dự phòng và chính xuất khẩu.",
+      "features": [
+        "Động cơ Cummins QSB5.9, 1500 vòng/phút, 50Hz, 3 pha",
+        "Công suất chính 100 kW, 400/230V",
+        "Máy phát không chổi than tự kích thích kèm AVR",
+        "Bộ điều khiển số khởi động điện",
+        "Vỏ chống ồn trên rơ moóc, lắp ráp nhà máy Yangzhou"
+      ]
     }
   },
   "cookie": {

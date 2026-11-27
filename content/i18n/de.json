@@ -1880,6 +1880,17 @@
         "Digitaler Controller mit Elektrostart",
         "Kaichen-Exportmontage, Werk Yangzhou"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Mobiler schallgedämmter Dieselgenerator",
+      "description": "Cummins-Dieselgenerator, 100 kW, mobil und schallgedämmt, montiert in unserem Werk in Yangzhou für Export-Notstrom und Dauerbetrieb.",
+      "features": [
+        "Cummins QSB5.9-Motor, 1500 U/min, 50 Hz, dreiphasig",
+        "Dauerleistung 100 kW, 400/230 V",
+        "Bürstenloser selbsterregter Generator mit AVR",
+        "Digitaler Controller mit Elektrostart",
+        "Schallgedämmter Aufbau auf Anhänger, Werk Yangzhou"
+      ]
     }
   },
   "cookie": {

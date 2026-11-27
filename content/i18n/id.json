@@ -1880,6 +1880,17 @@
         "Kontrol digital dengan starter elektrik",
         "Rakitan ekspor Kaichen, pabrik Yangzhou"
       ]
+    },
+    "cummins-100kw-mobile-silent-diesel-generator": {
+      "name": "Cummins 100 kW Genset diesel mobil senyap",
+      "description": "Genset diesel mobil senyap Cummins 100 kW dirakit di pabrik Yangzhou kami, untuk daya cadangan dan daya utama ekspor.",
+      "features": [
+        "Mesin Cummins QSB5.9, 1500 rpm, 50Hz, 3 fasa",
+        "Daya utama 100 kW, 400/230V",
+        "Alternator tanpa sikat self-excited dengan AVR",
+        "Kontrol digital dengan starter elektrik",
+        "Kabinet senyap di trailer, rakitan pabrik Yangzhou"
+      ]
     }
   },
   "cookie": {
